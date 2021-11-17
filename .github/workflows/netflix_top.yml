@@ -1,0 +1,31 @@
+name: Scrape Netflix Top 10
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '13 13 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch weekly data by world
+      run: |-
+        curl 'https://top10.netflix.com/data/all-weeks-global.tsv' -H 'Accept: */*' --compressed > all-weeks-global.tsv
+    - name: Fetch weekly data by country
+      run: |-
+        curl 'https://top10.netflix.com/data/all-weeks-countries.tsv' -H 'Accept: */*' --compressed > all-weeks-countries.tsv
+    - name: Fetch most popular with hours watched
+      run: |-
+        curl 'https://top10.netflix.com/data/most-popular.tsv' -H 'Accept: */*' --compressed > most-popular.tsv
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date --utc "+%Y-%m-%d %H:%M:%SZ")
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
