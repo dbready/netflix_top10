@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative_weeks_in_top_10
+2022-07-10	Films (English)	1	The Sea Beast	N/A	33520000	1
+2022-07-10	Films (English)	2	Girl in the Picture	N/A	28380000	1
+2022-07-10	Films (English)	3	The Man from Toronto	N/A	24380000	3
+2022-07-10	Films (English)	4	Sing 2	N/A	16580000	3
+2022-07-10	Films (English)	5	American Assassin	N/A	13360000	1
+2022-07-10	Films (English)	6	Grand Isle	N/A	11460000	1
+2022-07-10	Films (English)	7	Hello, Goodbye, and Everything in Between	N/A	10260000	1
+2022-07-10	Films (English)	8	Hustle	N/A	9400000	5
+2022-07-10	Films (English)	9	Mean Girls	N/A	8110000	1
+2022-07-10	Films (English)	10	The Dark Knight Rises	N/A	7750000	1
+2022-07-10	Films (Non-English)	1	Dangerous Liaisons	N/A	11010000	1
+2022-07-10	Films (Non-English)	2	Major (Hindi)	N/A	5990000	1
+2022-07-10	Films (Non-English)	3	Tadeo Jones 2: El secreto del Rey Midas	N/A	4300000	2
+2022-07-10	Films (Non-English)	4	Incantation	N/A	3240000	1
+2022-07-10	Films (Non-English)	5	RRR (Hindi)	N/A	2850000	8
+2022-07-10	Films (Non-English)	6	Leon's Heart	N/A	2300000	2
+2022-07-10	Films (Non-English)	7	Blasted	N/A	2170000	2
+2022-07-10	Films (Non-English)	8	Major (Telugu)	N/A	2000000	1
+2022-07-10	Films (Non-English)	9	Operation Romeo	N/A	1940000	1
+2022-07-10	Films (Non-English)	10	Bhool Bhulaiyaa 2	N/A	1850000	4
+2022-07-10	TV (English)	1	Stranger Things	Stranger Things 4	188190000	7
+2022-07-10	TV (English)	2	Stranger Things	N/A	45220000	8
+2022-07-10	TV (English)	3	The Umbrella Academy	The Umbrella Academy: Season 3	43840000	3
+2022-07-10	TV (English)	4	Stranger Things	Stranger Things 2	41110000	7
+2022-07-10	TV (English)	5	Stranger Things	Stranger Things 3	36590000	7
+2022-07-10	TV (English)	6	Manifest	Manifest: Season 1	28360000	10
+2022-07-10	TV (English)	7	The Umbrella Academy	The Umbrella Academy: Season 1	18180000	3
+2022-07-10	TV (English)	8	The Umbrella Academy	The Umbrella Academy: Season 2	14230000	2
+2022-07-10	TV (English)	9	Peaky Blinders	Peaky Blinders: Season 6	13060000	5
+2022-07-10	TV (English)	10	Alone	Alone: Season 8	11440000	1
+2022-07-10	TV (Non-English)	1	Extraordinary Attorney Woo	Extraordinary Attorney Woo: Season 1	23950000	1
+2022-07-10	TV (Non-English)	2	Control Z	Control Z: Season 3	18080000	1
+2022-07-10	TV (Non-English)	3	Money Heist: Korea - Joint Economic Area	Money Heist: Korea - Joint Economic Area: Season 1	15630000	3
+2022-07-10	TV (Non-English)	4	The Longest Night	The Longest Night: Season 1	12720000	1
+2022-07-10	TV (Non-English)	5	Alchemy of Souls	Alchemy of Souls: Season 1	12310000	2
+2022-07-10	TV (Non-English)	6	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	12190000	30
+2022-07-10	TV (Non-English)	7	Café con aroma de mujer	Café con aroma de mujer: Season 1	11490000	21
+2022-07-10	TV (Non-English)	8	BASTARD‼ -Heavy Metal, Dark Fantasy-	BASTARD‼ -Heavy Metal, Dark Fantasy-: Season 1	9320000	2
+2022-07-10	TV (Non-English)	9	Ghost Doctor	N/A	7650000	2
+2022-07-10	TV (Non-English)	10	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	7580000	5
 2022-07-03	Films (English)	1	The Man from Toronto	N/A	62640000	2
 2022-07-03	Films (English)	2	Sing 2	N/A	24080000	2
 2022-07-03	Films (English)	3	Love & Gelato	N/A	18900000	2
@@ -35,7 +75,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-07-03	TV (Non-English)	4	Intimacy	Intimacy: Season 1	10800000	4
 2022-07-03	TV (Non-English)	5	Alchemy of Souls	Alchemy of Souls: Season 1	9920000	1
 2022-07-03	TV (Non-English)	6	Ghost Doctor	N/A	9870000	1
-2022-07-03	TV (Non-English)	7	Malverde, El Santo Patron	N/A	9630000	4
+2022-07-03	TV (Non-English)	7	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	9630000	4
 2022-07-03	TV (Non-English)	8	BASTARD‼ -Heavy Metal, Dark Fantasy-	BASTARD‼ -Heavy Metal, Dark Fantasy-: Season 1	8960000	1
 2022-07-03	TV (Non-English)	9	Money Heist	Money Heist: Part 1	8570000	8
 2022-07-03	TV (Non-English)	10	Queen	Queen: Season 1	7400000	1
@@ -72,7 +112,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-06-26	TV (Non-English)	1	Money Heist: Korea - Joint Economic Area	Money Heist: Korea - Joint Economic Area: Season 1	33740000	1
 2022-06-26	TV (Non-English)	2	Intimacy	Intimacy: Season 1	16560000	3
 2022-06-26	TV (Non-English)	3	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	12570000	28
-2022-06-26	TV (Non-English)	4	Malverde, El Santo Patron	N/A	11590000	3
+2022-06-26	TV (Non-English)	4	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	11590000	3
 2022-06-26	TV (Non-English)	5	Café con aroma de mujer	Café con aroma de mujer: Season 1	10820000	19
 2022-06-26	TV (Non-English)	6	The War Next-door	The War Next-door: Season 2	10150000	2
 2022-06-26	TV (Non-English)	7	She	She: Season 2	9490000	1
@@ -111,7 +151,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-06-19	TV (English)	10	Peaky Blinders	Peaky Blinders: Season 1	16420000	1
 2022-06-19	TV (Non-English)	1	Intimacy	Intimacy: Season 1	30210000	2
 2022-06-19	TV (Non-English)	2	Our Blues	Our Blues: Season 1	15000000	8
-2022-06-19	TV (Non-English)	3	Malverde, El Santo Patron	N/A	12470000	2
+2022-06-19	TV (Non-English)	3	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	12470000	2
 2022-06-19	TV (Non-English)	4	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	11480000	27
 2022-06-19	TV (Non-English)	5	Maldivas	Maldivas: Season 1	11300000	1
 2022-06-19	TV (Non-English)	6	Café con aroma de mujer	Café con aroma de mujer: Season 1	9760000	18
@@ -154,7 +194,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-06-12	TV (Non-English)	3	The Perfect Mother	The Perfect Mother: Season 1	16150000	2
 2022-06-12	TV (Non-English)	4	Intimacy	Intimacy: Season 1	15900000	1
 2022-06-12	TV (Non-English)	5	Our Blues	Our Blues: Season 1	14910000	7
-2022-06-12	TV (Non-English)	6	Malverde, El Santo Patron	N/A	12370000	1
+2022-06-12	TV (Non-English)	6	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	12370000	1
 2022-06-12	TV (Non-English)	7	Two Summers	Two Summers: Season 1	12210000	1
 2022-06-12	TV (Non-English)	8	My Liberation Notes	My Liberation Notes: Season 1	10050000	4
 2022-06-12	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9680000	26
@@ -854,7 +894,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-02-06	Films (Non-English)	3	My Father's Violin	N/A	4840000	3
 2022-02-06	Films (Non-English)	4	Looop Lapeta	N/A	2460000	1
 2022-02-06	Films (Non-English)	5	Lost Bullet	N/A	1570000	3
-2022-02-06	Films (Non-English)	6	Perfect Strangers	N/A	1370000	3
+2022-02-06	Films (Non-English)	6	أصحاب ...ولا أعزّ	N/A	1370000	3
 2022-02-06	Films (Non-English)	7	Amandla	N/A	1370000	3
 2022-02-06	Films (Non-English)	8	How I Fell in Love with a Gangster	N/A	1270000	5
 2022-02-06	Films (Non-English)	9	Fierce	N/A	1250000	2
@@ -891,7 +931,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-01-30	Films (English)	10	A Perfect Enemy	N/A	4870000	1
 2022-01-30	Films (Non-English)	1	My Father's Violin	N/A	12380000	2
 2022-01-30	Films (Non-English)	2	Amandla	N/A	7990000	2
-2022-01-30	Films (Non-English)	3	Perfect Strangers	N/A	4690000	2
+2022-01-30	Films (Non-English)	3	أصحاب ...ولا أعزّ	N/A	4690000	2
 2022-01-30	Films (Non-English)	4	Shyam Singha Roy	N/A	2880000	2
 2022-01-30	Films (Non-English)	5	Lost Bullet	N/A	2630000	2
 2022-01-30	Films (Non-English)	6	How I Fell in Love with a Gangster	N/A	2610000	4
@@ -933,7 +973,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-01-23	Films (Non-English)	2	Photocopier	N/A	6920000	2
 2022-01-23	Films (Non-English)	3	Shyam Singha Roy	N/A	3590000	1
 2022-01-23	Films (Non-English)	4	My Father's Violin	N/A	3170000	1
-2022-01-23	Films (Non-English)	5	Perfect Strangers	N/A	2670000	1
+2022-01-23	Films (Non-English)	5	أصحاب ...ولا أعزّ	N/A	2670000	1
 2022-01-23	Films (Non-English)	6	Rogue City	N/A	2450000	1
 2022-01-23	Films (Non-English)	7	Amandla	N/A	2380000	1
 2022-01-23	Films (Non-English)	8	Lost Bullet	N/A	2050000	1
