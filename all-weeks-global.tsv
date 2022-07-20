@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative_weeks_in_top_10
+2022-07-17	Films (English)	1	The Sea Beast	N/A	68110000	2
+2022-07-17	Films (English)	2	Persuasion	N/A	28720000	1
+2022-07-17	Films (English)	3	Girl in the Picture	N/A	23590000	2
+2022-07-17	Films (English)	4	The Man from Toronto	N/A	13500000	4
+2022-07-17	Films (English)	5	Sing 2	N/A	12220000	4
+2022-07-17	Films (English)	6	12 Strong	N/A	11810000	1
+2022-07-17	Films (English)	7	Spider-Man: No Way Home	N/A	8080000	1
+2022-07-17	Films (English)	8	CHIPS	N/A	7480000	1
+2022-07-17	Films (English)	9	Hustle	N/A	6450000	6
+2022-07-17	Films (English)	10	Hello, Goodbye, and Everything in Between	N/A	6170000	2
+2022-07-17	Films (Non-English)	1	Valley of the Dead	N/A	17840000	1
+2022-07-17	Films (Non-English)	2	Dangerous Liaisons	N/A	16230000	2
+2022-07-17	Films (Non-English)	3	Incantation	N/A	10850000	2
+2022-07-17	Films (Non-English)	4	Under the Amalfi Sun	N/A	6470000	1
+2022-07-17	Films (Non-English)	5	My Daughter’s Killer	N/A	6420000	1
+2022-07-17	Films (Non-English)	6	Ante Sundaraniki	N/A	3270000	1
+2022-07-17	Films (Non-English)	7	Love Goals	N/A	3250000	1
+2022-07-17	Films (Non-English)	8	Mirreyes vs Godinez	N/A	2720000	1
+2022-07-17	Films (Non-English)	9	RRR (Hindi)	N/A	2520000	9
+2022-07-17	Films (Non-English)	10	Major (Hindi)	N/A	2170000	2
+2022-07-17	TV (English)	1	Stranger Things	Stranger Things 4	102330000	8
+2022-07-17	TV (English)	2	Resident Evil	Resident Evil: Season 1	72670000	1
+2022-07-17	TV (English)	3	Manifest	Manifest: Season 1	38200000	11
+2022-07-17	TV (English)	4	Stranger Things	Stranger Things 2	33790000	8
+2022-07-17	TV (English)	5	Stranger Things	Stranger Things 3	33050000	8
+2022-07-17	TV (English)	6	Stranger Things	N/A	31540000	9
+2022-07-17	TV (English)	7	The Umbrella Academy	The Umbrella Academy: Season 3	27250000	4
+2022-07-17	TV (English)	8	Kung Fu Panda: The Dragon Knight	Kung Fu Panda: The Dragon Knight: Season 1	21180000	1
+2022-07-17	TV (English)	9	Boo, Bitch	Boo, Bitch: Limited Series	20610000	1
+2022-07-17	TV (English)	10	Alone	Alone: Season 8	15590000	2
+2022-07-17	TV (Non-English)	1	Extraordinary Attorney Woo	Extraordinary Attorney Woo: Season 1	45580000	2
+2022-07-17	TV (Non-English)	2	The Longest Night	The Longest Night: Season 1	24200000	2
+2022-07-17	TV (Non-English)	3	Sintonia	Sintonia: Season 3	23020000	1
+2022-07-17	TV (Non-English)	4	Alba	Alba: Season 1	19920000	1
+2022-07-17	TV (Non-English)	5	Alchemy of Souls	Alchemy of Souls: Season 1	14640000	3
+2022-07-17	TV (Non-English)	6	Control Z	Control Z: Season 3	13090000	2
+2022-07-17	TV (Non-English)	7	Café con aroma de mujer	Café con aroma de mujer: Season 1	11210000	22
+2022-07-17	TV (Non-English)	8	Remarriage & Desires	Remarriage & Desires: Season 1	11170000	1
+2022-07-17	TV (Non-English)	9	She Would Never Know	N/A	10420000	1
+2022-07-17	TV (Non-English)	10	Capitani	Capitani: Season 2	9480000	1
 2022-07-10	Films (English)	1	The Sea Beast	N/A	33520000	1
 2022-07-10	Films (English)	2	Girl in the Picture	N/A	28380000	1
 2022-07-10	Films (English)	3	The Man from Toronto	N/A	24380000	3
@@ -38,7 +78,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-07-10	TV (Non-English)	7	Café con aroma de mujer	Café con aroma de mujer: Season 1	11490000	21
 2022-07-10	TV (Non-English)	8	BASTARD‼ -Heavy Metal, Dark Fantasy-	BASTARD‼ -Heavy Metal, Dark Fantasy-: Season 1	9320000	2
 2022-07-10	TV (Non-English)	9	Ghost Doctor	N/A	7650000	2
-2022-07-10	TV (Non-English)	10	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	7580000	5
+2022-07-10	TV (Non-English)	10	Malverde, el santo patrón	Malverde, el santo patrón: Season 1	7580000	5
 2022-07-03	Films (English)	1	The Man from Toronto	N/A	62640000	2
 2022-07-03	Films (English)	2	Sing 2	N/A	24080000	2
 2022-07-03	Films (English)	3	Love & Gelato	N/A	18900000	2
@@ -75,7 +115,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-07-03	TV (Non-English)	4	Intimacy	Intimacy: Season 1	10800000	4
 2022-07-03	TV (Non-English)	5	Alchemy of Souls	Alchemy of Souls: Season 1	9920000	1
 2022-07-03	TV (Non-English)	6	Ghost Doctor	N/A	9870000	1
-2022-07-03	TV (Non-English)	7	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	9630000	4
+2022-07-03	TV (Non-English)	7	Malverde, el santo patrón	Malverde, el santo patrón: Season 1	9630000	4
 2022-07-03	TV (Non-English)	8	BASTARD‼ -Heavy Metal, Dark Fantasy-	BASTARD‼ -Heavy Metal, Dark Fantasy-: Season 1	8960000	1
 2022-07-03	TV (Non-English)	9	Money Heist	Money Heist: Part 1	8570000	8
 2022-07-03	TV (Non-English)	10	Queen	Queen: Season 1	7400000	1
@@ -112,7 +152,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-06-26	TV (Non-English)	1	Money Heist: Korea - Joint Economic Area	Money Heist: Korea - Joint Economic Area: Season 1	33740000	1
 2022-06-26	TV (Non-English)	2	Intimacy	Intimacy: Season 1	16560000	3
 2022-06-26	TV (Non-English)	3	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	12570000	28
-2022-06-26	TV (Non-English)	4	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	11590000	3
+2022-06-26	TV (Non-English)	4	Malverde, el santo patrón	Malverde, el santo patrón: Season 1	11590000	3
 2022-06-26	TV (Non-English)	5	Café con aroma de mujer	Café con aroma de mujer: Season 1	10820000	19
 2022-06-26	TV (Non-English)	6	The War Next-door	The War Next-door: Season 2	10150000	2
 2022-06-26	TV (Non-English)	7	She	She: Season 2	9490000	1
@@ -151,7 +191,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-06-19	TV (English)	10	Peaky Blinders	Peaky Blinders: Season 1	16420000	1
 2022-06-19	TV (Non-English)	1	Intimacy	Intimacy: Season 1	30210000	2
 2022-06-19	TV (Non-English)	2	Our Blues	Our Blues: Season 1	15000000	8
-2022-06-19	TV (Non-English)	3	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	12470000	2
+2022-06-19	TV (Non-English)	3	Malverde, el santo patrón	Malverde, el santo patrón: Season 1	12470000	2
 2022-06-19	TV (Non-English)	4	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	11480000	27
 2022-06-19	TV (Non-English)	5	Maldivas	Maldivas: Season 1	11300000	1
 2022-06-19	TV (Non-English)	6	Café con aroma de mujer	Café con aroma de mujer: Season 1	9760000	18
@@ -194,7 +234,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	cumulative
 2022-06-12	TV (Non-English)	3	The Perfect Mother	The Perfect Mother: Season 1	16150000	2
 2022-06-12	TV (Non-English)	4	Intimacy	Intimacy: Season 1	15900000	1
 2022-06-12	TV (Non-English)	5	Our Blues	Our Blues: Season 1	14910000	7
-2022-06-12	TV (Non-English)	6	Malverde, el santo patrón	Malverde, el santo patrón: Malverde, El Santo Patron	12370000	1
+2022-06-12	TV (Non-English)	6	Malverde, el santo patrón	Malverde, el santo patrón: Season 1	12370000	1
 2022-06-12	TV (Non-English)	7	Two Summers	Two Summers: Season 1	12210000	1
 2022-06-12	TV (Non-English)	8	My Liberation Notes	My Liberation Notes: Season 1	10050000	4
 2022-06-12	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9680000	26
