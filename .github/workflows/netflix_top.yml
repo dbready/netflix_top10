@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch weekly data by world
       run: |-
-        curl 'https://www.netflix.com/tudum/top10/data/all-weeks-global.tsv -H 'Accept: */*' --compressed > all-weeks-global.tsv
+        curl 'https://www.netflix.com/tudum/top10/data/all-weeks-global.tsv' -H 'Accept: */*' --compressed > all-weeks-global.tsv
     - name: Fetch weekly data by country
       run: |-
         curl 'https://www.netflix.com/tudum/top10/data/all-weeks-countries.tsv' -H 'Accept: */*' --compressed > all-weeks-countries.tsv
