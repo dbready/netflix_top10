@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-07-30	Films (English)	1	Hidden Strike	N/A	37800000	1.7167	22000000	1	false	
+2023-07-30	Films (English)	2	Miraculous: Ladybug & Cat Noir, The Movie	N/A	20800000	1.7	12200000	1	false	
+2023-07-30	Films (English)	3	They Cloned Tyrone	N/A	23000000	2.0667	11100000	2	false	
+2023-07-30	Films (English)	4	Happiness for Beginners	N/A	16500000	1.7667	9300000	1	false	
+2023-07-30	Films (English)	5	Missing: The Lucie Blackman Case	N/A	10400000	1.3667	7600000	1	false	
+2023-07-30	Films (English)	6	The Out-Laws	N/A	8900000	1.6167	5500000	4	false	
+2023-07-30	Films (English)	7	Unknown: Cosmic Time Machine	N/A	5600000	1.0833	5200000	1	false	
+2023-07-30	Films (English)	8	Puss in Boots: The Last Wish	N/A	7200000	1.7	4200000	3	false	
+2023-07-30	Films (English)	9	The Deepest Breath	N/A	6500000	1.8333	3500000	2	false	
+2023-07-30	Films (English)	10	Extraction 2	N/A	6000000	2.0667	2900000	7	false	
+2023-07-30	Films (Non-English)	1	Paradise	N/A	16100000	1.9833	8100000	1	false	
+2023-07-30	Films (Non-English)	2	Bird Box Barcelona	N/A	11200000	1.8667	6000000	3	false	
+2023-07-30	Films (Non-English)	3	Dream	N/A	9900000	2.0833	4800000	1	false	
+2023-07-30	Films (Non-English)	4	The (Almost) Legends	N/A	4700000	1.6167	2900000	2	false	
+2023-07-30	Films (Non-English)	5	The Lady of Silence: The Mataviejitas Murders	N/A	3900000	1.85	2100000	1	false	
+2023-07-30	Films (Non-English)	6	Love Tactics 2	N/A	2900000	1.65	1800000	3	false	
+2023-07-30	Films (Non-English)	7	Kingdom2: Far and Away	N/A	3300000	2.2333	1500000	3	false	
+2023-07-30	Films (Non-English)	8	Kingdom	N/A	3300000	2.2333	1500000	2	false	
+2023-07-30	Films (Non-English)	9	Maamannan (Tamil)	N/A	3200000	2.5833	1200000	1	false	
+2023-07-30	Films (Non-English)	10	Gold Brick	N/A	1700000	1.6167	1100000	4	false	
+2023-07-30	TV (English)	1	The Witcher	The Witcher: Season 3	59000000	7.6	7800000	5	false	
+2023-07-30	TV (English)	2	Sweet Magnolias	Sweet Magnolias: Season 3	45900000	8.5833	5300000	2	false	
+2023-07-30	TV (English)	3	Too Hot to Handle	Too Hot to Handle: Season 5	26300000	8.25	3200000	3	false	
+2023-07-30	TV (English)	4	The Lincoln Lawyer	The Lincoln Lawyer: Season 2	12600000	4.2333	3000000	4	false	
+2023-07-30	TV (English)	5	Survival of the Thickest	Survival of the Thickest: Season 1	8000000	3.6	2200000	3	false	
+2023-07-30	TV (English)	6	Barbie Life in the Dreamhouse	Barbie Life in the Dreamhouse: Season 1	9100000	4.8	1900000	1	false	
+2023-07-30	TV (English)	7	Quarterback	Quarterback: Season 1	11000000	6.4333	1700000	3	false	
+2023-07-30	TV (English)	8	Fatal Seduction	Fatal Seduction: Season 1	6400000	3.7667	1700000	4	false	
+2023-07-30	TV (English)	9	Mark Normand: Soup to Nuts	N/A	1500000	0.8833	1700000	1	false	
+2023-07-30	TV (English)	10	CoComelon	CoComelon: Season 8	1800000	1.0667	1700000	1	false	
+2023-07-30	TV (Non-English)	1	Sintonia	Sintonia: Season 4	42200000	6.5667	6400000	1	false	
+2023-07-30	TV (Non-English)	2	Baki Hanma	Baki Hanma: Season 2	33000000	5.5333	6000000	1	false	
+2023-07-30	TV (Non-English)	3	King the Land	King the Land: Season 1	64500000	0	4000000	7	true	"[{""episodesLaunched"":13,""countryList"":[""WF"",""NP"",""NZ"",""BN"",""JP"",""KI"",""KR"",""NF"",""TK"",""TO"",""CK"",""FJ"",""ID"",""NC"",""TL"",""AU"",""BD"",""MO"",""PN"",""LK"",""SB"",""VN"",""PF"",""PH"",""CX"",""MM"",""SG"",""PG"",""TH"",""HK"",""MV"",""NR"",""VU"",""CC"",""MY"",""BT"",""KH"",""TW"",""WS"",""LA"",""MN"",""NU"",""TV"",""IN"",""UM""]},{""episodesLaunched"":14,""countryList"":[""BY"",""FM"",""GG"",""JE"",""MZ"",""VE"",""BJ"",""BW"",""ET"",""GB"",""HU"",""KE"",""PY"",""SR"",""TT"",""BH"",""CF"",""CW"",""IL"",""IT"",""SC"",""YE"",""AL"",""GI"",""KZ"",""MS"",""OM"",""TJ"",""UY"",""BQ"",""GP"",""GY"",""MP"",""MT"",""PK"",""SH"",""TN"",""UG"",""AF"",""AM"",""AR"",""CL"",""LV"",""ME"",""TC"",""TD"",""TG"",""DM"",""GE"",""HT"",""IE"",""KG"",""KN"",""SX"",""VG"",""YT"",""AQ"",""CA"",""CR"",""EH"",""GQ"",""LB"",""MK"",""RE"",""SA"",""SI"",""VA"",""AG"",""GN"",""IM"",""SE"",""CD"",""FK"",""GW"",""HM"",""MH"",""MQ"",""NI"",""TZ"",""BM"",""BR"",""DE"",""GD"",""SD"",""CO"",""CU"",""KW"",""MF"",""PL"",""ST"",""LU"",""PA"",""PE"",""ZW"",""BB"",""BZ"",""ES"",""IO"",""LC"",""MX"",""RU"",""AT"",""AW"",""BI"",""DK"",""EC"",""GL"",""GM"",""IR"",""IS"",""KM"",""LR"",""MW"",""NE"",""US"",""CI"",""FI"",""FO"",""GR"",""PR"",""PW"",""RS"",""SK"",""UA"",""ZM"",""AI"",""BF"",""CZ"",""FR"",""GA"",""IQ"",""JO"",""MC"",""SM"",""AZ"",""BS"",""GT"",""MD"",""MR"",""PS"",""QA"",""RW"",""SO"",""ZA"",""BA"",""BE"",""CY"",""DJ"",""DZ"",""EE"",""GS"",""LI"",""MA"",""MG"",""NL"",""SZ"",""AD"",""BG"",""ER"",""TM"",""VI"",""CV"",""GF"",""HR"",""LT"",""NO"",""PM"",""SL"",""TR"",""VC"",""AO"",""BL"",""BO"",""PT"",""SS"",""SV"",""UZ"",""AS"",""CH"",""GU"",""HN"",""LS"",""LY"",""MU"",""NA"",""NG"",""RO"",""AE"",""CG"",""CM"",""DO"",""EG"",""GH"",""JM"",""KY"",""ML"",""SN""]}]"
+2023-07-30	TV (Non-English)	4	A Perfect Story	A Perfect Story: Limited Series	11600000	3.6667	3200000	1	false	
+2023-07-30	TV (Non-English)	5	D.P.	D.P.: Season 2	15000000	5.3167	2800000	1	false	
+2023-07-30	TV (Non-English)	6	My Happy Marriage	My Happy Marriage: Season 1	4300000	1.6167	2700000	3	false	
+2023-07-30	TV (Non-English)	7	The Tailor	The Tailor: Season 2	13700000	5.3833	2500000	1	false	
+2023-07-30	TV (Non-English)	8	Burn the House Down	Burn the House Down: Season 1	12800000	6.45	2000000	3	false	
+2023-07-30	TV (Non-English)	9	Zom 100: Bucket List of the Dead	Zom 100: Bucket List of the Dead: Season 1	2100000	1.2	1800000	3	false	
+2023-07-30	TV (Non-English)	10	Jujutsu Kaisen	Jujutsu Kaisen: Season 2	2600000	1.6	1600000	3	false	
 2023-07-23	Films (English)	1	The Out-Laws	N/A	19500000	1.6167	12100000	3	false	
 2023-07-23	Films (English)	2	Unknown: Cave of Bones	N/A	10300000	1.5833	6500000	1	false	
 2023-07-23	Films (English)	3	They Cloned Tyrone	N/A	13100000	2.0667	6300000	1	false	
