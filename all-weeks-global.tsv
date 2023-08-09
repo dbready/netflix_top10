@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-08-06	Films (English)	1	Hidden Strike	N/A	40500000	1.7167	23600000	2	false	
+2023-08-06	Films (English)	2	Happiness for Beginners	N/A	23100000	1.7667	13100000	2	false	
+2023-08-06	Films (English)	3	Miraculous: Ladybug & Cat Noir, The Movie	N/A	21200000	1.7	12500000	2	false	
+2023-08-06	Films (English)	4	Poisoned: The Dirty Truth About Your Food	N/A	7200000	1.4	5100000	1	false	
+2023-08-06	Films (English)	5	Missing: The Lucie Blackman Case	N/A	6900000	1.3667	5000000	2	false	
+2023-08-06	Films (English)	6	Fatale	N/A	8500000	1.7167	5000000	2	false	
+2023-08-06	Films (English)	7	Shark Bait	N/A	5200000	1.4167	3700000	1	false	
+2023-08-06	Films (English)	8	They Cloned Tyrone	N/A	7500000	2.0667	3600000	3	false	
+2023-08-06	Films (English)	9	River Wild	N/A	5200000	1.5167	3400000	1	false	
+2023-08-06	Films (English)	10	Untold: Jake Paul the Problem Child	N/A	3900000	1.2	3300000	1	false	
+2023-08-06	Films (Non-English)	1	Paradise	N/A	30700000	1.9833	15500000	2	false	
+2023-08-06	Films (Non-English)	2	Soulcatcher	N/A	19300000	1.6667	11600000	1	false	
+2023-08-06	Films (Non-English)	3	Zom 100: Bucket List of the Dead	N/A	14200000	2.15	6600000	1	false	
+2023-08-06	Films (Non-English)	4	Dream	N/A	6200000	2.0833	3000000	2	false	
+2023-08-06	Films (Non-English)	5	The Lady of Silence: The Mataviejitas Murders	N/A	3900000	1.85	2100000	2	false	
+2023-08-06	Films (Non-English)	6	Bird Box Barcelona	N/A	3000000	1.8667	1600000	4	false	
+2023-08-06	Films (Non-English)	7	No Ritmo da Fé	N/A	2200000	1.5333	1400000	1	false	
+2023-08-06	Films (Non-English)	8	Big Nunu's Little Heist	N/A	1800000	1.55	1200000	1	false	
+2023-08-06	Films (Non-English)	9	The Murderer	N/A	2300000	2.0167	1100000	1	false	
+2023-08-06	Films (Non-English)	10	Head to Head	N/A	1600000	1.5833	1000000	1	false	
+2023-08-06	TV (English)	1	The Lincoln Lawyer	The Lincoln Lawyer: Season 2	55200000	8.1833	6700000	5	false	
+2023-08-06	TV (English)	2	Heartstopper	Heartstopper: Season 2	28500000	4.7	6100000	1	false	
+2023-08-06	TV (English)	3	The Witcher	The Witcher: Season 3	41400000	7.6	5400000	6	false	
+2023-08-06	TV (English)	4	Sweet Magnolias	Sweet Magnolias: Season 3	24800000	8.5833	2900000	3	false	
+2023-08-06	TV (English)	5	How to Become a Cult Leader	How to Become a Cult Leader: Season 1	7300000	3.2333	2300000	1	false	
+2023-08-06	TV (English)	6	The Lincoln Lawyer	The Lincoln Lawyer: Season 1	17300000	8.3167	2100000	10	false	
+2023-08-06	TV (English)	7	Fatal Seduction	Fatal Seduction: Season 1	13600000	7.2	1900000	5	false	
+2023-08-06	TV (English)	8	Too Hot to Handle	Too Hot to Handle: Season 5	15300000	8.25	1900000	4	false	
+2023-08-06	TV (English)	9	Om Nom Stories	Om Nom Stories: Season 1	1700000	0.9833	1700000	1	false	
+2023-08-06	TV (English)	10	CoComelon	CoComelon: Season 8	1700000	1.0667	1600000	2	false	
+2023-08-06	TV (Non-English)	1	A Perfect Story	A Perfect Story: Limited Series	24900000	3.6667	6800000	2	false	
+2023-08-06	TV (Non-English)	2	The Tailor	The Tailor: Season 2	23000000	5.3833	4300000	2	false	
+2023-08-06	TV (Non-English)	3	King the Land	King the Land: Season 1	66400000	0	3600000	8	true	"[{""episodesLaunched"":15,""countryList"":[""MV"",""IN"",""TL"",""UM"",""AU"",""BD"",""MO"",""PN"",""BN"",""JP"",""KI"",""KR"",""NF"",""TK"",""TO"",""CK"",""FJ"",""ID"",""HK"",""KH"",""PG"",""NP"",""NZ"",""NC"",""LA"",""MN"",""NU"",""TV"",""NR"",""VU"",""PF"",""LK"",""SB"",""VN"",""WF"",""BT"",""TW"",""WS"",""TH"",""PH"",""CX"",""MM"",""SG"",""CC"",""MY""]},{""episodesLaunched"":16,""countryList"":[""AZ"",""GT"",""MD"",""MG"",""MR"",""PS"",""QA"",""RW"",""SO"",""ZA"",""AE"",""CG"",""CM"",""DO"",""EG"",""GH"",""JM"",""KY"",""ML"",""SN"",""AF"",""AM"",""AR"",""CL"",""LV"",""ME"",""TC"",""TD"",""TG"",""VA"",""CF"",""CW"",""IL"",""IT"",""SC"",""YE"",""AI"",""BF"",""CZ"",""FR"",""GA"",""IQ"",""JO"",""MC"",""SM"",""AL"",""ES"",""GI"",""KZ"",""MS"",""OM"",""BB"",""BS"",""BZ"",""IO"",""LC"",""MX"",""RU"",""CO"",""CU"",""KW"",""MF"",""PL"",""ST"",""TJ"",""UY"",""GR"",""LU"",""PA"",""PE"",""SK"",""ZW"",""CV"",""GF"",""HR"",""LT"",""NO"",""PM"",""SL"",""TR"",""VC"",""CD"",""FK"",""GW"",""HM"",""MH"",""MQ"",""NI"",""TZ"",""BJ"",""BW"",""ET"",""GB"",""HU"",""KE"",""PY"",""SR"",""BQ"",""GP"",""GY"",""MP"",""MT"",""PK"",""SH"",""TN"",""UG"",""CI"",""FI"",""FO"",""HN"",""LS"",""PR"",""PW"",""RS"",""UA"",""ZM"",""AS"",""CH"",""GU"",""LY"",""MU"",""NA"",""NG"",""RO"",""BA"",""BE"",""CY"",""DJ"",""DZ"",""EE"",""GS"",""LI"",""MA"",""NL"",""SZ"",""TT"",""AQ"",""CA"",""CR"",""EH"",""GQ"",""LB"",""MK"",""RE"",""SA"",""SI"",""DM"",""GE"",""HT"",""IE"",""KG"",""KN"",""SX"",""VG"",""YT"",""BY"",""FM"",""GG"",""JE"",""MZ"",""VE"",""AO"",""BL"",""BO"",""PT"",""SS"",""SV"",""UZ"",""AT"",""AW"",""BI"",""DK"",""EC"",""GL"",""GM"",""IR"",""IS"",""KM"",""LR"",""MW"",""NE"",""US"",""AG"",""GN"",""IM"",""SE"",""BH"",""BM"",""BR"",""DE"",""GD"",""SD"",""AD"",""BG"",""ER"",""TM"",""VI""]}]"
+2023-08-06	TV (Non-English)	4	Baki Hanma	Baki Hanma: Season 2	19100000	5.5333	3500000	2	false	
+2023-08-06	TV (Non-English)	5	D.P.	D.P.: Season 2	15400000	5.3167	2900000	2	false	
+2023-08-06	TV (Non-English)	6	My Happy Marriage	My Happy Marriage: Season 1	4900000	2.0167	2400000	4	false	
+2023-08-06	TV (Non-English)	7	The Uncanny Counter	The Uncanny Counter: Season 2: Counter Punch	10400000	4.8	2200000	1	false	
+2023-08-06	TV (Non-English)	8	The Tailor	The Tailor: Season 1	9700000	4.75	2000000	4	false	
+2023-08-06	TV (Non-English)	9	Sintonia	Sintonia: Season 4	11500000	6.5667	1800000	2	false	
+2023-08-06	TV (Non-English)	10	Zom 100: Bucket List of the Dead	Zom 100: Bucket List of the Dead: Season 1	2500000	1.6167	1500000	4	false	
 2023-07-30	Films (English)	1	Hidden Strike	N/A	37800000	1.7167	22000000	1	false	
 2023-07-30	Films (English)	2	Miraculous: Ladybug & Cat Noir, The Movie	N/A	20800000	1.7	12200000	1	false	
 2023-07-30	Films (English)	3	They Cloned Tyrone	N/A	23000000	2.0667	11100000	2	false	
@@ -3596,7 +3636,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-11-14	TV (Non-English)	5	My Name	My Name: Season 1	10820000			5	false	
 2021-11-14	TV (Non-English)	6	Where is Marta?	Where is Marta?: Limited Series	8640000			1	false	
 2021-11-14	TV (Non-English)	7	The Five Juanas	The Five Juanas: Season 1	8490000			6	false	
-2021-11-14	TV (Non-English)	8	The Club	The Club: Part 1	7860000			1	false	
+2021-11-14	TV (Non-English)	8	The Club	The Club: Season 1	7860000			1	false	
 2021-11-14	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	7650000			5	false	
 2021-11-14	TV (Non-English)	10	Demon Slayer: Kimetsu no Yaiba	Demon Slayer: Kimetsu no Yaiba: Tanjiro Kamado, Unwavering Resolve Arc	6060000			2	false	
 2021-11-07	Films (English)	1	Army of Thieves	N/A	71610000			2	false	
