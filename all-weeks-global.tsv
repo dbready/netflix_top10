@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-08-20	Films (English)	1	Heart of Stone	N/A	74000000	2.1	35200000	2	false	
+2023-08-20	Films (English)	2	The Monkey King	N/A	13100000	1.6167	8100000	1	false	
+2023-08-20	Films (English)	3	The Pope's Exorcist	N/A	10400000	1.7333	6000000	1	false	
+2023-08-20	Films (English)	4	Half Brothers	N/A	7300000	1.6	4600000	1	false	
+2023-08-20	Films (English)	5	Hidden Strike	N/A	6000000	1.7167	3500000	4	false	
+2023-08-20	Films (English)	6	Miraculous: Ladybug & Cat Noir, The Movie	N/A	5900000	1.7	3500000	4	false	
+2023-08-20	Films (English)	7	What Men Want	N/A	6700000	1.95	3400000	2	false	
+2023-08-20	Films (English)	8	Despicable Me 2	N/A	5500000	1.6333	3400000	11	false	
+2023-08-20	Films (English)	9	Untold: Hall of Shame	N/A	3900000	1.3	3000000	1	false	
+2023-08-20	Films (English)	10	Untold: Johnny Football	N/A	3400000	1.2	2800000	2	false	
+2023-08-20	Films (Non-English)	1	A Life Too Short: The Isabella Nardoni Case	N/A	9900000	1.75	5700000	1	false	
+2023-08-20	Films (Non-English)	2	Paradise	N/A	7100000	1.9833	3600000	4	false	
+2023-08-20	Films (Non-English)	3	10 Days of a Bad Man	N/A	6500000	2.0667	3100000	1	false	
+2023-08-20	Films (Non-English)	4	Adipurush	N/A	8200000	2.9667	2800000	2	false	
+2023-08-20	Films (Non-English)	5	Zom 100: Bucket List of the Dead	N/A	4100000	2.15	1900000	3	false	
+2023-08-20	Films (Non-English)	6	Jagun Jagun	N/A	3600000	2.25	1600000	2	false	
+2023-08-20	Films (Non-English)	7	Marry My Dead Body	N/A	3300000	2.1667	1500000	2	false	
+2023-08-20	Films (Non-English)	8	Eye of the Storm	N/A	2900000	1.9833	1500000	1	false	
+2023-08-20	Films (Non-English)	9	Soulcatcher	N/A	1800000	1.6667	1100000	3	false	
+2023-08-20	Films (Non-English)	10	Xtreme	N/A	2000000	1.8667	1100000	4	false	
+2023-08-20	TV (English)	1	DEPP V HEARD	DEPP V HEARD: Limited Series	39500000	2.4333	16200000	1	false	
+2023-08-20	TV (English)	2	Painkiller	Painkiller: Limited Series	54100000	4.9833	10900000	2	false	
+2023-08-20	TV (English)	3	Ballers	Ballers: Season 1	18400000	4.7	3900000	1	false	
+2023-08-20	TV (English)	4	At Home With The Furys	At Home With The Furys: Season 1	16900000	5.1167	3300000	1	false	
+2023-08-20	TV (English)	5	The Lincoln Lawyer	The Lincoln Lawyer: Season 2	23500000	8.1833	2900000	7	false	
+2023-08-20	TV (English)	6	Gabby's Dollhouse	Gabby's Dollhouse: Season 8	6400000	2.4333	2600000	2	false	
+2023-08-20	TV (English)	7	The Witcher	The Witcher: Season 3	14700000	7.6	1900000	8	false	
+2023-08-20	TV (English)	8	The Upshaws	The Upshaws: Part 4	4800000	2.6	1800000	1	false	
+2023-08-20	TV (English)	9	Mech Cadets	Mech Cadets: Season 1	7300000	4	1800000	1	false	
+2023-08-20	TV (English)	10	Heartstopper	Heartstopper: Season 2	8300000	4.7	1800000	3	false	
+2023-08-20	TV (Non-English)	1	The Chosen One	The Chosen One: Season 1	13200000	4.3167	3100000	1	false	
+2023-08-20	TV (Non-English)	2	Mask Girl	Mask Girl: Season 1	19200000	6.8833	2800000	1	false	
+2023-08-20	TV (Non-English)	3	A Perfect Story	A Perfect Story: Limited Series	9900000	3.6667	2700000	4	false	
+2023-08-20	TV (Non-English)	4	Behind Your Touch	Behind Your Touch: Season 1	9300000	0	2500000	1	true	"[{""episodesLaunched"":3,""countryList"":[""BN"",""CK"",""PH"",""CC"",""LA"",""SB"",""MY"",""TH"",""JP"",""IN"",""CX"",""NC"",""TK"",""AU"",""FJ"",""ID"",""PG"",""MO"",""NZ"",""TO"",""HK"",""LK"",""MM"",""PF"",""MN"",""SG"",""VU"",""WS"",""TV"",""NF"",""NR"",""KI"",""MV"",""WF"",""NP"",""VN"",""KH"",""UM"",""BD"",""BT"",""TL"",""PN"",""TW"",""KR"",""NU""]},{""episodesLaunched"":4,""countryList"":[""CG"",""CM"",""FO"",""LB"",""NO"",""PW"",""RO"",""AS"",""CZ"",""IL"",""RE"",""VI"",""EG"",""HR"",""YT"",""AO"",""BJ"",""CW"",""DO"",""LC"",""MC"",""ME"",""MS"",""PE"",""PY"",""SE"",""VE"",""BR"",""LT"",""LY"",""MR"",""MZ"",""UY"",""AF"",""AQ"",""DE"",""GH"",""IO"",""JM"",""LI"",""MU"",""PM"",""TC"",""AM"",""CV"",""CY"",""ET"",""GA"",""GQ"",""IR"",""KY"",""BZ"",""GP"",""HN"",""MW"",""PR"",""SR"",""BS"",""CF"",""CL"",""ML"",""TD"",""TJ"",""TZ"",""US"",""ZA"",""BG"",""BI"",""BL"",""DM"",""FK"",""SL"",""ST"",""CO"",""CR"",""GB"",""GI"",""GM"",""IS"",""IT"",""MH"",""MX"",""NG"",""SS"",""VG"",""ZM"",""BB"",""EH"",""FI"",""GT"",""GW"",""LS"",""MG"",""RS"",""SX"",""TM"",""UA"",""BW"",""BY"",""CI"",""DK"",""LR"",""MK"",""MP"",""NL"",""OM"",""SI"",""SK"",""SO"",""TN"",""VA"",""AG"",""AT"",""EC"",""EE"",""ES"",""FM"",""KE"",""AR"",""AW"",""GD"",""GE"",""GS"",""JE"",""RU"",""TG"",""CH"",""DZ"",""GF"",""GU"",""GY"",""HM"",""HT"",""HU"",""MD"",""MT"",""SC"",""SM"",""UZ"",""ZW"",""AZ"",""BQ"",""CA"",""CU"",""FR"",""GR"",""IE"",""JO"",""KN"",""LU"",""MF"",""NI"",""PA"",""PS"",""QA"",""BA"",""BF"",""BH"",""GG"",""PK"",""SN"",""YE"",""CD"",""GL"",""LV"",""RW"",""SH"",""AI"",""AL"",""KG"",""NE"",""PT"",""SD"",""SV"",""TT"",""UG"",""BO"",""SA"",""SZ"",""AE"",""BE"",""DJ"",""KM"",""KW"",""KZ"",""VC"",""AD"",""BM"",""ER"",""GN"",""IM"",""IQ"",""MA"",""MQ"",""NA"",""PL"",""TR""]}]"
+2023-08-20	TV (Non-English)	5	King the Land	King the Land: Season 1	38400000	19	2000000	10	false	
+2023-08-20	TV (Non-English)	6	My Happy Marriage	My Happy Marriage: Season 1	5600000	2.8333	2000000	6	false	
+2023-08-20	TV (Non-English)	7	The Uncanny Counter	The Uncanny Counter: Season 2: Counter Punch	12600000	9.3	1400000	3	false	
+2023-08-20	TV (Non-English)	8	Guns & Gulaabs	Guns & Gulaabs: Season 1	8100000	6.1833	1300000	1	false	
+2023-08-20	TV (Non-English)	9	The Tailor	The Tailor: Season 2	6800000	5.3833	1300000	4	false	
+2023-08-20	TV (Non-English)	10	Baki Hanma	Baki Hanma: Season 2	5400000	5.5333	1000000	4	false	
 2023-08-13	Films (English)	1	Heart of Stone	N/A	69600000	2.1	33100000	1	false	
 2023-08-13	Films (English)	2	Hidden Strike	N/A	13300000	1.7167	7700000	3	false	
 2023-08-13	Films (English)	3	Untold: Johnny Football	N/A	9200000	1.2	7700000	1	false	
