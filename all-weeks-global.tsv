@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-10-08	Films (English)	1	Reptile	N/A	45100000	2.2667	19900000	2	false	
+2023-10-08	Films (English)	2	Fair Play	N/A	24200000	1.9167	12600000	1	false	
+2023-10-08	Films (English)	3	Love is in the Air	N/A	10700000	1.4833	7200000	2	false	
+2023-10-08	Films (English)	4	Life of a King	N/A	10600000	1.6833	6300000	1	false	
+2023-10-08	Films (English)	5	Infinite	N/A	8600000	1.7667	4900000	1	false	
+2023-10-08	Films (English)	6	Mean Girls	N/A	7300000	1.6167	4500000	2	false	
+2023-10-08	Films (English)	7	Spy Kids: Armageddon	N/A	7100000	1.6333	4300000	3	false	
+2023-10-08	Films (English)	8	Last Vegas	N/A	7200000	1.75	4100000	1	false	
+2023-10-08	Films (English)	9	Identity Thief	N/A	7300000	1.85	3900000	1	false	
+2023-10-08	Films (English)	10	The Black Book	N/A	7700000	2.0667	3700000	3	false	
+2023-10-08	Films (Non-English)	1	Nowhere	N/A	54400000	1.8167	29900000	2	false	
+2023-10-08	Films (Non-English)	2	Forgotten Love	N/A	24500000	2.3333	10500000	2	false	
+2023-10-08	Films (Non-English)	3	Ballerina	N/A	15800000	1.5667	10100000	1	false	
+2023-10-08	Films (Non-English)	4	Overhaul	N/A	8400000	1.6667	5000000	2	false	
+2023-10-08	Films (Non-English)	5	Khufiya	N/A	13200000	2.65	5000000	1	false	
+2023-10-08	Films (Non-English)	6	Ice Cold: Murder, Coffee and Jessica Wongso	N/A	3800000	1.4333	2700000	2	false	
+2023-10-08	Films (Non-English)	7	OMG 2	N/A	6200000	2.5833	2400000	1	false	
+2023-10-08	Films (Non-English)	8	Street Flow 2	N/A	3400000	1.6333	2100000	2	false	
+2023-10-08	Films (Non-English)	9	Jaane Jaan	N/A	4400000	2.3167	1900000	3	false	
+2023-10-08	Films (Non-English)	10	A Deadly Invitation	N/A	2700000	1.55	1700000	1	false	
+2023-10-08	TV (English)	1	Beckham	Beckham: Limited Series	58800000	4.75	12400000	1	false	
+2023-10-08	TV (English)	2	Sex Education	Sex Education: Season 4	53800000	8.1	6600000	3	false	
+2023-10-08	TV (English)	3	Love Is Blind	Love Is Blind: Season 5	32600000	8.7667	3700000	3	false	
+2023-10-08	TV (English)	4	ONE PIECE	ONE PIECE: Season 1	18800000	7.5667	2500000	6	false	
+2023-10-08	TV (English)	5	Encounters	Encounters: Season 1	6800000	3.3833	2000000	2	false	
+2023-10-08	TV (English)	6	Virgin River	Virgin River: Season 5	15200000	7.65	2000000	5	false	
+2023-10-08	TV (English)	7	Castlevania: Nocturne	Castlevania: Nocturne: Season 1	6800000	3.7	1800000	2	false	
+2023-10-08	TV (English)	8	Murdaugh Murders: A Southern Scandal	Murdaugh Murders: A Southern Scandal: Season 2	3200000	1.7833	1800000	3	false	
+2023-10-08	TV (English)	9	Who Killed Jill Dando?	Who Killed Jill Dando?: Season 1	3800000	2.3167	1600000	2	false	
+2023-10-08	TV (English)	10	The Great British Baking Show	The Great British Baking Show: Collection 11	3500000	2.2333	1600000	1	false	
+2023-10-08	TV (Non-English)	1	Lupin	Lupin: Part 3	63900000	5.5167	11600000	1	false	
+2023-10-08	TV (Non-English)	2	Lupin	Lupin: Part 1	13900000	3.9833	3500000	1	false	
+2023-10-08	TV (Non-English)	3	Dear Child	Dear Child: Limited Series	14500000	4.8167	3000000	5	false	
+2023-10-08	TV (Non-English)	4	Lupin	Lupin: Part 2	10200000	3.7833	2700000	5	false	
+2023-10-08	TV (Non-English)	5	Strong Girl Nam-soon	Strong Girl Nam-soon: Season 1	2500000	0	1600000	1	true	"[{""episodesLaunched"":1,""countryList"":[""MV"",""WF"",""LA"",""VU"",""FJ"",""CK"",""TK"",""BT"",""NF"",""TL"",""BD"",""NC"",""IN"",""PG"",""PN"",""ID"",""TH"",""TO"",""NZ"",""BN"",""KR"",""WS"",""CX"",""AU"",""HK"",""TW"",""NP"",""VN"",""UM"",""LK"",""CC"",""MO"",""SG"",""PF"",""TV"",""JP"",""MM"",""MN"",""KH"",""PH"",""MY"",""NU"",""NR"",""SB"",""KI""]},{""episodesLaunched"":2,""countryList"":[""IR"",""CH"",""AR"",""EE"",""BA"",""DO"",""PK"",""DM"",""AQ"",""LT"",""FK"",""TT"",""IO"",""GW"",""OM"",""ES"",""PM"",""SX"",""ML"",""BY"",""PR"",""TN"",""GA"",""TM"",""SC"",""BZ"",""HM"",""BM"",""MG"",""QA"",""CG"",""KM"",""PA"",""DE"",""MQ"",""PS"",""ER"",""EC"",""AF"",""MH"",""KY"",""IE"",""MR"",""NL"",""SV"",""RE"",""IS"",""AZ"",""GN"",""BJ"",""GI"",""AT"",""TC"",""TR"",""SI"",""SR"",""ZW"",""GQ"",""GT"",""BE"",""HT"",""SE"",""JM"",""AD"",""IT"",""MU"",""SN"",""VI"",""LU"",""AW"",""UA"",""JE"",""IL"",""BS"",""CL"",""MZ"",""TG"",""CZ"",""NO"",""US"",""AL"",""YT"",""BO"",""RO"",""UZ"",""BB"",""AE"",""FR"",""IM"",""KZ"",""ME"",""BQ"",""FM"",""TD"",""VA"",""RS"",""GR"",""NG"",""HR"",""NI"",""SS"",""UG"",""SH"",""HU"",""ST"",""MX"",""GD"",""CW"",""ET"",""CU"",""MS"",""BI"",""GG"",""FI"",""ZA"",""GH"",""CM"",""CY"",""CO"",""CA"",""MA"",""PW"",""NA"",""KG"",""BR"",""SM"",""ZM"",""MT"",""GP"",""GU"",""AS"",""SA"",""LC"",""SO"",""HN"",""LS"",""CI"",""TJ"",""UY"",""MP"",""BH"",""KE"",""SL"",""DJ"",""MD"",""GL"",""MW"",""LV"",""AM"",""SZ"",""KW"",""RW"",""DK"",""KN"",""BW"",""FO"",""IQ"",""VE"",""PL"",""EG"",""MK"",""SD"",""GF"",""YE"",""VC"",""LR"",""SK"",""LI"",""PT"",""TZ"",""BG"",""LY"",""AO"",""CD"",""BL"",""NE"",""GS"",""LB"",""GM"",""PE"",""MC"",""CF"",""BF"",""RU"",""GY"",""AG"",""CR"",""EH"",""VG"",""GB"",""CV"",""MF"",""AI"",""JO"",""DZ"",""GE"",""PY""]}]"
+2023-10-08	TV (Non-English)	6	The Devil's Plan	The Devil's Plan: Season 1	14700000	9.7833	1500000	2	false	
+2023-10-08	TV (Non-English)	7	Destined with You	Destined with You: Season 1	22500000	15.2	1500000	7	false	
+2023-10-08	TV (Non-English)	8	Burning Body	Burning Body: Limited Series	8700000	6.5667	1300000	5	false	
+2023-10-08	TV (Non-English)	9	Song of the Bandits	Song of the Bandits: Season 1	8600000	8.6333	1000000	3	false	
+2023-10-08	TV (Non-English)	10	Thursday's Widows	Thursday's Widows: Limited Series	4400000	4.4667	1000000	4	false	
 2023-10-01	Films (English)	1	Reptile	N/A	40200000	2.2667	17700000	1	false	
 2023-10-01	Films (English)	2	Love is in the Air	N/A	17300000	1.4833	11700000	1	false	
 2023-10-01	Films (English)	3	The Black Book	N/A	23100000	2.0667	11200000	2	false	
