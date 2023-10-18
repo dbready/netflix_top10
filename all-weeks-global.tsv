@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-10-15	Films (English)	1	Reptile	N/A	32300000	2.2667	14200000	3	false	
+2023-10-15	Films (English)	2	Fair Play	N/A	26900000	1.9167	14000000	2	false	
+2023-10-15	Films (English)	3	Gemini Man	N/A	10300000	1.95	5300000	4	false	
+2023-10-15	Films (English)	4	American Made	N/A	9300000	1.9167	4900000	1	false	
+2023-10-15	Films (English)	5	Mean Girls	N/A	6300000	1.6167	3900000	3	false	
+2023-10-15	Films (English)	6	Ma	N/A	5800000	1.65	3500000	1	false	
+2023-10-15	Films (English)	7	Casper	N/A	5400000	1.6667	3200000	1	false	
+2023-10-15	Films (English)	8	Tyson's Run	N/A	5400000	1.7167	3100000	1	false	
+2023-10-15	Films (English)	9	The Lost City	N/A	5800000	1.8667	3100000	1	false	
+2023-10-15	Films (English)	10	Get Out	N/A	5300000	1.7333	3100000	2	false	
+2023-10-15	Films (Non-English)	1	Ballerina	N/A	23100000	1.5667	14700000	2	false	
+2023-10-15	Films (Non-English)	2	Nowhere	N/A	23900000	1.8167	13200000	3	false	
+2023-10-15	Films (Non-English)	3	The Conference	N/A	12700000	1.6667	7600000	1	false	
+2023-10-15	Films (Non-English)	4	Forgotten Love	N/A	15800000	2.3333	6800000	3	false	
+2023-10-15	Films (Non-English)	5	OMG 2	N/A	11500000	2.5833	4500000	2	false	
+2023-10-15	Films (Non-English)	6	Khufiya	N/A	8700000	2.65	3300000	2	false	
+2023-10-15	Films (Non-English)	7	A Deadly Invitation	N/A	4100000	1.55	2600000	2	false	
+2023-10-15	Films (Non-English)	8	Ìjọ̀gbọ̀n	N/A	4200000	1.9333	2200000	1	false	
+2023-10-15	Films (Non-English)	9	Overhaul	N/A	2900000	1.6667	1700000	3	false	
+2023-10-15	Films (Non-English)	10	Keys to the Heart	N/A	2700000	1.7167	1600000	1	false	
+2023-10-15	TV (English)	1	Beckham	Beckham: Limited Series	54900000	4.75	11600000	2	false	
+2023-10-15	TV (English)	2	The Fall of the House of Usher	The Fall of the House of Usher: Season 1	51900000	8.2833	6300000	1	false	
+2023-10-15	TV (English)	3	Sex Education	Sex Education: Season 4	32700000	8.1	4000000	4	false	
+2023-10-15	TV (English)	4	Big Vape: The Rise and Fall of Juul	Big Vape: The Rise and Fall of Juul: Limited Series	9700000	3.15	3100000	1	false	
+2023-10-15	TV (English)	5	Love Is Blind	Love Is Blind: Season 5	27900000	0	2600000	4	true	"[{""episodesLaunched"":11,""countryList"":[""GF"",""KY"",""GY"",""PA"",""TC"",""PM"",""SV"",""UY"",""CA"",""MX"",""DO"",""VE"",""MH"",""PY"",""SX"",""GS"",""BQ"",""FM"",""VI"",""CO"",""CU"",""AG"",""CL"",""AR"",""AW"",""EC"",""HT"",""GT"",""BO"",""BL"",""MQ"",""SR"",""NI"",""DM"",""BB"",""FK"",""US"",""CR"",""BM"",""MF"",""HN"",""AS"",""GP"",""GD"",""PE"",""CI"",""VC"",""PR"",""MP"",""VG"",""LC"",""BZ"",""GU"",""PW"",""TT"",""BR"",""MS"",""BS"",""AI"",""JM"",""CW"",""KN""]},{""episodesLaunched"":10,""countryList"":[""IS"",""CF"",""FO"",""YT"",""TD"",""UM"",""LT"",""CG"",""MW"",""PK"",""ZM"",""SA"",""IO"",""SB"",""GM"",""SL"",""IN"",""CH"",""EE"",""PS"",""LA"",""SO"",""VA"",""LY"",""NA"",""NP"",""LS"",""BN"",""LR"",""CM"",""CZ"",""AQ"",""PF"",""NL"",""EG"",""IE"",""JP"",""LI"",""EH"",""ER"",""MU"",""ES"",""TK"",""TW"",""SC"",""GA"",""CX"",""NU"",""WS"",""LU"",""SK"",""ML"",""KE"",""ID"",""RW"",""CY"",""UZ"",""RO"",""GB"",""AF"",""IT"",""FR"",""MV"",""GW"",""VU"",""KW"",""UA"",""PG"",""BA"",""SM"",""LV"",""MA"",""BI"",""HU"",""HR"",""TJ"",""CV"",""DJ"",""TZ"",""BW"",""GG"",""SG"",""FJ"",""NF"",""GR"",""BD"",""JE"",""SS"",""RS"",""MG"",""HK"",""AO"",""SE"",""SD"",""LB"",""AD"",""GQ"",""AE"",""HM"",""QA"",""IR"",""BY"",""PN"",""SI"",""AM"",""TG"",""NZ"",""MK"",""MD"",""PL"",""UG"",""KZ"",""BE"",""YE"",""NC"",""SZ"",""GL"",""GE"",""PH"",""KM"",""TV"",""MM"",""DZ"",""WF"",""AZ"",""AU"",""BT"",""GN"",""MR"",""RU"",""MT"",""ZA"",""MC"",""MY"",""DE"",""IM"",""SH"",""IQ"",""JO"",""NE"",""MO"",""SN"",""NG"",""MN"",""CC"",""TN"",""ET"",""ME"",""BH"",""TR"",""TH"",""IL"",""CK"",""LK"",""TM"",""TL"",""VN"",""GH"",""PT"",""GI"",""NO"",""DK"",""KG"",""KI"",""OM"",""NR"",""ST"",""BJ"",""MZ"",""BF"",""AT"",""AL"",""BG"",""ZW"",""RE"",""KH"",""KR"",""FI"",""TO"",""CD""]}]"
+2023-10-15	TV (English)	6	ONE PIECE	ONE PIECE: Season 1	14300000	7.5667	1900000	7	false	
+2023-10-15	TV (English)	7	CoComelon	CoComelon: Season 8	1500000	1.0667	1400000	4	false	
+2023-10-15	TV (English)	8	Virgin River	Virgin River: Season 5	10700000	7.65	1400000	6	false	
+2023-10-15	TV (English)	9	Everything Now	Everything Now: Season 1	8300000	6.2167	1300000	1	false	
+2023-10-15	TV (English)	10	The Great British Baking Show	The Great British Baking Show: Collection 11	4300000	3.35	1300000	2	false	
+2023-10-15	TV (Non-English)	1	Lupin	Lupin: Part 3	77900000	5.5167	14100000	2	false	
+2023-10-15	TV (Non-English)	2	Lupin	Lupin: Part 1	18700000	3.9833	4700000	2	false	
+2023-10-15	TV (Non-English)	3	Strong Girl Nam-soon	Strong Girl Nam-soon: Season 1	15800000	0	4400000	2	true	"[{""episodesLaunched"":4,""countryList"":[""TG"",""DO"",""PK"",""GY"",""IO"",""HT"",""CW"",""ET"",""MU"",""TT"",""IS"",""CY"",""PR"",""DZ"",""LV"",""SC"",""BJ"",""GI"",""UG"",""AQ"",""CF"",""RS"",""HR"",""NI"",""FO"",""GQ"",""ES"",""GL"",""EG"",""VC"",""CG"",""AW"",""UA"",""US"",""IQ"",""VE"",""BE"",""PL"",""LC"",""SH"",""UY"",""LY"",""MS"",""SD"",""MT"",""GU"",""TD"",""SO"",""SM"",""KY"",""BO"",""GG"",""HM"",""GP"",""OM"",""AD"",""SI"",""AG"",""GW"",""RE"",""GA"",""NO"",""CO"",""BZ"",""GN"",""AE"",""SA"",""TJ"",""MP"",""TM"",""AZ"",""VA"",""SZ"",""TC"",""TR"",""AR"",""YE"",""BB"",""GF"",""EE"",""GB"",""AO"",""CD"",""EC"",""SN"",""GR"",""NG"",""CR"",""EH"",""MK"",""SE"",""RW"",""ME"",""NL"",""SV"",""IL"",""MZ"",""IE"",""DK"",""AM"",""LS"",""LT"",""KN"",""MX"",""GD"",""TN"",""BY"",""DJ"",""ST"",""FI"",""ZA"",""KM"",""PA"",""GS"",""BI"",""MR"",""GM"",""PE"",""LI"",""PT"",""TZ"",""MQ"",""VG"",""JM"",""BQ"",""FM"",""CM"",""KZ"",""ZM"",""SR"",""ZW"",""IT"",""DM"",""VI"",""AF"",""MH"",""SS"",""MA"",""PW"",""RO"",""UZ"",""CA"",""HU"",""FR"",""PM"",""SX"",""FK"",""ML"",""IR"",""BG"",""BS"",""CL"",""GE"",""PY"",""KW"",""CI"",""BL"",""NE"",""GT"",""YT"",""ER"",""DE"",""CV"",""MF"",""HN"",""LU"",""SL"",""CU"",""LR"",""SK"",""IM"",""MC"",""BR"",""AT"",""AL"",""JE"",""LB"",""CH"",""MW"",""BH"",""KE"",""KG"",""BM"",""MG"",""QA"",""PS"",""GH"",""BA"",""CZ"",""NA"",""MD"",""AS"",""BW"",""AI"",""JO"",""BF"",""RU""]},{""episodesLaunched"":3,""countryList"":[""MM"",""BD"",""NC"",""CX"",""JP"",""KH"",""HK"",""VN"",""NU"",""SG"",""UM"",""NR"",""TW"",""NF"",""TL"",""IN"",""BN"",""PG"",""SB"",""KI"",""CK"",""TH"",""TV"",""NZ"",""VU"",""CC"",""ID"",""NP"",""WS"",""FJ"",""AU"",""PF"",""MY"",""PN"",""MN"",""PH"",""KR"",""LK"",""LA"",""TK"",""MV"",""WF"",""MO"",""TO"",""BT""]}]"
+2023-10-15	TV (Non-English)	4	Lupin	Lupin: Part 2	16100000	3.7833	4300000	6	false	
+2023-10-15	TV (Non-English)	5	Pact of Silence	Pact of Silence: Season 1	43300000	12.0333	3600000	1	false	
+2023-10-15	TV (Non-English)	6	Stranded with my Mother-in-Law	Stranded with my Mother-in-Law: Season 1	6400000	3.5333	1800000	1	false	
+2023-10-15	TV (Non-English)	7	Dear Child	Dear Child: Limited Series	8400000	4.8167	1700000	6	false	
+2023-10-15	TV (Non-English)	8	Destined with You	Destined with You: Season 1	28900000	17.3	1700000	8	false	
+2023-10-15	TV (Non-English)	9	SPY x FAMILY	SPY x FAMILY: Season 2	1200000	0.7833	1500000	1	false	
+2023-10-15	TV (Non-English)	10	DI4RIES	DI4RIES: Season 2	4800000	3.5833	1300000	1	false	
 2023-10-08	Films (English)	1	Reptile	N/A	45100000	2.2667	19900000	2	false	
 2023-10-08	Films (English)	2	Fair Play	N/A	24200000	1.9167	12600000	1	false	
 2023-10-08	Films (English)	3	Love is in the Air	N/A	10700000	1.4833	7200000	2	false	
