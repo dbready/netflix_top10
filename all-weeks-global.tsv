@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-10-22	Films (English)	1	Old Dads	N/A	23100000	1.7333	13300000	1	false	
+2023-10-22	Films (English)	2	The Devil on Trial	N/A	11000000	1.3667	8000000	1	false	
+2023-10-22	Films (English)	3	Gemini Man	N/A	14300000	1.95	7300000	5	false	
+2023-10-22	Films (English)	4	Reptile	N/A	15800000	2.2667	7000000	4	false	
+2023-10-22	Films (English)	5	Long Shot	N/A	8800000	2.0833	4200000	1	false	
+2023-10-22	Films (English)	6	Fair Play	N/A	7300000	1.9167	3800000	3	false	
+2023-10-22	Films (English)	7	No Hard Feelings	N/A	6600000	1.7333	3800000	1	false	
+2023-10-22	Films (English)	8	Tammy	N/A	6000000	1.6	3800000	1	false	
+2023-10-22	Films (English)	9	Spy Kids	N/A	5400000	1.4667	3700000	1	false	
+2023-10-22	Films (English)	10	Scary Movie	N/A	5400000	1.4667	3700000	1	false	
+2023-10-22	Films (Non-English)	1	The Conference	N/A	10900000	1.6667	6500000	2	false	
+2023-10-22	Films (Non-English)	2	Nowhere	N/A	9100000	1.8167	5000000	4	false	
+2023-10-22	Films (Non-English)	3	Ballerina	N/A	6600000	1.5667	4200000	3	false	
+2023-10-22	Films (Non-English)	4	The Quake	N/A	6400000	1.7167	3700000	1	false	
+2023-10-22	Films (Non-English)	5	Forgotten Love	N/A	8300000	2.3333	3600000	4	false	
+2023-10-22	Films (Non-English)	6	Ìjọ̀gbọ̀n	N/A	5700000	1.9333	2900000	2	false	
+2023-10-22	Films (Non-English)	7	Heaven in Hell	N/A	5200000	2	2600000	1	false	
+2023-10-22	Films (Non-English)	8	Dream Girl 2	N/A	4600000	2.1167	2200000	1	false	
+2023-10-22	Films (Non-English)	9	A Deadly Invitation	N/A	2400000	1.55	1500000	3	false	
+2023-10-22	Films (Non-English)	10	OMG 2	N/A	3500000	2.5833	1400000	3	false	
+2023-10-22	TV (English)	1	The Fall of the House of Usher	The Fall of the House of Usher: Season 1	65300000	8.2833	7900000	2	false	
+2023-10-22	TV (English)	2	Beckham	Beckham: Limited Series	32800000	4.75	6900000	3	false	
+2023-10-22	TV (English)	3	Bodies	Bodies: Limited Series	42000000	7.6333	5500000	1	false	
+2023-10-22	TV (English)	4	I Woke Up A Vampire	I Woke Up A Vampire: Season 1	12100000	3.5167	3400000	1	false	
+2023-10-22	TV (English)	5	Sex Education	Sex Education: Season 4	21300000	8.1	2600000	5	false	
+2023-10-22	TV (English)	6	Love Is Blind	Love Is Blind: Season 5	20400000	11.0667	1800000	5	false	
+2023-10-22	TV (English)	7	Big Mouth	Big Mouth: Season 7	7400000	4.65	1600000	1	false	
+2023-10-22	TV (English)	8	ONE PIECE	ONE PIECE: Season 1	10900000	7.5667	1400000	8	false	
+2023-10-22	TV (English)	9	CoComelon	CoComelon: Season 8	1400000	1.0667	1300000	5	false	
+2023-10-22	TV (English)	10	CoComelon	CoComelon: Season 1	3600000	2.9667	1200000	2	false	
+2023-10-22	TV (Non-English)	1	Lupin	Lupin: Part 3	42700000	5.5167	7700000	3	false	
+2023-10-22	TV (Non-English)	2	Pact of Silence	Pact of Silence: Season 1	68800000	12.0333	5700000	2	false	
+2023-10-22	TV (Non-English)	3	Strong Girl Nam-soon	Strong Girl Nam-soon: Season 1	20700000	0	3600000	3	true	"[{""episodesLaunched"":6,""countryList"":[""TM"",""PS"",""BR"",""VC"",""CI"",""AT"",""BW"",""HN"",""RS"",""BG"",""GW"",""PM"",""SX"",""DZ"",""RE"",""ES"",""BA"",""EC"",""LT"",""ML"",""FI"",""ZA"",""BE"",""FO"",""ZM"",""GM"",""PE"",""AO"",""CD"",""KZ"",""GQ"",""BY"",""SM"",""OM"",""HR"",""NI"",""MX"",""GD"",""CV"",""MF"",""SD"",""EG"",""AG"",""KY"",""AZ"",""SI"",""GG"",""GN"",""LS"",""GH"",""HU"",""SO"",""SA"",""MD"",""TG"",""AI"",""JO"",""BZ"",""TC"",""TR"",""SL"",""VA"",""TD"",""AE"",""CA"",""RO"",""UZ"",""MP"",""BJ"",""GI"",""MZ"",""MT"",""LR"",""SK"",""LC"",""GE"",""PY"",""NO"",""CG"",""CU"",""GF"",""AW"",""UA"",""DO"",""PK"",""MA"",""PW"",""MS"",""CO"",""IL"",""MQ"",""TN"",""GA"",""IR"",""JE"",""LV"",""AR"",""FK"",""JM"",""KG"",""AD"",""TJ"",""LB"",""MR"",""LY"",""GU"",""ER"",""AS"",""US"",""NL"",""SV"",""HM"",""GB"",""MU"",""DM"",""HT"",""FR"",""SR"",""ZW"",""DK"",""GY"",""PL"",""IM"",""SH"",""KW"",""YT"",""MW"",""SC"",""IT"",""DE"",""LI"",""PT"",""TZ"",""GR"",""NG"",""AQ"",""BB"",""ST"",""EE"",""UY"",""GL"",""BO"",""SZ"",""BH"",""KE"",""CW"",""ET"",""AM"",""BM"",""MG"",""QA"",""BI"",""CR"",""EH"",""CH"",""RW"",""CF"",""SE"",""CY"",""NA"",""GS"",""ME"",""UG"",""SN"",""BL"",""NE"",""BS"",""CL"",""AF"",""MH"",""CM"",""LU"",""TT"",""IQ"",""VE"",""PR"",""GP"",""BQ"",""FM"",""IS"",""KN"",""IE"",""VG"",""GT"",""BF"",""RU"",""KM"",""PA"",""YE"",""AL"",""DJ"",""CZ"",""MC"",""SS"",""IO"",""VI"",""MK""]},{""episodesLaunched"":5,""countryList"":[""NZ"",""BD"",""NC"",""PN"",""CC"",""ID"",""TV"",""MV"",""WF"",""SG"",""UM"",""VU"",""TW"",""MN"",""NU"",""TH"",""PH"",""TO"",""MM"",""NP"",""SB"",""IN"",""CX"",""FJ"",""KR"",""HK"",""BT"",""LA"",""KH"",""NR"",""CK"",""MY"",""MO"",""LK"",""AU"",""PG"",""NF"",""TL"",""PF"",""BN"",""TK"",""KI"",""VN"",""JP"",""WS""]}]"
+2023-10-22	TV (Non-English)	4	Lupin	Lupin: Part 1	12900000	3.9833	3200000	3	false	
+2023-10-22	TV (Non-English)	5	Lupin	Lupin: Part 2	11500000	3.7833	3000000	7	false	
+2023-10-22	TV (Non-English)	6	Elite	Elite: Season 7	21100000	7.0333	3000000	1	false	
+2023-10-22	TV (Non-English)	7	Doona!	Doona!: Season 1	19800000	7	2800000	1	false	
+2023-10-22	TV (Non-English)	8	Stranded with my Mother-in-Law	Stranded with my Mother-in-Law: Season 1	11500000	7.0333	1600000	2	false	
+2023-10-22	TV (Non-English)	9	Kaala Paani	Kaala Paani: Season 1	11700000	7.25	1600000	1	false	
+2023-10-22	TV (Non-English)	10	Creature	Creature: Limited Series	8500000	6.2167	1400000	1	false	
 2023-10-15	Films (English)	1	Reptile	N/A	32300000	2.2667	14200000	3	false	
 2023-10-15	Films (English)	2	Fair Play	N/A	26900000	1.9167	14000000	2	false	
 2023-10-15	Films (English)	3	Gemini Man	N/A	10300000	1.95	5300000	4	false	
