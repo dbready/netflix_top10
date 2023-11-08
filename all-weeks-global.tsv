@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-11-05	Films (English)	1	Locked In	N/A	28800000	1.6167	17800000	1	false	
+2023-11-05	Films (English)	2	Pain Hustlers	N/A	31700000	2.0833	15200000	2	false	
+2023-11-05	Films (English)	3	Cold Pursuit	N/A	17300000	1.9667	8800000	2	false	
+2023-11-05	Films (English)	4	Spider-Man: Across the Spider-Verse	N/A	20100000	2.3333	8600000	1	false	
+2023-11-05	Films (English)	5	Old Dads	N/A	8700000	1.7333	5000000	3	false	
+2023-11-05	Films (English)	6	NYAD	N/A	9500000	2.0167	4700000	1	false	
+2023-11-05	Films (English)	7	Sly	N/A	7500000	1.6	4700000	1	false	
+2023-11-05	Films (English)	8	Monster High: The Movie	N/A	6900000	1.4833	4700000	2	false	
+2023-11-05	Films (English)	9	Minions	N/A	6600000	1.5167	4400000	2	false	
+2023-11-05	Films (English)	10	Herself	N/A	6700000	1.6167	4100000	1	false	
+2023-11-05	Films (Non-English)	1	Wingwomen	N/A	35700000	1.9333	18500000	1	false	
+2023-11-05	Films (Non-English)	2	Burning Betrayal	N/A	10700000	1.65	6500000	2	false	
+2023-11-05	Films (Non-English)	3	Sister Death	N/A	9300000	1.5167	6100000	2	false	
+2023-11-05	Films (Non-English)	4	Jawan: Extended Cut	N/A	14900000	2.85	5200000	1	false	
+2023-11-05	Films (Non-English)	5	Nowhere	N/A	3600000	1.8167	2000000	6	false	
+2023-11-05	Films (Non-English)	6	Forgotten Love	N/A	3900000	2.3333	1700000	6	false	
+2023-11-05	Films (Non-English)	7	A Deadly Invitation	N/A	2200000	1.55	1400000	4	false	
+2023-11-05	Films (Non-English)	8	Hatching	N/A	2000000	1.5167	1300000	1	false	
+2023-11-05	Films (Non-English)	9	The Takedown	N/A	2600000	2.0167	1300000	8	false	
+2023-11-05	Films (Non-English)	10	Ballerina	N/A	2000000	1.5667	1300000	5	false	
+2023-11-05	TV (English)	1	All the Light We Cannot See	All the Light We Cannot See: Limited Series	37600000	3.8333	9800000	1	false	
+2023-11-05	TV (English)	2	Till Murder Do Us Part: Soering vs. Haysom	Till Murder Do Us Part: Soering vs. Haysom: Limited Series	15200000	3.2167	4700000	1	false	
+2023-11-05	TV (English)	3	Bodies	Bodies: Limited Series	33200000	7.6333	4300000	3	false	
+2023-11-05	TV (English)	4	Life on Our Planet	Life on Our Planet: Season 1	29500000	6.9333	4300000	2	false	
+2023-11-05	TV (English)	5	Unicorn Academy	Unicorn Academy: Chapter 1	15100000	4.6333	3300000	1	false	
+2023-11-05	TV (English)	6	Get Gotti	Get Gotti: Season 1	8000000	2.5333	3200000	2	false	
+2023-11-05	TV (English)	7	The Fall of the House of Usher	The Fall of the House of Usher: Season 1	23400000	8.2833	2800000	4	false	
+2023-11-05	TV (English)	8	Selling Sunset	Selling Sunset: Season 7	18100000	6.4333	2800000	1	false	
+2023-11-05	TV (English)	9	Beckham	Beckham: Limited Series	12600000	4.75	2700000	5	false	
+2023-11-05	TV (English)	10	Mysteries of the Faith	Mysteries of the Faith: Season 1	6600000	2.8167	2300000	1	false	
+2023-11-05	TV (Non-English)	1	Lupin	Lupin: Part 3	18100000	5.5167	3300000	5	false	
+2023-11-05	TV (Non-English)	2	Pact of Silence	Pact of Silence: Season 1	33200000	12.0333	2800000	4	false	
+2023-11-05	TV (Non-English)	3	Elite	Elite: Season 7	18000000	7.0333	2600000	3	false	
+2023-11-05	TV (Non-English)	4	Strong Girl Nam-soon	Strong Girl Nam-soon: Season 1	23100000	0	2300000	5	true	"[{""episodesLaunched"":9,""countryList"":[""TK"",""TV"",""MM"",""AU"",""MV"",""WF"",""NR"",""MY"",""ID"",""BD"",""NC"",""MO"",""HK"",""FJ"",""PG"",""BN"",""KR"",""MN"",""UM"",""NP"",""TH"",""JP"",""WS"",""BT"",""SG"",""VU"",""PF"",""PN"",""SB"",""IN"",""NF"",""TL"",""PH"",""CX"",""NZ"",""LK"",""NU"",""TW"",""LA"",""CK"",""KI"",""KH"",""CC"",""TO"",""VN""]},{""episodesLaunched"":10,""countryList"":[""NL"",""SV"",""IE"",""GH"",""VC"",""LT"",""BG"",""FO"",""KZ"",""SN"",""AD"",""SH"",""VA"",""LY"",""GP"",""MX"",""GD"",""GA"",""TT"",""CR"",""EH"",""CI"",""DO"",""PK"",""YE"",""ST"",""PS"",""AR"",""SS"",""BS"",""CL"",""BR"",""AQ"",""LR"",""SK"",""MA"",""PW"",""SC"",""AG"",""HU"",""RE"",""SR"",""ZW"",""MS"",""SA"",""PL"",""LU"",""CF"",""FI"",""ZA"",""TJ"",""CO"",""SL"",""IR"",""IT"",""IO"",""ER"",""MW"",""BJ"",""GI"",""RO"",""UZ"",""DZ"",""AE"",""BL"",""NE"",""HR"",""NI"",""LB"",""OM"",""VG"",""YT"",""MK"",""NO"",""KY"",""FR"",""CW"",""ET"",""BF"",""RU"",""CV"",""MF"",""BZ"",""BH"",""KE"",""TG"",""HN"",""GE"",""PY"",""BY"",""BO"",""EC"",""LS"",""DE"",""KN"",""GN"",""UG"",""GQ"",""NA"",""AZ"",""DM"",""HM"",""MD"",""TM"",""LV"",""AO"",""CD"",""HT"",""GB"",""CH"",""AL"",""TC"",""TR"",""GW"",""RW"",""KM"",""PA"",""MR"",""CU"",""GY"",""GR"",""NG"",""LI"",""PT"",""TZ"",""CA"",""ME"",""AF"",""MH"",""PR"",""GL"",""IL"",""AI"",""JO"",""AW"",""UA"",""JM"",""UY"",""IS"",""SE"",""CZ"",""JE"",""BE"",""BI"",""GF"",""MT"",""SO"",""ML"",""MC"",""BM"",""MG"",""QA"",""AS"",""KW"",""MP"",""GM"",""PE"",""AM"",""MU"",""VI"",""BW"",""EE"",""FK"",""TN"",""BB"",""SI"",""US"",""DJ"",""EG"",""MZ"",""RS"",""IQ"",""VE"",""AT"",""SM"",""KG"",""TD"",""BQ"",""FM"",""CY"",""DK"",""GU"",""GG"",""ZM"",""CM"",""PM"",""SX"",""SZ"",""BA"",""GT"",""IM"",""ES"",""GS"",""CG"",""SD"",""MQ"",""LC""]}]"
+2023-11-05	TV (Non-English)	5	Doona!	Doona!: Season 1	14400000	7	2100000	3	false	
+2023-11-05	TV (Non-English)	6	The Tailor	The Tailor: Season 3	10300000	5.0833	2000000	1	false	
+2023-11-05	TV (Non-English)	7	Onimusha	Onimusha: Season 1	6800000	3.7167	1800000	1	false	
+2023-11-05	TV (Non-English)	8	Ferry: The Series	Ferry: The Series: The Series	10100000	6.1	1700000	1	false	
+2023-11-05	TV (Non-English)	9	Castaway Diva	Castaway Diva: Season 1	7700000	4.8333	1600000	1	false	
+2023-11-05	TV (Non-English)	10	Lupin	Lupin: Part 1	5900000	3.9833	1500000	5	false	
 2023-10-29	Films (English)	1	Old Dads	N/A	28200000	1.7333	16300000	2	false	
 2023-10-29	Films (English)	2	Pain Hustlers	N/A	29300000	2.0833	14100000	1	false	
 2023-10-29	Films (English)	3	No Hard Feelings	N/A	22700000	1.7333	13100000	2	false	
