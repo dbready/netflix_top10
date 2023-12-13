@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-12-10	Films (English)	1	Leave the World Behind	N/A	98700000	2.3667	41700000	1	false	
+2023-12-10	Films (English)	2	Family Switch	N/A	32900000	1.7667	18600000	2	false	
+2023-12-10	Films (English)	3	Leo	N/A	25400000	1.7833	14200000	3	false	
+2023-12-10	Films (English)	4	The Super Mario Bros. Movie	N/A	20300000	1.5333	13200000	2	false	
+2023-12-10	Films (English)	5	Catering Christmas	N/A	12500000	1.4333	8700000	2	false	
+2023-12-10	Films (English)	6	Nobody	N/A	10600000	1.5333	6900000	1	false	
+2023-12-10	Films (English)	7	Christmas as Usual	N/A	10000000	1.4833	6700000	1	false	
+2023-12-10	Films (English)	8	The Fast and the Furious	N/A	11200000	1.7667	6300000	1	false	
+2023-12-10	Films (English)	9	The Fate of the Furious	N/A	13700000	2.2667	6000000	1	false	
+2023-12-10	Films (English)	10	B&B Merry	N/A	6300000	1.3667	4600000	1	false	
+2023-12-10	Films (Non-English)	1	Mission Raniganj: The Great Bharat Rescue	N/A	5700000	2.25	2500000	2	false	
+2023-12-10	Films (Non-English)	2	Stolen Vacation	N/A	3800000	1.5333	2500000	1	false	
+2023-12-10	Films (Non-English)	3	The Archies	N/A	5200000	2.4	2200000	1	false	
+2023-12-10	Films (Non-English)	4	Women on the Edge	N/A	3000000	1.5833	1900000	2	false	
+2023-12-10	Films (Non-English)	5	The Three Musketeers: D'Artagnan	N/A	3700000	2.0167	1800000	2	false	
+2023-12-10	Films (Non-English)	6	Last Call for Istanbul	N/A	2700000	1.5167	1800000	3	false	
+2023-12-10	Films (Non-English)	7	Thank You for Coming	N/A	2900000	1.9667	1500000	1	false	
+2023-12-10	Films (Non-English)	8	Concrete Utopia	N/A	3100000	2.1667	1400000	1	false	
+2023-12-10	Films (Non-English)	9	Hard Days	N/A	2500000	1.9667	1300000	1	false	
+2023-12-10	Films (Non-English)	10	Blood Vessel	N/A	2400000	1.9833	1200000	1	false	
+2023-12-10	TV (English)	1	Obliterated	Obliterated: Season 1	61500000	6.8333	9000000	2	false	
+2023-12-10	TV (English)	2	My Life With the Walter Boys	My Life With the Walter Boys: Season 1	57400000	7.6167	7500000	1	false	
+2023-12-10	TV (English)	3	Squid Game: The Challenge	Squid Game: The Challenge: Season 1	54100000	8.1667	6600000	3	false	
+2023-12-10	TV (English)	4	Bad Surgeon: Love Under the Knife	Bad Surgeon: Love Under the Knife: Season 1	13300000	2.6667	5000000	2	false	
+2023-12-10	TV (English)	5	World War II: From the Frontlines	World War II: From the Frontlines: Season 1	20300000	4.85	4200000	1	false	
+2023-12-10	TV (English)	6	The Crown	The Crown: Season 6	8200000	3.3167	2500000	4	false	
+2023-12-10	TV (English)	7	CoComelon Lane	CoComelon Lane: Season 1	9500000	3.9167	2400000	3	false	
+2023-12-10	TV (English)	8	Virgin River	Virgin River: Season 5	20300000	9.2667	2200000	8	false	
+2023-12-10	TV (English)	9	Young Sheldon	Young Sheldon: Season 1	13900000	7.2167	1900000	3	false	
+2023-12-10	TV (English)	10	Young Sheldon	Young Sheldon: Season 2	10300000	7.1667	1400000	2	false	
+2023-12-10	TV (Non-English)	1	Blood Coast	Blood Coast: Season 1	29400000	5.2833	5600000	1	false	
+2023-12-10	TV (Non-English)	2	A Nearly Normal Family	A Nearly Normal Family: Limited Series	24500000	4.5333	5400000	3	false	
+2023-12-10	TV (Non-English)	3	My Demon	My Demon: Season 1	28000000	0	4900000	3	true	"[{""episodesLaunched"":6,""countryList"":[""MT"",""NG"",""GU"",""AM"",""SC"",""FR"",""GD"",""RU"",""RO"",""NR"",""AT"",""SR"",""UG"",""KI"",""UA"",""VI"",""AI"",""SI"",""NE"",""TV"",""LC"",""ER"",""IN"",""MY"",""GY"",""PG"",""JM"",""AD"",""PH"",""FM"",""GG"",""AE"",""CX"",""BF"",""LT"",""DZ"",""KE"",""LV"",""BE"",""UZ"",""TO"",""MQ"",""CW"",""CG"",""AF"",""CA"",""SO"",""BN"",""ME"",""EE"",""TD"",""CY"",""TT"",""WF"",""HK"",""IQ"",""BQ"",""SB"",""IO"",""HR"",""NU"",""AL"",""SD"",""MK"",""US"",""SA"",""ML"",""IR"",""IS"",""BL"",""SG"",""DM"",""RE"",""BH"",""TZ"",""CD"",""LU"",""VA"",""FI"",""MD"",""NL"",""GR"",""PK"",""VN"",""SS"",""AQ"",""VU"",""GP"",""ZA"",""JO"",""IT"",""BG"",""PN"",""BT"",""SX"",""GE"",""KN"",""JE"",""DE"",""PF"",""MM"",""AZ"",""BA"",""HT"",""MF"",""ID"",""BS"",""HU"",""AU"",""CK"",""MC"",""AW"",""BD"",""UM"",""LB"",""LA"",""MU"",""SZ"",""TM"",""ZW"",""MO"",""KH"",""GN"",""LR"",""FJ"",""CF"",""RS"",""VC"",""BW"",""MV"",""TG"",""MA"",""GM"",""QA"",""MP"",""KM"",""EG"",""LS"",""TN"",""MZ"",""PW"",""NA"",""TH"",""TK"",""KY"",""BB"",""KG"",""KR"",""IE"",""NF"",""NP"",""CZ"",""CC"",""ST"",""FK"",""MN"",""BM"",""NZ"",""KZ"",""DK"",""TW"",""GH"",""ZM"",""SK"",""NC"",""KW"",""EH"",""CI"",""PL"",""MW"",""SE"",""MR"",""IM"",""YE"",""BI"",""LY"",""PM"",""JP"",""GA"",""CH"",""OM"",""AO"",""DJ"",""ET"",""PT"",""GW"",""GS"",""MG"",""SM"",""CV"",""VG"",""AG"",""AS"",""TR"",""SL"",""TJ"",""WS"",""LK"",""ES"",""HM"",""SN"",""NO"",""TL"",""GF"",""MS"",""GL"",""GI"",""SH"",""YT"",""IL"",""LI"",""GB"",""FO"",""MH"",""TC"",""BY"",""PS"",""CM"",""RW"",""BJ""]},{""episodesLaunched"":4,""countryList"":[""CR"",""PY"",""PR"",""BZ"",""NI"",""EC"",""MX"",""UY"",""GQ"",""AR"",""CU"",""PA"",""DO"",""BO"",""VE"",""CO"",""SV"",""HN"",""BR"",""GT"",""CL"",""PE""]}]"
+2023-12-10	TV (Non-English)	4	Sweet Home	Sweet Home: Season 2	37100000	9.5167	3900000	2	false	
+2023-12-10	TV (Non-English)	5	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	8200000	0	2300000	1	true	"[{""episodesLaunched"":4,""countryList"":[""IS"",""PW"",""TM"",""EE"",""PT"",""BI"",""KZ"",""RW"",""AF"",""JM"",""US"",""VA"",""VG"",""DZ"",""PS"",""ZW"",""BM"",""SR"",""BJ"",""AL"",""SL"",""TG"",""ER"",""NA"",""ME"",""SI"",""MQ"",""AG"",""BS"",""CY"",""AD"",""SH"",""PL"",""SX"",""MF"",""FI"",""GP"",""GS"",""KN"",""CZ"",""IQ"",""KG"",""AZ"",""YE"",""AE"",""GM"",""EH"",""MU"",""FK"",""GB"",""BG"",""FO"",""EG"",""GN"",""TZ"",""LU"",""BQ"",""NG"",""DJ"",""IO"",""QA"",""BA"",""BY"",""ZM"",""SS"",""MA"",""KE"",""CA"",""IE"",""CI"",""MD"",""KY"",""IT"",""CH"",""SD"",""YT"",""RO"",""TT"",""CM"",""GW"",""ET"",""MG"",""MC"",""LV"",""LR"",""SC"",""ES"",""BH"",""LS"",""JO"",""VI"",""IL"",""RE"",""GY"",""AQ"",""JE"",""DE"",""MZ"",""UA"",""NO"",""BW"",""TN"",""HT"",""GE"",""RU"",""MH"",""SN"",""AO"",""BL"",""BB"",""NL"",""CF"",""LC"",""GD"",""SO"",""RS"",""HR"",""MT"",""TR"",""MS"",""LI"",""BE"",""DK"",""IR"",""BF"",""MP"",""GA"",""LY"",""MR"",""MW"",""SK"",""CW"",""AT"",""KM"",""SZ"",""ZA"",""CD"",""CV"",""NE"",""HU"",""DM"",""SE"",""VC"",""PK"",""HM"",""GR"",""GI"",""KW"",""LB"",""LT"",""CG"",""AW"",""GU"",""TJ"",""TD"",""SA"",""GL"",""AI"",""GG"",""FR"",""ML"",""ST"",""GH"",""UG"",""TC"",""UZ"",""SM"",""IM"",""FM"",""OM"",""PM"",""AS"",""GF"",""AM"",""MK""]},{""episodesLaunched"":3,""countryList"":[""NC"",""PH"",""KI"",""LK"",""FJ"",""NP"",""SB"",""IN"",""PN"",""WS"",""PG"",""VU"",""WF"",""AU"",""ID"",""PF"",""BD"",""MM"",""MV"",""BT"",""UM"",""KR"",""TH"",""BN"",""SG"",""LA"",""MO"",""HK"",""NZ"",""MY"",""MN"",""NF"",""CX"",""NR"",""NU"",""TO"",""TV"",""CK"",""TW"",""TK"",""VN"",""TL"",""JP"",""KH"",""CC""]}]"
+2023-12-10	TV (Non-English)	6	Criminal Code	Criminal Code: Season 1	15300000	7.7667	2000000	4	false	
+2023-12-10	TV (Non-English)	7	Sweet Home	Sweet Home: Season 1	16600000	8.6	1900000	1	false	
+2023-12-10	TV (Non-English)	8	Castaway Diva	Castaway Diva: Limited Series	16600000	0	1200000	6	true	"[{""episodesLaunched"":10,""countryList"":[""PY"",""NI"",""SV"",""PE"",""MX"",""BR"",""UY"",""BZ"",""BO"",""DO"",""CL"",""GQ"",""PR"",""CU"",""VE"",""CR"",""HN"",""AR"",""EC"",""GT"",""PA"",""CO""]},{""episodesLaunched"":12,""countryList"":[""SL"",""RE"",""DM"",""HT"",""UA"",""MG"",""LI"",""SC"",""AO"",""YT"",""UG"",""CV"",""CH"",""JO"",""TT"",""AS"",""TC"",""FJ"",""GA"",""MH"",""BF"",""IN"",""LC"",""NG"",""ID"",""JM"",""RS"",""KR"",""UZ"",""FO"",""PL"",""ST"",""BW"",""AZ"",""ME"",""AW"",""CF"",""DK"",""PT"",""IM"",""HR"",""ER"",""IT"",""VN"",""JE"",""MW"",""AT"",""GR"",""WS"",""AM"",""GS"",""ZA"",""CC"",""GP"",""AG"",""AE"",""MM"",""IL"",""FM"",""SX"",""KZ"",""GD"",""FR"",""RW"",""BN"",""GI"",""MF"",""KW"",""ZM"",""EE"",""RU"",""MU"",""SS"",""GH"",""TR"",""NU"",""WF"",""PW"",""IR"",""SG"",""MC"",""TJ"",""GW"",""TW"",""ZW"",""LU"",""MS"",""BE"",""MA"",""EG"",""SK"",""VI"",""KH"",""ML"",""NE"",""SN"",""YE"",""GN"",""KN"",""SR"",""PS"",""KM"",""AD"",""CZ"",""MK"",""BJ"",""BB"",""GE"",""PN"",""MZ"",""GB"",""LR"",""MD"",""TG"",""DZ"",""IE"",""TO"",""BM"",""MO"",""DE"",""ES"",""KE"",""LT"",""PK"",""OM"",""MP"",""AU"",""MN"",""NO"",""SA"",""MQ"",""LY"",""CI"",""TN"",""KI"",""AQ"",""IS"",""CY"",""LB"",""SM"",""BD"",""CK"",""BI"",""GG"",""CW"",""NL"",""FK"",""QA"",""DJ"",""NZ"",""MR"",""TM"",""AF"",""PM"",""HK"",""NF"",""UM"",""EH"",""VA"",""SZ"",""HM"",""TZ"",""SB"",""BG"",""SD"",""MY"",""BL"",""LS"",""LK"",""MV"",""SI"",""SO"",""PF"",""RO"",""FI"",""LV"",""NR"",""AL"",""BA"",""CA"",""NC"",""ET"",""GY"",""BS"",""MT"",""TK"",""VC"",""BH"",""NP"",""GU"",""LA"",""KY"",""GL"",""KG"",""NA"",""BQ"",""PH"",""TL"",""BY"",""SH"",""BT"",""GF"",""CX"",""PG"",""TV"",""VG"",""SE"",""AI"",""CG"",""HU"",""IQ"",""CM"",""GM"",""VU"",""JP"",""TD"",""TH"",""CD"",""IO"",""US""]}]"
+2023-12-10	TV (Non-English)	9	I Hate Christmas	I Hate Christmas: Season 2	3700000	3.3	1100000	1	false	
+2023-12-10	TV (Non-English)	10	High Tides	High Tides: Season 1	6400000	5.7667	1100000	1	false	
 2023-12-03	Films (English)	1	Leo	N/A	42100000	1.7833	23600000	2	false	
 2023-12-03	Films (English)	2	Family Switch	N/A	39200000	1.7667	22200000	1	false	
 2023-12-03	Films (English)	3	Best. Christmas. Ever!	N/A	9600000	1.3667	7000000	3	false	
@@ -1185,7 +1225,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-05-14	TV (English)	4	Missing: Dead or Alive?	Missing: Dead or Alive?: Season 1	23950000			1	false	
 2023-05-14	TV (English)	5	Bridgerton	Bridgerton: Season 1	23880000			7	false	
 2023-05-14	TV (English)	6	The Night Agent	The Night Agent: Season 1	20340000			8	false	
-2023-05-14	TV (English)	7	Queen Cleopatra	Queen Cleopatra: Season 1	20180000			1	false	
+2023-05-14	TV (English)	7	Queen Cleopatra	Queen Cleopatra: Limited Series	20180000			1	false	
 2023-05-14	TV (English)	8	The Diplomat	The Diplomat: Season 1	18370000			4	false	
 2023-05-14	TV (English)	9	Bridgerton	Bridgerton: Season 2	17250000			12	false	
 2023-05-14	TV (English)	10	Sweet Tooth	Sweet Tooth: Season 1	11010000			5	false	
@@ -1307,7 +1347,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-04-23	TV (English)	6	Obsession	Obsession: Limited Series	27120000			2	false	
 2023-04-23	TV (English)	7	Better Call Saul	Better Call Saul: Season 6	14790000			1	false	
 2023-04-23	TV (English)	8	How to Get Rich	How to Get Rich: Season 1	14580000			1	false	
-2023-04-23	TV (English)	9	American Manhunt: The Boston Marathon Bombing	American Manhunt: The Boston Marathon Bombing: Season 1	13190000			2	false	
+2023-04-23	TV (English)	9	American Manhunt: The Boston Marathon Bombing	American Manhunt: The Boston Marathon Bombing: Limited Series	13190000			2	false	
 2023-04-23	TV (English)	10	Wednesday	Wednesday: Season 1	9500000			20	false	
 2023-04-23	TV (Non-English)	1	The Marked Heart	The Marked Heart: Season 2	52310000			1	false	
 2023-04-23	TV (Non-English)	2	Queenmaker	Queenmaker: Season 1	47180000			2	false	
@@ -1344,7 +1384,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-04-16	TV (English)	3	Love Is Blind	Love Is Blind: Season 4	41330000			4	false	
 2023-04-16	TV (English)	4	Obsession	Obsession: Limited Series	40890000			1	false	
 2023-04-16	TV (English)	5	Florida Man	Florida Man: Limited Series	26190000			1	false	
-2023-04-16	TV (English)	6	American Manhunt: The Boston Marathon Bombing	American Manhunt: The Boston Marathon Bombing: Season 1	23370000			1	false	
+2023-04-16	TV (English)	6	American Manhunt: The Boston Marathon Bombing	American Manhunt: The Boston Marathon Bombing: Limited Series	23370000			1	false	
 2023-04-16	TV (English)	7	Transatlantic	Transatlantic: Limited Series	17390000			2	false	
 2023-04-16	TV (English)	8	Designated Survivor	Designated Survivor: Season 1	13110000			2	false	
 2023-04-16	TV (English)	9	Shadow and Bone	Shadow and Bone: Season 2	11620000			5	false	
@@ -1355,7 +1395,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-04-16	TV (Non-English)	4	Divorce Attorney Shin	Divorce Attorney Shin: Limited Series	10390000			3	false	
 2023-04-16	TV (Non-English)	5	Copycat Killer	Copycat Killer: Season 1	8220000			2	false	
 2023-04-16	TV (Non-English)	6	Crash Course in Romance	Crash Course in Romance: Limited Series	6600000			11	false	
-2023-04-16	TV (Non-English)	7	Who Were We Running From?	Who Were We Running From?: Season 1	6560000			4	false	
+2023-04-16	TV (Non-English)	7	Who Were We Running From?	Who Were We Running From?: Limited Series	6560000			4	false	
 2023-04-16	TV (Non-English)	8	Pablo Escobar, el patrón del mal	Pablo Escobar, el patrón del mal: Season 1	6000000			3	false	
 2023-04-16	TV (Non-English)	9	Alchemy of Souls	Alchemy of Souls: Part 1	5850000			20	false	
 2023-04-16	TV (Non-English)	10	Chiquititas	N/A	5670000			8	false	
@@ -1392,7 +1432,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-04-09	TV (Non-English)	1	The Glory	The Glory: Season 1	18570000			10	false	
 2023-04-09	TV (Non-English)	2	Copycat Killer	Copycat Killer: Season 1	17740000			1	false	
 2023-04-09	TV (Non-English)	3	War Sailor	War Sailor: Limited Series	13640000			1	false	
-2023-04-09	TV (Non-English)	4	Who Were We Running From?	Who Were We Running From?: Season 1	13230000			3	false	
+2023-04-09	TV (Non-English)	4	Who Were We Running From?	Who Were We Running From?: Limited Series	13230000			3	false	
 2023-04-09	TV (Non-English)	5	Divorce Attorney Shin	Divorce Attorney Shin: Limited Series	9260000			2	false	
 2023-04-09	TV (Non-English)	6	Crash Course in Romance	Crash Course in Romance: Limited Series	8300000			10	false	
 2023-04-09	TV (Non-English)	7	Thicker Than Water	Thicker Than Water: Season 1	7500000			1	false	
@@ -1429,7 +1469,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-04-02	TV (English)	8	Wednesday	Wednesday: Season 1	12180000			18	false	
 2023-04-02	TV (English)	9	Unstable	Unstable: Season 1	11360000			1	false	
 2023-04-02	TV (English)	10	Outer Banks	Outer Banks: Season 3	11310000			6	false	
-2023-04-02	TV (Non-English)	1	Who Were We Running From?	Who Were We Running From?: Season 1	35890000			2	false	
+2023-04-02	TV (Non-English)	1	Who Were We Running From?	Who Were We Running From?: Limited Series	35890000			2	false	
 2023-04-02	TV (Non-English)	2	The Glory	The Glory: Season 1	26720000			9	false	
 2023-04-02	TV (Non-English)	3	I Am Georgina	I Am Georgina: Season 2	17250000			2	false	
 2023-04-02	TV (Non-English)	4	Crash Course in Romance	Crash Course in Romance: Limited Series	10970000			9	false	
@@ -1471,7 +1511,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-03-26	TV (English)	10	MH370: The Plane That Disappeared	MH370: The Plane That Disappeared: Limited Series	9960000			3	false	
 2023-03-26	TV (Non-English)	1	The Glory	The Glory: Season 1	48350000			8	false	
 2023-03-26	TV (Non-English)	2	Sky High: The Series	Sky High: The Series: Season 1	27800000			2	false	
-2023-03-26	TV (Non-English)	3	Who Were We Running From?	Who Were We Running From?: Season 1	19410000			1	false	
+2023-03-26	TV (Non-English)	3	Who Were We Running From?	Who Were We Running From?: Limited Series	19410000			1	false	
 2023-03-26	TV (Non-English)	4	I Am Georgina	I Am Georgina: Season 2	16080000			1	false	
 2023-03-26	TV (Non-English)	5	Crash Course in Romance	Crash Course in Romance: Limited Series	13510000			8	false	
 2023-03-26	TV (Non-English)	6	Maestro in Blue	Maestro in Blue: Season 1	13260000			2	false	
@@ -2027,7 +2067,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-12-18	TV (English)	6	Firefly Lane	Firefly Lane: Season 2	26570000			3	false	
 2022-12-18	TV (English)	7	1899	1899: Season 1	17850000			5	false	
 2022-12-18	TV (English)	8	The Crown	The Crown: Season 5	13200000			6	false	
-2022-12-18	TV (English)	9	Don't Pick Up the Phone	Don't Pick Up the Phone: Season 1	10780000			1	false	
+2022-12-18	TV (English)	9	Don't Pick Up the Phone	Don't Pick Up the Phone: Limited Series	10780000			1	false	
 2022-12-18	TV (English)	10	Firefly Lane	Firefly Lane: Season 1	10660000			2	false	
 2022-12-18	TV (Non-English)	1	The Unbroken Voice	The Unbroken Voice: Season 1	22570000			4	false	
 2022-12-18	TV (Non-English)	2	Money Heist: Korea - Joint Economic Area	Money Heist: Korea - Joint Economic Area: Season 1	22340000			5	false	
@@ -4623,7 +4663,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-09-19	TV (English)	2	Lucifer	Lucifer: Season 6	98140000			2	false	
 2021-09-19	TV (English)	3	Clickbait	Clickbait: Limited Series	35020000			4	false	
 2021-09-19	TV (English)	4	Good Girls	Good Girls: Season 4	19310000			3	false	
-2021-09-19	TV (English)	5	Turning Point: 9/11 and the War on Terror	Turning Point: 9/11 and the War on Terror: Season 1	18720000			3	false	
+2021-09-19	TV (English)	5	Turning Point: 9/11 and the War on Terror	Turning Point: 9/11 and the War on Terror: Limited Series	18720000			3	false	
 2021-09-19	TV (English)	6	Lucifer	Lucifer: Season 5	16240000			4	false	
 2021-09-19	TV (English)	7	Sex Education	Sex Education: Season 1	14880000			1	false	
 2021-09-19	TV (English)	8	The Circle	The Circle: Season 3	14350000			1	false	
@@ -4661,7 +4701,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-09-12	Films (Non-English)	10	Lassie Come Home	N/A	1410000			1	false	
 2021-09-12	TV (English)	1	Lucifer	Lucifer: Season 6	75940000			1	false	
 2021-09-12	TV (English)	2	Clickbait	Clickbait: Limited Series	54420000			3	false	
-2021-09-12	TV (English)	3	Turning Point: 9/11 and the War on Terror	Turning Point: 9/11 and the War on Terror: Season 1	37910000			2	false	
+2021-09-12	TV (English)	3	Turning Point: 9/11 and the War on Terror	Turning Point: 9/11 and the War on Terror: Limited Series	37910000			2	false	
 2021-09-12	TV (English)	4	Good Girls	Good Girls: Season 4	31750000			2	false	
 2021-09-12	TV (English)	5	Sharkdog	Sharkdog: Season 1	19590000			1	false	
 2021-09-12	TV (English)	6	The 100	The 100: Season 7	12990000			2	false	
@@ -4701,7 +4741,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-09-05	Films (Non-English)	10	Pinkfong & Baby Shark's Space Adventure	N/A	1120000			1	false	
 2021-09-05	TV (English)	1	Clickbait	Clickbait: Limited Series	76540000			2	false	
 2021-09-05	TV (English)	2	Good Girls	Good Girls: Season 4	37580000			1	false	
-2021-09-05	TV (English)	3	Turning Point: 9/11 and the War on Terror	Turning Point: 9/11 and the War on Terror: Season 1	24050000			1	false	
+2021-09-05	TV (English)	3	Turning Point: 9/11 and the War on Terror	Turning Point: 9/11 and the War on Terror: Limited Series	24050000			1	false	
 2021-09-05	TV (English)	4	Manifest	Manifest: Season 3	15660000			2	false	
 2021-09-05	TV (English)	5	The 100	The 100: Season 7	13590000			1	false	
 2021-09-05	TV (English)	6	Outer Banks	Outer Banks: Season 2	12910000			6	false	
