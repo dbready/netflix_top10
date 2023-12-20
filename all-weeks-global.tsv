@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2023-12-17	Films (English)	1	Leave the World Behind	N/A	106200000	2.3667	44900000	2	false	
+2023-12-17	Films (English)	2	Chicken Run: Dawn of the Nugget	N/A	20300000	1.7	11900000	1	false	
+2023-12-17	Films (English)	3	Leo	N/A	16800000	1.7833	9400000	4	false	
+2023-12-17	Films (English)	4	Family Switch	N/A	16600000	1.7667	9400000	3	false	
+2023-12-17	Films (English)	5	The Super Mario Bros. Movie	N/A	13700000	1.5333	8900000	3	false	
+2023-12-17	Films (English)	6	Underwater	N/A	9200000	1.5833	5800000	1	false	
+2023-12-17	Films (English)	7	Old	N/A	10000000	1.8	5600000	1	false	
+2023-12-17	Films (English)	8	Christmas as Usual	N/A	7100000	1.4833	4800000	2	false	
+2023-12-17	Films (English)	9	Dr. Seuss' The Grinch	N/A	5700000	1.4333	4000000	5	false	
+2023-12-17	Films (English)	10	Holiday in the Vineyards	N/A	6900000	1.7833	3900000	1	false	
+2023-12-17	Films (Non-English)	1	Blood Vessel	N/A	8800000	1.9833	4400000	2	false	
+2023-12-17	Films (Non-English)	2	Stolen Vacation	N/A	3200000	1.5333	2100000	2	false	
+2023-12-17	Films (Non-English)	3	Dhak Dhak	N/A	3700000	2.2833	1600000	1	false	
+2023-12-17	Films (Non-English)	4	The Archies	N/A	3100000	2.4	1300000	2	false	
+2023-12-17	Films (Non-English)	5	Don't Buy the Seller	N/A	2100000	1.7	1200000	1	false	
+2023-12-17	Films (Non-English)	6	Familia	N/A	1800000	1.7667	1000000	1	false	
+2023-12-17	Films (Non-English)	7	NAGA	N/A	1900000	1.8833	1000000	1	false	
+2023-12-17	Films (Non-English)	8	Nowhere	N/A	1800000	1.8167	1000000	9	false	
+2023-12-17	Films (Non-English)	9	Women on the Edge	N/A	1400000	1.5833	900000	3	false	
+2023-12-17	Films (Non-English)	10	Japan	N/A	2200000	2.5667	900000	1	false	
+2023-12-17	TV (English)	1	My Life With the Walter Boys	My Life With the Walter Boys: Season 1	97500000	7.6167	12800000	2	false	
+2023-12-17	TV (English)	2	The Crown	The Crown: Season 6	50900000	8.75	5800000	5	false	
+2023-12-17	TV (English)	3	Obliterated	Obliterated: Season 1	35600000	6.8333	5200000	3	false	
+2023-12-17	TV (English)	4	World War II: From the Frontlines	World War II: From the Frontlines: Season 1	21200000	4.85	4400000	2	false	
+2023-12-17	TV (English)	5	Squid Game: The Challenge	Squid Game: The Challenge: Season 1	24900000	8.1667	3000000	4	false	
+2023-12-17	TV (English)	6	Car Masters: Rust to Riches	Car Masters: Rust to Riches: Season 5	12900000	5.3	2400000	1	false	
+2023-12-17	TV (English)	7	Bad Surgeon: Love Under the Knife	Bad Surgeon: Love Under the Knife: Season 1	6100000	2.6667	2300000	3	false	
+2023-12-17	TV (English)	8	CoComelon Lane	CoComelon Lane: Season 1	7800000	3.9167	2000000	4	false	
+2023-12-17	TV (English)	9	Young Sheldon	Young Sheldon: Season 1	11600000	7.2167	1600000	4	false	
+2023-12-17	TV (English)	10	School Spirits	School Spirits: Season 1	8900000	6.2	1400000	1	false	
+2023-12-17	TV (Non-English)	1	Yu Yu Hakusho	Yu Yu Hakusho: Season 1	32100000	4.1833	7700000	1	false	
+2023-12-17	TV (Non-English)	2	My Demon	My Demon: Season 1	33600000	0	4200000	4	true	"[{""episodesLaunched"":6,""countryList"":[""VE"",""GT"",""CL"",""AR"",""PA"",""SV"",""PE"",""BZ"",""PY"",""UY"",""MX"",""CO"",""NI"",""GQ"",""CU"",""CR"",""PR"",""HN"",""DO"",""BO"",""BR"",""EC""]},{""episodesLaunched"":8,""countryList"":[""GS"",""SO"",""BD"",""UM"",""NA"",""SA"",""US"",""MV"",""AL"",""CM"",""EE"",""LR"",""MK"",""CK"",""RU"",""YT"",""IE"",""NG"",""HK"",""SS"",""FI"",""MD"",""NL"",""TH"",""HR"",""NU"",""AS"",""TR"",""SN"",""KW"",""ID"",""RW"",""PW"",""MH"",""TC"",""PH"",""IS"",""SK"",""MZ"",""KE"",""LV"",""BT"",""MW"",""LK"",""JP"",""BJ"",""GU"",""KI"",""NZ"",""AW"",""EH"",""RO"",""TK"",""AT"",""ER"",""IN"",""MY"",""AZ"",""BA"",""HT"",""MF"",""RE"",""GW"",""AO"",""DJ"",""UG"",""VA"",""GE"",""KN"",""AI"",""SI"",""AD"",""KZ"",""PN"",""FM"",""BL"",""NP"",""JO"",""LY"",""TW"",""GL"",""SD"",""TM"",""KM"",""AF"",""CA"",""WS"",""MC"",""NO"",""TL"",""GR"",""PK"",""KH"",""QA"",""EG"",""LS"",""MG"",""SM"",""VI"",""MR"",""IM"",""YE"",""NE"",""LU"",""SB"",""UA"",""GB"",""SL"",""CX"",""BS"",""TV"",""NC"",""CV"",""CW"",""BF"",""LT"",""ES"",""HM"",""JE"",""FK"",""MN"",""DZ"",""OM"",""GM"",""TJ"",""VG"",""DE"",""AQ"",""JM"",""HU"",""AE"",""IL"",""LI"",""SR"",""IQ"",""LA"",""MU"",""SZ"",""NR"",""DM"",""ZM"",""PM"",""FR"",""SC"",""BW"",""CD"",""ET"",""BN"",""ME"",""CC"",""ST"",""BE"",""UZ"",""ZW"",""BH"",""TZ"",""BY"",""PS"",""SE"",""SH"",""GF"",""MP"",""VN"",""VU"",""IO"",""DK"",""GA"",""GH"",""GG"",""TG"",""TD"",""CF"",""RS"",""VC"",""GN"",""CH"",""MT"",""TT"",""AG"",""MA"",""LB"",""CI"",""PL"",""MQ"",""GY"",""PG"",""IT"",""SG"",""FJ"",""MO"",""GD"",""NF"",""PT"",""BQ"",""PF"",""CG"",""GP"",""ZA"",""LC"",""MS"",""AU"",""CZ"",""BI"",""KR"",""KY"",""CY"",""SX"",""TO"",""WF"",""TN"",""BG"",""FO"",""AM"",""IR"",""ML"",""MM"",""BB"",""KG"",""BM"",""GI""]}]"
+2023-12-17	TV (Non-English)	3	Blood Coast	Blood Coast: Season 1	19900000	5.2833	3800000	2	false	
+2023-12-17	TV (Non-English)	4	Single’s Inferno	Single’s Inferno: Season 3	11900000	3.3	3600000	1	false	
+2023-12-17	TV (Non-English)	5	High Tides	High Tides: Season 1	19100000	5.7667	3300000	2	false	
+2023-12-17	TV (Non-English)	6	True Beauty	N/A	63500000	20.0167	3200000	3	false	
+2023-12-17	TV (Non-English)	7	A Nearly Normal Family	A Nearly Normal Family: Limited Series	12200000	4.5333	2700000	4	false	
+2023-12-17	TV (Non-English)	8	If I Were Luísa Sonza	If I Were Luísa Sonza: Season 1	4000000	1.85	2200000	1	false	
+2023-12-17	TV (Non-English)	9	Dubai Bling	Dubai Bling: Season 2	12600000	6.4833	1900000	1	false	
+2023-12-17	TV (Non-English)	10	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	11000000	0	1900000	2	true	"[{""episodesLaunched"":6,""countryList"":[""SL"",""BG"",""SO"",""NA"",""TZ"",""GI"",""KW"",""LB"",""LT"",""ER"",""ES"",""YE"",""RO"",""TT"",""AQ"",""FR"",""KE"",""RW"",""UA"",""CG"",""AF"",""DJ"",""IO"",""SK"",""MT"",""AI"",""TM"",""DE"",""HR"",""SS"",""JM"",""US"",""LV"",""GN"",""AZ"",""AL"",""GR"",""OM"",""PM"",""EH"",""GL"",""LS"",""PS"",""ET"",""SN"",""VA"",""VG"",""IM"",""CW"",""FI"",""GP"",""GS"",""KN"",""SA"",""IS"",""MH"",""ME"",""UG"",""VC"",""BS"",""GU"",""TJ"",""MR"",""BA"",""MA"",""FK"",""FO"",""BW"",""EE"",""ZW"",""GY"",""SM"",""TG"",""BJ"",""EG"",""RS"",""MK"",""GE"",""RU"",""BY"",""ZM"",""MW"",""ST"",""GW"",""GD"",""BH"",""IT"",""LI"",""PT"",""SR"",""GB"",""CF"",""LC"",""SX"",""NL"",""CI"",""MD"",""NE"",""MZ"",""SE"",""SI"",""PL"",""HM"",""SH"",""GH"",""LU"",""DM"",""IE"",""TC"",""UZ"",""BI"",""KZ"",""FM"",""CY"",""JE"",""IL"",""RE"",""CM"",""AW"",""TN"",""MP"",""BE"",""DK"",""AO"",""BL"",""QA"",""MS"",""PW"",""PK"",""MG"",""BM"",""CH"",""SD"",""YT"",""KG"",""NO"",""CD"",""CV"",""BQ"",""NG"",""BB"",""AE"",""GM"",""GG"",""ML"",""LY"",""LR"",""SC"",""AM"",""JO"",""VI"",""MC"",""GA"",""AS"",""GF"",""AG"",""HU"",""MU"",""KY"",""IR"",""BF"",""CZ"",""IQ"",""DZ"",""TR"",""CA"",""HT"",""TD"",""MQ"",""AD"",""AT"",""KM"",""SZ"",""ZA"",""MF""]},{""episodesLaunched"":5,""countryList"":[""FJ"",""TK"",""NZ"",""IN"",""NU"",""TO"",""TV"",""BT"",""PN"",""TL"",""CX"",""TW"",""BN"",""MO"",""KH"",""MM"",""AU"",""VU"",""MV"",""CK"",""WS"",""UM"",""ID"",""SG"",""LA"",""KI"",""HK"",""TH"",""JP"",""MN"",""NP"",""PG"",""NF"",""KR"",""SB"",""PH"",""NR"",""LK"",""BD"",""NC"",""CC"",""WF"",""MY"",""VN"",""PF""]}]"
 2023-12-10	Films (English)	1	Leave the World Behind	N/A	98700000	2.3667	41700000	1	false	
 2023-12-10	Films (English)	2	Family Switch	N/A	32900000	1.7667	18600000	2	false	
 2023-12-10	Films (English)	3	Leo	N/A	25400000	1.7833	14200000	3	false	
