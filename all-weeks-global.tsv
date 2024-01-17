@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-01-14	Films (English)	1	Lift	N/A	58500000	1.7833	32800000	1	false	
+2024-01-14	Films (English)	2	Transporter 2	N/A	8500000	1.4667	5800000	1	false	
+2024-01-14	Films (English)	3	The Equalizer 3	N/A	10400000	1.8167	5700000	2	false	
+2024-01-14	Films (English)	4	The Proposal	N/A	8800000	1.7833	4900000	1	false	
+2024-01-14	Films (English)	5	Tyler Perry's The Single Moms Club	N/A	8500000	1.85	4600000	1	false	
+2024-01-14	Films (English)	6	The Super Mario Bros. Movie	N/A	7000000	1.5333	4600000	7	false	
+2024-01-14	Films (English)	7	Leo	N/A	7100000	1.7833	4000000	8	false	
+2024-01-14	Films (English)	8	Rebel Moon — Part One: A Child of Fire	N/A	8900000	2.2667	3900000	4	false	
+2024-01-14	Films (English)	9	The Croods	N/A	6200000	1.6333	3800000	8	false	
+2024-01-14	Films (English)	10	A Day to Die	N/A	6000000	1.75	3400000	1	false	
+2024-01-14	Films (Non-English)	1	Society of the Snow	N/A	68300000	2.4333	28100000	2	false	
+2024-01-14	Films (Non-English)	2	CJ7	N/A	3800000	1.4667	2600000	1	false	
+2024-01-14	Films (Non-English)	3	Kingdom 3: The Flame of Destiny	N/A	5100000	2.15	2400000	1	false	
+2024-01-14	Films (Non-English)	4	Hi Papa (Hindi)	N/A	3100000	2.6	1200000	1	false	
+2024-01-14	Films (Non-English)	5	Desierto	N/A	1700000	1.45	1200000	1	false	
+2024-01-14	Films (Non-English)	6	Hi Nanna	N/A	2600000	2.6	1000000	2	false	
+2024-01-14	Films (Non-English)	7	Nowhere	N/A	1700000	1.8167	900000	13	false	
+2024-01-14	Films (Non-English)	8	A Vampire in the Family	N/A	1400000	1.5	900000	3	false	
+2024-01-14	Films (Non-English)	9	Thank You, I'm Sorry	N/A	1400000	1.5167	900000	3	false	
+2024-01-14	Films (Non-English)	10	Air Mata di Ujung Sajadah	N/A	1600000	1.75	900000	1	false	
+2024-01-14	TV (English)	1	Fool Me Once	Fool Me Once: Limited Series	153300000	6.4167	23900000	2	false	
+2024-01-14	TV (English)	2	The Brothers Sun	The Brothers Sun: Season 1	50500000	7.3333	6900000	2	false	
+2024-01-14	TV (English)	3	Jeffrey Epstein: Filthy Rich	Jeffrey Epstein: Filthy Rich: Limited Series	15100000	3.7667	4000000	1	false	
+2024-01-14	TV (English)	4	You Are What You Eat: A Twin Experiment	You Are What You Eat: A Twin Experiment: Limited Series	13100000	3.3333	3900000	2	false	
+2024-01-14	TV (English)	5	Boy Swallows Universe	Boy Swallows Universe: Limited Series	24500000	6.7333	3600000	1	false	
+2024-01-14	TV (English)	6	My Life With the Walter Boys	My Life With the Walter Boys: Season 1	22500000	7.6167	3000000	6	false	
+2024-01-14	TV (English)	7	Dave Chappelle: The Dreamer	N/A	2500000	0.95	2600000	3	false	
+2024-01-14	TV (English)	8	Pete Davidson: Turbo Fonzarelli	N/A	2100000	0.9333	2300000	1	false	
+2024-01-14	TV (English)	9	The Trust	The Trust: Season 1	7500000	3.5167	2100000	1	false	
+2024-01-14	TV (English)	10	Sonic Prime	Sonic Prime: Season 3	5900000	2.8333	2100000	1	false	
+2024-01-14	TV (Non-English)	1	Berlin	Berlin: Season 1	57000000	6.5667	8700000	3	false	
+2024-01-14	TV (Non-English)	2	Detective Forst	Detective Forst: Season 1	20500000	4.3	4800000	1	false	
+2024-01-14	TV (Non-English)	3	My Demon	My Demon: Season 1	39200000	0	2700000	8	true	"[{""episodesLaunched"":14,""countryList"":[""KZ"",""IS"",""SG"",""MW"",""AZ"",""BA"",""HT"",""MF"",""TD"",""BM"",""MG"",""SM"",""GM"",""UG"",""MH"",""TC"",""NZ"",""BB"",""KG"",""MT"",""KM"",""BF"",""LT"",""DE"",""JP"",""SL"",""CK"",""SR"",""CC"",""ST"",""VG"",""IE"",""NE"",""CG"",""MZ"",""BG"",""ZM"",""RU"",""AE"",""AW"",""UA"",""MQ"",""AT"",""CV"",""SD"",""AL"",""MO"",""TV"",""SA"",""ER"",""IN"",""MY"",""NO"",""TL"",""NR"",""NP"",""LY"",""NG"",""AD"",""GA"",""KR"",""SS"",""IT"",""VI"",""VN"",""AU"",""RW"",""GL"",""CI"",""PL"",""GS"",""GH"",""NA"",""GG"",""MV"",""TM"",""MR"",""BQ"",""SE"",""BL"",""ES"",""HM"",""TG"",""EE"",""TH"",""CM"",""TW"",""AO"",""DJ"",""PF"",""PW"",""DZ"",""ID"",""VU"",""KE"",""LV"",""PT"",""SO"",""PN"",""LU"",""DM"",""AS"",""GY"",""PG"",""WF"",""SK"",""OM"",""IR"",""GW"",""VA"",""GU"",""TJ"",""GD"",""GP"",""ZA"",""DK"",""PH"",""BJ"",""WS"",""SX"",""JM"",""LK"",""AI"",""SI"",""FO"",""JO"",""MP"",""TR"",""NC"",""FK"",""MN"",""MM"",""CF"",""RS"",""VC"",""AQ"",""ET"",""LR"",""CW"",""GN"",""ML"",""BE"",""UZ"",""CD"",""FJ"",""AG"",""TN"",""BI"",""RO"",""US"",""GR"",""PK"",""EH"",""EG"",""LS"",""GF"",""BH"",""TZ"",""KH"",""CX"",""GB"",""GE"",""KN"",""BS"",""LB"",""CZ"",""JE"",""SN"",""KI"",""BT"",""NF"",""TT"",""MC"",""PM"",""KW"",""BW"",""BD"",""UM"",""FR"",""BY"",""PS"",""TK"",""FM"",""HU"",""IQ"",""AM"",""IO"",""BN"",""ME"",""FI"",""MD"",""NL"",""MA"",""SB"",""MS"",""IL"",""LI"",""YT"",""MK"",""KY"",""TO"",""HR"",""NU"",""SH"",""ZW"",""CH"",""CY"",""LA"",""MU"",""SZ"",""QA"",""GI"",""LC"",""AF"",""CA"",""SC"",""IM"",""YE"",""RE"",""HK""]},{""episodesLaunched"":12,""countryList"":[""CL"",""MX"",""CR"",""BR"",""GT"",""AR"",""CU"",""HN"",""CO"",""SV"",""PY"",""BO"",""VE"",""UY"",""PR"",""NI"",""PE"",""GQ"",""PA"",""EC"",""DO"",""BZ""]}]"
+2024-01-14	TV (Non-English)	4	Gyeongseong Creature	Gyeongseong Creature: Season 1	29900000	11.5333	2600000	4	false	
+2024-01-14	TV (Non-English)	5	The Manny	N/A	13600000	5.75	2400000	3	false	
+2024-01-14	TV (Non-English)	6	Delicious in Dungeon	Delicious in Dungeon: Season 1	1900000	0.8833	2200000	1	false	
+2024-01-14	TV (Non-English)	7	Single’s Inferno	Single’s Inferno: Season 3	24500000	13.95	1800000	5	false	
+2024-01-14	TV (Non-English)	8	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	22800000	0	1700000	5	true	"[{""episodesLaunched"":8,""countryList"":[""CR"",""PR"",""VE"",""EC"",""SV"",""PE"",""BR"",""MX"",""CO"",""BO"",""HN"",""GQ"",""PY"",""DO"",""PA"",""CL"",""UY"",""GT"",""NI"",""CU"",""AR"",""BZ""]},{""episodesLaunched"":13,""countryList"":[""SG"",""PF"",""TW"",""NZ"",""TK"",""BT"",""NF"",""CK"",""MM"",""LA"",""NP"",""WF"",""NR"",""VN"",""CX"",""MN"",""UM"",""MO"",""LK"",""BN"",""BD"",""AU"",""HK"",""ID"",""PH"",""MY"",""CC"",""JP"",""KH"",""KI"",""KR"",""NU"",""TO"",""TV"",""NC"",""TL"",""PN"",""MV"",""IN"",""TH"",""FJ"",""WS"",""PG"",""SB"",""VU""]},{""episodesLaunched"":14,""countryList"":[""BQ"",""NG"",""GI"",""KW"",""LB"",""LT"",""YE"",""GB"",""CH"",""SD"",""YT"",""MZ"",""EH"",""QA"",""TZ"",""AL"",""FI"",""GP"",""GS"",""KN"",""TR"",""IS"",""NA"",""IL"",""RE"",""MU"",""BW"",""LU"",""DJ"",""IO"",""VC"",""BS"",""BA"",""AZ"",""CG"",""KY"",""ES"",""IE"",""SH"",""BI"",""KZ"",""DZ"",""CF"",""LC"",""OM"",""PM"",""MS"",""UG"",""SE"",""ME"",""SR"",""HR"",""RS"",""SM"",""PL"",""AO"",""BL"",""CI"",""MD"",""EE"",""MP"",""ZW"",""TN"",""ET"",""AW"",""TM"",""FK"",""TG"",""ST"",""LS"",""GY"",""UA"",""MG"",""SS"",""CD"",""CV"",""SK"",""AM"",""FO"",""EG"",""JO"",""VI"",""IR"",""GU"",""TJ"",""MR"",""PW"",""AE"",""GM"",""LV"",""IT"",""CA"",""MH"",""NL"",""NO"",""MK"",""BJ"",""JE"",""HT"",""ML"",""MQ"",""SX"",""NE"",""SA"",""AQ"",""LI"",""VA"",""VG"",""DE"",""RW"",""CM"",""SO"",""AS"",""GF"",""MT"",""HM"",""AI"",""BB"",""GN"",""SI"",""BF"",""GD"",""KG"",""PK"",""CZ"",""IQ"",""AD"",""FR"",""TC"",""UZ"",""FM"",""PS"",""AT"",""KM"",""SZ"",""ZA"",""HU"",""MC"",""LY"",""BG"",""MA"",""KE"",""DM"",""PT"",""TD"",""BY"",""ZM"",""ER"",""SN"",""MW"",""AG"",""RO"",""TT"",""CW"",""SL"",""LR"",""SC"",""BM"",""GG"",""AF"",""CY"",""GH"",""BH"",""GE"",""RU"",""GL"",""IM"",""GW"",""GA"",""BE"",""DK"",""MF"",""JM"",""US"",""GR""]}]"
+2024-01-14	TV (Non-English)	9	True Beauty	N/A	26600000	20.0167	1300000	7	false	
+2024-01-14	TV (Non-English)	10	Love is Blind: Sweden	Love is Blind: Sweden: Season 1	4700000	4.15	1100000	1	false	
 2024-01-07	Films (English)	1	The Equalizer 3	N/A	26800000	1.8167	14800000	1	false	
 2024-01-07	Films (English)	2	Rebel Moon — Part One: A Child of Fire	N/A	25100000	2.2667	11100000	3	false	
 2024-01-07	Films (English)	3	Leave the World Behind	N/A	18700000	2.3667	7900000	5	false	
