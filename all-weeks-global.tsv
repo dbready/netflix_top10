@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-01-21	Films (English)	1	Lift	N/A	65400000	1.7833	36700000	2	false	
+2024-01-21	Films (English)	2	The Legend of Tarzan	N/A	14400000	1.8333	7900000	1	false	
+2024-01-21	Films (English)	3	The Kitchen	N/A	10200000	1.8167	5600000	1	false	
+2024-01-21	Films (English)	4	Stillwater	N/A	12700000	2.3167	5500000	1	false	
+2024-01-21	Films (English)	5	The Equalizer 3	N/A	8300000	1.8167	4600000	3	false	
+2024-01-21	Films (English)	6	The Forever Purge	N/A	7700000	1.7167	4500000	1	false	
+2024-01-21	Films (English)	7	Queenpins	N/A	8100000	1.8333	4400000	1	false	
+2024-01-21	Films (English)	8	The Super Mario Bros. Movie	N/A	6500000	1.5333	4200000	8	false	
+2024-01-21	Films (English)	9	Wild	N/A	7300000	1.9333	3800000	1	false	
+2024-01-21	Films (English)	10	Leo	N/A	5800000	1.7833	3300000	9	false	
+2024-01-21	Films (Non-English)	1	Society of the Snow	N/A	32700000	2.4333	13400000	3	false	
+2024-01-21	Films (Non-English)	2	Sixty Minutes	N/A	15900000	1.5	10600000	1	false	
+2024-01-21	Films (Non-English)	3	Salaar	N/A	4700000	2.9	1600000	1	false	
+2024-01-21	Films (Non-English)	4	From the Ashes	N/A	2300000	1.5333	1500000	1	false	
+2024-01-21	Films (Non-English)	5	maboroshi	N/A	2400000	1.85	1300000	1	false	
+2024-01-21	Films (Non-English)	6	CJ7	N/A	1700000	1.4667	1200000	2	false	
+2024-01-21	Films (Non-English)	7	Kingdom 3: The Flame of Destiny	N/A	2300000	2.15	1100000	2	false	
+2024-01-21	Films (Non-English)	8	Dr. Cheon and the Lost Talisman	N/A	1600000	1.6333	1000000	1	false	
+2024-01-21	Films (Non-English)	9	Caged Wings	N/A	1600000	1.7167	900000	1	false	
+2024-01-21	Films (Non-English)	10	Love at Second Sight	N/A	1800000	1.9667	900000	1	false	
+2024-01-21	TV (English)	1	American Nightmare	American Nightmare: Season 1	48100000	2.25	21400000	1	false	
+2024-01-21	TV (English)	2	Fool Me Once	Fool Me Once: Limited Series	71700000	6.4167	11200000	3	false	
+2024-01-21	TV (English)	3	Boy Swallows Universe	Boy Swallows Universe: Limited Series	27200000	6.7333	4000000	2	false	
+2024-01-21	TV (English)	4	Yellowstone	Yellowstone: Season 1	27600000	7.5333	3700000	1	false	
+2024-01-21	TV (English)	5	The Brothers Sun	The Brothers Sun: Season 1	19700000	7.3333	2700000	3	false	
+2024-01-21	TV (English)	6	My Life With the Walter Boys	My Life With the Walter Boys: Season 1	16100000	7.6167	2100000	7	false	
+2024-01-21	TV (English)	7	The Stranger	The Stranger: Limited Series	12200000	6.1167	2000000	1	false	
+2024-01-21	TV (English)	8	Sonic Prime	Sonic Prime: Season 3	5100000	2.8333	1800000	2	false	
+2024-01-21	TV (English)	9	Yellowstone	Yellowstone: Season 2	13200000	7.7667	1700000	1	false	
+2024-01-21	TV (English)	10	Loudermilk	Loudermilk: Season 1	8000000	4.7333	1700000	1	false	
+2024-01-21	TV (Non-English)	1	Berlin	Berlin: Season 1	32700000	6.5667	5000000	4	false	
+2024-01-21	TV (Non-English)	2	Detective Forst	Detective Forst: Season 1	20100000	4.3	4700000	2	false	
+2024-01-21	TV (Non-English)	3	My Demon	My Demon: Limited Series	44000000	0	2600000	9	true	"[{""episodesLaunched"":14,""countryList"":[""CR"",""VE"",""BR"",""HN"",""CU"",""SV"",""CO"",""PE"",""EC"",""UY"",""BZ"",""CL"",""GQ"",""PY"",""GT"",""BO"",""PA"",""MX"",""DO"",""AR"",""NI"",""PR""]},{""episodesLaunched"":16,""countryList"":[""MC"",""BN"",""ME"",""GN"",""GG"",""TD"",""RW"",""LY"",""JO"",""NA"",""FM"",""MR"",""AQ"",""VU"",""PT"",""SD"",""IT"",""VI"",""CX"",""CI"",""PL"",""EH"",""TO"",""KR"",""SA"",""CV"",""SK"",""BM"",""UG"",""TG"",""GM"",""ZM"",""CM"",""AL"",""ES"",""HM"",""FO"",""MH"",""TC"",""AO"",""DJ"",""ID"",""AM"",""MO"",""SR"",""SE"",""AU"",""LR"",""NO"",""TL"",""LB"",""DE"",""SL"",""BE"",""UZ"",""EE"",""NE"",""AT"",""CH"",""UA"",""CK"",""HK"",""GP"",""ZA"",""AE"",""SH"",""GB"",""GF"",""CG"",""BT"",""VA"",""WS"",""PM"",""HU"",""GR"",""PK"",""SN"",""BY"",""PS"",""DM"",""MZ"",""MS"",""FR"",""YT"",""NR"",""IM"",""YE"",""BJ"",""IR"",""FJ"",""SX"",""BG"",""SC"",""CC"",""ST"",""BW"",""PH"",""HR"",""NU"",""IS"",""GS"",""OM"",""KY"",""GH"",""MQ"",""IQ"",""MT"",""IE"",""AW"",""KH"",""BL"",""NF"",""TJ"",""LU"",""AD"",""MG"",""SM"",""SB"",""EG"",""LS"",""JM"",""DZ"",""GD"",""BI"",""CF"",""RS"",""VC"",""KW"",""MA"",""KI"",""US"",""TN"",""TH"",""TR"",""GE"",""KN"",""BD"",""UM"",""ET"",""IL"",""LI"",""AS"",""GW"",""AI"",""SI"",""PN"",""TW"",""LC"",""RO"",""LA"",""MU"",""SZ"",""GI"",""NG"",""AF"",""CA"",""ML"",""JP"",""KM"",""MV"",""SO"",""RU"",""DK"",""MW"",""RE"",""MK"",""BB"",""KG"",""BF"",""LT"",""GL"",""MM"",""AZ"",""BA"",""HT"",""MF"",""CD"",""PF"",""SG"",""GA"",""ZW"",""KE"",""LV"",""BQ"",""NP"",""TV"",""FK"",""MN"",""PW"",""CY"",""CW"",""TK"",""SS"",""FI"",""MD"",""NL"",""MP"",""LK"",""WF"",""ER"",""IN"",""MY"",""TT"",""BH"",""TZ"",""NC"",""QA"",""NZ"",""GU"",""AG"",""IO"",""KZ"",""GY"",""PG"",""JE"",""VN"",""CZ"",""VG"",""TM"",""BS""]}]"
+2024-01-21	TV (Non-English)	4	The Bequeathed	The Bequeathed: Limited Series	11800000	4.7333	2500000	1	false	
+2024-01-21	TV (Non-English)	5	Kübra	Kübra: Season 1	13100000	5.8667	2200000	1	false	
+2024-01-21	TV (Non-English)	6	Demon Slayer: Kimetsu no Yaiba	Demon Slayer: Kimetsu no Yaiba: Swordsmith Village Arc	9300000	5.2833	1800000	2	false	
+2024-01-21	TV (Non-English)	7	Love is Blind: Sweden	Love is Blind: Sweden: Season 1	12600000	7.4333	1700000	2	false	
+2024-01-21	TV (Non-English)	8	Welcome to Samdal-ri	Welcome to Samdal-ri: Limited Series	26200000	0	1700000	6	true	"[{""episodesLaunched"":15,""countryList"":[""LA"",""FJ"",""PH"",""UM"",""NP"",""JP"",""MN"",""TH"",""HK"",""KI"",""NR"",""MO"",""VU"",""BT"",""BD"",""MV"",""KH"",""CC"",""BN"",""NZ"",""KR"",""SG"",""TL"",""MM"",""AU"",""CX"",""PF"",""NU"",""TO"",""TV"",""WF"",""TK"",""PN"",""CK"",""TW"",""PG"",""NF"",""MY"",""NC"",""VN"",""IN"",""ID"",""LK"",""WS"",""SB""]},{""episodesLaunched"":16,""countryList"":[""GA"",""GI"",""KW"",""LB"",""LT"",""MK"",""VC"",""FI"",""GP"",""GS"",""KN"",""GW"",""ZW"",""GR"",""BM"",""MT"",""LV"",""LI"",""UG"",""SA"",""YE"",""ER"",""AW"",""AL"",""CG"",""BS"",""BB"",""ES"",""NA"",""AQ"",""IL"",""RE"",""HM"",""PT"",""MP"",""RO"",""TT"",""AS"",""GF"",""AZ"",""UA"",""PL"",""HT"",""BE"",""DK"",""CF"",""LC"",""IT"",""FK"",""FM"",""IM"",""IR"",""MR"",""SL"",""GN"",""GD"",""SN"",""MH"",""IS"",""AT"",""KM"",""SZ"",""ZA"",""IE"",""TC"",""UZ"",""QA"",""SE"",""BI"",""KZ"",""BG"",""MQ"",""CY"",""CW"",""BW"",""KG"",""SI"",""RW"",""MZ"",""GU"",""TJ"",""BA"",""LU"",""SM"",""ML"",""SH"",""TM"",""CZ"",""IQ"",""MU"",""BH"",""JO"",""VI"",""CI"",""MD"",""FO"",""HU"",""SS"",""TN"",""AM"",""AF"",""EH"",""AG"",""BF"",""CA"",""SX"",""AD"",""ME"",""BY"",""ZM"",""RS"",""TG"",""MF"",""KY"",""PS"",""GY"",""VA"",""VG"",""MC"",""NO"",""GB"",""DE"",""FR"",""JM"",""US"",""CH"",""SD"",""YT"",""SR"",""NL"",""DM"",""MS"",""GH"",""JE"",""MW"",""BJ"",""OM"",""PM"",""BQ"",""NG"",""TD"",""AO"",""BL"",""DZ"",""SK"",""GG"",""AE"",""GM"",""TZ"",""LR"",""SC"",""AI"",""ST"",""DJ"",""IO"",""PW"",""CM"",""EE"",""MG"",""HR"",""CD"",""CV"",""LY"",""TR"",""ET"",""SO"",""LS"",""MA"",""GE"",""RU"",""GL"",""KE"",""PK"",""NE"",""EG""]},{""episodesLaunched"":10,""countryList"":[""SV"",""PA"",""BR"",""CU"",""PY"",""UY"",""BZ"",""GT"",""AR"",""BO"",""HN"",""PR"",""MX"",""EC"",""CR"",""CL"",""DO"",""NI"",""GQ"",""PE"",""CO"",""VE""]}]"
+2024-01-21	TV (Non-English)	9	The Manny	N/A	9400000	5.75	1600000	4	false	
+2024-01-21	TV (Non-English)	10	Delicious in Dungeon	Delicious in Dungeon: Season 1	2000000	1.2833	1600000	2	false	
 2024-01-14	Films (English)	1	Lift	N/A	58500000	1.7833	32800000	1	false	
 2024-01-14	Films (English)	2	Transporter 2	N/A	8500000	1.4667	5800000	1	false	
 2024-01-14	Films (English)	3	The Equalizer 3	N/A	10400000	1.8167	5700000	2	false	
@@ -31,12 +71,12 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-01-14	TV (English)	10	Sonic Prime	Sonic Prime: Season 3	5900000	2.8333	2100000	1	false	
 2024-01-14	TV (Non-English)	1	Berlin	Berlin: Season 1	57000000	6.5667	8700000	3	false	
 2024-01-14	TV (Non-English)	2	Detective Forst	Detective Forst: Season 1	20500000	4.3	4800000	1	false	
-2024-01-14	TV (Non-English)	3	My Demon	My Demon: Season 1	39200000	0	2700000	8	true	"[{""episodesLaunched"":14,""countryList"":[""KZ"",""IS"",""SG"",""MW"",""AZ"",""BA"",""HT"",""MF"",""TD"",""BM"",""MG"",""SM"",""GM"",""UG"",""MH"",""TC"",""NZ"",""BB"",""KG"",""MT"",""KM"",""BF"",""LT"",""DE"",""JP"",""SL"",""CK"",""SR"",""CC"",""ST"",""VG"",""IE"",""NE"",""CG"",""MZ"",""BG"",""ZM"",""RU"",""AE"",""AW"",""UA"",""MQ"",""AT"",""CV"",""SD"",""AL"",""MO"",""TV"",""SA"",""ER"",""IN"",""MY"",""NO"",""TL"",""NR"",""NP"",""LY"",""NG"",""AD"",""GA"",""KR"",""SS"",""IT"",""VI"",""VN"",""AU"",""RW"",""GL"",""CI"",""PL"",""GS"",""GH"",""NA"",""GG"",""MV"",""TM"",""MR"",""BQ"",""SE"",""BL"",""ES"",""HM"",""TG"",""EE"",""TH"",""CM"",""TW"",""AO"",""DJ"",""PF"",""PW"",""DZ"",""ID"",""VU"",""KE"",""LV"",""PT"",""SO"",""PN"",""LU"",""DM"",""AS"",""GY"",""PG"",""WF"",""SK"",""OM"",""IR"",""GW"",""VA"",""GU"",""TJ"",""GD"",""GP"",""ZA"",""DK"",""PH"",""BJ"",""WS"",""SX"",""JM"",""LK"",""AI"",""SI"",""FO"",""JO"",""MP"",""TR"",""NC"",""FK"",""MN"",""MM"",""CF"",""RS"",""VC"",""AQ"",""ET"",""LR"",""CW"",""GN"",""ML"",""BE"",""UZ"",""CD"",""FJ"",""AG"",""TN"",""BI"",""RO"",""US"",""GR"",""PK"",""EH"",""EG"",""LS"",""GF"",""BH"",""TZ"",""KH"",""CX"",""GB"",""GE"",""KN"",""BS"",""LB"",""CZ"",""JE"",""SN"",""KI"",""BT"",""NF"",""TT"",""MC"",""PM"",""KW"",""BW"",""BD"",""UM"",""FR"",""BY"",""PS"",""TK"",""FM"",""HU"",""IQ"",""AM"",""IO"",""BN"",""ME"",""FI"",""MD"",""NL"",""MA"",""SB"",""MS"",""IL"",""LI"",""YT"",""MK"",""KY"",""TO"",""HR"",""NU"",""SH"",""ZW"",""CH"",""CY"",""LA"",""MU"",""SZ"",""QA"",""GI"",""LC"",""AF"",""CA"",""SC"",""IM"",""YE"",""RE"",""HK""]},{""episodesLaunched"":12,""countryList"":[""CL"",""MX"",""CR"",""BR"",""GT"",""AR"",""CU"",""HN"",""CO"",""SV"",""PY"",""BO"",""VE"",""UY"",""PR"",""NI"",""PE"",""GQ"",""PA"",""EC"",""DO"",""BZ""]}]"
+2024-01-14	TV (Non-English)	3	My Demon	My Demon: Limited Series	39200000	0	2700000	8	true	"[{""episodesLaunched"":14,""countryList"":[""KZ"",""IS"",""SG"",""MW"",""AZ"",""BA"",""HT"",""MF"",""TD"",""BM"",""MG"",""SM"",""GM"",""UG"",""MH"",""TC"",""NZ"",""BB"",""KG"",""MT"",""KM"",""BF"",""LT"",""DE"",""JP"",""SL"",""CK"",""SR"",""CC"",""ST"",""VG"",""IE"",""NE"",""CG"",""MZ"",""BG"",""ZM"",""RU"",""AE"",""AW"",""UA"",""MQ"",""AT"",""CV"",""SD"",""AL"",""MO"",""TV"",""SA"",""ER"",""IN"",""MY"",""NO"",""TL"",""NR"",""NP"",""LY"",""NG"",""AD"",""GA"",""KR"",""SS"",""IT"",""VI"",""VN"",""AU"",""RW"",""GL"",""CI"",""PL"",""GS"",""GH"",""NA"",""GG"",""MV"",""TM"",""MR"",""BQ"",""SE"",""BL"",""ES"",""HM"",""TG"",""EE"",""TH"",""CM"",""TW"",""AO"",""DJ"",""PF"",""PW"",""DZ"",""ID"",""VU"",""KE"",""LV"",""PT"",""SO"",""PN"",""LU"",""DM"",""AS"",""GY"",""PG"",""WF"",""SK"",""OM"",""IR"",""GW"",""VA"",""GU"",""TJ"",""GD"",""GP"",""ZA"",""DK"",""PH"",""BJ"",""WS"",""SX"",""JM"",""LK"",""AI"",""SI"",""FO"",""JO"",""MP"",""TR"",""NC"",""FK"",""MN"",""MM"",""CF"",""RS"",""VC"",""AQ"",""ET"",""LR"",""CW"",""GN"",""ML"",""BE"",""UZ"",""CD"",""FJ"",""AG"",""TN"",""BI"",""RO"",""US"",""GR"",""PK"",""EH"",""EG"",""LS"",""GF"",""BH"",""TZ"",""KH"",""CX"",""GB"",""GE"",""KN"",""BS"",""LB"",""CZ"",""JE"",""SN"",""KI"",""BT"",""NF"",""TT"",""MC"",""PM"",""KW"",""BW"",""BD"",""UM"",""FR"",""BY"",""PS"",""TK"",""FM"",""HU"",""IQ"",""AM"",""IO"",""BN"",""ME"",""FI"",""MD"",""NL"",""MA"",""SB"",""MS"",""IL"",""LI"",""YT"",""MK"",""KY"",""TO"",""HR"",""NU"",""SH"",""ZW"",""CH"",""CY"",""LA"",""MU"",""SZ"",""QA"",""GI"",""LC"",""AF"",""CA"",""SC"",""IM"",""YE"",""RE"",""HK""]},{""episodesLaunched"":12,""countryList"":[""CL"",""MX"",""CR"",""BR"",""GT"",""AR"",""CU"",""HN"",""CO"",""SV"",""PY"",""BO"",""VE"",""UY"",""PR"",""NI"",""PE"",""GQ"",""PA"",""EC"",""DO"",""BZ""]}]"
 2024-01-14	TV (Non-English)	4	Gyeongseong Creature	Gyeongseong Creature: Season 1	29900000	11.5333	2600000	4	false	
 2024-01-14	TV (Non-English)	5	The Manny	N/A	13600000	5.75	2400000	3	false	
 2024-01-14	TV (Non-English)	6	Delicious in Dungeon	Delicious in Dungeon: Season 1	1900000	0.8833	2200000	1	false	
 2024-01-14	TV (Non-English)	7	Single’s Inferno	Single’s Inferno: Season 3	24500000	13.95	1800000	5	false	
-2024-01-14	TV (Non-English)	8	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	22800000	0	1700000	5	true	"[{""episodesLaunched"":8,""countryList"":[""CR"",""PR"",""VE"",""EC"",""SV"",""PE"",""BR"",""MX"",""CO"",""BO"",""HN"",""GQ"",""PY"",""DO"",""PA"",""CL"",""UY"",""GT"",""NI"",""CU"",""AR"",""BZ""]},{""episodesLaunched"":13,""countryList"":[""SG"",""PF"",""TW"",""NZ"",""TK"",""BT"",""NF"",""CK"",""MM"",""LA"",""NP"",""WF"",""NR"",""VN"",""CX"",""MN"",""UM"",""MO"",""LK"",""BN"",""BD"",""AU"",""HK"",""ID"",""PH"",""MY"",""CC"",""JP"",""KH"",""KI"",""KR"",""NU"",""TO"",""TV"",""NC"",""TL"",""PN"",""MV"",""IN"",""TH"",""FJ"",""WS"",""PG"",""SB"",""VU""]},{""episodesLaunched"":14,""countryList"":[""BQ"",""NG"",""GI"",""KW"",""LB"",""LT"",""YE"",""GB"",""CH"",""SD"",""YT"",""MZ"",""EH"",""QA"",""TZ"",""AL"",""FI"",""GP"",""GS"",""KN"",""TR"",""IS"",""NA"",""IL"",""RE"",""MU"",""BW"",""LU"",""DJ"",""IO"",""VC"",""BS"",""BA"",""AZ"",""CG"",""KY"",""ES"",""IE"",""SH"",""BI"",""KZ"",""DZ"",""CF"",""LC"",""OM"",""PM"",""MS"",""UG"",""SE"",""ME"",""SR"",""HR"",""RS"",""SM"",""PL"",""AO"",""BL"",""CI"",""MD"",""EE"",""MP"",""ZW"",""TN"",""ET"",""AW"",""TM"",""FK"",""TG"",""ST"",""LS"",""GY"",""UA"",""MG"",""SS"",""CD"",""CV"",""SK"",""AM"",""FO"",""EG"",""JO"",""VI"",""IR"",""GU"",""TJ"",""MR"",""PW"",""AE"",""GM"",""LV"",""IT"",""CA"",""MH"",""NL"",""NO"",""MK"",""BJ"",""JE"",""HT"",""ML"",""MQ"",""SX"",""NE"",""SA"",""AQ"",""LI"",""VA"",""VG"",""DE"",""RW"",""CM"",""SO"",""AS"",""GF"",""MT"",""HM"",""AI"",""BB"",""GN"",""SI"",""BF"",""GD"",""KG"",""PK"",""CZ"",""IQ"",""AD"",""FR"",""TC"",""UZ"",""FM"",""PS"",""AT"",""KM"",""SZ"",""ZA"",""HU"",""MC"",""LY"",""BG"",""MA"",""KE"",""DM"",""PT"",""TD"",""BY"",""ZM"",""ER"",""SN"",""MW"",""AG"",""RO"",""TT"",""CW"",""SL"",""LR"",""SC"",""BM"",""GG"",""AF"",""CY"",""GH"",""BH"",""GE"",""RU"",""GL"",""IM"",""GW"",""GA"",""BE"",""DK"",""MF"",""JM"",""US"",""GR""]}]"
+2024-01-14	TV (Non-English)	8	Welcome to Samdal-ri	Welcome to Samdal-ri: Limited Series	22800000	0	1700000	5	true	"[{""episodesLaunched"":8,""countryList"":[""CR"",""PR"",""VE"",""EC"",""SV"",""PE"",""BR"",""MX"",""CO"",""BO"",""HN"",""GQ"",""PY"",""DO"",""PA"",""CL"",""UY"",""GT"",""NI"",""CU"",""AR"",""BZ""]},{""episodesLaunched"":13,""countryList"":[""SG"",""PF"",""TW"",""NZ"",""TK"",""BT"",""NF"",""CK"",""MM"",""LA"",""NP"",""WF"",""NR"",""VN"",""CX"",""MN"",""UM"",""MO"",""LK"",""BN"",""BD"",""AU"",""HK"",""ID"",""PH"",""MY"",""CC"",""JP"",""KH"",""KI"",""KR"",""NU"",""TO"",""TV"",""NC"",""TL"",""PN"",""MV"",""IN"",""TH"",""FJ"",""WS"",""PG"",""SB"",""VU""]},{""episodesLaunched"":14,""countryList"":[""BQ"",""NG"",""GI"",""KW"",""LB"",""LT"",""YE"",""GB"",""CH"",""SD"",""YT"",""MZ"",""EH"",""QA"",""TZ"",""AL"",""FI"",""GP"",""GS"",""KN"",""TR"",""IS"",""NA"",""IL"",""RE"",""MU"",""BW"",""LU"",""DJ"",""IO"",""VC"",""BS"",""BA"",""AZ"",""CG"",""KY"",""ES"",""IE"",""SH"",""BI"",""KZ"",""DZ"",""CF"",""LC"",""OM"",""PM"",""MS"",""UG"",""SE"",""ME"",""SR"",""HR"",""RS"",""SM"",""PL"",""AO"",""BL"",""CI"",""MD"",""EE"",""MP"",""ZW"",""TN"",""ET"",""AW"",""TM"",""FK"",""TG"",""ST"",""LS"",""GY"",""UA"",""MG"",""SS"",""CD"",""CV"",""SK"",""AM"",""FO"",""EG"",""JO"",""VI"",""IR"",""GU"",""TJ"",""MR"",""PW"",""AE"",""GM"",""LV"",""IT"",""CA"",""MH"",""NL"",""NO"",""MK"",""BJ"",""JE"",""HT"",""ML"",""MQ"",""SX"",""NE"",""SA"",""AQ"",""LI"",""VA"",""VG"",""DE"",""RW"",""CM"",""SO"",""AS"",""GF"",""MT"",""HM"",""AI"",""BB"",""GN"",""SI"",""BF"",""GD"",""KG"",""PK"",""CZ"",""IQ"",""AD"",""FR"",""TC"",""UZ"",""FM"",""PS"",""AT"",""KM"",""SZ"",""ZA"",""HU"",""MC"",""LY"",""BG"",""MA"",""KE"",""DM"",""PT"",""TD"",""BY"",""ZM"",""ER"",""SN"",""MW"",""AG"",""RO"",""TT"",""CW"",""SL"",""LR"",""SC"",""BM"",""GG"",""AF"",""CY"",""GH"",""BH"",""GE"",""RU"",""GL"",""IM"",""GW"",""GA"",""BE"",""DK"",""MF"",""JM"",""US"",""GR""]}]"
 2024-01-14	TV (Non-English)	9	True Beauty	N/A	26600000	20.0167	1300000	7	false	
 2024-01-14	TV (Non-English)	10	Love is Blind: Sweden	Love is Blind: Sweden: Season 1	4700000	4.15	1100000	1	false	
 2024-01-07	Films (English)	1	The Equalizer 3	N/A	26800000	1.8167	14800000	1	false	
@@ -72,9 +112,9 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-01-07	TV (Non-English)	1	Berlin	Berlin: Season 1	146400000	6.5667	22300000	2	false	
 2024-01-07	TV (Non-English)	2	The Manny	N/A	23300000	5.75	4100000	2	false	
 2024-01-07	TV (Non-English)	3	Gyeongseong Creature	Gyeongseong Creature: Season 1	39300000	11.5333	3400000	3	false	
-2024-01-07	TV (Non-English)	4	My Demon	My Demon: Season 1	33800000	0	2800000	7	true	"[{""episodesLaunched"":12,""countryList"":[""SR"",""MW"",""BH"",""TZ"",""KM"",""GD"",""LR"",""ET"",""IO"",""GI"",""HU"",""PF"",""MM"",""JP"",""AW"",""MK"",""GN"",""LC"",""CW"",""LY"",""BN"",""ME"",""AI"",""SI"",""KH"",""KE"",""LV"",""FJ"",""AS"",""BT"",""NA"",""CC"",""ST"",""RE"",""WS"",""JO"",""IM"",""YE"",""BE"",""UZ"",""OM"",""AO"",""DJ"",""NP"",""ES"",""HM"",""TV"",""AZ"",""BA"",""HT"",""MF"",""BJ"",""CX"",""SS"",""BW"",""SD"",""PW"",""AG"",""LU"",""MQ"",""IR"",""GW"",""EE"",""CI"",""PL"",""IL"",""LI"",""TR"",""AF"",""CA"",""PH"",""NE"",""GM"",""FI"",""MD"",""NL"",""DK"",""SB"",""EH"",""SX"",""CY"",""SO"",""MC"",""AD"",""AM"",""MT"",""GG"",""NR"",""CG"",""BS"",""AT"",""SN"",""NC"",""JE"",""KZ"",""MV"",""KR"",""ER"",""IN"",""MY"",""TW"",""FK"",""MN"",""SA"",""VI"",""VN"",""LK"",""HR"",""NU"",""MS"",""RU"",""KW"",""NO"",""TL"",""MO"",""ID"",""HK"",""WF"",""MR"",""BM"",""VA"",""LB"",""US"",""JM"",""RW"",""VG"",""SH"",""BD"",""UM"",""GE"",""KN"",""KY"",""MA"",""SC"",""MP"",""QA"",""NG"",""YT"",""MH"",""TC"",""VU"",""IS"",""CV"",""GY"",""PG"",""TM"",""FM"",""CZ"",""AE"",""DE"",""TO"",""CF"",""RS"",""VC"",""SE"",""TJ"",""TT"",""IT"",""BQ"",""MZ"",""GR"",""PK"",""GH"",""DZ"",""DM"",""CD"",""NF"",""UG"",""RO"",""FO"",""BL"",""TD"",""NZ"",""PN"",""BF"",""LT"",""MG"",""SM"",""GF"",""UA"",""PM"",""TG"",""BB"",""KG"",""TN"",""BI"",""GS"",""GL"",""ZW"",""ML"",""SG"",""IQ"",""CK"",""BY"",""PS"",""CM"",""CH"",""GB"",""GU"",""GA"",""SK"",""TK"",""IE"",""LA"",""MU"",""SZ"",""ZM"",""GP"",""ZA"",""EG"",""LS"",""TH"",""AU"",""AQ"",""KI"",""AL"",""FR"",""SL"",""PT"",""BG""]},{""episodesLaunched"":10,""countryList"":[""EC"",""PE"",""VE"",""HN"",""PY"",""SV"",""BO"",""CL"",""BZ"",""GT"",""DO"",""CR"",""PA"",""BR"",""GQ"",""PR"",""CU"",""AR"",""UY"",""MX"",""CO"",""NI""]}]"
+2024-01-07	TV (Non-English)	4	My Demon	My Demon: Limited Series	33800000	0	2800000	7	true	"[{""episodesLaunched"":12,""countryList"":[""SR"",""MW"",""BH"",""TZ"",""KM"",""GD"",""LR"",""ET"",""IO"",""GI"",""HU"",""PF"",""MM"",""JP"",""AW"",""MK"",""GN"",""LC"",""CW"",""LY"",""BN"",""ME"",""AI"",""SI"",""KH"",""KE"",""LV"",""FJ"",""AS"",""BT"",""NA"",""CC"",""ST"",""RE"",""WS"",""JO"",""IM"",""YE"",""BE"",""UZ"",""OM"",""AO"",""DJ"",""NP"",""ES"",""HM"",""TV"",""AZ"",""BA"",""HT"",""MF"",""BJ"",""CX"",""SS"",""BW"",""SD"",""PW"",""AG"",""LU"",""MQ"",""IR"",""GW"",""EE"",""CI"",""PL"",""IL"",""LI"",""TR"",""AF"",""CA"",""PH"",""NE"",""GM"",""FI"",""MD"",""NL"",""DK"",""SB"",""EH"",""SX"",""CY"",""SO"",""MC"",""AD"",""AM"",""MT"",""GG"",""NR"",""CG"",""BS"",""AT"",""SN"",""NC"",""JE"",""KZ"",""MV"",""KR"",""ER"",""IN"",""MY"",""TW"",""FK"",""MN"",""SA"",""VI"",""VN"",""LK"",""HR"",""NU"",""MS"",""RU"",""KW"",""NO"",""TL"",""MO"",""ID"",""HK"",""WF"",""MR"",""BM"",""VA"",""LB"",""US"",""JM"",""RW"",""VG"",""SH"",""BD"",""UM"",""GE"",""KN"",""KY"",""MA"",""SC"",""MP"",""QA"",""NG"",""YT"",""MH"",""TC"",""VU"",""IS"",""CV"",""GY"",""PG"",""TM"",""FM"",""CZ"",""AE"",""DE"",""TO"",""CF"",""RS"",""VC"",""SE"",""TJ"",""TT"",""IT"",""BQ"",""MZ"",""GR"",""PK"",""GH"",""DZ"",""DM"",""CD"",""NF"",""UG"",""RO"",""FO"",""BL"",""TD"",""NZ"",""PN"",""BF"",""LT"",""MG"",""SM"",""GF"",""UA"",""PM"",""TG"",""BB"",""KG"",""TN"",""BI"",""GS"",""GL"",""ZW"",""ML"",""SG"",""IQ"",""CK"",""BY"",""PS"",""CM"",""CH"",""GB"",""GU"",""GA"",""SK"",""TK"",""IE"",""LA"",""MU"",""SZ"",""ZM"",""GP"",""ZA"",""EG"",""LS"",""TH"",""AU"",""AQ"",""KI"",""AL"",""FR"",""SL"",""PT"",""BG""]},{""episodesLaunched"":10,""countryList"":[""EC"",""PE"",""VE"",""HN"",""PY"",""SV"",""BO"",""CL"",""BZ"",""GT"",""DO"",""CR"",""PA"",""BR"",""GQ"",""PR"",""CU"",""AR"",""UY"",""MX"",""CO"",""NI""]}]"
 2024-01-07	TV (Non-English)	5	Pokémon Concierge	Pokémon Concierge: Season 1	3100000	1.1833	2600000	2	false	
-2024-01-07	TV (Non-English)	6	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	22500000	0	2200000	4	true	"[{""episodesLaunched"":11,""countryList"":[""KI"",""NZ"",""TH"",""JP"",""NU"",""TO"",""TV"",""TL"",""PN"",""SB"",""HK"",""KH"",""WF"",""MO"",""ID"",""PH"",""UM"",""IN"",""SG"",""CX"",""MM"",""CC"",""CK"",""FJ"",""BT"",""PG"",""NF"",""NC"",""KR"",""WS"",""MN"",""NR"",""MY"",""LA"",""TW"",""BD"",""PF"",""NP"",""VU"",""BN"",""MV"",""TK"",""AU"",""VN"",""LK""]},{""episodesLaunched"":12,""countryList"":[""SM"",""NL"",""BH"",""ER"",""AM"",""QA"",""CA"",""CW"",""MG"",""IE"",""ET"",""GD"",""SN"",""IR"",""DM"",""ZW"",""LR"",""SC"",""NE"",""LS"",""GR"",""IL"",""RE"",""ST"",""BE"",""DK"",""GN"",""UA"",""SI"",""PK"",""BJ"",""TZ"",""GW"",""CI"",""MD"",""SK"",""AD"",""MZ"",""GB"",""IS"",""HR"",""MQ"",""CG"",""FR"",""FK"",""EG"",""MC"",""CM"",""MR"",""VA"",""VG"",""AW"",""CD"",""CV"",""AG"",""SA"",""AQ"",""BY"",""ZM"",""NA"",""RW"",""EH"",""AE"",""GM"",""BA"",""SO"",""OM"",""PM"",""UG"",""GA"",""PT"",""YE"",""AF"",""CH"",""SD"",""YT"",""BG"",""DJ"",""IO"",""MH"",""KY"",""MT"",""BM"",""HU"",""AT"",""KM"",""SZ"",""ZA"",""FM"",""BI"",""KZ"",""JE"",""FO"",""BQ"",""NG"",""AS"",""GF"",""TR"",""DZ"",""ES"",""IT"",""SL"",""SE"",""JO"",""VI"",""GL"",""VC"",""GE"",""RU"",""RS"",""NO"",""LI"",""LU"",""MW"",""MK"",""HM"",""GY"",""TN"",""RO"",""TT"",""PW"",""IM"",""MU"",""TG"",""CZ"",""IQ"",""GH"",""BS"",""GG"",""HT"",""FI"",""GP"",""GS"",""KN"",""MP"",""SX"",""ME"",""TD"",""SH"",""CY"",""AL"",""CF"",""LC"",""AO"",""BL"",""MA"",""EE"",""MF"",""BF"",""LV"",""AZ"",""TC"",""UZ"",""MS"",""ML"",""BB"",""GU"",""TJ"",""DE"",""GI"",""KW"",""LB"",""LT"",""JM"",""US"",""LY"",""KG"",""SS"",""KE"",""PS"",""BW"",""SR"",""AI"",""TM"",""PL""]},{""episodesLaunched"":6,""countryList"":[""VE"",""GT"",""AR"",""SV"",""PY"",""BZ"",""PE"",""EC"",""DO"",""CU"",""NI"",""PR"",""PA"",""CO"",""CR"",""BR"",""BO"",""HN"",""GQ"",""MX"",""UY"",""CL""]}]"
+2024-01-07	TV (Non-English)	6	Welcome to Samdal-ri	Welcome to Samdal-ri: Limited Series	22500000	0	2200000	4	true	"[{""episodesLaunched"":11,""countryList"":[""KI"",""NZ"",""TH"",""JP"",""NU"",""TO"",""TV"",""TL"",""PN"",""SB"",""HK"",""KH"",""WF"",""MO"",""ID"",""PH"",""UM"",""IN"",""SG"",""CX"",""MM"",""CC"",""CK"",""FJ"",""BT"",""PG"",""NF"",""NC"",""KR"",""WS"",""MN"",""NR"",""MY"",""LA"",""TW"",""BD"",""PF"",""NP"",""VU"",""BN"",""MV"",""TK"",""AU"",""VN"",""LK""]},{""episodesLaunched"":12,""countryList"":[""SM"",""NL"",""BH"",""ER"",""AM"",""QA"",""CA"",""CW"",""MG"",""IE"",""ET"",""GD"",""SN"",""IR"",""DM"",""ZW"",""LR"",""SC"",""NE"",""LS"",""GR"",""IL"",""RE"",""ST"",""BE"",""DK"",""GN"",""UA"",""SI"",""PK"",""BJ"",""TZ"",""GW"",""CI"",""MD"",""SK"",""AD"",""MZ"",""GB"",""IS"",""HR"",""MQ"",""CG"",""FR"",""FK"",""EG"",""MC"",""CM"",""MR"",""VA"",""VG"",""AW"",""CD"",""CV"",""AG"",""SA"",""AQ"",""BY"",""ZM"",""NA"",""RW"",""EH"",""AE"",""GM"",""BA"",""SO"",""OM"",""PM"",""UG"",""GA"",""PT"",""YE"",""AF"",""CH"",""SD"",""YT"",""BG"",""DJ"",""IO"",""MH"",""KY"",""MT"",""BM"",""HU"",""AT"",""KM"",""SZ"",""ZA"",""FM"",""BI"",""KZ"",""JE"",""FO"",""BQ"",""NG"",""AS"",""GF"",""TR"",""DZ"",""ES"",""IT"",""SL"",""SE"",""JO"",""VI"",""GL"",""VC"",""GE"",""RU"",""RS"",""NO"",""LI"",""LU"",""MW"",""MK"",""HM"",""GY"",""TN"",""RO"",""TT"",""PW"",""IM"",""MU"",""TG"",""CZ"",""IQ"",""GH"",""BS"",""GG"",""HT"",""FI"",""GP"",""GS"",""KN"",""MP"",""SX"",""ME"",""TD"",""SH"",""CY"",""AL"",""CF"",""LC"",""AO"",""BL"",""MA"",""EE"",""MF"",""BF"",""LV"",""AZ"",""TC"",""UZ"",""MS"",""ML"",""BB"",""GU"",""TJ"",""DE"",""GI"",""KW"",""LB"",""LT"",""JM"",""US"",""LY"",""KG"",""SS"",""KE"",""PS"",""BW"",""SR"",""AI"",""TM"",""PL""]},{""episodesLaunched"":6,""countryList"":[""VE"",""GT"",""AR"",""SV"",""PY"",""BZ"",""PE"",""EC"",""DO"",""CU"",""NI"",""PR"",""PA"",""CO"",""CR"",""BR"",""BO"",""HN"",""GQ"",""MX"",""UY"",""CL""]}]"
 2024-01-07	TV (Non-English)	7	Single’s Inferno	Single’s Inferno: Season 3	21500000	11.3333	1900000	4	false	
 2024-01-07	TV (Non-English)	8	True Beauty	N/A	34600000	20.0167	1700000	6	false	
 2024-01-07	TV (Non-English)	9	Yu Yu Hakusho	Yu Yu Hakusho: Season 1	6400000	4.1833	1500000	4	false	
@@ -112,13 +152,13 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-12-31	TV (Non-English)	1	Berlin	Berlin: Season 1	74300000	6.5667	11300000	1	false	
 2023-12-31	TV (Non-English)	2	The Manny	N/A	47000000	5.75	8200000	1	false	
 2023-12-31	TV (Non-English)	3	Gyeongseong Creature	Gyeongseong Creature: Season 1	48500000	7.9833	6100000	2	false	
-2023-12-31	TV (Non-English)	4	My Demon	My Demon: Season 1	27700000	0	2800000	6	true	"[{""episodesLaunched"":8,""countryList"":[""UY"",""BO"",""AR"",""GT"",""SV"",""PR"",""CL"",""CU"",""VE"",""DO"",""PE"",""HN"",""BZ"",""PA"",""CO"",""MX"",""CR"",""EC"",""GQ"",""NI"",""BR"",""PY""]},{""episodesLaunched"":10,""countryList"":[""DE"",""MW"",""GG"",""SL"",""LU"",""VU"",""SO"",""CW"",""SX"",""GA"",""AL"",""SC"",""UA"",""ML"",""LK"",""AQ"",""CY"",""NO"",""TL"",""LB"",""CX"",""JP"",""AF"",""CA"",""FO"",""FJ"",""GS"",""AI"",""SI"",""SE"",""IQ"",""JE"",""FM"",""IS"",""GY"",""PG"",""MA"",""MH"",""TC"",""KI"",""BL"",""AM"",""RE"",""US"",""AO"",""DJ"",""IL"",""LI"",""CI"",""PL"",""IE"",""CV"",""MC"",""WS"",""JO"",""CH"",""BM"",""GM"",""RW"",""MR"",""TR"",""GL"",""AZ"",""BA"",""HT"",""MF"",""ZW"",""TG"",""GB"",""VN"",""NP"",""TM"",""HU"",""KY"",""AU"",""TT"",""CD"",""SD"",""BN"",""ME"",""NF"",""CC"",""ST"",""VA"",""NR"",""GR"",""PK"",""CM"",""CG"",""GU"",""KR"",""PM"",""WF"",""SH"",""GP"",""ZA"",""BE"",""UZ"",""LC"",""RU"",""TV"",""MV"",""AD"",""BF"",""LT"",""BG"",""FK"",""MN"",""DK"",""CF"",""RS"",""VC"",""HK"",""PH"",""TK"",""MZ"",""TN"",""GW"",""SN"",""BS"",""FI"",""MD"",""NL"",""AW"",""BQ"",""AT"",""BI"",""JM"",""LR"",""KZ"",""VI"",""TD"",""MT"",""ER"",""IN"",""MY"",""MP"",""GD"",""IM"",""YE"",""SK"",""UG"",""GH"",""GF"",""OM"",""IR"",""AS"",""CK"",""SA"",""BJ"",""QA"",""TH"",""CZ"",""PT"",""MO"",""DM"",""GN"",""ET"",""PF"",""ZM"",""FR"",""ID"",""BD"",""UM"",""BW"",""KH"",""RO"",""DZ"",""KE"",""LV"",""IT"",""TW"",""GE"",""KN"",""KW"",""IO"",""BH"",""TZ"",""PW"",""VG"",""AG"",""EE"",""MG"",""SM"",""NG"",""BT"",""KM"",""BY"",""PS"",""SG"",""NZ"",""SS"",""MS"",""SR"",""LA"",""MU"",""SZ"",""EH"",""EG"",""LS"",""NC"",""AE"",""SB"",""TJ"",""NE"",""MM"",""PN"",""BB"",""KG"",""YT"",""LY"",""ES"",""HM"",""MK"",""GI"",""NA"",""HR"",""NU"",""MQ"",""TO""]}]"
+2023-12-31	TV (Non-English)	4	My Demon	My Demon: Limited Series	27700000	0	2800000	6	true	"[{""episodesLaunched"":8,""countryList"":[""UY"",""BO"",""AR"",""GT"",""SV"",""PR"",""CL"",""CU"",""VE"",""DO"",""PE"",""HN"",""BZ"",""PA"",""CO"",""MX"",""CR"",""EC"",""GQ"",""NI"",""BR"",""PY""]},{""episodesLaunched"":10,""countryList"":[""DE"",""MW"",""GG"",""SL"",""LU"",""VU"",""SO"",""CW"",""SX"",""GA"",""AL"",""SC"",""UA"",""ML"",""LK"",""AQ"",""CY"",""NO"",""TL"",""LB"",""CX"",""JP"",""AF"",""CA"",""FO"",""FJ"",""GS"",""AI"",""SI"",""SE"",""IQ"",""JE"",""FM"",""IS"",""GY"",""PG"",""MA"",""MH"",""TC"",""KI"",""BL"",""AM"",""RE"",""US"",""AO"",""DJ"",""IL"",""LI"",""CI"",""PL"",""IE"",""CV"",""MC"",""WS"",""JO"",""CH"",""BM"",""GM"",""RW"",""MR"",""TR"",""GL"",""AZ"",""BA"",""HT"",""MF"",""ZW"",""TG"",""GB"",""VN"",""NP"",""TM"",""HU"",""KY"",""AU"",""TT"",""CD"",""SD"",""BN"",""ME"",""NF"",""CC"",""ST"",""VA"",""NR"",""GR"",""PK"",""CM"",""CG"",""GU"",""KR"",""PM"",""WF"",""SH"",""GP"",""ZA"",""BE"",""UZ"",""LC"",""RU"",""TV"",""MV"",""AD"",""BF"",""LT"",""BG"",""FK"",""MN"",""DK"",""CF"",""RS"",""VC"",""HK"",""PH"",""TK"",""MZ"",""TN"",""GW"",""SN"",""BS"",""FI"",""MD"",""NL"",""AW"",""BQ"",""AT"",""BI"",""JM"",""LR"",""KZ"",""VI"",""TD"",""MT"",""ER"",""IN"",""MY"",""MP"",""GD"",""IM"",""YE"",""SK"",""UG"",""GH"",""GF"",""OM"",""IR"",""AS"",""CK"",""SA"",""BJ"",""QA"",""TH"",""CZ"",""PT"",""MO"",""DM"",""GN"",""ET"",""PF"",""ZM"",""FR"",""ID"",""BD"",""UM"",""BW"",""KH"",""RO"",""DZ"",""KE"",""LV"",""IT"",""TW"",""GE"",""KN"",""KW"",""IO"",""BH"",""TZ"",""PW"",""VG"",""AG"",""EE"",""MG"",""SM"",""NG"",""BT"",""KM"",""BY"",""PS"",""SG"",""NZ"",""SS"",""MS"",""SR"",""LA"",""MU"",""SZ"",""EH"",""EG"",""LS"",""NC"",""AE"",""SB"",""TJ"",""NE"",""MM"",""PN"",""BB"",""KG"",""YT"",""LY"",""ES"",""HM"",""MK"",""GI"",""NA"",""HR"",""NU"",""MQ"",""TO""]}]"
 2023-12-31	TV (Non-English)	5	Yu Yu Hakusho	Yu Yu Hakusho: Season 1	11000000	4.1833	2600000	3	false	
 2023-12-31	TV (Non-English)	6	Pokémon Concierge	Pokémon Concierge: Season 1	3100000	1.1833	2600000	1	false	
 2023-12-31	TV (Non-English)	7	Single’s Inferno	Single’s Inferno: Season 3	19400000	8.9167	2200000	3	false	
 2023-12-31	TV (Non-English)	8	The Golden Hour	The Golden Hour: Season 1	10300000	4.8833	2100000	2	false	
 2023-12-31	TV (Non-English)	9	True Beauty	N/A	38600000	20.0167	1900000	5	false	
-2023-12-31	TV (Non-English)	10	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	15300000	0	1600000	3	true	"[{""episodesLaunched"":4,""countryList"":[""PY"",""CO"",""PE"",""BZ"",""BO"",""HN"",""PR"",""GQ"",""EC"",""SV"",""MX"",""VE"",""DO"",""BR"",""PA"",""NI"",""UY"",""CL"",""AR"",""CU"",""CR"",""GT""]},{""episodesLaunched"":9,""countryList"":[""TH"",""AU"",""BT"",""ID"",""TK"",""LK"",""VU"",""HK"",""LA"",""CX"",""MN"",""MY"",""UM"",""NR"",""CC"",""SG"",""MO"",""TL"",""KI"",""KH"",""FJ"",""WF"",""BD"",""PN"",""SB"",""NZ"",""NC"",""CK"",""NF"",""VN"",""PF"",""IN"",""KR"",""MM"",""JP"",""PH"",""NP"",""TW"",""MV"",""WS"",""NU"",""TO"",""TV"",""BN"",""PG""]},{""episodesLaunched"":10,""countryList"":[""DJ"",""IO"",""MF"",""EE"",""CY"",""HR"",""BH"",""MS"",""GH"",""IT"",""MP"",""BS"",""AZ"",""GR"",""AE"",""GM"",""BG"",""LR"",""SC"",""GN"",""NE"",""PL"",""ER"",""BQ"",""NG"",""SN"",""MW"",""LU"",""BM"",""MK"",""MU"",""EG"",""IM"",""MG"",""JE"",""PW"",""LY"",""MZ"",""IS"",""KG"",""GL"",""GD"",""AT"",""KM"",""SZ"",""ZA"",""AW"",""MQ"",""EH"",""CZ"",""IQ"",""GA"",""MR"",""KE"",""TC"",""UZ"",""LV"",""SL"",""DM"",""SE"",""MC"",""GY"",""UG"",""QA"",""UA"",""CA"",""AM"",""SH"",""VC"",""NL"",""CF"",""LC"",""NO"",""IE"",""BF"",""ME"",""GW"",""MH"",""AS"",""GF"",""JO"",""VI"",""DE"",""NA"",""TG"",""AO"",""BL"",""CW"",""AF"",""DZ"",""BA"",""SS"",""SK"",""SM"",""ES"",""AQ"",""BI"",""KZ"",""IR"",""BE"",""DK"",""TZ"",""LI"",""BW"",""RO"",""TT"",""SI"",""ET"",""JM"",""US"",""FM"",""OM"",""PM"",""TM"",""FO"",""BB"",""TD"",""AG"",""TR"",""FI"",""GP"",""GS"",""KN"",""IL"",""RE"",""SA"",""GU"",""TJ"",""RW"",""VA"",""VG"",""SX"",""GG"",""FK"",""GB"",""GE"",""RU"",""RS"",""ZW"",""BY"",""ZM"",""FR"",""AL"",""MT"",""ML"",""HM"",""SO"",""YE"",""CD"",""CV"",""ST"",""HT"",""BJ"",""LS"",""AD"",""KY"",""CG"",""PK"",""HU"",""TN"",""SR"",""CI"",""MD"",""MA"",""GI"",""KW"",""LB"",""LT"",""PS"",""CH"",""SD"",""YT"",""CM"",""AI"",""PT""]}]"
+2023-12-31	TV (Non-English)	10	Welcome to Samdal-ri	Welcome to Samdal-ri: Limited Series	15300000	0	1600000	3	true	"[{""episodesLaunched"":4,""countryList"":[""PY"",""CO"",""PE"",""BZ"",""BO"",""HN"",""PR"",""GQ"",""EC"",""SV"",""MX"",""VE"",""DO"",""BR"",""PA"",""NI"",""UY"",""CL"",""AR"",""CU"",""CR"",""GT""]},{""episodesLaunched"":9,""countryList"":[""TH"",""AU"",""BT"",""ID"",""TK"",""LK"",""VU"",""HK"",""LA"",""CX"",""MN"",""MY"",""UM"",""NR"",""CC"",""SG"",""MO"",""TL"",""KI"",""KH"",""FJ"",""WF"",""BD"",""PN"",""SB"",""NZ"",""NC"",""CK"",""NF"",""VN"",""PF"",""IN"",""KR"",""MM"",""JP"",""PH"",""NP"",""TW"",""MV"",""WS"",""NU"",""TO"",""TV"",""BN"",""PG""]},{""episodesLaunched"":10,""countryList"":[""DJ"",""IO"",""MF"",""EE"",""CY"",""HR"",""BH"",""MS"",""GH"",""IT"",""MP"",""BS"",""AZ"",""GR"",""AE"",""GM"",""BG"",""LR"",""SC"",""GN"",""NE"",""PL"",""ER"",""BQ"",""NG"",""SN"",""MW"",""LU"",""BM"",""MK"",""MU"",""EG"",""IM"",""MG"",""JE"",""PW"",""LY"",""MZ"",""IS"",""KG"",""GL"",""GD"",""AT"",""KM"",""SZ"",""ZA"",""AW"",""MQ"",""EH"",""CZ"",""IQ"",""GA"",""MR"",""KE"",""TC"",""UZ"",""LV"",""SL"",""DM"",""SE"",""MC"",""GY"",""UG"",""QA"",""UA"",""CA"",""AM"",""SH"",""VC"",""NL"",""CF"",""LC"",""NO"",""IE"",""BF"",""ME"",""GW"",""MH"",""AS"",""GF"",""JO"",""VI"",""DE"",""NA"",""TG"",""AO"",""BL"",""CW"",""AF"",""DZ"",""BA"",""SS"",""SK"",""SM"",""ES"",""AQ"",""BI"",""KZ"",""IR"",""BE"",""DK"",""TZ"",""LI"",""BW"",""RO"",""TT"",""SI"",""ET"",""JM"",""US"",""FM"",""OM"",""PM"",""TM"",""FO"",""BB"",""TD"",""AG"",""TR"",""FI"",""GP"",""GS"",""KN"",""IL"",""RE"",""SA"",""GU"",""TJ"",""RW"",""VA"",""VG"",""SX"",""GG"",""FK"",""GB"",""GE"",""RU"",""RS"",""ZW"",""BY"",""ZM"",""FR"",""AL"",""MT"",""ML"",""HM"",""SO"",""YE"",""CD"",""CV"",""ST"",""HT"",""BJ"",""LS"",""AD"",""KY"",""CG"",""PK"",""HU"",""TN"",""SR"",""CI"",""MD"",""MA"",""GI"",""KW"",""LB"",""LT"",""PS"",""CH"",""SD"",""YT"",""CM"",""AI"",""PT""]}]"
 2023-12-24	Films (English)	1	Rebel Moon — Part One: A Child of Fire	N/A	54100000	2.2667	23900000	1	false	
 2023-12-24	Films (English)	2	Leave the World Behind	N/A	46700000	2.3667	19700000	3	false	
 2023-12-24	Films (English)	3	Chicken Run: Dawn of the Nugget	N/A	25400000	1.7	14900000	2	false	
@@ -150,7 +190,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-12-24	TV (English)	9	Young Sheldon	Young Sheldon: Season 1	10700000	7.2167	1500000	5	false	
 2023-12-24	TV (English)	10	Squid Game: The Challenge	Squid Game: The Challenge: Season 1	12000000	8.1667	1500000	5	false	
 2023-12-24	TV (Non-English)	1	Yu Yu Hakusho	Yu Yu Hakusho: Season 1	26100000	4.1833	6200000	2	false	
-2023-12-24	TV (Non-English)	2	My Demon	My Demon: Season 1	36100000	0	3600000	5	true	"[{""episodesLaunched"":8,""countryList"":[""PY"",""CO"",""DO"",""CR"",""UY"",""HN"",""AR"",""NI"",""MX"",""PA"",""BR"",""VE"",""EC"",""BZ"",""GT"",""GQ"",""PE"",""CL"",""SV"",""BO"",""PR"",""CU""]},{""episodesLaunched"":10,""countryList"":[""MG"",""SM"",""NP"",""NF"",""JP"",""JM"",""BH"",""TZ"",""AQ"",""BD"",""UM"",""TW"",""DZ"",""TG"",""MZ"",""BJ"",""MC"",""TR"",""IM"",""YE"",""SS"",""LR"",""SK"",""NO"",""TL"",""MT"",""MS"",""ZM"",""ES"",""HM"",""JE"",""TH"",""PN"",""CV"",""SN"",""KI"",""SC"",""GB"",""MV"",""CD"",""BQ"",""IO"",""ZW"",""KH"",""CY"",""AW"",""YT"",""VN"",""LA"",""MU"",""SZ"",""OM"",""EE"",""CC"",""ST"",""CI"",""PL"",""SR"",""FK"",""MN"",""TM"",""GW"",""PT"",""MK"",""JO"",""AO"",""DJ"",""AU"",""GM"",""BW"",""SL"",""UA"",""KM"",""BB"",""KG"",""ID"",""LK"",""VG"",""IR"",""IS"",""HR"",""NU"",""MO"",""BL"",""NA"",""NG"",""BG"",""PF"",""DE"",""LU"",""RW"",""GL"",""BT"",""MA"",""GS"",""GF"",""SD"",""TN"",""AT"",""CK"",""SH"",""KW"",""GU"",""TV"",""GR"",""PK"",""IE"",""GE"",""KN"",""ML"",""MW"",""EH"",""SG"",""LB"",""LC"",""CG"",""BN"",""ME"",""VA"",""AM"",""GD"",""IL"",""LI"",""NE"",""AF"",""CA"",""BY"",""PS"",""CF"",""RS"",""VC"",""AL"",""AD"",""SB"",""TJ"",""BE"",""UZ"",""NZ"",""RU"",""DM"",""GN"",""RE"",""KZ"",""HK"",""AI"",""SI"",""MM"",""DK"",""AS"",""NC"",""SE"",""ET"",""FJ"",""LY"",""FO"",""TK"",""TT"",""BS"",""SA"",""CM"",""BI"",""FM"",""MR"",""QA"",""UG"",""AZ"",""BA"",""HT"",""MF"",""SO"",""GI"",""GA"",""CW"",""RO"",""GH"",""MQ"",""WS"",""FI"",""MD"",""NL"",""HU"",""VU"",""PM"",""PH"",""KE"",""LV"",""GY"",""PG"",""ER"",""IN"",""MY"",""CH"",""IT"",""GP"",""ZA"",""PW"",""SX"",""MH"",""TC"",""US"",""TD"",""KR"",""GG"",""BF"",""LT"",""MP"",""CZ"",""IQ"",""VI"",""KY"",""WF"",""BM"",""EG"",""LS"",""TO"",""AE"",""AG"",""FR"",""CX"",""NR""]}]"
+2023-12-24	TV (Non-English)	2	My Demon	My Demon: Limited Series	36100000	0	3600000	5	true	"[{""episodesLaunched"":8,""countryList"":[""PY"",""CO"",""DO"",""CR"",""UY"",""HN"",""AR"",""NI"",""MX"",""PA"",""BR"",""VE"",""EC"",""BZ"",""GT"",""GQ"",""PE"",""CL"",""SV"",""BO"",""PR"",""CU""]},{""episodesLaunched"":10,""countryList"":[""MG"",""SM"",""NP"",""NF"",""JP"",""JM"",""BH"",""TZ"",""AQ"",""BD"",""UM"",""TW"",""DZ"",""TG"",""MZ"",""BJ"",""MC"",""TR"",""IM"",""YE"",""SS"",""LR"",""SK"",""NO"",""TL"",""MT"",""MS"",""ZM"",""ES"",""HM"",""JE"",""TH"",""PN"",""CV"",""SN"",""KI"",""SC"",""GB"",""MV"",""CD"",""BQ"",""IO"",""ZW"",""KH"",""CY"",""AW"",""YT"",""VN"",""LA"",""MU"",""SZ"",""OM"",""EE"",""CC"",""ST"",""CI"",""PL"",""SR"",""FK"",""MN"",""TM"",""GW"",""PT"",""MK"",""JO"",""AO"",""DJ"",""AU"",""GM"",""BW"",""SL"",""UA"",""KM"",""BB"",""KG"",""ID"",""LK"",""VG"",""IR"",""IS"",""HR"",""NU"",""MO"",""BL"",""NA"",""NG"",""BG"",""PF"",""DE"",""LU"",""RW"",""GL"",""BT"",""MA"",""GS"",""GF"",""SD"",""TN"",""AT"",""CK"",""SH"",""KW"",""GU"",""TV"",""GR"",""PK"",""IE"",""GE"",""KN"",""ML"",""MW"",""EH"",""SG"",""LB"",""LC"",""CG"",""BN"",""ME"",""VA"",""AM"",""GD"",""IL"",""LI"",""NE"",""AF"",""CA"",""BY"",""PS"",""CF"",""RS"",""VC"",""AL"",""AD"",""SB"",""TJ"",""BE"",""UZ"",""NZ"",""RU"",""DM"",""GN"",""RE"",""KZ"",""HK"",""AI"",""SI"",""MM"",""DK"",""AS"",""NC"",""SE"",""ET"",""FJ"",""LY"",""FO"",""TK"",""TT"",""BS"",""SA"",""CM"",""BI"",""FM"",""MR"",""QA"",""UG"",""AZ"",""BA"",""HT"",""MF"",""SO"",""GI"",""GA"",""CW"",""RO"",""GH"",""MQ"",""WS"",""FI"",""MD"",""NL"",""HU"",""VU"",""PM"",""PH"",""KE"",""LV"",""GY"",""PG"",""ER"",""IN"",""MY"",""CH"",""IT"",""GP"",""ZA"",""PW"",""SX"",""MH"",""TC"",""US"",""TD"",""KR"",""GG"",""BF"",""LT"",""MP"",""CZ"",""IQ"",""VI"",""KY"",""WF"",""BM"",""EG"",""LS"",""TO"",""AE"",""AG"",""FR"",""CX"",""NR""]}]"
 2023-12-24	TV (Non-English)	3	Gyeongseong Creature	Gyeongseong Creature: Season 1	24000000	7.9833	3000000	1	false	
 2023-12-24	TV (Non-English)	4	Single’s Inferno	Single’s Inferno: Season 3	18200000	6.2	2900000	2	false	
 2023-12-24	TV (Non-English)	5	High Tides	High Tides: Season 1	14500000	5.7667	2500000	3	false	
@@ -190,7 +230,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-12-17	TV (English)	9	Young Sheldon	Young Sheldon: Season 1	11600000	7.2167	1600000	4	false	
 2023-12-17	TV (English)	10	School Spirits	School Spirits: Season 1	8900000	6.2	1400000	1	false	
 2023-12-17	TV (Non-English)	1	Yu Yu Hakusho	Yu Yu Hakusho: Season 1	32100000	4.1833	7700000	1	false	
-2023-12-17	TV (Non-English)	2	My Demon	My Demon: Season 1	33600000	0	4200000	4	true	"[{""episodesLaunched"":6,""countryList"":[""VE"",""GT"",""CL"",""AR"",""PA"",""SV"",""PE"",""BZ"",""PY"",""UY"",""MX"",""CO"",""NI"",""GQ"",""CU"",""CR"",""PR"",""HN"",""DO"",""BO"",""BR"",""EC""]},{""episodesLaunched"":8,""countryList"":[""GS"",""SO"",""BD"",""UM"",""NA"",""SA"",""US"",""MV"",""AL"",""CM"",""EE"",""LR"",""MK"",""CK"",""RU"",""YT"",""IE"",""NG"",""HK"",""SS"",""FI"",""MD"",""NL"",""TH"",""HR"",""NU"",""AS"",""TR"",""SN"",""KW"",""ID"",""RW"",""PW"",""MH"",""TC"",""PH"",""IS"",""SK"",""MZ"",""KE"",""LV"",""BT"",""MW"",""LK"",""JP"",""BJ"",""GU"",""KI"",""NZ"",""AW"",""EH"",""RO"",""TK"",""AT"",""ER"",""IN"",""MY"",""AZ"",""BA"",""HT"",""MF"",""RE"",""GW"",""AO"",""DJ"",""UG"",""VA"",""GE"",""KN"",""AI"",""SI"",""AD"",""KZ"",""PN"",""FM"",""BL"",""NP"",""JO"",""LY"",""TW"",""GL"",""SD"",""TM"",""KM"",""AF"",""CA"",""WS"",""MC"",""NO"",""TL"",""GR"",""PK"",""KH"",""QA"",""EG"",""LS"",""MG"",""SM"",""VI"",""MR"",""IM"",""YE"",""NE"",""LU"",""SB"",""UA"",""GB"",""SL"",""CX"",""BS"",""TV"",""NC"",""CV"",""CW"",""BF"",""LT"",""ES"",""HM"",""JE"",""FK"",""MN"",""DZ"",""OM"",""GM"",""TJ"",""VG"",""DE"",""AQ"",""JM"",""HU"",""AE"",""IL"",""LI"",""SR"",""IQ"",""LA"",""MU"",""SZ"",""NR"",""DM"",""ZM"",""PM"",""FR"",""SC"",""BW"",""CD"",""ET"",""BN"",""ME"",""CC"",""ST"",""BE"",""UZ"",""ZW"",""BH"",""TZ"",""BY"",""PS"",""SE"",""SH"",""GF"",""MP"",""VN"",""VU"",""IO"",""DK"",""GA"",""GH"",""GG"",""TG"",""TD"",""CF"",""RS"",""VC"",""GN"",""CH"",""MT"",""TT"",""AG"",""MA"",""LB"",""CI"",""PL"",""MQ"",""GY"",""PG"",""IT"",""SG"",""FJ"",""MO"",""GD"",""NF"",""PT"",""BQ"",""PF"",""CG"",""GP"",""ZA"",""LC"",""MS"",""AU"",""CZ"",""BI"",""KR"",""KY"",""CY"",""SX"",""TO"",""WF"",""TN"",""BG"",""FO"",""AM"",""IR"",""ML"",""MM"",""BB"",""KG"",""BM"",""GI""]}]"
+2023-12-17	TV (Non-English)	2	My Demon	My Demon: Limited Series	33600000	0	4200000	4	true	"[{""episodesLaunched"":6,""countryList"":[""VE"",""GT"",""CL"",""AR"",""PA"",""SV"",""PE"",""BZ"",""PY"",""UY"",""MX"",""CO"",""NI"",""GQ"",""CU"",""CR"",""PR"",""HN"",""DO"",""BO"",""BR"",""EC""]},{""episodesLaunched"":8,""countryList"":[""GS"",""SO"",""BD"",""UM"",""NA"",""SA"",""US"",""MV"",""AL"",""CM"",""EE"",""LR"",""MK"",""CK"",""RU"",""YT"",""IE"",""NG"",""HK"",""SS"",""FI"",""MD"",""NL"",""TH"",""HR"",""NU"",""AS"",""TR"",""SN"",""KW"",""ID"",""RW"",""PW"",""MH"",""TC"",""PH"",""IS"",""SK"",""MZ"",""KE"",""LV"",""BT"",""MW"",""LK"",""JP"",""BJ"",""GU"",""KI"",""NZ"",""AW"",""EH"",""RO"",""TK"",""AT"",""ER"",""IN"",""MY"",""AZ"",""BA"",""HT"",""MF"",""RE"",""GW"",""AO"",""DJ"",""UG"",""VA"",""GE"",""KN"",""AI"",""SI"",""AD"",""KZ"",""PN"",""FM"",""BL"",""NP"",""JO"",""LY"",""TW"",""GL"",""SD"",""TM"",""KM"",""AF"",""CA"",""WS"",""MC"",""NO"",""TL"",""GR"",""PK"",""KH"",""QA"",""EG"",""LS"",""MG"",""SM"",""VI"",""MR"",""IM"",""YE"",""NE"",""LU"",""SB"",""UA"",""GB"",""SL"",""CX"",""BS"",""TV"",""NC"",""CV"",""CW"",""BF"",""LT"",""ES"",""HM"",""JE"",""FK"",""MN"",""DZ"",""OM"",""GM"",""TJ"",""VG"",""DE"",""AQ"",""JM"",""HU"",""AE"",""IL"",""LI"",""SR"",""IQ"",""LA"",""MU"",""SZ"",""NR"",""DM"",""ZM"",""PM"",""FR"",""SC"",""BW"",""CD"",""ET"",""BN"",""ME"",""CC"",""ST"",""BE"",""UZ"",""ZW"",""BH"",""TZ"",""BY"",""PS"",""SE"",""SH"",""GF"",""MP"",""VN"",""VU"",""IO"",""DK"",""GA"",""GH"",""GG"",""TG"",""TD"",""CF"",""RS"",""VC"",""GN"",""CH"",""MT"",""TT"",""AG"",""MA"",""LB"",""CI"",""PL"",""MQ"",""GY"",""PG"",""IT"",""SG"",""FJ"",""MO"",""GD"",""NF"",""PT"",""BQ"",""PF"",""CG"",""GP"",""ZA"",""LC"",""MS"",""AU"",""CZ"",""BI"",""KR"",""KY"",""CY"",""SX"",""TO"",""WF"",""TN"",""BG"",""FO"",""AM"",""IR"",""ML"",""MM"",""BB"",""KG"",""BM"",""GI""]}]"
 2023-12-17	TV (Non-English)	3	Blood Coast	Blood Coast: Season 1	19900000	5.2833	3800000	2	false	
 2023-12-17	TV (Non-English)	4	Single’s Inferno	Single’s Inferno: Season 3	11900000	3.3	3600000	1	false	
 2023-12-17	TV (Non-English)	5	High Tides	High Tides: Season 1	19100000	5.7667	3300000	2	false	
@@ -198,7 +238,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-12-17	TV (Non-English)	7	A Nearly Normal Family	A Nearly Normal Family: Limited Series	12200000	4.5333	2700000	4	false	
 2023-12-17	TV (Non-English)	8	If I Were Luísa Sonza	If I Were Luísa Sonza: Season 1	4000000	1.85	2200000	1	false	
 2023-12-17	TV (Non-English)	9	Dubai Bling	Dubai Bling: Season 2	12600000	6.4833	1900000	1	false	
-2023-12-17	TV (Non-English)	10	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	11000000	0	1900000	2	true	"[{""episodesLaunched"":6,""countryList"":[""SL"",""BG"",""SO"",""NA"",""TZ"",""GI"",""KW"",""LB"",""LT"",""ER"",""ES"",""YE"",""RO"",""TT"",""AQ"",""FR"",""KE"",""RW"",""UA"",""CG"",""AF"",""DJ"",""IO"",""SK"",""MT"",""AI"",""TM"",""DE"",""HR"",""SS"",""JM"",""US"",""LV"",""GN"",""AZ"",""AL"",""GR"",""OM"",""PM"",""EH"",""GL"",""LS"",""PS"",""ET"",""SN"",""VA"",""VG"",""IM"",""CW"",""FI"",""GP"",""GS"",""KN"",""SA"",""IS"",""MH"",""ME"",""UG"",""VC"",""BS"",""GU"",""TJ"",""MR"",""BA"",""MA"",""FK"",""FO"",""BW"",""EE"",""ZW"",""GY"",""SM"",""TG"",""BJ"",""EG"",""RS"",""MK"",""GE"",""RU"",""BY"",""ZM"",""MW"",""ST"",""GW"",""GD"",""BH"",""IT"",""LI"",""PT"",""SR"",""GB"",""CF"",""LC"",""SX"",""NL"",""CI"",""MD"",""NE"",""MZ"",""SE"",""SI"",""PL"",""HM"",""SH"",""GH"",""LU"",""DM"",""IE"",""TC"",""UZ"",""BI"",""KZ"",""FM"",""CY"",""JE"",""IL"",""RE"",""CM"",""AW"",""TN"",""MP"",""BE"",""DK"",""AO"",""BL"",""QA"",""MS"",""PW"",""PK"",""MG"",""BM"",""CH"",""SD"",""YT"",""KG"",""NO"",""CD"",""CV"",""BQ"",""NG"",""BB"",""AE"",""GM"",""GG"",""ML"",""LY"",""LR"",""SC"",""AM"",""JO"",""VI"",""MC"",""GA"",""AS"",""GF"",""AG"",""HU"",""MU"",""KY"",""IR"",""BF"",""CZ"",""IQ"",""DZ"",""TR"",""CA"",""HT"",""TD"",""MQ"",""AD"",""AT"",""KM"",""SZ"",""ZA"",""MF""]},{""episodesLaunched"":5,""countryList"":[""FJ"",""TK"",""NZ"",""IN"",""NU"",""TO"",""TV"",""BT"",""PN"",""TL"",""CX"",""TW"",""BN"",""MO"",""KH"",""MM"",""AU"",""VU"",""MV"",""CK"",""WS"",""UM"",""ID"",""SG"",""LA"",""KI"",""HK"",""TH"",""JP"",""MN"",""NP"",""PG"",""NF"",""KR"",""SB"",""PH"",""NR"",""LK"",""BD"",""NC"",""CC"",""WF"",""MY"",""VN"",""PF""]}]"
+2023-12-17	TV (Non-English)	10	Welcome to Samdal-ri	Welcome to Samdal-ri: Limited Series	11000000	0	1900000	2	true	"[{""episodesLaunched"":6,""countryList"":[""SL"",""BG"",""SO"",""NA"",""TZ"",""GI"",""KW"",""LB"",""LT"",""ER"",""ES"",""YE"",""RO"",""TT"",""AQ"",""FR"",""KE"",""RW"",""UA"",""CG"",""AF"",""DJ"",""IO"",""SK"",""MT"",""AI"",""TM"",""DE"",""HR"",""SS"",""JM"",""US"",""LV"",""GN"",""AZ"",""AL"",""GR"",""OM"",""PM"",""EH"",""GL"",""LS"",""PS"",""ET"",""SN"",""VA"",""VG"",""IM"",""CW"",""FI"",""GP"",""GS"",""KN"",""SA"",""IS"",""MH"",""ME"",""UG"",""VC"",""BS"",""GU"",""TJ"",""MR"",""BA"",""MA"",""FK"",""FO"",""BW"",""EE"",""ZW"",""GY"",""SM"",""TG"",""BJ"",""EG"",""RS"",""MK"",""GE"",""RU"",""BY"",""ZM"",""MW"",""ST"",""GW"",""GD"",""BH"",""IT"",""LI"",""PT"",""SR"",""GB"",""CF"",""LC"",""SX"",""NL"",""CI"",""MD"",""NE"",""MZ"",""SE"",""SI"",""PL"",""HM"",""SH"",""GH"",""LU"",""DM"",""IE"",""TC"",""UZ"",""BI"",""KZ"",""FM"",""CY"",""JE"",""IL"",""RE"",""CM"",""AW"",""TN"",""MP"",""BE"",""DK"",""AO"",""BL"",""QA"",""MS"",""PW"",""PK"",""MG"",""BM"",""CH"",""SD"",""YT"",""KG"",""NO"",""CD"",""CV"",""BQ"",""NG"",""BB"",""AE"",""GM"",""GG"",""ML"",""LY"",""LR"",""SC"",""AM"",""JO"",""VI"",""MC"",""GA"",""AS"",""GF"",""AG"",""HU"",""MU"",""KY"",""IR"",""BF"",""CZ"",""IQ"",""DZ"",""TR"",""CA"",""HT"",""TD"",""MQ"",""AD"",""AT"",""KM"",""SZ"",""ZA"",""MF""]},{""episodesLaunched"":5,""countryList"":[""FJ"",""TK"",""NZ"",""IN"",""NU"",""TO"",""TV"",""BT"",""PN"",""TL"",""CX"",""TW"",""BN"",""MO"",""KH"",""MM"",""AU"",""VU"",""MV"",""CK"",""WS"",""UM"",""ID"",""SG"",""LA"",""KI"",""HK"",""TH"",""JP"",""MN"",""NP"",""PG"",""NF"",""KR"",""SB"",""PH"",""NR"",""LK"",""BD"",""NC"",""CC"",""WF"",""MY"",""VN"",""PF""]}]"
 2023-12-10	Films (English)	1	Leave the World Behind	N/A	98700000	2.3667	41700000	1	false	
 2023-12-10	Films (English)	2	Family Switch	N/A	32900000	1.7667	18600000	2	false	
 2023-12-10	Films (English)	3	Leo	N/A	25400000	1.7833	14200000	3	false	
@@ -231,9 +271,9 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-12-10	TV (English)	10	Young Sheldon	Young Sheldon: Season 2	10300000	7.1667	1400000	2	false	
 2023-12-10	TV (Non-English)	1	Blood Coast	Blood Coast: Season 1	29400000	5.2833	5600000	1	false	
 2023-12-10	TV (Non-English)	2	A Nearly Normal Family	A Nearly Normal Family: Limited Series	24500000	4.5333	5400000	3	false	
-2023-12-10	TV (Non-English)	3	My Demon	My Demon: Season 1	28000000	0	4900000	3	true	"[{""episodesLaunched"":6,""countryList"":[""MT"",""NG"",""GU"",""AM"",""SC"",""FR"",""GD"",""RU"",""RO"",""NR"",""AT"",""SR"",""UG"",""KI"",""UA"",""VI"",""AI"",""SI"",""NE"",""TV"",""LC"",""ER"",""IN"",""MY"",""GY"",""PG"",""JM"",""AD"",""PH"",""FM"",""GG"",""AE"",""CX"",""BF"",""LT"",""DZ"",""KE"",""LV"",""BE"",""UZ"",""TO"",""MQ"",""CW"",""CG"",""AF"",""CA"",""SO"",""BN"",""ME"",""EE"",""TD"",""CY"",""TT"",""WF"",""HK"",""IQ"",""BQ"",""SB"",""IO"",""HR"",""NU"",""AL"",""SD"",""MK"",""US"",""SA"",""ML"",""IR"",""IS"",""BL"",""SG"",""DM"",""RE"",""BH"",""TZ"",""CD"",""LU"",""VA"",""FI"",""MD"",""NL"",""GR"",""PK"",""VN"",""SS"",""AQ"",""VU"",""GP"",""ZA"",""JO"",""IT"",""BG"",""PN"",""BT"",""SX"",""GE"",""KN"",""JE"",""DE"",""PF"",""MM"",""AZ"",""BA"",""HT"",""MF"",""ID"",""BS"",""HU"",""AU"",""CK"",""MC"",""AW"",""BD"",""UM"",""LB"",""LA"",""MU"",""SZ"",""TM"",""ZW"",""MO"",""KH"",""GN"",""LR"",""FJ"",""CF"",""RS"",""VC"",""BW"",""MV"",""TG"",""MA"",""GM"",""QA"",""MP"",""KM"",""EG"",""LS"",""TN"",""MZ"",""PW"",""NA"",""TH"",""TK"",""KY"",""BB"",""KG"",""KR"",""IE"",""NF"",""NP"",""CZ"",""CC"",""ST"",""FK"",""MN"",""BM"",""NZ"",""KZ"",""DK"",""TW"",""GH"",""ZM"",""SK"",""NC"",""KW"",""EH"",""CI"",""PL"",""MW"",""SE"",""MR"",""IM"",""YE"",""BI"",""LY"",""PM"",""JP"",""GA"",""CH"",""OM"",""AO"",""DJ"",""ET"",""PT"",""GW"",""GS"",""MG"",""SM"",""CV"",""VG"",""AG"",""AS"",""TR"",""SL"",""TJ"",""WS"",""LK"",""ES"",""HM"",""SN"",""NO"",""TL"",""GF"",""MS"",""GL"",""GI"",""SH"",""YT"",""IL"",""LI"",""GB"",""FO"",""MH"",""TC"",""BY"",""PS"",""CM"",""RW"",""BJ""]},{""episodesLaunched"":4,""countryList"":[""CR"",""PY"",""PR"",""BZ"",""NI"",""EC"",""MX"",""UY"",""GQ"",""AR"",""CU"",""PA"",""DO"",""BO"",""VE"",""CO"",""SV"",""HN"",""BR"",""GT"",""CL"",""PE""]}]"
+2023-12-10	TV (Non-English)	3	My Demon	My Demon: Limited Series	28000000	0	4900000	3	true	"[{""episodesLaunched"":6,""countryList"":[""MT"",""NG"",""GU"",""AM"",""SC"",""FR"",""GD"",""RU"",""RO"",""NR"",""AT"",""SR"",""UG"",""KI"",""UA"",""VI"",""AI"",""SI"",""NE"",""TV"",""LC"",""ER"",""IN"",""MY"",""GY"",""PG"",""JM"",""AD"",""PH"",""FM"",""GG"",""AE"",""CX"",""BF"",""LT"",""DZ"",""KE"",""LV"",""BE"",""UZ"",""TO"",""MQ"",""CW"",""CG"",""AF"",""CA"",""SO"",""BN"",""ME"",""EE"",""TD"",""CY"",""TT"",""WF"",""HK"",""IQ"",""BQ"",""SB"",""IO"",""HR"",""NU"",""AL"",""SD"",""MK"",""US"",""SA"",""ML"",""IR"",""IS"",""BL"",""SG"",""DM"",""RE"",""BH"",""TZ"",""CD"",""LU"",""VA"",""FI"",""MD"",""NL"",""GR"",""PK"",""VN"",""SS"",""AQ"",""VU"",""GP"",""ZA"",""JO"",""IT"",""BG"",""PN"",""BT"",""SX"",""GE"",""KN"",""JE"",""DE"",""PF"",""MM"",""AZ"",""BA"",""HT"",""MF"",""ID"",""BS"",""HU"",""AU"",""CK"",""MC"",""AW"",""BD"",""UM"",""LB"",""LA"",""MU"",""SZ"",""TM"",""ZW"",""MO"",""KH"",""GN"",""LR"",""FJ"",""CF"",""RS"",""VC"",""BW"",""MV"",""TG"",""MA"",""GM"",""QA"",""MP"",""KM"",""EG"",""LS"",""TN"",""MZ"",""PW"",""NA"",""TH"",""TK"",""KY"",""BB"",""KG"",""KR"",""IE"",""NF"",""NP"",""CZ"",""CC"",""ST"",""FK"",""MN"",""BM"",""NZ"",""KZ"",""DK"",""TW"",""GH"",""ZM"",""SK"",""NC"",""KW"",""EH"",""CI"",""PL"",""MW"",""SE"",""MR"",""IM"",""YE"",""BI"",""LY"",""PM"",""JP"",""GA"",""CH"",""OM"",""AO"",""DJ"",""ET"",""PT"",""GW"",""GS"",""MG"",""SM"",""CV"",""VG"",""AG"",""AS"",""TR"",""SL"",""TJ"",""WS"",""LK"",""ES"",""HM"",""SN"",""NO"",""TL"",""GF"",""MS"",""GL"",""GI"",""SH"",""YT"",""IL"",""LI"",""GB"",""FO"",""MH"",""TC"",""BY"",""PS"",""CM"",""RW"",""BJ""]},{""episodesLaunched"":4,""countryList"":[""CR"",""PY"",""PR"",""BZ"",""NI"",""EC"",""MX"",""UY"",""GQ"",""AR"",""CU"",""PA"",""DO"",""BO"",""VE"",""CO"",""SV"",""HN"",""BR"",""GT"",""CL"",""PE""]}]"
 2023-12-10	TV (Non-English)	4	Sweet Home	Sweet Home: Season 2	37100000	9.5167	3900000	2	false	
-2023-12-10	TV (Non-English)	5	Welcome to Samdal-ri	Welcome to Samdal-ri: Season 1	8200000	0	2300000	1	true	"[{""episodesLaunched"":4,""countryList"":[""IS"",""PW"",""TM"",""EE"",""PT"",""BI"",""KZ"",""RW"",""AF"",""JM"",""US"",""VA"",""VG"",""DZ"",""PS"",""ZW"",""BM"",""SR"",""BJ"",""AL"",""SL"",""TG"",""ER"",""NA"",""ME"",""SI"",""MQ"",""AG"",""BS"",""CY"",""AD"",""SH"",""PL"",""SX"",""MF"",""FI"",""GP"",""GS"",""KN"",""CZ"",""IQ"",""KG"",""AZ"",""YE"",""AE"",""GM"",""EH"",""MU"",""FK"",""GB"",""BG"",""FO"",""EG"",""GN"",""TZ"",""LU"",""BQ"",""NG"",""DJ"",""IO"",""QA"",""BA"",""BY"",""ZM"",""SS"",""MA"",""KE"",""CA"",""IE"",""CI"",""MD"",""KY"",""IT"",""CH"",""SD"",""YT"",""RO"",""TT"",""CM"",""GW"",""ET"",""MG"",""MC"",""LV"",""LR"",""SC"",""ES"",""BH"",""LS"",""JO"",""VI"",""IL"",""RE"",""GY"",""AQ"",""JE"",""DE"",""MZ"",""UA"",""NO"",""BW"",""TN"",""HT"",""GE"",""RU"",""MH"",""SN"",""AO"",""BL"",""BB"",""NL"",""CF"",""LC"",""GD"",""SO"",""RS"",""HR"",""MT"",""TR"",""MS"",""LI"",""BE"",""DK"",""IR"",""BF"",""MP"",""GA"",""LY"",""MR"",""MW"",""SK"",""CW"",""AT"",""KM"",""SZ"",""ZA"",""CD"",""CV"",""NE"",""HU"",""DM"",""SE"",""VC"",""PK"",""HM"",""GR"",""GI"",""KW"",""LB"",""LT"",""CG"",""AW"",""GU"",""TJ"",""TD"",""SA"",""GL"",""AI"",""GG"",""FR"",""ML"",""ST"",""GH"",""UG"",""TC"",""UZ"",""SM"",""IM"",""FM"",""OM"",""PM"",""AS"",""GF"",""AM"",""MK""]},{""episodesLaunched"":3,""countryList"":[""NC"",""PH"",""KI"",""LK"",""FJ"",""NP"",""SB"",""IN"",""PN"",""WS"",""PG"",""VU"",""WF"",""AU"",""ID"",""PF"",""BD"",""MM"",""MV"",""BT"",""UM"",""KR"",""TH"",""BN"",""SG"",""LA"",""MO"",""HK"",""NZ"",""MY"",""MN"",""NF"",""CX"",""NR"",""NU"",""TO"",""TV"",""CK"",""TW"",""TK"",""VN"",""TL"",""JP"",""KH"",""CC""]}]"
+2023-12-10	TV (Non-English)	5	Welcome to Samdal-ri	Welcome to Samdal-ri: Limited Series	8200000	0	2300000	1	true	"[{""episodesLaunched"":4,""countryList"":[""IS"",""PW"",""TM"",""EE"",""PT"",""BI"",""KZ"",""RW"",""AF"",""JM"",""US"",""VA"",""VG"",""DZ"",""PS"",""ZW"",""BM"",""SR"",""BJ"",""AL"",""SL"",""TG"",""ER"",""NA"",""ME"",""SI"",""MQ"",""AG"",""BS"",""CY"",""AD"",""SH"",""PL"",""SX"",""MF"",""FI"",""GP"",""GS"",""KN"",""CZ"",""IQ"",""KG"",""AZ"",""YE"",""AE"",""GM"",""EH"",""MU"",""FK"",""GB"",""BG"",""FO"",""EG"",""GN"",""TZ"",""LU"",""BQ"",""NG"",""DJ"",""IO"",""QA"",""BA"",""BY"",""ZM"",""SS"",""MA"",""KE"",""CA"",""IE"",""CI"",""MD"",""KY"",""IT"",""CH"",""SD"",""YT"",""RO"",""TT"",""CM"",""GW"",""ET"",""MG"",""MC"",""LV"",""LR"",""SC"",""ES"",""BH"",""LS"",""JO"",""VI"",""IL"",""RE"",""GY"",""AQ"",""JE"",""DE"",""MZ"",""UA"",""NO"",""BW"",""TN"",""HT"",""GE"",""RU"",""MH"",""SN"",""AO"",""BL"",""BB"",""NL"",""CF"",""LC"",""GD"",""SO"",""RS"",""HR"",""MT"",""TR"",""MS"",""LI"",""BE"",""DK"",""IR"",""BF"",""MP"",""GA"",""LY"",""MR"",""MW"",""SK"",""CW"",""AT"",""KM"",""SZ"",""ZA"",""CD"",""CV"",""NE"",""HU"",""DM"",""SE"",""VC"",""PK"",""HM"",""GR"",""GI"",""KW"",""LB"",""LT"",""CG"",""AW"",""GU"",""TJ"",""TD"",""SA"",""GL"",""AI"",""GG"",""FR"",""ML"",""ST"",""GH"",""UG"",""TC"",""UZ"",""SM"",""IM"",""FM"",""OM"",""PM"",""AS"",""GF"",""AM"",""MK""]},{""episodesLaunched"":3,""countryList"":[""NC"",""PH"",""KI"",""LK"",""FJ"",""NP"",""SB"",""IN"",""PN"",""WS"",""PG"",""VU"",""WF"",""AU"",""ID"",""PF"",""BD"",""MM"",""MV"",""BT"",""UM"",""KR"",""TH"",""BN"",""SG"",""LA"",""MO"",""HK"",""NZ"",""MY"",""MN"",""NF"",""CX"",""NR"",""NU"",""TO"",""TV"",""CK"",""TW"",""TK"",""VN"",""TL"",""JP"",""KH"",""CC""]}]"
 2023-12-10	TV (Non-English)	6	Criminal Code	Criminal Code: Season 1	15300000	7.7667	2000000	4	false	
 2023-12-10	TV (Non-English)	7	Sweet Home	Sweet Home: Season 1	16600000	8.6	1900000	1	false	
 2023-12-10	TV (Non-English)	8	Castaway Diva	Castaway Diva: Limited Series	16600000	0	1200000	6	true	"[{""episodesLaunched"":10,""countryList"":[""PY"",""NI"",""SV"",""PE"",""MX"",""BR"",""UY"",""BZ"",""BO"",""DO"",""CL"",""GQ"",""PR"",""CU"",""VE"",""CR"",""HN"",""AR"",""EC"",""GT"",""PA"",""CO""]},{""episodesLaunched"":12,""countryList"":[""SL"",""RE"",""DM"",""HT"",""UA"",""MG"",""LI"",""SC"",""AO"",""YT"",""UG"",""CV"",""CH"",""JO"",""TT"",""AS"",""TC"",""FJ"",""GA"",""MH"",""BF"",""IN"",""LC"",""NG"",""ID"",""JM"",""RS"",""KR"",""UZ"",""FO"",""PL"",""ST"",""BW"",""AZ"",""ME"",""AW"",""CF"",""DK"",""PT"",""IM"",""HR"",""ER"",""IT"",""VN"",""JE"",""MW"",""AT"",""GR"",""WS"",""AM"",""GS"",""ZA"",""CC"",""GP"",""AG"",""AE"",""MM"",""IL"",""FM"",""SX"",""KZ"",""GD"",""FR"",""RW"",""BN"",""GI"",""MF"",""KW"",""ZM"",""EE"",""RU"",""MU"",""SS"",""GH"",""TR"",""NU"",""WF"",""PW"",""IR"",""SG"",""MC"",""TJ"",""GW"",""TW"",""ZW"",""LU"",""MS"",""BE"",""MA"",""EG"",""SK"",""VI"",""KH"",""ML"",""NE"",""SN"",""YE"",""GN"",""KN"",""SR"",""PS"",""KM"",""AD"",""CZ"",""MK"",""BJ"",""BB"",""GE"",""PN"",""MZ"",""GB"",""LR"",""MD"",""TG"",""DZ"",""IE"",""TO"",""BM"",""MO"",""DE"",""ES"",""KE"",""LT"",""PK"",""OM"",""MP"",""AU"",""MN"",""NO"",""SA"",""MQ"",""LY"",""CI"",""TN"",""KI"",""AQ"",""IS"",""CY"",""LB"",""SM"",""BD"",""CK"",""BI"",""GG"",""CW"",""NL"",""FK"",""QA"",""DJ"",""NZ"",""MR"",""TM"",""AF"",""PM"",""HK"",""NF"",""UM"",""EH"",""VA"",""SZ"",""HM"",""TZ"",""SB"",""BG"",""SD"",""MY"",""BL"",""LS"",""LK"",""MV"",""SI"",""SO"",""PF"",""RO"",""FI"",""LV"",""NR"",""AL"",""BA"",""CA"",""NC"",""ET"",""GY"",""BS"",""MT"",""TK"",""VC"",""BH"",""NP"",""GU"",""LA"",""KY"",""GL"",""KG"",""NA"",""BQ"",""PH"",""TL"",""BY"",""SH"",""BT"",""GF"",""CX"",""PG"",""TV"",""VG"",""SE"",""AI"",""CG"",""HU"",""IQ"",""CM"",""GM"",""VU"",""JP"",""TD"",""TH"",""CD"",""IO"",""US""]}]"
@@ -270,7 +310,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-12-03	TV (English)	9	Young Sheldon	Young Sheldon: Season 2	12100000	7.1667	1700000	1	false	
 2023-12-03	TV (English)	10	First Wives Club	First Wives Club: Season 1	5800000	3.9833	1500000	2	false	
 2023-12-03	TV (Non-English)	1	A Nearly Normal Family	A Nearly Normal Family: Limited Series	47700000	4.5333	10500000	2	false	
-2023-12-03	TV (Non-English)	2	My Demon	My Demon: Season 1	19700000	0	5400000	2	true	"[{""episodesLaunched"":2,""countryList"":[""VE"",""CU"",""MX"",""DO"",""PY"",""CR"",""EC"",""BO"",""UY"",""SV"",""PE"",""GQ"",""BR"",""PR"",""GT"",""HN"",""PA"",""BZ"",""CL"",""CO"",""NI"",""AR""]},{""episodesLaunched"":4,""countryList"":[""GW"",""BG"",""MZ"",""KM"",""JE"",""IS"",""AF"",""CA"",""GG"",""TT"",""AQ"",""AU"",""MM"",""DZ"",""KW"",""NE"",""NO"",""TL"",""MQ"",""BH"",""TZ"",""CH"",""TD"",""BE"",""UZ"",""HU"",""MC"",""LR"",""KE"",""LV"",""SE"",""ES"",""HM"",""SR"",""SB"",""FO"",""AD"",""LB"",""TK"",""HR"",""NU"",""BW"",""CX"",""FK"",""MN"",""VA"",""SH"",""LU"",""NZ"",""NA"",""PM"",""ZW"",""AI"",""SI"",""OM"",""GD"",""BQ"",""BT"",""BB"",""KG"",""CZ"",""FR"",""VN"",""ZM"",""TO"",""IO"",""PF"",""GH"",""MH"",""TC"",""TR"",""GF"",""BN"",""ME"",""BM"",""SX"",""AO"",""DJ"",""US"",""MR"",""PN"",""IQ"",""LC"",""TM"",""UA"",""EG"",""LS"",""RU"",""AS"",""TG"",""GR"",""PK"",""ET"",""ML"",""PW"",""RE"",""CY"",""IL"",""LI"",""SG"",""MP"",""LY"",""LA"",""MU"",""SZ"",""BF"",""LT"",""GM"",""DE"",""MG"",""SM"",""SA"",""AT"",""GP"",""ZA"",""SO"",""GS"",""CM"",""TN"",""GA"",""SL"",""FJ"",""BI"",""KI"",""CG"",""IT"",""GI"",""GB"",""JM"",""RW"",""NP"",""BS"",""CW"",""GL"",""CC"",""ST"",""MV"",""BJ"",""FI"",""MD"",""NL"",""QA"",""VG"",""CF"",""RS"",""VC"",""PH"",""GY"",""PG"",""RO"",""IE"",""VU"",""SN"",""SC"",""NC"",""SK"",""HK"",""UG"",""PT"",""GU"",""BD"",""UM"",""AW"",""AL"",""GN"",""WS"",""IM"",""YE"",""VI"",""ER"",""IN"",""MY"",""TJ"",""KZ"",""AG"",""EH"",""MA"",""BL"",""KH"",""AM"",""GE"",""KN"",""NR"",""CV"",""MK"",""LK"",""DM"",""SD"",""CI"",""PL"",""IR"",""CD"",""ID"",""WF"",""JO"",""KR"",""BY"",""PS"",""SS"",""TH"",""NG"",""KY"",""MT"",""YT"",""TV"",""NF"",""DK"",""TW"",""AZ"",""BA"",""HT"",""MF"",""MS"",""CK"",""MO"",""JP"",""AE"",""EE"",""FM"",""MW""]}]"
+2023-12-03	TV (Non-English)	2	My Demon	My Demon: Limited Series	19700000	0	5400000	2	true	"[{""episodesLaunched"":2,""countryList"":[""VE"",""CU"",""MX"",""DO"",""PY"",""CR"",""EC"",""BO"",""UY"",""SV"",""PE"",""GQ"",""BR"",""PR"",""GT"",""HN"",""PA"",""BZ"",""CL"",""CO"",""NI"",""AR""]},{""episodesLaunched"":4,""countryList"":[""GW"",""BG"",""MZ"",""KM"",""JE"",""IS"",""AF"",""CA"",""GG"",""TT"",""AQ"",""AU"",""MM"",""DZ"",""KW"",""NE"",""NO"",""TL"",""MQ"",""BH"",""TZ"",""CH"",""TD"",""BE"",""UZ"",""HU"",""MC"",""LR"",""KE"",""LV"",""SE"",""ES"",""HM"",""SR"",""SB"",""FO"",""AD"",""LB"",""TK"",""HR"",""NU"",""BW"",""CX"",""FK"",""MN"",""VA"",""SH"",""LU"",""NZ"",""NA"",""PM"",""ZW"",""AI"",""SI"",""OM"",""GD"",""BQ"",""BT"",""BB"",""KG"",""CZ"",""FR"",""VN"",""ZM"",""TO"",""IO"",""PF"",""GH"",""MH"",""TC"",""TR"",""GF"",""BN"",""ME"",""BM"",""SX"",""AO"",""DJ"",""US"",""MR"",""PN"",""IQ"",""LC"",""TM"",""UA"",""EG"",""LS"",""RU"",""AS"",""TG"",""GR"",""PK"",""ET"",""ML"",""PW"",""RE"",""CY"",""IL"",""LI"",""SG"",""MP"",""LY"",""LA"",""MU"",""SZ"",""BF"",""LT"",""GM"",""DE"",""MG"",""SM"",""SA"",""AT"",""GP"",""ZA"",""SO"",""GS"",""CM"",""TN"",""GA"",""SL"",""FJ"",""BI"",""KI"",""CG"",""IT"",""GI"",""GB"",""JM"",""RW"",""NP"",""BS"",""CW"",""GL"",""CC"",""ST"",""MV"",""BJ"",""FI"",""MD"",""NL"",""QA"",""VG"",""CF"",""RS"",""VC"",""PH"",""GY"",""PG"",""RO"",""IE"",""VU"",""SN"",""SC"",""NC"",""SK"",""HK"",""UG"",""PT"",""GU"",""BD"",""UM"",""AW"",""AL"",""GN"",""WS"",""IM"",""YE"",""VI"",""ER"",""IN"",""MY"",""TJ"",""KZ"",""AG"",""EH"",""MA"",""BL"",""KH"",""AM"",""GE"",""KN"",""NR"",""CV"",""MK"",""LK"",""DM"",""SD"",""CI"",""PL"",""IR"",""CD"",""ID"",""WF"",""JO"",""KR"",""BY"",""PS"",""SS"",""TH"",""NG"",""KY"",""MT"",""YT"",""TV"",""NF"",""DK"",""TW"",""AZ"",""BA"",""HT"",""MF"",""MS"",""CK"",""MO"",""JP"",""AE"",""EE"",""FM"",""MW""]}]"
 2023-12-03	TV (Non-English)	3	Criminal Code	Criminal Code: Season 1	27100000	7.7667	3500000	3	false	
 2023-12-03	TV (Non-English)	4	Sweet Home	Sweet Home: Season 2	23700000	9.5167	2500000	1	false	
 2023-12-03	TV (Non-English)	5	The Railway Men - The Untold Story Of Bhopal 1984	The Railway Men - The Untold Story Of Bhopal 1984: Limited Series	8000000	3.9667	2000000	3	false	
@@ -312,7 +352,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-11-26	TV (Non-English)	1	A Nearly Normal Family	A Nearly Normal Family: Limited Series	29000000	4.5333	6400000	1	false	
 2023-11-26	TV (Non-English)	2	Criminal Code	Criminal Code: Season 1	41000000	7.7667	5300000	2	false	
 2023-11-26	TV (Non-English)	3	The Railway Men - The Untold Story Of Bhopal 1984	The Railway Men - The Untold Story Of Bhopal 1984: Limited Series	18100000	3.9667	4600000	2	false	
-2023-11-26	TV (Non-English)	4	My Demon	My Demon: Season 1	6700000	2.2	3000000	1	false	
+2023-11-26	TV (Non-English)	4	My Demon	My Demon: Limited Series	6700000	2.2	3000000	1	false	
 2023-11-26	TV (Non-English)	5	Nothing to See Here	Nothing to See Here: Season 1	8100000	3.3833	2400000	1	false	
 2023-11-26	TV (Non-English)	6	Squid Game	Squid Game: Season 1	13300000	8.3167	1600000	21	false	
 2023-11-26	TV (Non-English)	7	Castaway Diva	Castaway Diva: Limited Series	16700000	0	1600000	4	true	"[{""episodesLaunched"":10,""countryList"":[""GE"",""PN"",""RW"",""RO"",""MU"",""SS"",""FI"",""YT"",""BH"",""NP"",""IM"",""HR"",""MO"",""KR"",""UZ"",""LY"",""AS"",""BT"",""GF"",""GD"",""SI"",""JP"",""GM"",""MQ"",""BQ"",""PH"",""TL"",""CD"",""RS"",""TH"",""GS"",""ES"",""MS"",""MH"",""SA"",""TW"",""RE"",""KN"",""SR"",""MZ"",""EG"",""SK"",""CX"",""PG"",""ID"",""JM"",""FR"",""CV"",""MY"",""AU"",""AZ"",""AD"",""BF"",""MM"",""UG"",""BE"",""MA"",""DM"",""HT"",""AE"",""LI"",""NE"",""SN"",""LU"",""IN"",""EE"",""KY"",""AF"",""PM"",""KW"",""GU"",""SC"",""VC"",""AQ"",""GH"",""MP"",""SH"",""SX"",""PF"",""UA"",""OM"",""IR"",""RU"",""CY"",""DE"",""SO"",""GB"",""LR"",""BJ"",""BG"",""SD"",""KI"",""KE"",""NR"",""SZ"",""VI"",""ET"",""GY"",""FM"",""SG"",""HM"",""TZ"",""MR"",""TM"",""LB"",""NZ"",""FK"",""KM"",""MT"",""PW"",""DJ"",""TR"",""SM"",""GR"",""WS"",""AI"",""VG"",""ZM"",""LC"",""NG"",""CF"",""DK"",""NF"",""UM"",""CK"",""IQ"",""BA"",""GN"",""KH"",""ML"",""DZ"",""CW"",""NL"",""BI"",""GG"",""CZ"",""LS"",""MN"",""NO"",""HK"",""MF"",""CI"",""TN"",""LA"",""ZA"",""PK"",""VU"",""AO"",""QA"",""PS"",""JE"",""MW"",""BW"",""GW"",""TT"",""ST"",""CH"",""TO"",""NU"",""BB"",""AM"",""VA"",""EH"",""GL"",""KG"",""NA"",""FJ"",""GA"",""WF"",""IE"",""CM"",""ZW"",""SL"",""SB"",""BY"",""TK"",""YE"",""BN"",""GI"",""IL"",""CG"",""IT"",""VN"",""BS"",""LT"",""CA"",""NC"",""JO"",""ER"",""IS"",""CC"",""MC"",""TJ"",""ME"",""LK"",""MV"",""AT"",""SE"",""BL"",""TC"",""AG"",""GP"",""FO"",""PL"",""BD"",""LV"",""TV"",""IO"",""US"",""HU"",""MK"",""MG"",""KZ"",""AW"",""BM"",""PT"",""MD"",""TG"",""AL"",""TD""]},{""episodesLaunched"":6,""countryList"":[""PE"",""BR"",""PA"",""BO"",""EC"",""NI"",""PR"",""DO"",""GQ"",""CU"",""CR"",""VE"",""HN"",""SV"",""AR"",""BZ"",""CO"",""UY"",""PY"",""MX"",""CL"",""GT""]}]"
@@ -587,7 +627,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-10-08	TV (English)	6	Virgin River	Virgin River: Season 5	15200000	7.65	2000000	5	false	
 2023-10-08	TV (English)	7	Castlevania: Nocturne	Castlevania: Nocturne: Season 1	6800000	3.7	1800000	2	false	
 2023-10-08	TV (English)	8	Murdaugh Murders: A Southern Scandal	Murdaugh Murders: A Southern Scandal: Season 2	3200000	1.7833	1800000	3	false	
-2023-10-08	TV (English)	9	Who Killed Jill Dando?	Who Killed Jill Dando?: Season 1	3800000	2.3167	1600000	2	false	
+2023-10-08	TV (English)	9	Who Killed Jill Dando?	Who Killed Jill Dando?: Limited Series	3800000	2.3167	1600000	2	false	
 2023-10-08	TV (English)	10	The Great British Baking Show	The Great British Baking Show: Collection 11	3500000	2.2333	1600000	1	false	
 2023-10-08	TV (Non-English)	1	Lupin	Lupin: Part 3	63900000	5.5167	11600000	1	false	
 2023-10-08	TV (Non-English)	2	Lupin	Lupin: Part 1	13900000	3.9833	3500000	1	false	
@@ -620,7 +660,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-10-01	Films (Non-English)	9	Ehrengard: The Art of Seduction	N/A	2100000	1.5833	1300000	3	false	
 2023-10-01	Films (Non-English)	10	Once Upon a Crime	N/A	2200000	1.7833	1200000	3	false	
 2023-10-01	TV (English)	1	Sex Education	Sex Education: Season 4	108400000	8.1	13400000	2	false	
-2023-10-01	TV (English)	2	Who Killed Jill Dando?	Who Killed Jill Dando?: Season 1	12800000	2.3167	5500000	1	false	
+2023-10-01	TV (English)	2	Who Killed Jill Dando?	Who Killed Jill Dando?: Limited Series	12800000	2.3167	5500000	1	false	
 2023-10-01	TV (English)	3	Love Is Blind	Love Is Blind: Season 5	36200000	6.7833	5300000	2	false	
 2023-10-01	TV (English)	4	Murdaugh Murders: A Southern Scandal	Murdaugh Murders: A Southern Scandal: Season 2	8000000	1.7833	4500000	2	false	
 2023-10-01	TV (English)	5	Encounters	Encounters: Season 1	14900000	3.3833	4400000	1	false	
@@ -3276,7 +3316,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-06-26	TV (Non-English)	5	Café con aroma de mujer	Café con aroma de mujer: Season 1	10820000			19	false	
 2022-06-26	TV (Non-English)	6	The War Next-door	The War Next-door: Season 2	10150000			2	false	
 2022-06-26	TV (Non-English)	7	She	She: Season 2	9490000			1	false	
-2022-06-26	TV (Non-English)	8	Our Blues	Our Blues: Season 1	9250000			9	false	
+2022-06-26	TV (Non-English)	8	Our Blues	Our Blues: Limited Series	9250000			9	false	
 2022-06-26	TV (Non-English)	9	SPRIGGAN	SPRIGGAN: Season 1	9120000			1	false	
 2022-06-26	TV (Non-English)	10	Maldivas	Maldivas: Season 1	8460000			2	false	
 2022-06-19	Films (English)	1	Hustle	N/A	57190000			2	false	
@@ -3310,7 +3350,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-06-19	TV (English)	9	The Lincoln Lawyer	The Lincoln Lawyer: Season 1	17550000			6	false	
 2022-06-19	TV (English)	10	Peaky Blinders	Peaky Blinders: Season 1	16420000			1	false	
 2022-06-19	TV (Non-English)	1	Intimacy	Intimacy: Season 1	30210000			2	false	
-2022-06-19	TV (Non-English)	2	Our Blues	Our Blues: Season 1	15000000			8	false	
+2022-06-19	TV (Non-English)	2	Our Blues	Our Blues: Limited Series	15000000			8	false	
 2022-06-19	TV (Non-English)	3	Malverde, el santo patrón	Malverde, el santo patrón: Season 1	12470000			2	false	
 2022-06-19	TV (Non-English)	4	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	11480000			27	false	
 2022-06-19	TV (Non-English)	5	Maldivas	Maldivas: Season 1	11300000			1	false	
@@ -3353,10 +3393,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-06-12	TV (Non-English)	2	As the Crow Flies	As the Crow Flies: Season 1	18310000			1	false	
 2022-06-12	TV (Non-English)	3	The Perfect Mother	The Perfect Mother: Season 1	16150000			2	false	
 2022-06-12	TV (Non-English)	4	Intimacy	Intimacy: Season 1	15900000			1	false	
-2022-06-12	TV (Non-English)	5	Our Blues	Our Blues: Season 1	14910000			7	false	
+2022-06-12	TV (Non-English)	5	Our Blues	Our Blues: Limited Series	14910000			7	false	
 2022-06-12	TV (Non-English)	6	Malverde, el santo patrón	Malverde, el santo patrón: Season 1	12370000			1	false	
 2022-06-12	TV (Non-English)	7	Two Summers	Two Summers: Season 1	12210000			1	false	
-2022-06-12	TV (Non-English)	8	My Liberation Notes	My Liberation Notes: Season 1	10050000			4	false	
+2022-06-12	TV (Non-English)	8	My Liberation Notes	My Liberation Notes: Limited Series	10050000			4	false	
 2022-06-12	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9680000			26	false	
 2022-06-12	TV (Non-English)	10	Who Killed Sara?	Who Killed Sara?: Season 3	9030000			4	false	
 2022-06-05	Films (English)	1	Interceptor	N/A	35600000			1	false	
@@ -3391,14 +3431,14 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-06-05	TV (English)	10	The Blacklist	The Blacklist: Season 8	8710000			1	false	
 2022-06-05	TV (Non-English)	1	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 1	37160000			3	false	
 2022-06-05	TV (Non-English)	2	Who Killed Sara?	Who Killed Sara?: Season 3	15570000			3	false	
-2022-06-05	TV (Non-English)	3	My Liberation Notes	My Liberation Notes: Season 1	14240000			3	false	
-2022-06-05	TV (Non-English)	4	Our Blues	Our Blues: Season 1	12910000			6	false	
+2022-06-05	TV (Non-English)	3	My Liberation Notes	My Liberation Notes: Limited Series	14240000			3	false	
+2022-06-05	TV (Non-English)	4	Our Blues	Our Blues: Limited Series	12910000			6	false	
 2022-06-05	TV (Non-English)	5	The Perfect Mother	The Perfect Mother: Season 1	12090000			1	false	
 2022-06-05	TV (Non-English)	6	The Marked Heart	The Marked Heart: Season 1	9870000			7	false	
 2022-06-05	TV (Non-English)	7	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9400000			25	false	
 2022-06-05	TV (Non-English)	8	Welcome to Eden	Welcome to Eden: Season 1	9030000			5	false	
 2022-06-05	TV (Non-English)	9	SHAMAN KING	SHAMAN KING: Season 1	8770000			2	false	
-2022-06-05	TV (Non-English)	10	Business Proposal	Business Proposal: Season 1	8270000			13	false	
+2022-06-05	TV (Non-English)	10	Business Proposal	Business Proposal: Limited Series	8270000			13	false	
 2022-05-29	Films (English)	1	A Perfect Pairing	N/A	32630000			2	false	
 2022-05-29	Films (English)	2	Senior Year	N/A	24560000			3	false	
 2022-05-29	Films (English)	3	Jackass 4.5	N/A	18540000			2	false	
@@ -3433,12 +3473,12 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-05-29	TV (Non-English)	2	Who Killed Sara?	Who Killed Sara?: Season 3	31840000			2	false	
 2022-05-29	TV (Non-English)	3	Who Killed Sara?	Who Killed Sara?: Season 1	14600000			2	false	
 2022-05-29	TV (Non-English)	4	Welcome to Eden	Welcome to Eden: Season 1	14340000			4	false	
-2022-05-29	TV (Non-English)	5	My Liberation Notes	My Liberation Notes: Season 1	13130000			2	false	
+2022-05-29	TV (Non-English)	5	My Liberation Notes	My Liberation Notes: Limited Series	13130000			2	false	
 2022-05-29	TV (Non-English)	6	The Marked Heart	The Marked Heart: Season 1	12880000			6	false	
-2022-05-29	TV (Non-English)	7	Our Blues	Our Blues: Season 1	12720000			5	false	
+2022-05-29	TV (Non-English)	7	Our Blues	Our Blues: Limited Series	12720000			5	false	
 2022-05-29	TV (Non-English)	8	Who Killed Sara?	Who Killed Sara?: Season 2	11770000			1	false	
-2022-05-29	TV (Non-English)	9	Tomorrow	Tomorrow: Season 1	11120000			3	false	
-2022-05-29	TV (Non-English)	10	Business Proposal	Business Proposal: Season 1	9990000			12	false	
+2022-05-29	TV (Non-English)	9	Tomorrow	Tomorrow: Limited Series	11120000			3	false	
+2022-05-29	TV (Non-English)	10	Business Proposal	Business Proposal: Limited Series	9990000			12	false	
 2022-05-22	Films (English)	1	Senior Year	N/A	62420000			2	false	
 2022-05-22	Films (English)	2	A Perfect Pairing	N/A	33000000			1	false	
 2022-05-22	Films (English)	3	Dangerous	N/A	18060000			1	false	
@@ -3474,10 +3514,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-05-22	TV (Non-English)	3	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 1	20200000			1	false	
 2022-05-22	TV (Non-English)	4	The Marked Heart	The Marked Heart: Season 1	19220000			5	false	
 2022-05-22	TV (Non-English)	5	Who Killed Sara?	Who Killed Sara?: Season 1	14210000			1	false	
-2022-05-22	TV (Non-English)	6	Business Proposal	Business Proposal: Season 1	13220000			11	false	
-2022-05-22	TV (Non-English)	7	Tomorrow	Tomorrow: Season 1	11990000			2	false	
-2022-05-22	TV (Non-English)	8	Our Blues	Our Blues: Season 1	10850000			4	false	
-2022-05-22	TV (Non-English)	9	My Liberation Notes	My Liberation Notes: Season 1	9850000			1	false	
+2022-05-22	TV (Non-English)	6	Business Proposal	Business Proposal: Limited Series	13220000			11	false	
+2022-05-22	TV (Non-English)	7	Tomorrow	Tomorrow: Limited Series	11990000			2	false	
+2022-05-22	TV (Non-English)	8	Our Blues	Our Blues: Limited Series	10850000			4	false	
+2022-05-22	TV (Non-English)	9	My Liberation Notes	My Liberation Notes: Limited Series	9850000			1	false	
 2022-05-22	TV (Non-English)	10	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9650000			24	false	
 2022-05-15	Films (English)	1	Senior Year	N/A	55940000			1	false	
 2022-05-15	Films (English)	2	Our Father	N/A	23870000			1	false	
@@ -3511,13 +3551,13 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-05-15	TV (English)	10	Anatomy of a Scandal	Anatomy of a Scandal: Limited Series	9670000			5	false	
 2022-05-15	TV (Non-English)	1	Welcome to Eden	Welcome to Eden: Season 1	62490000			2	false	
 2022-05-15	TV (Non-English)	2	The Marked Heart	The Marked Heart: Season 1	28930000			4	false	
-2022-05-15	TV (Non-English)	3	Business Proposal	Business Proposal: Season 1	20160000			10	false	
+2022-05-15	TV (Non-English)	3	Business Proposal	Business Proposal: Limited Series	20160000			10	false	
 2022-05-15	TV (Non-English)	4	The Sound of Magic	The Sound of Magic: Limited Series	16930000			2	false	
 2022-05-15	TV (Non-English)	5	Clark	Clark: Limited Series	10480000			1	false	
-2022-05-15	TV (Non-English)	6	Our Blues	Our Blues: Season 1	10050000			3	false	
+2022-05-15	TV (Non-English)	6	Our Blues	Our Blues: Limited Series	10050000			3	false	
 2022-05-15	TV (Non-English)	7	42 Days of Darkness	42 Days of Darkness: Season 1	9920000			1	false	
 2022-05-15	TV (Non-English)	8	Pedro el escamoso	Pedro el escamoso: Season 1	9820000			4	false	
-2022-05-15	TV (Non-English)	9	Tomorrow	Tomorrow: Season 1	9690000			1	false	
+2022-05-15	TV (Non-English)	9	Tomorrow	Tomorrow: Limited Series	9690000			1	false	
 2022-05-15	TV (Non-English)	10	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9440000			23	false	
 2022-05-08	Films (English)	1	365 Days: This Day	N/A	27530000			2	false	
 2022-05-08	Films (English)	2	Sonic the Hedgehog	N/A	17150000			2	false	
@@ -3551,10 +3591,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-05-08	TV (English)	10	Meltdown: Three Mile Island	Meltdown: Three Mile Island: Limited Series	10850000			1	false	
 2022-05-08	TV (Non-English)	1	The Marked Heart	The Marked Heart: Season 1	48550000			3	false	
 2022-05-08	TV (Non-English)	2	Welcome to Eden	Welcome to Eden: Season 1	25820000			1	false	
-2022-05-08	TV (Non-English)	3	Business Proposal	Business Proposal: Season 1	19100000			9	false	
+2022-05-08	TV (Non-English)	3	Business Proposal	Business Proposal: Limited Series	19100000			9	false	
 2022-05-08	TV (Non-English)	4	El marginal	El marginal: Season 5	13260000			1	false	
 2022-05-08	TV (Non-English)	5	The 7 Lives of Lea	The 7 Lives of Lea: Limited Series	12280000			2	false	
-2022-05-08	TV (Non-English)	6	Our Blues	Our Blues: Season 1	10370000			2	false	
+2022-05-08	TV (Non-English)	6	Our Blues	Our Blues: Limited Series	10370000			2	false	
 2022-05-08	TV (Non-English)	7	Pedro el escamoso	Pedro el escamoso: Season 1	10080000			3	false	
 2022-05-08	TV (Non-English)	8	The Sound of Magic	The Sound of Magic: Limited Series	9640000			1	false	
 2022-05-08	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9530000			22	false	
@@ -3591,14 +3631,14 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-05-01	TV (English)	10	The Creature Cases	The Creature Cases: Chapter 1	11760000			2	false	
 2022-05-01	TV (Non-English)	1	The Marked Heart	The Marked Heart: Season 1	85260000			2	false	
 2022-05-01	TV (Non-English)	2	Hold Tight	Hold Tight: Limited Series	25120000			2	false	
-2022-05-01	TV (Non-English)	3	Business Proposal	Business Proposal: Season 1	19500000			8	false	
+2022-05-01	TV (Non-English)	3	Business Proposal	Business Proposal: Limited Series	19500000			8	false	
 2022-05-01	TV (Non-English)	4	Elite	Elite: Season 5	14890000			4	false	
 2022-05-01	TV (Non-English)	5	Yakamoz S-245	Yakamoz S-245: Season 1	13000000			2	false	
 2022-05-01	TV (Non-English)	6	The 7 Lives of Lea	The 7 Lives of Lea: Limited Series	11230000			1	false	
 2022-05-01	TV (Non-English)	7	Pedro el escamoso	Pedro el escamoso: Season 1	10460000			2	false	
 2022-05-01	TV (Non-English)	8	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	9800000			21	false	
-2022-05-01	TV (Non-English)	9	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	9580000			10	false	
-2022-05-01	TV (Non-English)	10	Our Blues	Our Blues: Season 1	9090000			1	false	
+2022-05-01	TV (Non-English)	9	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	9580000			10	false	
+2022-05-01	TV (Non-English)	10	Our Blues	Our Blues: Limited Series	9090000			1	false	
 2022-04-24	Films (English)	1	Choose or Die	N/A	15260000			2	false	
 2022-04-24	Films (English)	2	The In Between	N/A	13350000			3	false	
 2022-04-24	Films (English)	3	White Hot: The Rise & Fall of Abercrombie & Fitch	N/A	9920000			1	false	
@@ -3632,10 +3672,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-04-24	TV (Non-English)	1	The Marked Heart	The Marked Heart: Season 1	68040000			1	false	
 2022-04-24	TV (Non-English)	2	Elite	Elite: Season 5	29490000			3	false	
 2022-04-24	TV (Non-English)	3	Yakamoz S-245	Yakamoz S-245: Season 1	22060000			1	false	
-2022-04-24	TV (Non-English)	4	Business Proposal	Business Proposal: Season 1	20380000			7	false	
+2022-04-24	TV (Non-English)	4	Business Proposal	Business Proposal: Limited Series	20380000			7	false	
 2022-04-24	TV (Non-English)	5	Heirs to the Land	Heirs to the Land: Season 1	18840000			2	false	
 2022-04-24	TV (Non-English)	6	Hold Tight	Hold Tight: Limited Series	17320000			1	false	
-2022-04-24	TV (Non-English)	7	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	11340000			9	false	
+2022-04-24	TV (Non-English)	7	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	11340000			9	false	
 2022-04-24	TV (Non-English)	8	Happiness	N/A	10820000			2	false	
 2022-04-24	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	10490000			20	false	
 2022-04-24	TV (Non-English)	10	Café con aroma de mujer	Café con aroma de mujer: Season 1	10390000			17	false	
@@ -3670,15 +3710,15 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-04-17	TV (English)	9	Jimmy Savile: A British Horror Story	Jimmy Savile: A British Horror Story: Limited Series	11410000			2	false	
 2022-04-17	TV (English)	10	Is It Cake?	Is It Cake?: Season 1	11210000			4	false	
 2022-04-17	TV (Non-English)	1	Elite	Elite: Season 5	67390000			2	false	
-2022-04-17	TV (Non-English)	2	Business Proposal	Business Proposal: Season 1	24190000			6	false	
-2022-04-17	TV (Non-English)	3	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	14080000			8	false	
+2022-04-17	TV (Non-English)	2	Business Proposal	Business Proposal: Limited Series	24190000			6	false	
+2022-04-17	TV (Non-English)	3	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	14080000			8	false	
 2022-04-17	TV (Non-English)	4	Heirs to the Land	Heirs to the Land: Season 1	11810000			1	false	
 2022-04-17	TV (Non-English)	5	Café con aroma de mujer	Café con aroma de mujer: Season 1	11350000			16	false	
 2022-04-17	TV (Non-English)	6	Smother-in-Law	Smother-in-Law: Season 1	11070000			1	false	
 2022-04-17	TV (Non-English)	7	Happiness	N/A	10940000			1	false	
 2022-04-17	TV (Non-English)	8	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	10400000			19	false	
 2022-04-17	TV (Non-English)	9	Elite	Elite: Season 1	10110000			2	false	
-2022-04-17	TV (Non-English)	10	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	9410000			8	false	
+2022-04-17	TV (Non-English)	10	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	9410000			8	false	
 2022-04-10	Films (English)	1	The In Between	N/A	26770000			1	false	
 2022-04-10	Films (English)	2	The Adam Project	N/A	10900000			5	false	
 2022-04-10	Films (English)	3	The Bubble	N/A	9950000			2	false	
@@ -3710,12 +3750,12 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-04-10	TV (English)	9	The Last Kingdom	The Last Kingdom: Season 5	12970000			5	false	
 2022-04-10	TV (English)	10	CoComelon	CoComelon: Season 5	12630000			1	false	
 2022-04-10	TV (Non-English)	1	Elite	Elite: Season 5	51380000			1	false	
-2022-04-10	TV (Non-English)	2	Business Proposal	Business Proposal: Season 1	41460000			5	false	
-2022-04-10	TV (Non-English)	3	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	22530000			7	false	
-2022-04-10	TV (Non-English)	4	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	14830000			7	false	
+2022-04-10	TV (Non-English)	2	Business Proposal	Business Proposal: Limited Series	41460000			5	false	
+2022-04-10	TV (Non-English)	3	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	22530000			7	false	
+2022-04-10	TV (Non-English)	4	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	14830000			7	false	
 2022-04-10	TV (Non-English)	5	Café con aroma de mujer	Café con aroma de mujer: Season 1	13050000			15	false	
 2022-04-10	TV (Non-English)	6	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	10590000			18	false	
-2022-04-10	TV (Non-English)	7	Thirty-Nine	Thirty-Nine: Season 1	9040000			5	false	
+2022-04-10	TV (Non-English)	7	Thirty-Nine	Thirty-Nine: Limited Series	9040000			5	false	
 2022-04-10	TV (Non-English)	8	All of Us Are Dead	All of Us Are Dead: Season 1	8130000			11	false	
 2022-04-10	TV (Non-English)	9	Pedro el escamoso	Pedro el escamoso: Season 1	6890000			1	false	
 2022-04-10	TV (Non-English)	10	Juvenile Justice	Juvenile Justice: Season 1	6210000			7	false	
@@ -3749,11 +3789,11 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-04-03	TV (English)	8	Top Boy	Top Boy: Season 1	13200000			2	false	
 2022-04-03	TV (English)	9	Vikings: Valhalla	Vikings: Valhalla: Season 1	10050000			5	false	
 2022-04-03	TV (English)	10	Taboo	Taboo: Season 1	8310000			2	false	
-2022-04-03	TV (Non-English)	1	Business Proposal	Business Proposal: Season 1	32520000			4	false	
-2022-04-03	TV (Non-English)	2	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	26210000			6	false	
+2022-04-03	TV (Non-English)	1	Business Proposal	Business Proposal: Limited Series	32520000			4	false	
+2022-04-03	TV (Non-English)	2	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	26210000			6	false	
 2022-04-03	TV (Non-English)	3	Café con aroma de mujer	Café con aroma de mujer: Season 1	15230000			14	false	
-2022-04-03	TV (Non-English)	4	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	15020000			6	false	
-2022-04-03	TV (Non-English)	5	Thirty-Nine	Thirty-Nine: Season 1	13510000			4	false	
+2022-04-03	TV (Non-English)	4	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	15020000			6	false	
+2022-04-03	TV (Non-English)	5	Thirty-Nine	Thirty-Nine: Limited Series	13510000			4	false	
 2022-04-03	TV (Non-English)	6	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	10890000			17	false	
 2022-04-03	TV (Non-English)	7	All of Us Are Dead	All of Us Are Dead: Season 1	9430000			10	false	
 2022-04-03	TV (Non-English)	8	Juvenile Justice	Juvenile Justice: Season 1	9340000			6	false	
@@ -3789,15 +3829,15 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-03-27	TV (English)	8	Top Boy	Top Boy: Season 1	19260000			1	false	
 2022-03-27	TV (English)	9	Bad Vegan: Fame. Fraud. Fugitives.	Bad Vegan: Fame. Fraud. Fugitives.: Limited Series	17570000			2	false	
 2022-03-27	TV (English)	10	Human Resources	Human Resources: Season 1	16230000			1	false	
-2022-03-27	TV (Non-English)	1	Business Proposal	Business Proposal: Season 1	30940000			3	false	
-2022-03-27	TV (Non-English)	2	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	24150000			5	false	
+2022-03-27	TV (Non-English)	1	Business Proposal	Business Proposal: Limited Series	30940000			3	false	
+2022-03-27	TV (Non-English)	2	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	24150000			5	false	
 2022-03-27	TV (Non-English)	3	Café con aroma de mujer	Café con aroma de mujer: Season 1	18270000			13	false	
-2022-03-27	TV (Non-English)	4	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	14480000			5	false	
+2022-03-27	TV (Non-English)	4	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	14480000			5	false	
 2022-03-27	TV (Non-English)	5	Cracow Monsters	Cracow Monsters: Season 1	13260000			1	false	
 2022-03-27	TV (Non-English)	6	Juvenile Justice	Juvenile Justice: Season 1	12510000			5	false	
 2022-03-27	TV (Non-English)	7	All of Us Are Dead	All of Us Are Dead: Season 1	11380000			9	false	
 2022-03-27	TV (Non-English)	8	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	11160000			16	false	
-2022-03-27	TV (Non-English)	9	Thirty-Nine	Thirty-Nine: Season 1	10430000			3	false	
+2022-03-27	TV (Non-English)	9	Thirty-Nine	Thirty-Nine: Limited Series	10430000			3	false	
 2022-03-27	TV (Non-English)	10	Pedal to Metal	Pedal to Metal: Season 1	8150000			1	false	
 2022-03-20	Films (English)	1	The Adam Project	N/A	85360000			2	false	
 2022-03-20	Films (English)	2	Rescued by Ruby	N/A	19940000			1	false	
@@ -3829,16 +3869,16 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-03-20	TV (English)	8	Vikings: Valhalla	Vikings: Valhalla: Season 1	19800000			4	false	
 2022-03-20	TV (English)	9	Life After Death with Tyler Henry	Life After Death with Tyler Henry: Season 1	19580000			1	false	
 2022-03-20	TV (English)	10	Good Girls	Good Girls: Season 4	17490000			6	false	
-2022-03-20	TV (Non-English)	1	Business Proposal	Business Proposal: Season 1	23480000			2	false	
-2022-03-20	TV (Non-English)	2	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	21040000			4	false	
+2022-03-20	TV (Non-English)	1	Business Proposal	Business Proposal: Limited Series	23480000			2	false	
+2022-03-20	TV (Non-English)	2	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	21040000			4	false	
 2022-03-20	TV (Non-English)	3	Café con aroma de mujer	Café con aroma de mujer: Season 1	20210000			12	false	
 2022-03-20	TV (Non-English)	4	Juvenile Justice	Juvenile Justice: Season 1	17220000			4	false	
 2022-03-20	TV (Non-English)	5	All of Us Are Dead	All of Us Are Dead: Season 1	13820000			8	false	
-2022-03-20	TV (Non-English)	6	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	13050000			4	false	
+2022-03-20	TV (Non-English)	6	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	13050000			4	false	
 2022-03-20	TV (Non-English)	7	The Great Robbery of Brazil's Central Bank	The Great Robbery of Brazil's Central Bank: Season 1	10880000			1	false	
 2022-03-20	TV (Non-English)	8	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	10570000			15	false	
 2022-03-20	TV (Non-English)	9	Lies and Deceit	Lies and Deceit: Season 1	10040000			2	false	
-2022-03-20	TV (Non-English)	10	Thirty-Nine	Thirty-Nine: Season 1	9180000			2	false	
+2022-03-20	TV (Non-English)	10	Thirty-Nine	Thirty-Nine: Limited Series	9180000			2	false	
 2022-03-13	Films (English)	1	The Adam Project	N/A	92430000			1	false	
 2022-03-13	Films (English)	2	The Weekend Away	N/A	26260000			2	false	
 2022-03-13	Films (English)	3	Against The Ice	N/A	12730000			2	false	
@@ -3873,10 +3913,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-03-13	TV (Non-English)	2	Café con aroma de mujer	Café con aroma de mujer: Season 1	23060000			11	false	
 2022-03-13	TV (Non-English)	3	Lies and Deceit	Lies and Deceit: Season 1	20240000			1	false	
 2022-03-13	TV (Non-English)	4	All of Us Are Dead	All of Us Are Dead: Season 1	17480000			7	false	
-2022-03-13	TV (Non-English)	5	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	17110000			3	false	
-2022-03-13	TV (Non-English)	6	Business Proposal	Business Proposal: Season 1	15900000			1	false	
+2022-03-13	TV (Non-English)	5	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	17110000			3	false	
+2022-03-13	TV (Non-English)	6	Business Proposal	Business Proposal: Limited Series	15900000			1	false	
 2022-03-13	TV (Non-English)	7	Midnight at the Pera Palace	Midnight at the Pera Palace: Season 1	14690000			2	false	
-2022-03-13	TV (Non-English)	8	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	12250000			3	false	
+2022-03-13	TV (Non-English)	8	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	12250000			3	false	
 2022-03-13	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	10340000			14	false	
 2022-03-13	TV (Non-English)	10	The Queen of Flow	The Queen of Flow: Season 2	8410000			15	false	
 2022-03-06	Films (English)	1	The Weekend Away	N/A	44450000			1	false	
@@ -3913,11 +3953,11 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-03-06	TV (Non-English)	2	Café con aroma de mujer	Café con aroma de mujer: Season 1	27540000			10	false	
 2022-03-06	TV (Non-English)	3	All of Us Are Dead	All of Us Are Dead: Season 1	24020000			6	false	
 2022-03-06	TV (Non-English)	4	Back to 15	Back to 15: Season 1	18060000			1	false	
-2022-03-06	TV (Non-English)	5	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	13720000			2	false	
+2022-03-06	TV (Non-English)	5	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	13720000			2	false	
 2022-03-06	TV (Non-English)	6	The Fame Game	The Fame Game: Season 1	11610000			1	false	
-2022-03-06	TV (Non-English)	7	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	10790000			2	false	
+2022-03-06	TV (Non-English)	7	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	10790000			2	false	
 2022-03-06	TV (Non-English)	8	Midnight at the Pera Palace	Midnight at the Pera Palace: Season 1	10780000			1	false	
-2022-03-06	TV (Non-English)	9	Thirty-Nine	Thirty-Nine: Season 1	10490000			1	false	
+2022-03-06	TV (Non-English)	9	Thirty-Nine	Thirty-Nine: Limited Series	10490000			1	false	
 2022-03-06	TV (Non-English)	10	Dark Desire	Dark Desire: Season 2	10400000			5	false	
 2022-02-27	Films (English)	1	A Madea Homecoming	N/A	31560000			1	false	
 2022-02-27	Films (English)	2	The Tinder Swindler	N/A	17670000			4	false	
@@ -3955,9 +3995,9 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-02-27	TV (Non-English)	4	Dark Desire	Dark Desire: Season 2	15010000			4	false	
 2022-02-27	TV (Non-English)	5	Toy Boy	Toy Boy: Season 1	12750000			3	false	
 2022-02-27	TV (Non-English)	6	Toy Boy	Toy Boy: Season 2	12700000			3	false	
-2022-02-27	TV (Non-English)	7	Twenty Five Twenty One	Twenty Five Twenty One: Season 1	11850000			1	false	
+2022-02-27	TV (Non-English)	7	Twenty Five Twenty One	Twenty Five Twenty One: Limited Series	11850000			1	false	
 2022-02-27	TV (Non-English)	8	Fishbowl Wives	Fishbowl Wives: Season 1	11080000			2	false	
-2022-02-27	TV (Non-English)	9	Forecasting Love and Weather	Forecasting Love and Weather: Season 1	11020000			1	false	
+2022-02-27	TV (Non-English)	9	Forecasting Love and Weather	Forecasting Love and Weather: Limited Series	11020000			1	false	
 2022-02-27	TV (Non-English)	10	Devotion, a Story of Love and Desire	Devotion, a Story of Love and Desire: Season 1	10420000			2	false	
 2022-02-20	Films (English)	1	The Tinder Swindler	N/A	34450000			3	false	
 2022-02-20	Films (English)	2	Texas Chainsaw Massacre	N/A	29180000			1	false	
@@ -4037,7 +4077,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-02-13	TV (Non-English)	6	Toy Boy	Toy Boy: Season 2	15870000			1	false	
 2022-02-13	TV (Non-English)	7	The Queen of Flow	The Queen of Flow: Season 2	13070000			13	false	
 2022-02-13	TV (Non-English)	8	I Am Georgina	I Am Georgina: Season 1	11920000			3	false	
-2022-02-13	TV (Non-English)	9	Our Beloved Summer	Our Beloved Summer: Season 1	11910000			8	false	
+2022-02-13	TV (Non-English)	9	Our Beloved Summer	Our Beloved Summer: Limited Series	11910000			8	false	
 2022-02-13	TV (Non-English)	10	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	11050000			12	false	
 2022-02-06	Films (English)	1	The Tinder Swindler	N/A	45800000			1	false	
 2022-02-06	Films (English)	2	Home Team	N/A	33630000			2	false	
@@ -4074,7 +4114,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-02-06	TV (Non-English)	3	Dark Desire	Dark Desire: Season 2	49590000			1	false	
 2022-02-06	TV (Non-English)	4	I Am Georgina	I Am Georgina: Season 1	28740000			2	false	
 2022-02-06	TV (Non-English)	5	Dark Desire	Dark Desire: Season 1	24990000			1	false	
-2022-02-06	TV (Non-English)	6	Our Beloved Summer	Our Beloved Summer: Season 1	16030000			7	false	
+2022-02-06	TV (Non-English)	6	Our Beloved Summer	Our Beloved Summer: Limited Series	16030000			7	false	
 2022-02-06	TV (Non-English)	7	Feria: The Darkest Light	Feria: The Darkest Light: Season 1	15960000			1	false	
 2022-02-06	TV (Non-English)	8	The Queen of Flow	The Queen of Flow: Season 2	15050000			12	false	
 2022-02-06	TV (Non-English)	9	Boruto: Naruto Next Generations	Boruto: Naruto Next Generations: Academy Entrance	14360000			1	false	
@@ -4113,7 +4153,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-01-30	TV (Non-English)	2	Café con aroma de mujer	Café con aroma de mujer: Season 1	82750000			5	false	
 2022-01-30	TV (Non-English)	3	I Am Georgina	I Am Georgina: Season 1	30630000			1	false	
 2022-01-30	TV (Non-English)	4	Neymar: The Perfect Chaos	Neymar: The Perfect Chaos: Limited Series	26340000			1	false	
-2022-01-30	TV (Non-English)	5	Our Beloved Summer	Our Beloved Summer: Season 1	22730000			6	false	
+2022-01-30	TV (Non-English)	5	Our Beloved Summer	Our Beloved Summer: Limited Series	22730000			6	false	
 2022-01-30	TV (Non-English)	6	The Queen of Flow	The Queen of Flow: Season 2	17800000			11	false	
 2022-01-30	TV (Non-English)	7	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	11730000			10	false	
 2022-01-30	TV (Non-English)	8	Summer Heat	Summer Heat: Season 1	11470000			1	false	
@@ -4152,7 +4192,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-01-23	TV (Non-English)	1	Café con aroma de mujer	Café con aroma de mujer: Season 1	96360000			4	false	
 2022-01-23	TV (Non-English)	2	El marginal	El marginal: Season 4	21730000			1	false	
 2022-01-23	TV (Non-English)	3	The Queen of Flow	The Queen of Flow: Season 2	21200000			10	false	
-2022-01-23	TV (Non-English)	4	Our Beloved Summer	Our Beloved Summer: Season 1	19740000			5	false	
+2022-01-23	TV (Non-English)	4	Our Beloved Summer	Our Beloved Summer: Limited Series	19740000			5	false	
 2022-01-23	TV (Non-English)	5	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	11640000			9	false	
 2022-01-23	TV (Non-English)	6	Yeh Kaali Kaali Ankhein	Yeh Kaali Kaali Ankhein: Season 1	11260000			1	false	
 2022-01-23	TV (Non-English)	7	Carinha de Anjo	Carinha de Anjo: Season 1	10690000			14	false	
@@ -4193,7 +4233,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-01-16	TV (Non-English)	2	The Queen of Flow	The Queen of Flow: Season 2	24210000			9	false	
 2022-01-16	TV (Non-English)	3	Rebelde	Rebelde: Season 1	23880000			2	false	
 2022-01-16	TV (Non-English)	4	Single’s Inferno	Single’s Inferno: Season 1	19250000			3	false	
-2022-01-16	TV (Non-English)	5	Our Beloved Summer	Our Beloved Summer: Season 1	18710000			4	false	
+2022-01-16	TV (Non-English)	5	Our Beloved Summer	Our Beloved Summer: Limited Series	18710000			4	false	
 2022-01-16	TV (Non-English)	6	Undercover	Undercover: Season 3	16830000			1	false	
 2022-01-16	TV (Non-English)	7	Money Heist	Money Heist: Part 5	13000000			13	false	
 2022-01-16	TV (Non-English)	8	Undercover	Undercover: Season 1	12070000			1	false	
@@ -4235,7 +4275,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-01-09	TV (Non-English)	4	Single’s Inferno	Single’s Inferno: Season 1	25800000			2	false	
 2022-01-09	TV (Non-English)	5	The Silent Sea	The Silent Sea: Season 1	19710000			3	false	
 2022-01-09	TV (Non-English)	6	Money Heist	Money Heist: Part 5	18770000			12	false	
-2022-01-09	TV (Non-English)	7	Our Beloved Summer	Our Beloved Summer: Season 1	15950000			3	false	
+2022-01-09	TV (Non-English)	7	Our Beloved Summer	Our Beloved Summer: Limited Series	15950000			3	false	
 2022-01-09	TV (Non-English)	8	Squid Game	Squid Game: Season 1	14980000			17	false	
 2022-01-09	TV (Non-English)	9	Kitz	Kitz: Season 1	14650000			1	false	
 2022-01-09	TV (Non-English)	10	Daughter From Another Mother	Daughter From Another Mother: Season 2	13340000			3	false	
@@ -4277,7 +4317,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-01-02	TV (Non-English)	6	Squid Game	Squid Game: Season 1	18110000			16	false	
 2022-01-02	TV (Non-English)	7	The Girl from Oslo	The Girl from Oslo: Season 1	17460000			2	false	
 2022-01-02	TV (Non-English)	8	Single’s Inferno	Single’s Inferno: Season 1	17150000			1	false	
-2022-01-02	TV (Non-English)	9	Our Beloved Summer	Our Beloved Summer: Season 1	13840000			2	false	
+2022-01-02	TV (Non-English)	9	Our Beloved Summer	Our Beloved Summer: Limited Series	13840000			2	false	
 2022-01-02	TV (Non-English)	10	The Queen of Flow	The Queen of Flow: Season 1	11280000			7	false	
 2021-12-26	Films (English)	1	Don't Look Up	N/A	111030000			1	false	
 2021-12-26	Films (English)	2	The Unforgivable	N/A	26600000			3	false	
@@ -4314,10 +4354,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-12-26	TV (Non-English)	3	The Silent Sea	The Silent Sea: Season 1	22230000			1	false	
 2021-12-26	TV (Non-English)	4	The Girl from Oslo	The Girl from Oslo: Season 1	19780000			1	false	
 2021-12-26	TV (Non-English)	5	Squid Game	Squid Game: Season 1	15100000			15	false	
-2021-12-26	TV (Non-English)	6	The King's Affection	The King's Affection: Season 1	13050000			10	false	
+2021-12-26	TV (Non-English)	6	The King's Affection	The King's Affection: Limited Series	13050000			10	false	
 2021-12-26	TV (Non-English)	7	Daughter From Another Mother	Daughter From Another Mother: Season 2	13040000			1	false	
 2021-12-26	TV (Non-English)	8	The Queen of Flow	The Queen of Flow: Season 1	10810000			6	false	
-2021-12-26	TV (Non-English)	9	Our Beloved Summer	Our Beloved Summer: Season 1	9980000			1	false	
+2021-12-26	TV (Non-English)	9	Our Beloved Summer	Our Beloved Summer: Limited Series	9980000			1	false	
 2021-12-26	TV (Non-English)	10	Carinha de Anjo	Carinha de Anjo: Season 1	9420000			12	false	
 2021-12-19	Films (English)	1	The Unforgivable	N/A	74440000			2	false	
 2021-12-19	Films (English)	2	Back to the Outback	N/A	38990000			2	false	
@@ -4351,14 +4391,14 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-12-19	TV (English)	10	CoComelon	CoComelon: Season 4	10000000			4	false	
 2021-12-19	TV (Non-English)	1	Money Heist	Money Heist: Part 5	55010000			9	false	
 2021-12-19	TV (Non-English)	2	The Queen of Flow	The Queen of Flow: Season 2	39980000			5	false	
-2021-12-19	TV (Non-English)	3	The King's Affection	The King's Affection: Season 1	18120000			9	false	
+2021-12-19	TV (Non-English)	3	The King's Affection	The King's Affection: Limited Series	18120000			9	false	
 2021-12-19	TV (Non-English)	4	Squid Game	Squid Game: Season 1	15430000			14	false	
 2021-12-19	TV (Non-English)	5	The Queen of Flow	The Queen of Flow: Season 1	12970000			5	false	
 2021-12-19	TV (Non-English)	6	Money Heist	Money Heist: Part 1	12590000			7	false	
 2021-12-19	TV (Non-English)	7	Carinha de Anjo	Carinha de Anjo: Season 1	11290000			11	false	
 2021-12-19	TV (Non-English)	8	Aranyak	Aranyak: Season 1	10360000			1	false	
 2021-12-19	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	8010000			8	false	
-2021-12-19	TV (Non-English)	10	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	7520000			16	false	
+2021-12-19	TV (Non-English)	10	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	7520000			16	false	
 2021-12-12	Films (English)	1	The Unforgivable	N/A	85860000			1	false	
 2021-12-12	Films (English)	2	Red Notice	N/A	18010000			5	false	
 2021-12-12	Films (English)	3	Back to the Outback	N/A	16170000			1	false	
@@ -4393,10 +4433,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-12-12	TV (Non-English)	2	The Queen of Flow	The Queen of Flow: Season 2	49990000			4	false	
 2021-12-12	TV (Non-English)	3	Money Heist	Money Heist: Part 1	19870000			6	false	
 2021-12-12	TV (Non-English)	4	Squid Game	Squid Game: Season 1	18170000			13	false	
-2021-12-12	TV (Non-English)	5	The King's Affection	The King's Affection: Season 1	16650000			8	false	
+2021-12-12	TV (Non-English)	5	The King's Affection	The King's Affection: Limited Series	16650000			8	false	
 2021-12-12	TV (Non-English)	6	The Queen of Flow	The Queen of Flow: Season 1	14520000			4	false	
 2021-12-12	TV (Non-English)	7	Carinha de Anjo	Carinha de Anjo: Season 1	11230000			10	false	
-2021-12-12	TV (Non-English)	8	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	9680000			15	false	
+2021-12-12	TV (Non-English)	8	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	9680000			15	false	
 2021-12-12	TV (Non-English)	9	Hellbound	Hellbound: Season 1	9470000			4	false	
 2021-12-12	TV (Non-English)	10	Money Heist	Money Heist: Part 2	8170000			3	false	
 2021-12-05	Films (English)	1	The Power of the Dog	N/A	27200000			1	false	
@@ -4434,11 +4474,11 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-12-05	TV (Non-English)	3	Hellbound	Hellbound: Season 1	22380000			3	false	
 2021-12-05	TV (Non-English)	4	Squid Game	Squid Game: Season 1	21200000			12	false	
 2021-12-05	TV (Non-English)	5	Elves	Elves: Season 1	17940000			2	false	
-2021-12-05	TV (Non-English)	6	The King's Affection	The King's Affection: Season 1	16360000			7	false	
+2021-12-05	TV (Non-English)	6	The King's Affection	The King's Affection: Limited Series	16360000			7	false	
 2021-12-05	TV (Non-English)	7	The Queen of Flow	The Queen of Flow: Season 1	14960000			3	false	
 2021-12-05	TV (Non-English)	8	JoJo's Bizarre Adventure	JoJo's Bizarre Adventure: STONE OCEAN	13980000			1	false	
 2021-12-05	TV (Non-English)	9	Carinha de Anjo	Carinha de Anjo: Season 1	11720000			9	false	
-2021-12-05	TV (Non-English)	10	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	11560000			14	false	
+2021-12-05	TV (Non-English)	10	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	11560000			14	false	
 2021-11-28	Films (English)	1	Red Notice	N/A	50650000			3	false	
 2021-11-28	Films (English)	2	Bruised	N/A	47700000			1	false	
 2021-11-28	Films (English)	3	A Boy Called Christmas	N/A	26820000			1	false	
@@ -4472,9 +4512,9 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-11-28	TV (Non-English)	1	The Queen of Flow	The Queen of Flow: Season 2	69030000			2	false	
 2021-11-28	TV (Non-English)	2	Hellbound	Hellbound: Season 1	67520000			2	false	
 2021-11-28	TV (Non-English)	3	Squid Game	Squid Game: Season 1	25730000			11	false	
-2021-11-28	TV (Non-English)	4	The King's Affection	The King's Affection: Season 1	15920000			6	false	
+2021-11-28	TV (Non-English)	4	The King's Affection	The King's Affection: Limited Series	15920000			6	false	
 2021-11-28	TV (Non-English)	5	The Queen of Flow	The Queen of Flow: Season 1	14460000			2	false	
-2021-11-28	TV (Non-English)	6	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	13310000			13	false	
+2021-11-28	TV (Non-English)	6	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	13310000			13	false	
 2021-11-28	TV (Non-English)	7	Carinha de Anjo	Carinha de Anjo: Season 1	12410000			8	false	
 2021-11-28	TV (Non-English)	8	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	8130000			7	false	
 2021-11-28	TV (Non-English)	9	EDENS ZERO	EDENS ZERO: Season 1	7470000			1	false	
@@ -4512,9 +4552,9 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-11-21	TV (Non-English)	1	Hellbound	Hellbound: Season 1	43480000			1	false	
 2021-11-21	TV (Non-English)	2	The Queen of Flow	The Queen of Flow: Season 2	38640000			1	false	
 2021-11-21	TV (Non-English)	3	Squid Game	Squid Game: Season 1	30410000			10	false	
-2021-11-21	TV (Non-English)	4	The King's Affection	The King's Affection: Season 1	15640000			5	false	
+2021-11-21	TV (Non-English)	4	The King's Affection	The King's Affection: Limited Series	15640000			5	false	
 2021-11-21	TV (Non-English)	5	Carinha de Anjo	Carinha de Anjo: Season 1	13180000			7	false	
-2021-11-21	TV (Non-English)	6	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	13150000			12	false	
+2021-11-21	TV (Non-English)	6	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	13150000			12	false	
 2021-11-21	TV (Non-English)	7	Christmas Flow	Christmas Flow: Season 1	9720000			1	false	
 2021-11-21	TV (Non-English)	8	The Queen of Flow	The Queen of Flow: Season 1	8810000			1	false	
 2021-11-21	TV (Non-English)	9	Love Never Lies	Love Never Lies: Season 1	8370000			1	false	
@@ -4550,8 +4590,8 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-11-14	TV (English)	9	You	You: Season 2	15520000			4	false	
 2021-11-14	TV (English)	10	You	You: Season 1	14570000			5	false	
 2021-11-14	TV (Non-English)	1	Squid Game	Squid Game: Season 1	42790000			9	false	
-2021-11-14	TV (Non-English)	2	The King's Affection	The King's Affection: Season 1	14120000			4	false	
-2021-11-14	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	13820000			11	false	
+2021-11-14	TV (Non-English)	2	The King's Affection	The King's Affection: Limited Series	14120000			4	false	
+2021-11-14	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	13820000			11	false	
 2021-11-14	TV (Non-English)	4	Carinha de Anjo	Carinha de Anjo: Season 1	13660000			6	false	
 2021-11-14	TV (Non-English)	5	My Name	My Name: Season 1	10820000			5	false	
 2021-11-14	TV (Non-English)	6	Where is Marta?	Where is Marta?: Limited Series	8640000			1	false	
@@ -4591,10 +4631,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-11-07	TV (English)	10	Locke & Key	Locke & Key: Season 1	15950000			3	false	
 2021-11-07	TV (Non-English)	1	Squid Game	Squid Game: Season 1	65000000			8	false	
 2021-11-07	TV (Non-English)	2	My Name	My Name: Season 1	18430000			4	false	
-2021-11-07	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	16010000			10	false	
+2021-11-07	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	16010000			10	false	
 2021-11-07	TV (Non-English)	4	Carinha de Anjo	Carinha de Anjo: Season 1	14090000			5	false	
 2021-11-07	TV (Non-English)	5	The Five Juanas	The Five Juanas: Season 1	13000000			5	false	
-2021-11-07	TV (Non-English)	6	The King's Affection	The King's Affection: Season 1	11990000			3	false	
+2021-11-07	TV (Non-English)	6	The King's Affection	The King's Affection: Limited Series	11990000			3	false	
 2021-11-07	TV (Non-English)	7	Sintonia	Sintonia: Season 2	11010000			2	false	
 2021-11-07	TV (Non-English)	8	Luis Miguel - The Series	Luis Miguel - The Series: Season 3	9720000			2	false	
 2021-11-07	TV (Non-English)	9	Demon Slayer: Kimetsu no Yaiba	Demon Slayer: Kimetsu no Yaiba: Tanjiro Kamado, Unwavering Resolve Arc	7940000			1	false	
@@ -4633,10 +4673,10 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-10-31	TV (Non-English)	2	My Name	My Name: Season 1	38580000			3	false	
 2021-10-31	TV (Non-English)	3	Sintonia	Sintonia: Season 2	25890000			1	false	
 2021-10-31	TV (Non-English)	4	The Five Juanas	The Five Juanas: Season 1	19410000			4	false	
-2021-10-31	TV (Non-English)	5	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	18290000			9	false	
+2021-10-31	TV (Non-English)	5	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	18290000			9	false	
 2021-10-31	TV (Non-English)	6	Carinha de Anjo	Carinha de Anjo: Season 1	14070000			4	false	
 2021-10-31	TV (Non-English)	7	Luis Miguel - The Series	Luis Miguel - The Series: Season 3	9990000			1	false	
-2021-10-31	TV (Non-English)	8	The King's Affection	The King's Affection: Season 1	9740000			2	false	
+2021-10-31	TV (Non-English)	8	The King's Affection	The King's Affection: Limited Series	9740000			2	false	
 2021-10-31	TV (Non-English)	9	Love Is Blind: Brazil	Love Is Blind: Brazil: Season 1	9130000			3	false	
 2021-10-31	TV (Non-English)	10	The Chestnut Man	The Chestnut Man: Season 1	8910000			5	false	
 2021-10-24	Films (English)	1	Night Teeth	N/A	31870000			1	false	
@@ -4672,13 +4712,13 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-10-24	TV (Non-English)	1	Squid Game	Squid Game: Season 1	147560000			6	false	
 2021-10-24	TV (Non-English)	2	My Name	My Name: Season 1	84530000			2	false	
 2021-10-24	TV (Non-English)	3	The Five Juanas	The Five Juanas: Season 1	34600000			3	false	
-2021-10-24	TV (Non-English)	4	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	31840000			8	false	
+2021-10-24	TV (Non-English)	4	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	31840000			8	false	
 2021-10-24	TV (Non-English)	5	Love Is Blind: Brazil	Love Is Blind: Brazil: Season 1	16290000			2	false	
 2021-10-24	TV (Non-English)	6	Carinha de Anjo	Carinha de Anjo: Season 1	13930000			3	false	
 2021-10-24	TV (Non-English)	7	The Chestnut Man	The Chestnut Man: Season 1	12900000			4	false	
 2021-10-24	TV (Non-English)	8	Alice in Borderland	Alice in Borderland: Season 1	8700000			5	false	
 2021-10-24	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	7710000			3	false	
-2021-10-24	TV (Non-English)	10	The King's Affection	The King's Affection: Season 1	6950000			1	false	
+2021-10-24	TV (Non-English)	10	The King's Affection	The King's Affection: Limited Series	6950000			1	false	
 2021-10-17	Films (English)	1	Venom	N/A	20410000			2	false	
 2021-10-17	Films (English)	2	The Guilty	N/A	12590000			3	false	
 2021-10-17	Films (English)	3	Security	N/A	9470000			2	false	
@@ -4712,12 +4752,12 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-10-17	TV (Non-English)	1	Squid Game	Squid Game: Season 1	258840000			5	false	
 2021-10-17	TV (Non-English)	2	The Five Juanas	The Five Juanas: Season 1	62890000			2	false	
 2021-10-17	TV (Non-English)	3	My Name	My Name: Season 1	41780000			1	false	
-2021-10-17	TV (Non-English)	4	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	37740000			7	false	
+2021-10-17	TV (Non-English)	4	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	37740000			7	false	
 2021-10-17	TV (Non-English)	5	The Chestnut Man	The Chestnut Man: Season 1	20720000			3	false	
 2021-10-17	TV (Non-English)	6	Alice in Borderland	Alice in Borderland: Season 1	16310000			4	false	
 2021-10-17	TV (Non-English)	7	Love Is Blind: Brazil	Love Is Blind: Brazil: Season 1	13770000			1	false	
 2021-10-17	TV (Non-English)	8	Carinha de Anjo	Carinha de Anjo: Season 1	12760000			2	false	
-2021-10-17	TV (Non-English)	9	Nevertheless,	Nevertheless,: Season 1	10080000			7	false	
+2021-10-17	TV (Non-English)	9	Nevertheless,	Nevertheless,: Limited Series	10080000			7	false	
 2021-10-17	TV (Non-English)	10	House of Secrets: The Burari Deaths	House of Secrets: The Burari Deaths: Limited Series	9220000			1	false	
 2021-10-10	Films (English)	1	The Guilty	N/A	42280000			2	false	
 2021-10-10	Films (English)	2	There's Someone Inside Your House	N/A	20480000			1	false	
@@ -4751,14 +4791,14 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-10-10	TV (English)	10	Scaredy Cats	Scaredy Cats: Season 1	12520000			1	false	
 2021-10-10	TV (Non-English)	1	Squid Game	Squid Game: Season 1	412940000			4	false	
 2021-10-10	TV (Non-English)	2	The Five Juanas	The Five Juanas: Season 1	39460000			1	false	
-2021-10-10	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	32890000			6	false	
+2021-10-10	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	32890000			6	false	
 2021-10-10	TV (Non-English)	4	The Chestnut Man	The Chestnut Man: Season 1	30300000			2	false	
 2021-10-10	TV (Non-English)	5	Alice in Borderland	Alice in Borderland: Season 1	22220000			3	false	
 2021-10-10	TV (Non-English)	6	Baki Hanma	Baki Hanma: Season 1	14560000			2	false	
 2021-10-10	TV (Non-English)	7	Ganglands	Ganglands: Season 1	11210000			3	false	
 2021-10-10	TV (Non-English)	8	Carinha de Anjo	Carinha de Anjo: Season 1	10240000			1	false	
 2021-10-10	TV (Non-English)	9	Money Heist	Money Heist: Part 5	9730000			6	false	
-2021-10-10	TV (Non-English)	10	Nevertheless,	Nevertheless,: Season 1	8570000			6	false	
+2021-10-10	TV (Non-English)	10	Nevertheless,	Nevertheless,: Limited Series	8570000			6	false	
 2021-10-03	Films (English)	1	The Guilty	N/A	47600000			1	false	
 2021-10-03	Films (English)	2	My Little Pony: A New Generation	N/A	24510000			2	false	
 2021-10-03	Films (English)	3	The Starling	N/A	20130000			2	false	
@@ -4791,7 +4831,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-10-03	TV (English)	10	CoComelon	CoComelon: Season 3	10690000			5	false	
 2021-10-03	TV (Non-English)	1	Squid Game	Squid Game: Season 1	571760000			3	false	
 2021-10-03	TV (Non-English)	2	The Chestnut Man	The Chestnut Man: Season 1	31380000			1	false	
-2021-10-03	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	28330000			5	false	
+2021-10-03	TV (Non-English)	3	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	28330000			5	false	
 2021-10-03	TV (Non-English)	4	Ganglands	Ganglands: Season 1	27030000			2	false	
 2021-10-03	TV (Non-English)	5	Alice in Borderland	Alice in Borderland: Season 1	26280000			2	false	
 2021-10-03	TV (Non-English)	6	Baki Hanma	Baki Hanma: Season 1	20090000			1	false	
@@ -4830,7 +4870,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-09-26	TV (English)	9	Good Girls	Good Girls: Season 4	12920000			4	false	
 2021-09-26	TV (English)	10	Lucifer	Lucifer: Season 5	12180000			5	false	
 2021-09-26	TV (Non-English)	1	Squid Game	Squid Game: Season 1	448730000			2	false	
-2021-09-26	TV (Non-English)	2	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	23360000			4	false	
+2021-09-26	TV (Non-English)	2	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	23360000			4	false	
 2021-09-26	TV (Non-English)	3	Money Heist	Money Heist: Part 5	21830000			4	false	
 2021-09-26	TV (Non-English)	4	Ganglands	Ganglands: Season 1	16260000			1	false	
 2021-09-26	TV (Non-English)	5	The Seven Deadly Sins	The Seven Deadly Sins: Dragon's Judgement	14020000			3	false	
@@ -4872,7 +4912,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-09-19	TV (Non-English)	1	Squid Game	Squid Game: Season 1	63190000			1	false	
 2021-09-19	TV (Non-English)	2	Money Heist	Money Heist: Part 5	39910000			3	false	
 2021-09-19	TV (Non-English)	3	Money Heist	Money Heist: Part 1	19340000			3	false	
-2021-09-19	TV (Non-English)	4	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	18580000			3	false	
+2021-09-19	TV (Non-English)	4	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	18580000			3	false	
 2021-09-19	TV (Non-English)	5	Hospital Playlist	Hospital Playlist: Season 2	13050000			7	false	
 2021-09-19	TV (Non-English)	6	Money Heist	Money Heist: Part 4	12270000			3	false	
 2021-09-19	TV (Non-English)	7	Money Heist	Money Heist: Part 2	11940000			2	false	
@@ -4913,7 +4953,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-09-12	TV (Non-English)	2	Money Heist	Money Heist: Part 1	38030000			2	false	
 2021-09-12	TV (Non-English)	3	Money Heist	Money Heist: Part 2	16720000			1	false	
 2021-09-12	TV (Non-English)	4	Money Heist	Money Heist: Part 4	16720000			2	false	
-2021-09-12	TV (Non-English)	5	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	14870000			2	false	
+2021-09-12	TV (Non-English)	5	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	14870000			2	false	
 2021-09-12	TV (Non-English)	6	Money Heist	Money Heist: Part 3	14410000			2	false	
 2021-09-12	TV (Non-English)	7	Hospital Playlist	Hospital Playlist: Season 2	11590000			6	false	
 2021-09-12	TV (Non-English)	8	Into the Night	Into the Night: Season 2	10630000			1	false	
@@ -4955,7 +4995,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-09-05	TV (Non-English)	4	Money Heist	Money Heist: Part 4	14870000			1	false	
 2021-09-05	TV (Non-English)	5	The Snitch Cartel: Origins	The Snitch Cartel: Origins: Season 1	11530000			6	false	
 2021-09-05	TV (Non-English)	6	Newly Rich, Newly Poor	Newly Rich, Newly Poor: Season 1	11100000			10	false	
-2021-09-05	TV (Non-English)	7	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Season 1	9630000			1	false	
+2021-09-05	TV (Non-English)	7	Hometown Cha-Cha-Cha	Hometown Cha-Cha-Cha: Limited Series	9630000			1	false	
 2021-09-05	TV (Non-English)	8	Carrossel	N/A	9010000			9	false	
 2021-09-05	TV (Non-English)	9	Yo soy Betty, la fea	Yo soy Betty, la fea: Season 1	7200000			2	false	
 2021-09-05	TV (Non-English)	10	Money Heist	Money Heist: Part 3	7070000			1	false	
@@ -5036,7 +5076,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-08-22	TV (Non-English)	5	Newly Rich, Newly Poor	Newly Rich, Newly Poor: Season 1	12080000			8	false	
 2021-08-22	TV (Non-English)	6	Hospital Playlist	Hospital Playlist: Season 2	10340000			4	false	
 2021-08-22	TV (Non-English)	7	Carrossel	N/A	9860000			7	false	
-2021-08-22	TV (Non-English)	8	Nevertheless,	Nevertheless,: Season 1	9030000			5	false	
+2021-08-22	TV (Non-English)	8	Nevertheless,	Nevertheless,: Limited Series	9030000			5	false	
 2021-08-22	TV (Non-English)	9	The Cook of Castamar	The Cook of Castamar: Season 1	8820000			7	false	
 2021-08-22	TV (Non-English)	10	Control Z	Control Z: Season 2	8250000			3	false	
 2021-08-15	Films (English)	1	The Kissing Booth 3	N/A	90860000			1	false	
@@ -5117,7 +5157,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-08-08	TV (Non-English)	6	Hunter X Hunter (2011)	Hunter X Hunter (2011): Season 5	9890000			1	false	
 2021-08-08	TV (Non-English)	7	Control Z	Control Z: Season 1	8580000			1	false	
 2021-08-08	TV (Non-English)	8	How to Sell Drugs Online (Fast)	How to Sell Drugs Online (Fast): Season 3	8580000			2	false	
-2021-08-08	TV (Non-English)	9	Nevertheless,	Nevertheless,: Season 1	7960000			4	false	
+2021-08-08	TV (Non-English)	9	Nevertheless,	Nevertheless,: Limited Series	7960000			4	false	
 2021-08-08	TV (Non-English)	10	Too Hot to Handle: Brazil	Too Hot to Handle: Brazil: Season 1	7470000			3	false	
 2021-08-01	Films (English)	1	Resort to Love	N/A	28050000			1	false	
 2021-08-01	Films (English)	2	The Last Letter From Your Lover	N/A	18890000			2	false	
@@ -5156,7 +5196,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-08-01	TV (Non-English)	5	The Snitch Cartel: Origins	The Snitch Cartel: Origins: Season 1	15150000			1	false	
 2021-08-01	TV (Non-English)	6	Too Hot to Handle: Brazil	Too Hot to Handle: Brazil: Season 1	14230000			2	false	
 2021-08-01	TV (Non-English)	7	Carrossel	N/A	12730000			4	false	
-2021-08-01	TV (Non-English)	8	Nevertheless,	Nevertheless,: Season 1	7710000			3	false	
+2021-08-01	TV (Non-English)	8	Nevertheless,	Nevertheless,: Limited Series	7710000			3	false	
 2021-08-01	TV (Non-English)	9	Chiquititas	N/A	7020000			1	false	
 2021-08-01	TV (Non-English)	10	Elite	Elite: Season 4	6920000			5	false	
 2021-07-25	Films (English)	1	Trollhunters: Rise of the Titans	N/A	16130000			1	false	
@@ -5197,7 +5237,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-07-25	TV (Non-English)	6	Too Hot to Handle: Brazil	Too Hot to Handle: Brazil: Season 1	9450000			1	false	
 2021-07-25	TV (Non-English)	7	Elite	Elite: Season 4	9410000			4	false	
 2021-07-25	TV (Non-English)	8	Hospital Playlist	Hospital Playlist: Season 2	8070000			2	false	
-2021-07-25	TV (Non-English)	9	Nevertheless,	Nevertheless,: Season 1	7880000			2	false	
+2021-07-25	TV (Non-English)	9	Nevertheless,	Nevertheless,: Limited Series	7880000			2	false	
 2021-07-25	TV (Non-English)	10	Lupin	Lupin: Part 2	6840000			4	false	
 2021-07-18	Films (English)	1	Fear Street Part 3: 1666	N/A	20080000			1	false	
 2021-07-18	Films (English)	2	Fear Street Part 2: 1978	N/A	16820000			2	false	
@@ -5237,7 +5277,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-07-18	TV (Non-English)	6	Carrossel	N/A	11620000			2	false	
 2021-07-18	TV (Non-English)	7	Lupin	Lupin: Part 2	9280000			3	false	
 2021-07-18	TV (Non-English)	8	Hospital Playlist	Hospital Playlist: Season 2	8530000			1	false	
-2021-07-18	TV (Non-English)	9	Nevertheless,	Nevertheless,: Season 1	8130000			1	false	
+2021-07-18	TV (Non-English)	9	Nevertheless,	Nevertheless,: Limited Series	8130000			1	false	
 2021-07-18	TV (Non-English)	10	Biohackers	Biohackers: Season 2	7500000			1	false	
 2021-07-11	Films (English)	1	Fear Street Part 1: 1994	N/A	19550000			2	false	
 2021-07-11	Films (English)	2	Fear Street Part 2: 1978	N/A	16060000			1	false	
