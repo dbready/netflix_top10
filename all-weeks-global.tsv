@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-01-28	Films (English)	1	Lift	N/A	31000000	1.7833	17400000	3	false	
+2024-01-28	Films (English)	2	Mindcage	N/A	14700000	1.6167	9100000	1	false	
+2024-01-28	Films (English)	3	The Kitchen	N/A	14000000	1.8167	7700000	2	false	
+2024-01-28	Films (English)	4	The Hill	N/A	13400000	2.1167	6300000	1	false	
+2024-01-28	Films (English)	5	The Favourite	N/A	8700000	2.0167	4300000	1	false	
+2024-01-28	Films (English)	6	The Legend of Tarzan	N/A	7600000	1.8333	4100000	2	false	
+2024-01-28	Films (English)	7	The Super Mario Bros. Movie	N/A	5800000	1.5333	3800000	9	false	
+2024-01-28	Films (English)	8	Dumb Money	N/A	6100000	1.75	3500000	1	false	
+2024-01-28	Films (English)	9	Queenpins	N/A	6300000	1.8333	3400000	2	false	
+2024-01-28	Films (English)	10	Leo	N/A	5100000	1.7833	2900000	10	false	
+2024-01-28	Films (Non-English)	1	Badland Hunters	N/A	26000000	1.8167	14300000	1	false	
+2024-01-28	Films (Non-English)	2	Sixty Minutes	N/A	20300000	1.5	13500000	2	false	
+2024-01-28	Films (Non-English)	3	Society of the Snow	N/A	25900000	2.4333	10600000	4	false	
+2024-01-28	Films (Non-English)	4	Animal	N/A	20800000	3.35	6200000	1	false	
+2024-01-28	Films (Non-English)	5	From the Ashes	N/A	5600000	1.5333	3700000	2	false	
+2024-01-28	Films (Non-English)	6	Salaar	N/A	5600000	2.9	1900000	2	false	
+2024-01-28	Films (Non-English)	7	Caged Wings	N/A	2600000	1.7167	1500000	2	false	
+2024-01-28	Films (Non-English)	8	Dr. Cheon and the Lost Talisman	N/A	1700000	1.6333	1000000	2	false	
+2024-01-28	Films (Non-English)	9	Nowhere	N/A	1500000	1.8167	800000	14	false	
+2024-01-28	Films (Non-English)	10	Pirate Dad	N/A	1300000	1.6333	800000	1	false	
+2024-01-28	TV (English)	1	Griselda	Griselda: Limited Series	113800000	5.5333	20600000	1	false	
+2024-01-28	TV (English)	2	American Nightmare	American Nightmare: Season 1	29300000	2.25	13000000	2	false	
+2024-01-28	TV (English)	3	Fool Me Once	Fool Me Once: Limited Series	48800000	6.4167	7600000	4	false	
+2024-01-28	TV (English)	4	Love on the Spectrum	Love on the Spectrum: Season 2	15500000	5.15	3000000	1	false	
+2024-01-28	TV (English)	5	Yellowstone	Yellowstone: Season 1	14700000	7.5333	2000000	2	false	
+2024-01-28	TV (English)	6	The Brothers Sun	The Brothers Sun: Season 1	14200000	7.3333	1900000	4	false	
+2024-01-28	TV (English)	7	Boy Swallows Universe	Boy Swallows Universe: Limited Series	11600000	6.7333	1700000	3	false	
+2024-01-28	TV (English)	8	Yellowstone	Yellowstone: Season 2	13000000	7.7667	1700000	2	false	
+2024-01-28	TV (English)	9	Masters of the Universe: Revolution	Masters of the Universe: Revolution: Season 1	3400000	2.2	1500000	1	false	
+2024-01-28	TV (English)	10	My Life With the Walter Boys	My Life With the Walter Boys: Season 1	11500000	7.6167	1500000	8	false	
+2024-01-28	TV (Non-English)	1	The Bequeathed	The Bequeathed: Limited Series	14500000	4.7333	3100000	2	false	
+2024-01-28	TV (Non-English)	2	Berlin	Berlin: Season 1	18600000	6.5667	2800000	5	false	
+2024-01-28	TV (Non-English)	3	My Demon	My Demon: Limited Series	38600000	17.5833	2200000	10	false	
+2024-01-28	TV (Non-English)	4	Kübra	Kübra: Season 1	10400000	5.8667	1800000	2	false	
+2024-01-28	TV (Non-English)	5	Detective Forst	Detective Forst: Season 1	6800000	4.3	1600000	3	false	
+2024-01-28	TV (Non-English)	6	Welcome to Samdal-ri	Welcome to Samdal-ri: Limited Series	26600000	0	1500000	7	true	"[{""episodesLaunched"":12,""countryList"":[""CO"",""PA"",""NI"",""DO"",""PE"",""EC"",""CR"",""CU"",""VE"",""UY"",""SV"",""BZ"",""GT"",""GQ"",""MX"",""CL"",""PR"",""BO"",""HN"",""AR"",""PY"",""BR""]},{""episodesLaunched"":16,""countryList"":[""FO"",""BI"",""KZ"",""IL"",""RE"",""PL"",""YE"",""FK"",""MG"",""MY"",""MR"",""UG"",""CX"",""CC"",""GY"",""NL"",""BH"",""AG"",""NE"",""LK"",""AO"",""BL"",""HT"",""KH"",""FM"",""IS"",""TN"",""VA"",""VG"",""KE"",""RS"",""BN"",""MP"",""CH"",""SD"",""YT"",""TD"",""BY"",""ZM"",""NZ"",""TZ"",""MS"",""JE"",""MA"",""AU"",""AW"",""KG"",""NR"",""OM"",""PM"",""DJ"",""IO"",""TK"",""ML"",""KY"",""NF"",""RO"",""TT"",""CF"",""LC"",""MQ"",""FR"",""IN"",""JO"",""VI"",""BW"",""SH"",""WS"",""CZ"",""IQ"",""ME"",""MN"",""GG"",""LS"",""EE"",""BJ"",""SI"",""SR"",""GW"",""GA"",""TC"",""UZ"",""MZ"",""PK"",""MU"",""TH"",""ZW"",""FJ"",""BD"",""CY"",""SL"",""ST"",""PH"",""FI"",""GP"",""GS"",""KN"",""GD"",""SB"",""CW"",""EH"",""JM"",""US"",""SK"",""SM"",""BG"",""PT"",""ID"",""GI"",""KW"",""LB"",""LT"",""SG"",""SA"",""MF"",""NO"",""NC"",""GR"",""DE"",""AQ"",""AT"",""KM"",""SZ"",""ZA"",""MM"",""AF"",""GU"",""TJ"",""HU"",""TL"",""SE"",""AL"",""MW"",""AS"",""GF"",""MK"",""KI"",""SS"",""WF"",""UA"",""PS"",""LU"",""LR"",""SC"",""LI"",""BS"",""GN"",""CA"",""MC"",""IR"",""CM"",""SO"",""MH"",""QA"",""TW"",""CI"",""MD"",""BE"",""DK"",""EG"",""LY"",""AZ"",""CK"",""TG"",""ET"",""CG"",""UM"",""CD"",""CV"",""TR"",""DZ"",""HM"",""AE"",""GM"",""NP"",""PG"",""GH"",""VN"",""HR"",""BQ"",""NG"",""AM"",""GE"",""RU"",""IM"",""VU"",""BF"",""RW"",""IT"",""MO"",""BB"",""PN"",""KR"",""SX"",""PW"",""AD"",""AI"",""BT"",""VC"",""GB"",""PF"",""SN"",""BM"",""JP"",""ER"",""GL"",""ES"",""NA"",""IE"",""LA"",""DM"",""MV"",""BA"",""MT"",""HK"",""TM"",""LV"",""NU"",""TO"",""TV""]}]"
+2024-01-28	TV (Non-English)	7	Captivating the King	Captivating the King: Limited Series	7300000	4.8	1500000	1	false	
+2024-01-28	TV (Non-English)	8	Delicious in Dungeon	Delicious in Dungeon: Season 1	2500000	1.7167	1500000	3	false	
+2024-01-28	TV (Non-English)	9	Doctor Slump	Doctor Slump: Limited Series	1900000	0	1400000	1	true	"[{""episodesLaunched"":1,""countryList"":[""JP"",""BN"",""NC"",""BT"",""NU"",""TW"",""MM"",""MY"",""VU"",""NF"",""CX"",""NR"",""TO"",""KH"",""WF"",""SB"",""KR"",""LK"",""IN"",""NP"",""TK"",""PG"",""FJ"",""TL"",""HK"",""MN"",""ID"",""MO"",""UM"",""AU"",""BD"",""PN"",""WS"",""CK"",""KI"",""MV"",""CC"",""SG"",""TH"",""TV"",""PF"",""NZ"",""PH"",""VN"",""LA""]},{""episodesLaunched"":2,""countryList"":[""AW"",""GP"",""BY"",""KG"",""TT"",""LB"",""TN"",""SL"",""GS"",""AS"",""LV"",""ER"",""AE"",""FI"",""LU"",""QA"",""ST"",""GB"",""CH"",""CV"",""IT"",""CD"",""NL"",""BJ"",""SA"",""TC"",""RW"",""HT"",""GW"",""NA"",""US"",""AQ"",""OM"",""IM"",""MK"",""BM"",""HU"",""NO"",""YT"",""MS"",""PK"",""BL"",""PW"",""EG"",""AO"",""EE"",""ES"",""HM"",""SX"",""VG"",""ME"",""SR"",""KN"",""JM"",""LC"",""LY"",""AM"",""LT"",""MT"",""BG"",""KE"",""GL"",""GN"",""PS"",""ZA"",""AT"",""MG"",""ZW"",""IS"",""DK"",""MZ"",""JO"",""SS"",""GY"",""BH"",""RS"",""CY"",""UA"",""CI"",""VA"",""AF"",""DJ"",""GD"",""LI"",""YE"",""SE"",""GH"",""KM"",""UZ"",""ML"",""BE"",""BB"",""IQ"",""DM"",""SI"",""IE"",""PL"",""CZ"",""SK"",""AG"",""BF"",""RE"",""TG"",""PM"",""AZ"",""BQ"",""GF"",""AL"",""SO"",""IL"",""SD"",""NG"",""VI"",""MF"",""TZ"",""EH"",""GU"",""CW"",""DZ"",""DE"",""MA"",""SM"",""IO"",""FK"",""GA"",""CF"",""CG"",""RO"",""JE"",""UG"",""GE"",""LR"",""FM"",""ET"",""MH"",""TR"",""TD"",""PT"",""MR"",""AI"",""SC"",""FR"",""BS"",""CA"",""GI"",""BI"",""IR"",""TM"",""MP"",""GG"",""RU"",""SN"",""LS"",""GR"",""KZ"",""TJ"",""CM"",""ZM"",""MW"",""BA"",""GM"",""MD"",""KW"",""SH"",""NE"",""KY"",""BW"",""AD"",""HR"",""MU"",""VC"",""MQ"",""FO"",""MC"",""SZ""]}]"
+2024-01-28	TV (Non-English)	10	Demon Slayer: Kimetsu no Yaiba	Demon Slayer: Kimetsu no Yaiba: Swordsmith Village Arc	7300000	5.2833	1400000	3	false	
 2024-01-21	Films (English)	1	Lift	N/A	65400000	1.7833	36700000	2	false	
 2024-01-21	Films (English)	2	The Legend of Tarzan	N/A	14400000	1.8333	7900000	1	false	
 2024-01-21	Films (English)	3	The Kitchen	N/A	10200000	1.8167	5600000	1	false	
@@ -1906,7 +1946,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-02-26	TV (English)	5	You	You: Season 4	27750000			3	false	
 2023-02-26	TV (English)	6	Formula 1: Drive to Survive	Formula 1: Drive to Survive: Season 5	25760000			1	false	
 2023-02-26	TV (English)	7	Outer Banks	Outer Banks: Season 2	23860000			7	false	
-2023-02-26	TV (English)	8	Red Rose	Red Rose: Season 1	20540000			2	false	
+2023-02-26	TV (English)	8	Red Rose	Red Rose: Limited Series	20540000			2	false	
 2023-02-26	TV (English)	9	Wednesday	Wednesday: Season 1	18950000			14	false	
 2023-02-26	TV (English)	10	The Walking Dead	The Walking Dead: Season 11	15940000			3	false	
 2023-02-26	TV (Non-English)	1	Triptych	Triptych: Season 1	50730000			1	false	
@@ -1942,7 +1982,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-02-19	TV (English)	1	You	You: Season 4	64060000			2	false	
 2023-02-19	TV (English)	2	Perfect Match	Perfect Match: Season 1	24650000			1	false	
 2023-02-19	TV (English)	3	You	You: Season 1	22400000			7	false	
-2023-02-19	TV (English)	4	Red Rose	Red Rose: Season 1	21270000			1	false	
+2023-02-19	TV (English)	4	Red Rose	Red Rose: Limited Series	21270000			1	false	
 2023-02-19	TV (English)	5	Wednesday	Wednesday: Season 1	20240000			13	false	
 2023-02-19	TV (English)	6	Ginny & Georgia	Ginny & Georgia: Season 2	18510000			7	false	
 2023-02-19	TV (English)	7	Full Swing	Full Swing: Season 1	17110000			1	false	
