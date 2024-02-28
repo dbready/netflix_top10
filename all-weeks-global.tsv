@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-02-25	Films (English)	1	Mea Culpa	N/A	32000000	2	16000000	1	false	
+2024-02-25	Films (English)	2	Players	N/A	13000000	1.75	7400000	2	false	
+2024-02-25	Films (English)	3	Einstein and the Bomb	N/A	9200000	1.2833	7200000	2	false	
+2024-02-25	Films (English)	4	Despicable Me 3	N/A	10100000	1.5	6700000	3	false	
+2024-02-25	Films (English)	5	Ruby Gillman, Teenage Kraken	N/A	9800000	1.5167	6500000	1	false	
+2024-02-25	Films (English)	6	Minions	N/A	7800000	1.5167	5100000	6	false	
+2024-02-25	Films (English)	7	Lover, Stalker, Killer	N/A	6900000	1.5167	4500000	3	false	
+2024-02-25	Films (English)	8	Thanksgiving	N/A	7500000	1.7667	4200000	1	false	
+2024-02-25	Films (English)	9	Orion and the Dark	N/A	5800000	1.55	3700000	4	false	
+2024-02-25	Films (English)	10	Crossroads	N/A	5500000	1.4833	3700000	1	false	
+2024-02-25	Films (Non-English)	1	The Abyss	N/A	38200000	1.7167	22300000	2	false	
+2024-02-25	Films (Non-English)	2	Through My Window 3: Looking at You	N/A	24200000	1.75	13800000	1	false	
+2024-02-25	Films (Non-English)	3	Dunki	N/A	11100000	2.6667	4200000	2	false	
+2024-02-25	Films (Non-English)	4	Kill Me If You Dare	N/A	5500000	1.5667	3500000	2	false	
+2024-02-25	Films (Non-English)	5	Bhakshak	N/A	6500000	2.25	2900000	3	false	
+2024-02-25	Films (Non-English)	6	Ashes	N/A	4500000	1.6833	2700000	3	false	
+2024-02-25	Films (Non-English)	7	Society of the Snow	N/A	5200000	2.4333	2100000	8	false	
+2024-02-25	Films (Non-English)	8	Through My Window 2: Across the Sea	N/A	3700000	1.8667	2000000	5	false	
+2024-02-25	Films (Non-English)	9	Through My Window	N/A	3600000	1.9	1900000	17	false	
+2024-02-25	Films (Non-English)	10	The Heartbreak Agency	N/A	2600000	1.6	1600000	1	false	
+2024-02-25	TV (English)	1	Avatar The Last Airbender	Avatar The Last Airbender: Season 1	153400000	7.25	21200000	1	false	
+2024-02-25	TV (English)	2	One Day	One Day: Limited Series	50300000	6.6667	7500000	3	false	
+2024-02-25	TV (English)	3	Love Is Blind	Love Is Blind: Season 6	67000000	8.9833	7500000	2	false	
+2024-02-25	TV (English)	4	Can I Tell You A Secret?	Can I Tell You A Secret?: Limited Series	11000000	1.7	6500000	1	false	
+2024-02-25	TV (English)	5	Griselda	Griselda: Limited Series	17300000	5.5333	3100000	5	false	
+2024-02-25	TV (English)	6	Warrior	Warrior: Season 1	25300000	8.1	3100000	2	false	
+2024-02-25	TV (English)	7	Mike Epps: Ready to Sell Out	N/A	3100000	1.0167	3000000	1	false	
+2024-02-25	TV (English)	8	Formula 1: Drive to Survive	Formula 1: Drive to Survive: Season 6	21800000	7.4667	2900000	1	false	
+2024-02-25	TV (English)	9	Resident Alien	Resident Alien: Season 1	16400000	7.55	2200000	2	false	
+2024-02-25	TV (English)	10	The Tourist	The Tourist: Season 1	11700000	5.7	2100000	4	false	
+2024-02-25	TV (Non-English)	1	House of Ninjas	House of Ninjas: Season 1	32200000	7.1167	4500000	2	false	
+2024-02-25	TV (Non-English)	2	Ready, Set, Love	Ready, Set, Love: Season 1	17500000	6.8333	2600000	1	false	
+2024-02-25	TV (Non-English)	3	AlRawabi School for Girls	AlRawabi School for Girls: Season 2	14600000	5.9	2500000	2	false	
+2024-02-25	TV (Non-English)	4	A Killer Paradox	A Killer Paradox: Season 1	15800000	7.1667	2200000	3	false	
+2024-02-25	TV (Non-English)	5	Good Morning, Verônica	Good Morning, Verônica: Season 3	5800000	2.8833	2000000	2	false	
+2024-02-25	TV (Non-English)	6	Doctor Slump	Doctor Slump: Limited Series	16500000	0	2000000	5	true	"[{""episodesLaunched"":2,""countryList"":[""BR"",""CL"",""MX"",""VE"",""SV"",""AR"",""CO"",""EC"",""PA"",""NI"",""PE"",""GT"",""PR"",""BZ"",""HN"",""GQ"",""BO"",""CR"",""PY"",""DO"",""UY"",""CU""]},{""episodesLaunched"":9,""countryList"":[""BD"",""SB"",""JP"",""NZ"",""ID"",""VN"",""TK"",""WF"",""PF"",""NP"",""KH"",""CX"",""AU"",""KR"",""LA"",""MO"",""FJ"",""NF"",""TL"",""CC"",""SG"",""PN"",""MN"",""NR"",""MV"",""UM"",""PH"",""IN"",""CK"",""HK"",""NC"",""BN"",""NU"",""TW"",""VU"",""PG"",""BT"",""MY"",""KI"",""TO"",""WS"",""MM"",""TV"",""TH"",""LK""]},{""episodesLaunched"":10,""countryList"":[""LU"",""QA"",""AF"",""DJ"",""GY"",""MG"",""ZW"",""AW"",""IQ"",""JM"",""NL"",""SA"",""SM"",""MW"",""KY"",""AG"",""MS"",""UA"",""BW"",""BB"",""KW"",""TJ"",""PW"",""MZ"",""LB"",""ZA"",""FM"",""VG"",""TN"",""BI"",""FK"",""TZ"",""KE"",""GI"",""ET"",""TD"",""JO"",""SS"",""ZM"",""HT"",""DK"",""MK"",""IM"",""VC"",""AS"",""MD"",""CA"",""MH"",""TR"",""PM"",""YT"",""GE"",""NG"",""AT"",""BL"",""BA"",""GM"",""AZ"",""BQ"",""GS"",""LV"",""FO"",""BJ"",""BF"",""RE"",""VI"",""ES"",""HM"",""BM"",""HU"",""NO"",""SD"",""YE"",""GH"",""KM"",""GW"",""AD"",""PT"",""DE"",""CY"",""GR"",""SH"",""CH"",""MR"",""GF"",""TG"",""TT"",""CD"",""ST"",""US"",""GN"",""PS"",""MP"",""GB"",""MF"",""RW"",""MT"",""IL"",""ML"",""TM"",""CF"",""CG"",""MQ"",""UG"",""AE"",""CW"",""CI"",""VA"",""UZ"",""GP"",""NE"",""JE"",""KZ"",""SO"",""AQ"",""GL"",""HR"",""MU"",""LI"",""IO"",""BS"",""SE"",""KN"",""CZ"",""FR"",""GU"",""LT"",""BY"",""KG"",""GG"",""RU"",""SN"",""AL"",""SK"",""SL"",""EH"",""DZ"",""EG"",""LR"",""AM"",""GD"",""FI"",""OM"",""DM"",""IR"",""ER"",""LC"",""LY"",""SI"",""BH"",""AO"",""EE"",""AI"",""SC"",""ME"",""SR"",""IS"",""TC"",""BE"",""MA"",""RS"",""MC"",""SZ"",""PK"",""PL"",""CV"",""IT"",""SX"",""BG"",""LS"",""CM"",""NA"",""RO"",""GA"",""IE""]}]"
+2024-02-25	TV (Non-English)	7	Alpha Males	Alpha Males: Season 2	9600000	5.95	1600000	3	false	
+2024-02-25	TV (Non-English)	8	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 3	15200000	9.8833	1500000	1	false	
+2024-02-25	TV (Non-English)	9	Luz: The Light of the Heart	Luz: The Light of the Heart: Season 1	12900000	11.3833	1100000	2	false	
+2024-02-25	TV (Non-English)	10	Good Morning, Verônica	Good Morning, Verônica: Season 1	6400000	5.9333	1100000	3	false	
 2024-02-18	Films (English)	1	Players	N/A	28500000	1.75	16300000	1	false	
 2024-02-18	Films (English)	2	Lover, Stalker, Killer	N/A	21900000	1.5167	14400000	2	false	
 2024-02-18	Films (English)	3	Despicable Me 3	N/A	15900000	1.5	10600000	2	false	
