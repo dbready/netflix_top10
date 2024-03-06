@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-03-03	Films (English)	1	Code 8 Part II	N/A	33400000	1.6667	20000000	1	false	
+2024-03-03	Films (English)	2	Mea Culpa	N/A	36900000	2	18500000	2	false	
+2024-03-03	Films (English)	3	Spaceman	N/A	16000000	1.8167	8800000	1	false	
+2024-03-03	Films (English)	4	Code 8	N/A	12800000	1.65	7800000	1	false	
+2024-03-03	Films (English)	5	Despicable Me 3	N/A	7100000	1.5	4700000	4	false	
+2024-03-03	Films (English)	6	Minions	N/A	6300000	1.5167	4200000	7	false	
+2024-03-03	Films (English)	7	Ruby Gillman, Teenage Kraken	N/A	5900000	1.5167	3900000	2	false	
+2024-03-03	Films (English)	8	Dune	N/A	9400000	2.5833	3600000	1	false	
+2024-03-03	Films (English)	9	The Super Mario Bros. Movie	N/A	5000000	1.5333	3300000	11	false	
+2024-03-03	Films (English)	10	Ballerina	N/A	4300000	1.4833	2900000	1	false	
+2024-03-03	Films (Non-English)	1	Through My Window 3: Looking at You	N/A	16100000	1.75	9200000	2	false	
+2024-03-03	Films (Non-English)	2	The Abyss	N/A	12600000	1.7167	7300000	3	false	
+2024-03-03	Films (Non-English)	3	My Name Is Loh Kiwan	N/A	6900000	2.2167	3100000	1	false	
+2024-03-03	Films (Non-English)	4	Through My Window 2: Across the Sea	N/A	4600000	1.8667	2500000	6	false	
+2024-03-03	Films (Non-English)	5	Through My Window	N/A	4400000	1.9	2300000	18	false	
+2024-03-03	Films (Non-English)	6	There Is a What-If	N/A	3200000	1.6	2000000	1	false	
+2024-03-03	Films (Non-English)	7	Society of the Snow	N/A	4200000	2.4333	1700000	9	false	
+2024-03-03	Films (Non-English)	8	Dunki	N/A	4500000	2.6667	1700000	3	false	
+2024-03-03	Films (Non-English)	9	Como si fuera la primera vez	N/A	2400000	1.8167	1300000	1	false	
+2024-03-03	Films (Non-English)	10	You Are Not Alone: Fighting the Wolf Pack	N/A	1900000	1.7	1100000	1	false	
+2024-03-03	TV (English)	1	Avatar The Last Airbender	Avatar The Last Airbender: Season 1	144200000	7.25	19900000	2	false	
+2024-03-03	TV (English)	2	Love Is Blind	Love Is Blind: Season 6	57500000	11.1667	5100000	3	false	
+2024-03-03	TV (English)	3	One Day	One Day: Limited Series	32300000	6.6667	4800000	4	false	
+2024-03-03	TV (English)	4	American Conspiracy: The Octopus Murders	American Conspiracy: The Octopus Murders: Season 1	14500000	3.7333	3900000	1	false	
+2024-03-03	TV (English)	5	Formula 1: Drive to Survive	Formula 1: Drive to Survive: Season 6	28100000	7.4667	3800000	2	false	
+2024-03-03	TV (English)	6	Can I Tell You A Secret?	Can I Tell You A Secret?: Limited Series	4600000	1.7	2700000	2	false	
+2024-03-03	TV (English)	7	The Indrani Mukerjea Story: Buried Truth	The Indrani Mukerjea Story: Buried Truth: Season 1	6900000	3.0667	2200000	1	false	
+2024-03-03	TV (English)	8	Griselda	Griselda: Limited Series	10000000	5.5333	1800000	6	false	
+2024-03-03	TV (English)	9	Warrior	Warrior: Season 1	14400000	8.1	1800000	3	false	
+2024-03-03	TV (English)	10	Resident Alien	Resident Alien: Season 1	13200000	7.55	1700000	3	false	
+2024-03-03	TV (Non-English)	1	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 3	40000000	9.8833	4000000	2	false	
+2024-03-03	TV (Non-English)	2	Furies	Furies: Season 1	16200000	6	2700000	1	false	
+2024-03-03	TV (Non-English)	3	Doctor Slump	Doctor Slump: Limited Series	21900000	0	2500000	6	true	"[{""episodesLaunched"":12,""countryList"":[""LV"",""NE"",""GG"",""RU"",""SN"",""VG"",""FK"",""MD"",""MA"",""MG"",""ZW"",""NL"",""LI"",""LS"",""BJ"",""PW"",""MP"",""LU"",""QA"",""CZ"",""MH"",""TR"",""YE"",""BY"",""KG"",""SI"",""ML"",""TD"",""SK"",""RO"",""AQ"",""VI"",""DK"",""MQ"",""UG"",""DM"",""MK"",""GR"",""CD"",""ME"",""SR"",""MR"",""ST"",""IO"",""CV"",""IT"",""IL"",""PT"",""UZ"",""KE"",""LT"",""AG"",""GF"",""BF"",""RE"",""RS"",""ZA"",""FM"",""EH"",""AS"",""CA"",""KZ"",""LC"",""LY"",""ET"",""BS"",""SD"",""KW"",""SE"",""KY"",""LB"",""CW"",""IM"",""MS"",""IS"",""PK"",""ZM"",""PM"",""JO"",""SS"",""RW"",""TM"",""MF"",""SO"",""AD"",""JM"",""AF"",""DJ"",""PL"",""BI"",""HR"",""MU"",""GS"",""LR"",""AO"",""EE"",""BM"",""HU"",""NO"",""TN"",""YT"",""NG"",""SH"",""ER"",""GB"",""UA"",""FI"",""DZ"",""AT"",""CH"",""BB"",""MZ"",""AZ"",""BQ"",""IR"",""GA"",""BE"",""IQ"",""SM"",""GI"",""CY"",""US"",""CM"",""TJ"",""NA"",""AM"",""BW"",""IE"",""GY"",""SL"",""TT"",""SX"",""AL"",""GN"",""PS"",""CF"",""CG"",""JE"",""GW"",""AE"",""MW"",""EG"",""GH"",""KM"",""CI"",""VA"",""BA"",""GM"",""FO"",""MT"",""OM"",""GE"",""DE"",""BH"",""GP"",""SA"",""VC"",""KN"",""BL"",""GL"",""GD"",""HT"",""GU"",""ES"",""HM"",""MC"",""SZ"",""AI"",""SC"",""TC"",""TZ"",""FR"",""TG"",""BG"",""AW""]},{""episodesLaunched"":4,""countryList"":[""EC"",""PR"",""NI"",""PA"",""HN"",""DO"",""SV"",""MX"",""GT"",""PE"",""CL"",""BR"",""CO"",""VE"",""GQ"",""BZ"",""AR"",""CR"",""PY"",""CU"",""UY"",""BO""]},{""episodesLaunched"":11,""countryList"":[""KI"",""MM"",""TV"",""CX"",""TL"",""NR"",""SB"",""HK"",""WF"",""BD"",""TK"",""CC"",""SG"",""MN"",""NU"",""BT"",""NF"",""BN"",""MV"",""VN"",""NP"",""VU"",""KH"",""AU"",""NC"",""MO"",""WS"",""UM"",""KR"",""JP"",""TW"",""LK"",""FJ"",""LA"",""NZ"",""PN"",""TH"",""PF"",""IN"",""ID"",""PG"",""TO"",""PH"",""CK"",""MY""]}]"
+2024-03-03	TV (Non-English)	4	House of Ninjas	House of Ninjas: Season 1	14800000	7.1167	2100000	3	false	
+2024-03-03	TV (Non-English)	5	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 1	15500000	9.6333	1600000	9	false	
+2024-03-03	TV (Non-English)	6	Ready, Set, Love	Ready, Set, Love: Season 1	10500000	6.8333	1500000	2	false	
+2024-03-03	TV (Non-English)	7	Maamla Legal Hai	Maamla Legal Hai: Season 1	4800000	4.2	1100000	1	false	
+2024-03-03	TV (Non-English)	8	A Killer Paradox	A Killer Paradox: Season 1	8100000	7.1667	1100000	4	false	
+2024-03-03	TV (Non-English)	9	AlRawabi School for Girls	AlRawabi School for Girls: Season 2	6600000	5.9	1100000	3	false	
+2024-03-03	TV (Non-English)	10	The Mire	The Mire: Millennium	5400000	5.2333	1000000	1	false	
 2024-02-25	Films (English)	1	Mea Culpa	N/A	32000000	2	16000000	1	false	
 2024-02-25	Films (English)	2	Players	N/A	13000000	1.75	7400000	2	false	
 2024-02-25	Films (English)	3	Einstein and the Bomb	N/A	9200000	1.2833	7200000	2	false	
