@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-03-10	Films (English)	1	Damsel	N/A	64800000	1.8333	35300000	1	false	
+2024-03-10	Films (English)	2	Code 8 Part II	N/A	19800000	1.6667	11900000	2	false	
+2024-03-10	Films (English)	3	Spaceman	N/A	19600000	1.8167	10800000	2	false	
+2024-03-10	Films (English)	4	Code 8	N/A	9400000	1.65	5700000	2	false	
+2024-03-10	Films (English)	5	Mea Culpa	N/A	10200000	2	5100000	3	false	
+2024-03-10	Films (English)	6	The Super Mario Bros. Movie	N/A	5000000	1.5333	3300000	12	false	
+2024-03-10	Films (English)	7	Despicable Me 3	N/A	4800000	1.5	3200000	5	false	
+2024-03-10	Films (English)	8	Minions	N/A	4800000	1.5167	3200000	8	false	
+2024-03-10	Films (English)	9	Dr. Seuss' The Grinch	N/A	4400000	1.4333	3100000	7	false	
+2024-03-10	Films (English)	10	Noah	N/A	6200000	2.2833	2700000	4	false	
+2024-03-10	Films (Non-English)	1	My Name Is Loh Kiwan	N/A	11200000	2.2167	5100000	2	false	
+2024-03-10	Films (Non-English)	2	Through My Window 3: Looking at You	N/A	4400000	1.75	2500000	3	false	
+2024-03-10	Films (Non-English)	3	You Are Not Alone: Fighting the Wolf Pack	N/A	3900000	1.7	2300000	2	false	
+2024-03-10	Films (Non-English)	4	The Pig, the Snake and the Pigeon	N/A	4100000	2.2333	1800000	1	false	
+2024-03-10	Films (Non-English)	5	The Abyss	N/A	2600000	1.7167	1500000	4	false	
+2024-03-10	Films (Non-English)	6	Simón	N/A	2400000	1.6667	1400000	1	false	
+2024-03-10	Films (Non-English)	7	Society of the Snow	N/A	3400000	2.4333	1400000	10	false	
+2024-03-10	Films (Non-English)	8	Anweshippin Kandethum	N/A	3300000	2.3833	1400000	1	false	
+2024-03-10	Films (Non-English)	9	Merry Christmas (Hindi)	N/A	2900000	2.4	1200000	1	false	
+2024-03-10	Films (Non-English)	10	The Parades	N/A	2500000	2.2167	1100000	1	false	
+2024-03-10	TV (English)	1	The Gentlemen	The Gentlemen: Season 1	81500000	6.6833	12200000	1	false	
+2024-03-10	TV (English)	2	Avatar The Last Airbender	Avatar The Last Airbender: Season 1	65700000	7.25	9100000	3	false	
+2024-03-10	TV (English)	3	The Program: Cons, Cults and Kidnapping	The Program: Cons, Cults and Kidnapping: Limited Series	22700000	3.2	7100000	1	false	
+2024-03-10	TV (English)	4	Hot Wheels Let's Race	Hot Wheels Let's Race: Season 1	16300000	4.0333	4000000	1	false	
+2024-03-10	TV (English)	5	Love Is Blind	Love Is Blind: Season 6	43800000	12.7	3400000	4	false	
+2024-03-10	TV (English)	6	One Day	One Day: Limited Series	20400000	6.6667	3100000	5	false	
+2024-03-10	TV (English)	7	American Conspiracy: The Octopus Murders	American Conspiracy: The Octopus Murders: Season 1	8900000	3.7333	2400000	2	false	
+2024-03-10	TV (English)	8	Blood & Water	Blood & Water: Season 4	10500000	4.6667	2200000	1	false	
+2024-03-10	TV (English)	9	Resident Alien	Resident Alien: Season 1	16200000	7.55	2100000	4	false	
+2024-03-10	TV (English)	10	The Tourist	The Tourist: Season 2	11300000	5.75	2000000	1	false	
+2024-03-10	TV (Non-English)	1	Furies	Furies: Season 1	47500000	6	7900000	2	false	
+2024-03-10	TV (Non-English)	2	The Signal	The Signal: Limited Series	20500000	4.15	4900000	1	false	
+2024-03-10	TV (Non-English)	3	Supersex	Supersex: Season 1	19200000	5.9167	3200000	1	false	
+2024-03-10	TV (Non-English)	4	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 3	23100000	9.8833	2300000	3	false	
+2024-03-10	TV (Non-English)	5	Doctor Slump	Doctor Slump: Limited Series	24200000	0	2200000	7	true	"[{""episodesLaunched"":13,""countryList"":[""NP"",""TH"",""TK"",""PG"",""BN"",""NC"",""MN"",""AU"",""TO"",""FJ"",""UM"",""BD"",""PH"",""MY"",""MO"",""ID"",""HK"",""KI"",""CX"",""VU"",""JP"",""VN"",""IN"",""PN"",""LK"",""NZ"",""MV"",""SB"",""CC"",""SG"",""LA"",""NU"",""KH"",""PF"",""NR"",""WF"",""NF"",""CK"",""TW"",""KR"",""BT"",""MM"",""TV"",""WS"",""TL""]},{""episodesLaunched"":14,""countryList"":[""CZ"",""UA"",""BJ"",""LS"",""PW"",""TJ"",""BF"",""RE"",""AG"",""PT"",""GW"",""FO"",""CV"",""IT"",""OM"",""MZ"",""GA"",""VI"",""TN"",""VG"",""AS"",""CF"",""CG"",""IR"",""GU"",""HR"",""MU"",""GR"",""MD"",""MF"",""KY"",""AE"",""US"",""RS"",""JE"",""LR"",""GN"",""PS"",""AZ"",""BQ"",""RO"",""ER"",""EG"",""SI"",""BE"",""GG"",""RU"",""SN"",""ME"",""SR"",""FI"",""BI"",""ZA"",""PL"",""LC"",""LY"",""ES"",""HM"",""CY"",""IQ"",""ST"",""SE"",""MW"",""BY"",""KG"",""IE"",""TG"",""GD"",""KW"",""SX"",""NL"",""SA"",""MQ"",""MA"",""TZ"",""MH"",""TR"",""KZ"",""JM"",""CD"",""MP"",""MG"",""ZW"",""ML"",""ZM"",""AO"",""EE"",""UZ"",""AQ"",""MR"",""AI"",""SC"",""BA"",""GM"",""YT"",""HT"",""GL"",""NA"",""BS"",""DK"",""CM"",""YE"",""GF"",""SK"",""MK"",""BM"",""HU"",""NO"",""RW"",""AT"",""BB"",""NG"",""CI"",""VA"",""BH"",""TM"",""AW"",""TD"",""KN"",""DE"",""BG"",""NE"",""PM"",""EH"",""PK"",""GS"",""GY"",""CA"",""SO"",""IO"",""SH"",""AM"",""LU"",""QA"",""LI"",""LV"",""TT"",""BW"",""GE"",""SL"",""FK"",""LB"",""IL"",""GB"",""AF"",""DJ"",""MC"",""SZ"",""KE"",""BL"",""FM"",""SD"",""JO"",""SS"",""MS"",""AD"",""GP"",""CH"",""DM"",""CW"",""DZ"",""VC"",""GH"",""KM"",""ET"",""IS"",""SM"",""IM"",""MT"",""GI"",""UG"",""AL"",""TC"",""FR"",""LT""]},{""episodesLaunched"":6,""countryList"":[""CO"",""DO"",""VE"",""GT"",""BZ"",""CR"",""PY"",""SV"",""PR"",""HN"",""UY"",""GQ"",""EC"",""PA"",""PE"",""CU"",""MX"",""NI"",""AR"",""BO"",""CL"",""BR""]}]"
+2024-03-10	TV (Non-English)	6	Maamla Legal Hai	Maamla Legal Hai: Season 1	8500000	4.2	2000000	2	false	
+2024-03-10	TV (Non-English)	7	Queen of Tears	Queen of Tears: Limited Series	3300000	2.75	1200000	1	false	
+2024-03-10	TV (Non-English)	8	House of Ninjas	House of Ninjas: Season 1	7800000	7.1167	1100000	4	false	
+2024-03-10	TV (Non-English)	9	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 1	9500000	9.6333	1000000	10	false	
+2024-03-10	TV (Non-English)	10	Wrong Side of the Tracks	Wrong Side of the Tracks: Season 2	9000000	9.65	900000	6	false	
 2024-03-03	Films (English)	1	Code 8 Part II	N/A	33400000	1.6667	20000000	1	false	
 2024-03-03	Films (English)	2	Mea Culpa	N/A	36900000	2	18500000	2	false	
 2024-03-03	Films (English)	3	Spaceman	N/A	16000000	1.8167	8800000	1	false	
@@ -4817,7 +4857,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-11-14	Films (Non-English)	6	Stuck Together	N/A	2610000			4	false	
 2021-11-14	Films (Non-English)	7	Lords of Scam	N/A	2120000			1	false	
 2021-11-14	Films (Non-English)	8	Fierce	N/A	1800000			1	false	
-2021-11-14	Films (Non-English)	9	Der Fall Collini	N/A	1590000			2	false	
+2021-11-14	Films (Non-English)	9	The Collini Case	N/A	1590000			2	false	
 2021-11-14	Films (Non-English)	10	Doctor (Tamil)	N/A	1430000			2	false	
 2021-11-14	TV (English)	1	Narcos: Mexico	Narcos: Mexico: Season 3	50290000			2	false	
 2021-11-14	TV (English)	2	Arcane	Arcane: Season 1	34170000			1	false	
@@ -4853,7 +4893,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2021-11-07	Films (Non-English)	2	The Claus Family	N/A	6760000			1	false	
 2021-11-07	Films (Non-English)	3	Stuck Together	N/A	5780000			3	false	
 2021-11-07	Films (Non-English)	4	The Forgotten Battle	N/A	3860000			4	false	
-2021-11-07	Films (Non-English)	5	Der Fall Collini	N/A	3230000			1	false	
+2021-11-07	Films (Non-English)	5	The Collini Case	N/A	3230000			1	false	
 2021-11-07	Films (Non-English)	6	Meenakshi Sundareshwar	N/A	2820000			1	false	
 2021-11-07	Films (Non-English)	7	Nobody Sleeps in the Woods Tonight 2	N/A	2660000			2	false	
 2021-11-07	Films (Non-English)	8	Monk Comes Down the Mountain	N/A	1590000			1	false	
