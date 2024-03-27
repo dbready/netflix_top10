@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-03-24	Films (English)	1	Irish Wish	N/A	40000000	1.5667	25500000	2	false	
+2024-03-24	Films (English)	2	Damsel	N/A	35700000	1.8333	19500000	3	false	
+2024-03-24	Films (English)	3	Shooter	N/A	11700000	2.0833	5600000	5	false	
+2024-03-24	Films (English)	4	Ford v. Ferrari	N/A	11200000	2.55	4400000	2	false	
+2024-03-24	Films (English)	5	The Casagrandes Movie	N/A	5700000	1.4167	4000000	1	false	
+2024-03-24	Films (English)	6	Hellboy	N/A	7500000	2.0167	3700000	1	false	
+2024-03-24	Films (English)	7	Shirley	N/A	7100000	1.9833	3600000	1	false	
+2024-03-24	Films (English)	8	The Super Mario Bros. Movie	N/A	5000000	1.5333	3300000	14	false	
+2024-03-24	Films (English)	9	Top Gun: Maverick	N/A	6900000	2.1667	3200000	2	false	
+2024-03-24	Films (English)	10	Black Adam	N/A	5700000	2.0833	2700000	1	false	
+2024-03-24	Films (Non-English)	1	Cat & Dog	N/A	9700000	1.45	6700000	2	false	
+2024-03-24	Films (Non-English)	2	Art of Love	N/A	10900000	1.65	6600000	2	false	
+2024-03-24	Films (Non-English)	3	Fighter	N/A	16200000	2.7333	5900000	1	false	
+2024-03-24	Films (Non-English)	4	Murder Mubarak	N/A	7500000	2.3667	3200000	2	false	
+2024-03-24	Films (Non-English)	5	Girls to Buy	N/A	7000000	2.4	2900000	1	false	
+2024-03-24	Films (Non-English)	6	Society of the Snow	N/A	2900000	2.4333	1200000	12	false	
+2024-03-24	Films (Non-English)	7	My Name Is Vendetta	N/A	1500000	1.5333	1000000	9	false	
+2024-03-24	Films (Non-English)	8	Through My Window 3: Looking at You	N/A	1600000	1.75	900000	5	false	
+2024-03-24	Films (Non-English)	9	The Abyss	N/A	1500000	1.7167	900000	5	false	
+2024-03-24	Films (Non-English)	10	24 Hours with Gaspar	N/A	1400000	1.6333	900000	1	false	
+2024-03-24	TV (English)	1	The Gentlemen	The Gentlemen: Season 1	78000000	6.6833	11700000	3	false	
+2024-03-24	TV (English)	2	3 Body Problem	3 Body Problem: Season 1	81700000	7.4	11000000	1	false	
+2024-03-24	TV (English)	3	Homicide	Homicide: New York	29700000	4.5167	6600000	1	false	
+2024-03-24	TV (English)	4	Avatar The Last Airbender	Avatar The Last Airbender: Season 1	24600000	7.25	3400000	5	false	
+2024-03-24	TV (English)	5	Hot Wheels Let's Race	Hot Wheels Let's Race: Season 1	9500000	4.0333	2400000	3	false	
+2024-03-24	TV (English)	6	Monk	Monk: Season 1	18400000	9.35	2000000	1	false	
+2024-03-24	TV (English)	7	Turning Point: The Bomb and the Cold War	Turning Point: The Bomb and the Cold War: Season 1	13700000	10.2833	1300000	2	false	
+2024-03-24	TV (English)	8	The Program: Cons, Cults and Kidnapping	The Program: Cons, Cults and Kidnapping: Limited Series	4100000	3.2	1300000	3	false	
+2024-03-24	TV (English)	9	Fool Me Once	Fool Me Once: Limited Series	8100000	6.4167	1300000	8	false	
+2024-03-24	TV (English)	10	One Day	One Day: Limited Series	8400000	6.6667	1300000	7	false	
+2024-03-24	TV (Non-English)	1	Physical: 100	Physical: 100: Season 2	25300000	4.1167	6100000	1	false	
+2024-03-24	TV (Non-English)	2	Bandidos	Bandidos: Season 1	25700000	5.3333	4800000	2	false	
+2024-03-24	TV (Non-English)	3	Iron Reign	Iron Reign: Season 1	37100000	8.3333	4500000	2	false	
+2024-03-24	TV (Non-English)	4	Queen of Tears	Queen of Tears: Limited Series	30000000	0	4200000	3	true	"[{""episodesLaunched"":2,""countryList"":[""BO"",""SV"",""PR"",""GT"",""CO"",""PA"",""BR"",""CU"",""DO"",""HN"",""GQ"",""CR"",""EC"",""PY"",""UY"",""NI"",""PE"",""MX"",""BZ"",""VE"",""AR"",""CL""]},{""episodesLaunched"":6,""countryList"":[""LK"",""UG"",""FK"",""LY"",""OM"",""GB"",""PM"",""AQ"",""GH"",""MU"",""ST"",""AD"",""TD"",""LB"",""NC"",""PS"",""MV"",""BG"",""RW"",""VU"",""NL"",""RU"",""JM"",""FM"",""GR"",""KN"",""KZ"",""IN"",""PL"",""LR"",""DE"",""MQ"",""LV"",""GA"",""HT"",""KW"",""LU"",""ME"",""IM"",""LT"",""LA"",""AE"",""NA"",""NE"",""ES"",""PH"",""PT"",""LC"",""SE"",""NR"",""SN"",""SX"",""SL"",""WF"",""CV"",""CC"",""IR"",""KY"",""CF"",""BM"",""SK"",""AG"",""PW"",""CH"",""EG"",""ZA"",""UZ"",""NO"",""UM"",""BI"",""ML"",""IQ"",""BY"",""TO"",""YT"",""TG"",""ZM"",""PG"",""SA"",""VN"",""KM"",""GG"",""TW"",""JE"",""SZ"",""IS"",""MF"",""RS"",""BW"",""IE"",""MT"",""TT"",""VI"",""BD"",""KI"",""CG"",""HK"",""UA"",""VA"",""NG"",""CD"",""NZ"",""CX"",""AO"",""MC"",""DM"",""MY"",""ZW"",""TJ"",""IT"",""TR"",""VG"",""MM"",""AT"",""GN"",""RO"",""CI"",""MA"",""MG"",""NF"",""DJ"",""PF"",""MH"",""AI"",""AF"",""HM"",""MR"",""YE"",""MD"",""IO"",""CK"",""US"",""NP"",""MN"",""BA"",""GE"",""SM"",""CW"",""BJ"",""KE"",""TC"",""FR"",""AZ"",""LS"",""SD"",""RE"",""AW"",""BB"",""CM"",""JO"",""BL"",""KH"",""EE"",""SS"",""BF"",""CA"",""VC"",""AU"",""GL"",""MK"",""GI"",""DZ"",""GS"",""FO"",""KG"",""TZ"",""ER"",""SR"",""MS"",""GY"",""SH"",""PK"",""HR"",""TN"",""GU"",""MO"",""FI"",""TH"",""ID"",""PN"",""BE"",""BT"",""TM"",""FJ"",""CY"",""WS"",""GW"",""AM"",""SB"",""NU"",""AL"",""QA"",""BQ"",""MP"",""GF"",""BN"",""DK"",""ET"",""MW"",""BS"",""HU"",""IL"",""GM"",""CZ"",""EH"",""TL"",""GD"",""SG"",""LI"",""SO"",""MZ"",""TK"",""AS"",""KR"",""SI"",""GP"",""JP"",""BH"",""SC"",""TV""]}]"
+2024-03-24	TV (Non-English)	5	The Signal	The Signal: Limited Series	9400000	4.15	2300000	3	false	
+2024-03-24	TV (Non-English)	6	The Outreau Case: A French Nightmare	The Outreau Case: A French Nightmare: Limited Series	5600000	3.05	1800000	2	false	
+2024-03-24	TV (Non-English)	7	Furies	Furies: Season 1	10800000	6	1800000	4	false	
+2024-03-24	TV (Non-English)	8	Doctor Slump	Doctor Slump: Limited Series	25600000	0	1700000	9	true	"[{""episodesLaunched"":16,""countryList"":[""MD"",""FO"",""ST"",""BH"",""GP"",""NA"",""PF"",""IM"",""MV"",""UZ"",""TM"",""TC"",""KR"",""GU"",""VU"",""KN"",""EH"",""GG"",""RU"",""SN"",""MS"",""GR"",""VN"",""ZM"",""MK"",""RW"",""FM"",""AU"",""HR"",""MU"",""MZ"",""TO"",""TZ"",""DM"",""PG"",""SD"",""BM"",""HU"",""NO"",""US"",""BN"",""PT"",""CX"",""NU"",""DK"",""GL"",""LI"",""YT"",""SH"",""ES"",""HM"",""GI"",""BI"",""KY"",""FK"",""PN"",""MC"",""SZ"",""TD"",""AD"",""BY"",""KG"",""AQ"",""WF"",""SO"",""EG"",""LC"",""LY"",""MP"",""LA"",""RO"",""CY"",""OM"",""IL"",""MW"",""UG"",""SB"",""GF"",""NF"",""AZ"",""BQ"",""JP"",""FJ"",""JO"",""SS"",""MR"",""CZ"",""PW"",""IE"",""KI"",""GD"",""CH"",""MM"",""GW"",""NR"",""IN"",""BB"",""AL"",""AM"",""CV"",""IT"",""TL"",""CF"",""CG"",""IS"",""BJ"",""AT"",""FR"",""SM"",""BA"",""GM"",""KH"",""SX"",""NC"",""GN"",""PS"",""GS"",""TW"",""CA"",""ID"",""JM"",""BL"",""IR"",""ET"",""UM"",""MQ"",""BT"",""MF"",""TJ"",""CC"",""SG"",""WS"",""GA"",""LV"",""NL"",""VC"",""GB"",""AO"",""EE"",""GE"",""CW"",""ER"",""TG"",""NZ"",""HK"",""KW"",""VI"",""TH"",""ML"",""PK"",""PM"",""IO"",""LU"",""QA"",""BS"",""AE"",""GY"",""AI"",""SC"",""NG"",""TV"",""KZ"",""SI"",""LB"",""TK"",""AF"",""DJ"",""AG"",""GH"",""KM"",""CI"",""VA"",""VG"",""ME"",""SR"",""CM"",""MG"",""ZW"",""LS"",""SA"",""BF"",""RE"",""LT"",""BG"",""AW"",""NE"",""NP"",""PH"",""MA"",""CD"",""LR"",""AS"",""SL"",""YE"",""SE"",""TT"",""MN"",""DZ"",""BE"",""MO"",""MY"",""PL"",""LK"",""UA"",""BD"",""MH"",""TR"",""BW"",""RS"",""MT"",""HT"",""FI"",""TN"",""DE"",""JE"",""IQ"",""CK"",""SK"",""KE"",""ZA""]},{""episodesLaunched"":10,""countryList"":[""MX"",""EC"",""NI"",""AR"",""BZ"",""BR"",""CO"",""CL"",""PE"",""CU"",""DO"",""HN"",""GT"",""PR"",""VE"",""PA"",""SV"",""GQ"",""BO"",""UY"",""CR"",""PY""]}]"
+2024-03-24	TV (Non-English)	9	Young Royals	Young Royals: Season 3	7800000	4.9	1600000	2	false	
+2024-03-24	TV (Non-English)	10	Chicken Nugget	Chicken Nugget: Limited Series	6600000	5.35	1200000	1	false	
 2024-03-17	Films (English)	1	Damsel	N/A	93200000	1.8333	50800000	2	false	
 2024-03-17	Films (English)	2	Irish Wish	N/A	30600000	1.5667	19500000	1	false	
 2024-03-17	Films (English)	3	Alone	N/A	5900000	1.6333	3600000	1	false	
