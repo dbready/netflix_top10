@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-03-31	Films (English)	1	Heart of the Hunter	N/A	19700000	1.7833	11000000	1	false	
+2024-03-31	Films (English)	2	Irish Wish	N/A	16400000	1.5667	10500000	3	false	
+2024-03-31	Films (English)	3	Damsel	N/A	18900000	1.8333	10300000	4	false	
+2024-03-31	Films (English)	4	The Accountant	N/A	13200000	2.1333	6200000	1	false	
+2024-03-31	Films (English)	5	The Casagrandes Movie	N/A	6100000	1.4167	4300000	2	false	
+2024-03-31	Films (English)	6	Shirley	N/A	8200000	1.9833	4100000	2	false	
+2024-03-31	Films (English)	7	On the Line	N/A	6600000	1.7333	3800000	2	false	
+2024-03-31	Films (English)	8	Peter Rabbit 2	N/A	5800000	1.5667	3700000	1	false	
+2024-03-31	Films (English)	9	The Equalizer 3	N/A	6600000	1.8167	3600000	4	false	
+2024-03-31	Films (English)	10	Mending the Line	N/A	6900000	2.0333	3400000	1	false	
+2024-03-31	Films (Non-English)	1	The Wages of Fear	N/A	19400000	1.7667	11000000	1	false	
+2024-03-31	Films (Non-English)	2	No Pressure	N/A	17900000	1.8833	9500000	1	false	
+2024-03-31	Films (Non-English)	3	Fighter	N/A	17800000	2.7333	6500000	2	false	
+2024-03-31	Films (Non-English)	4	Rest In Peace	N/A	8900000	1.7833	5000000	1	false	
+2024-03-31	Films (Non-English)	5	Rewind	N/A	6100000	1.8833	3200000	1	false	
+2024-03-31	Films (Non-English)	6	Cat & Dog	N/A	3700000	1.45	2600000	3	false	
+2024-03-31	Films (Non-English)	7	Girls to Buy	N/A	6000000	2.4	2500000	2	false	
+2024-03-31	Films (Non-English)	8	Art of Love	N/A	3200000	1.65	1900000	3	false	
+2024-03-31	Films (Non-English)	9	El paseo 7	N/A	2300000	1.4667	1600000	1	false	
+2024-03-31	Films (Non-English)	10	The Abyss	N/A	2500000	1.7167	1500000	6	false	
+2024-03-31	TV (English)	1	3 Body Problem	3 Body Problem: Season 1	115600000	7.4	15600000	2	false	
+2024-03-31	TV (English)	2	Testament: The Story of Moses	Testament: The Story of Moses: Season 1	57400000	4.2667	13500000	1	false	
+2024-03-31	TV (English)	3	The Gentlemen	The Gentlemen: Season 1	51900000	6.6833	7800000	4	false	
+2024-03-31	TV (English)	4	Homicide	Homicide: New York	21100000	4.5167	4700000	2	false	
+2024-03-31	TV (English)	5	Avatar The Last Airbender	Avatar The Last Airbender: Season 1	17200000	7.25	2400000	6	false	
+2024-03-31	TV (English)	6	Gabby's Dollhouse	Gabby's Dollhouse: Season 9	5500000	2.4333	2300000	1	false	
+2024-03-31	TV (English)	7	Bad Dinosaurs	Bad Dinosaurs: Season 1	5600000	2.8333	2000000	1	false	
+2024-03-31	TV (English)	8	Buying Beverly Hills	Buying Beverly Hills: Season 2	15200000	7.9	1900000	1	false	
+2024-03-31	TV (English)	9	Hot Wheels Let's Race	Hot Wheels Let's Race: Season 1	7600000	4.0333	1900000	4	false	
+2024-03-31	TV (English)	10	Dave Attell: Hot Cross Buns	N/A	1000000	0.6667	1500000	1	false	
+2024-03-31	TV (Non-English)	1	Queen of Tears	Queen of Tears: Limited Series	41400000	0	4300000	4	true	"[{""episodesLaunched"":4,""countryList"":[""BO"",""DO"",""UY"",""CL"",""PA"",""BR"",""PY"",""MX"",""NI"",""EC"",""GT"",""CR"",""HN"",""SV"",""CU"",""BZ"",""VE"",""AR"",""CO"",""GQ"",""PE"",""PR""]},{""episodesLaunched"":8,""countryList"":[""KG"",""JM"",""DJ"",""PF"",""ES"",""BW"",""OM"",""LB"",""VN"",""FJ"",""AL"",""QA"",""RE"",""UG"",""CK"",""BY"",""ZM"",""MR"",""YE"",""BA"",""GE"",""SM"",""EH"",""NC"",""FR"",""GG"",""TW"",""SO"",""LC"",""MT"",""TT"",""BS"",""FO"",""GU"",""MO"",""DK"",""ET"",""MW"",""KN"",""KY"",""DZ"",""GS"",""AM"",""SB"",""LY"",""TH"",""HU"",""IL"",""IS"",""MF"",""RS"",""BL"",""CI"",""MA"",""MG"",""NF"",""VI"",""SE"",""MV"",""BM"",""TN"",""CC"",""IR"",""FI"",""BE"",""BT"",""AI"",""AT"",""TM"",""MD"",""BJ"",""KE"",""TC"",""MP"",""GB"",""IT"",""TR"",""KZ"",""GL"",""MK"",""ZW"",""UA"",""NL"",""RU"",""BQ"",""ST"",""JO"",""IO"",""CD"",""MU"",""AU"",""JE"",""CV"",""HM"",""MS"",""HT"",""KW"",""LU"",""ME"",""AW"",""ML"",""SG"",""SC"",""TV"",""TG"",""TL"",""AG"",""PW"",""AO"",""MC"",""LV"",""SA"",""FK"",""HK"",""GA"",""AZ"",""CW"",""VG"",""FM"",""SD"",""PT"",""HR"",""CX"",""CF"",""UZ"",""AQ"",""GH"",""SI"",""SZ"",""NE"",""BF"",""GP"",""ID"",""PN"",""BG"",""RW"",""VU"",""BB"",""CM"",""BD"",""KI"",""ER"",""MM"",""LK"",""SK"",""MH"",""TJ"",""AF"",""SN"",""SX"",""NZ"",""PH"",""PM"",""NP"",""AE"",""NA"",""IQ"",""BI"",""VC"",""LT"",""PS"",""KH"",""US"",""SH"",""PG"",""GY"",""TZ"",""PK"",""GR"",""NG"",""DE"",""GI"",""CY"",""WS"",""CH"",""CG"",""EE"",""SS"",""GF"",""GN"",""RO"",""TO"",""YT"",""MQ"",""UM"",""DM"",""MY"",""JP"",""AS"",""KR"",""NO"",""LA"",""IM"",""KM"",""GW"",""BH"",""BN"",""CA"",""TK"",""NR"",""LR"",""IE"",""VA"",""LS"",""CZ"",""IN"",""PL"",""SL"",""WF"",""GD"",""AD"",""TD"",""GM"",""MN"",""MZ"",""SR"",""EG"",""ZA"",""NU"",""LI""]}]"
+2024-03-31	TV (Non-English)	2	Physical: 100	Physical: 100: Season 2	30900000	7.3333	4200000	2	false	
+2024-03-31	TV (Non-English)	3	The Great Indian Kapil Show	The Great Indian Kapil Show: Season 1	2400000	0.95	2500000	1	false	
+2024-03-31	TV (Non-English)	4	Bandidos	Bandidos: Season 1	12000000	5.3333	2300000	3	false	
+2024-03-31	TV (Non-English)	5	Iron Reign	Iron Reign: Season 1	15400000	8.3333	1800000	3	false	
+2024-03-31	TV (Non-English)	6	SPY x FAMILY	SPY x FAMILY: Season 1	16700000	10.0833	1700000	1	false	
+2024-03-31	TV (Non-English)	7	Between Lands	Between Lands: Season 1	14300000	8.6833	1600000	1	false	
+2024-03-31	TV (Non-English)	8	Furies	Furies: Season 1	9100000	6	1500000	5	false	
+2024-03-31	TV (Non-English)	9	My Hero Academia	My Hero Academia: Season 1	7800000	0	1500000	1	true	"[{""episodesLaunched"":13,""countryList"":[""BZ"",""RS"",""LT"",""GG"",""CM"",""BG"",""KN"",""IL"",""KR"",""NG"",""AI"",""GU"",""TH"",""MP"",""MG"",""ES"",""PR"",""KE"",""DE"",""BS"",""JM"",""CL"",""MT"",""HN"",""NI"",""CI"",""NE"",""RW"",""SG"",""TZ"",""NO"",""SO"",""MM"",""SS"",""CZ"",""LS"",""MY"",""WS"",""BJ"",""MU"",""GL"",""PF"",""GE"",""PE"",""LY"",""DJ"",""MH"",""GD"",""GI"",""SH"",""HR"",""BD"",""LK"",""TR"",""KM"",""EE"",""PL"",""US"",""ZM"",""IE"",""LR"",""MW"",""NP"",""JE"",""FO"",""LB"",""CA"",""ST"",""KY"",""BR"",""AM"",""TO"",""BB"",""LC"",""PK"",""RO"",""AO"",""FR"",""CY"",""SV"",""CG"",""ER"",""PY"",""TC"",""SN"",""VC"",""UG"",""BN"",""MV"",""PN"",""SL"",""KH"",""EH"",""ZW"",""TL"",""BT"",""FK"",""PT"",""LU"",""LV"",""GN"",""IT"",""HU"",""AD"",""CF"",""ML"",""LI"",""GQ"",""AS"",""BF"",""TG"",""CH"",""GA"",""MO"",""NL"",""AU"",""MC"",""DO"",""GW"",""CV"",""CO"",""UY"",""AZ"",""AT"",""SI"",""PA"",""IM"",""PW"",""GT"",""SD"",""VN"",""PG"",""MA"",""TW"",""NZ"",""DZ"",""FM"",""PH"",""MN"",""SK"",""IO"",""DM"",""TN"",""EC"",""GM"",""BI"",""NR"",""GB"",""NA"",""SE"",""AG"",""BM"",""TD"",""IS"",""VG"",""GY"",""IN"",""FI"",""GS"",""FJ"",""DK"",""MS"",""BO"",""HK"",""AL"",""BA"",""GR"",""TT"",""CR"",""ME"",""ZA"",""GH"",""MX"",""AR"",""MZ"",""ET"",""ID"",""BE"",""VU"",""BW"",""LA"",""SC"",""SZ"",""CD"",""MR""]},{""episodesLaunched"":14,""countryList"":[""JP""]}]"
+2024-03-31	TV (Non-English)	10	The Signal	The Signal: Limited Series	5600000	4.15	1300000	4	false	
 2024-03-24	Films (English)	1	Irish Wish	N/A	40000000	1.5667	25500000	2	false	
 2024-03-24	Films (English)	2	Damsel	N/A	35700000	1.8333	19500000	3	false	
 2024-03-24	Films (English)	3	Shooter	N/A	11700000	2.0833	5600000	5	false	
