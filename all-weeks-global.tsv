@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-04-14	Films (English)	1	What Jennifer Did	N/A	26100000	1.45	18000000	1	false	
+2024-04-14	Films (English)	2	Woody Woodpecker Goes to Camp	N/A	19600000	1.6667	11800000	1	false	
+2024-04-14	Films (English)	3	Scoop	N/A	14600000	1.7167	8500000	2	false	
+2024-04-14	Films (English)	4	Glass	N/A	11000000	2.15	5100000	2	false	
+2024-04-14	Films (English)	5	Megan Leavey	N/A	9700000	1.9333	5000000	1	false	
+2024-04-14	Films (English)	6	The Bricklayer	N/A	8500000	1.8333	4600000	1	false	
+2024-04-14	Films (English)	7	Hotel Transylvania 2	N/A	5200000	1.5	3500000	5	false	
+2024-04-14	Films (English)	8	The Little Things	N/A	7300000	2.1333	3400000	2	false	
+2024-04-14	Films (English)	9	The Maze Runner	N/A	6000000	1.8833	3200000	2	false	
+2024-04-14	Films (English)	10	Heart of the Hunter	N/A	5600000	1.7833	3100000	3	false	
+2024-04-14	Films (Non-English)	1	The Tearsmith	N/A	29800000	1.75	17000000	2	false	
+2024-04-14	Films (Non-English)	2	Stolen	N/A	12600000	1.7833	7100000	1	false	
+2024-04-14	Films (Non-English)	3	Love, Divided	N/A	11100000	1.6333	6800000	1	false	
+2024-04-14	Films (Non-English)	4	The Wages of Fear	N/A	10200000	1.7667	5800000	3	false	
+2024-04-14	Films (Non-English)	5	Death Whisperer	N/A	6700000	2.0167	3300000	1	false	
+2024-04-14	Films (Non-English)	6	Amar Singh Chamkila	N/A	5900000	2.4333	2400000	1	false	
+2024-04-14	Films (Non-English)	7	No Pressure	N/A	4400000	1.8833	2300000	3	false	
+2024-04-14	Films (Non-English)	8	Suzume	N/A	4600000	2.0333	2300000	1	false	
+2024-04-14	Films (Non-English)	9	Zero to Hero	N/A	3700000	1.8167	2000000	2	false	
+2024-04-14	Films (Non-English)	10	Rest In Peace	N/A	2600000	1.7833	1500000	3	false	
+2024-04-14	TV (English)	1	3 Body Problem	3 Body Problem: Season 1	35500000	7.4	4800000	4	false	
+2024-04-14	TV (English)	2	Unlocked: A Jail Experiment	Unlocked: A Jail Experiment: Season 1	21600000	5.5167	3900000	1	false	
+2024-04-14	TV (English)	3	The Gentlemen	The Gentlemen: Season 1	24500000	6.6833	3700000	6	false	
+2024-04-14	TV (English)	4	Bad Dinosaurs	Bad Dinosaurs: Season 1	8700000	2.8333	3100000	3	false	
+2024-04-14	TV (English)	5	Baby Reindeer	Baby Reindeer: Limited Series	10400000	3.9667	2600000	1	false	
+2024-04-14	TV (English)	6	RIPLEY	RIPLEY: Limited Series	18400000	7.4833	2500000	2	false	
+2024-04-14	TV (English)	7	Heartbreak High	Heartbreak High: Season 2	15800000	6.7833	2300000	1	false	
+2024-04-14	TV (English)	8	Files of the Unexplained	Files of the Unexplained: Season 1	10600000	4.8333	2200000	2	false	
+2024-04-14	TV (English)	9	Testament: The Story of Moses	Testament: The Story of Moses: Season 1	9000000	4.2667	2100000	3	false	
+2024-04-14	TV (English)	10	I Woke Up A Vampire	I Woke Up A Vampire: Season 2	5600000	3.4333	1600000	1	false	
+2024-04-14	TV (Non-English)	1	Parasyte: The Grey	Parasyte: The Grey: Limited Series	49000000	5	9800000	2	false	
+2024-04-14	TV (Non-English)	2	Crooks	Crooks: Season 1	35400000	7.0667	5000000	2	false	
+2024-04-14	TV (Non-English)	3	Queen of Tears	Queen of Tears: Limited Series	64800000	0	4400000	6	true	"[{""episodesLaunched"":12,""countryList"":[""CM"",""YE"",""NP"",""TC"",""TN"",""CV"",""HM"",""SX"",""BE"",""ET"",""BA"",""CF"",""NF"",""DJ"",""JM"",""MK"",""JP"",""SH"",""BN"",""GB"",""VN"",""MA"",""WS"",""PF"",""SI"",""AG"",""JO"",""QA"",""KW"",""BW"",""TG"",""MW"",""AI"",""TJ"",""SA"",""BG"",""TW"",""AO"",""NG"",""KY"",""ZA"",""MN"",""TH"",""UZ"",""JE"",""BF"",""TM"",""PT"",""DZ"",""LS"",""AS"",""BY"",""GS"",""HR"",""LT"",""MZ"",""BT"",""MR"",""PK"",""MC"",""FO"",""TO"",""KR"",""ID"",""IL"",""MD"",""GF"",""TZ"",""ES"",""AW"",""IN"",""DE"",""FJ"",""GR"",""EG"",""UA"",""BQ"",""IM"",""VA"",""BS"",""MG"",""AM"",""AE"",""ER"",""SC"",""CW"",""IO"",""GA"",""AZ"",""SS"",""PH"",""LA"",""SR"",""SB"",""CY"",""GL"",""HT"",""OM"",""KN"",""SL"",""CI"",""FK"",""KE"",""SO"",""RW"",""LI"",""LU"",""CK"",""EH"",""MF"",""LB"",""KI"",""ZW"",""MH"",""AL"",""FI"",""US"",""GN"",""EE"",""TL"",""CC"",""RE"",""RS"",""KG"",""SG"",""NC"",""UM"",""AQ"",""LC"",""AF"",""ST"",""VG"",""MM"",""KH"",""GU"",""LK"",""SE"",""VU"",""GD"",""SK"",""CH"",""PM"",""TD"",""DM"",""PL"",""RO"",""IE"",""CA"",""SN"",""SZ"",""HU"",""WF"",""PS"",""DK"",""PG"",""LY"",""MY"",""BM"",""ZM"",""LR"",""SM"",""MO"",""BB"",""UG"",""HK"",""GG"",""CX"",""TR"",""CZ"",""BH"",""GE"",""IQ"",""CD"",""NR"",""BL"",""GP"",""MU"",""VI"",""TK"",""MS"",""NA"",""GW"",""LV"",""GY"",""MP"",""KZ"",""YT"",""BI"",""SD"",""IR"",""GI"",""ML"",""TT"",""NE"",""MT"",""AT"",""VC"",""GM"",""MQ"",""NL"",""MV"",""BD"",""AD"",""BJ"",""TV"",""NO"",""PN"",""RU"",""KM"",""CG"",""PW"",""NU"",""NZ"",""GH"",""IT"",""IS"",""FM"",""ME"",""FR"",""AU""]},{""episodesLaunched"":8,""countryList"":[""PA"",""EC"",""MX"",""PE"",""PR"",""BZ"",""CR"",""BR"",""UY"",""HN"",""CO"",""DO"",""GQ"",""PY"",""CU"",""VE"",""CL"",""GT"",""BO"",""NI"",""SV"",""AR""]}]"
+2024-04-14	TV (Non-English)	4	Anthracite	Anthracite: Secrets of the Sect	20700000	4.95	4200000	1	false	
+2024-04-14	TV (Non-English)	5	The Hijacking of Flight 601	The Hijacking of Flight 601: Season 1	18100000	5.25	3400000	1	false	
+2024-04-14	TV (Non-English)	6	Midsummer Night	Midsummer Night: Limited Series	6800000	2.55	2700000	1	false	
+2024-04-14	TV (Non-English)	7	The Great Indian Kapil Show	The Great Indian Kapil Show: Season 1	4100000	2.4167	1700000	3	false	
+2024-04-14	TV (Non-English)	8	As the Crow Flies	As the Crow Flies: Season 3	11000000	6.55	1700000	1	false	
+2024-04-14	TV (Non-English)	9	Between Lands	Between Lands: Season 1	12900000	8.6833	1500000	3	false	
+2024-04-14	TV (Non-English)	10	Crime Scene Berlin: Nightlife Killer	Crime Scene Berlin: Nightlife Killer: Season 1	2600000	1.7833	1500000	2	false	
 2024-04-07	Films (English)	1	Heart of the Hunter	N/A	19500000	1.7833	10900000	2	false	
 2024-04-07	Films (English)	2	The Little Things	N/A	18600000	2.1333	8700000	1	false	
 2024-04-07	Films (English)	3	The Maze Runner	N/A	12700000	1.8833	6700000	1	false	
