@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-05-05	Films (English)	1	Unfrosted	N/A	11300000	1.6	7100000	1	false	
+2024-05-05	Films (English)	2	Anyone But You	N/A	11600000	1.7333	6700000	2	false	
+2024-05-05	Films (English)	3	Rebel Moon — Part Two: The Scargiver	N/A	12300000	2.0667	6000000	3	false	
+2024-05-05	Films (English)	4	Woody Woodpecker Goes to Camp	N/A	9400000	1.6667	5600000	4	false	
+2024-05-05	Films (English)	5	Hack Your Health: The Secrets of Your Gut	N/A	7200000	1.3333	5400000	2	false	
+2024-05-05	Films (English)	6	Secrets of the Neanderthals	N/A	7100000	1.3333	5300000	1	false	
+2024-05-05	Films (English)	7	The Judge	N/A	12500000	2.35	5300000	1	false	
+2024-05-05	Films (English)	8	Shrek	N/A	7100000	1.5	4700000	8	false	
+2024-05-05	Films (English)	9	Smurfs: The Lost Village	N/A	7000000	1.5	4700000	2	false	
+2024-05-05	Films (English)	10	Barbarian	N/A	7900000	1.7333	4600000	1	false	
+2024-05-05	Films (Non-English)	1	Honeymoonish	N/A	23400000	1.6667	14000000	1	false	
+2024-05-05	Films (Non-English)	2	City Hunter	N/A	11000000	1.7333	6300000	2	false	
+2024-05-05	Films (Non-English)	3	Laapataa Ladies	N/A	11600000	2.0667	5600000	2	false	
+2024-05-05	Films (Non-English)	4	Shaitaan	N/A	6900000	2.1333	3200000	1	false	
+2024-05-05	Films (Non-English)	5	The Tearsmith	N/A	3400000	1.75	1900000	5	false	
+2024-05-05	Films (Non-English)	6	Jujutsu Kaisen 0: The Movie	N/A	2500000	1.75	1400000	1	false	
+2024-05-05	Films (Non-English)	7	The Doomsday Cult of Antares de la Luz	N/A	2400000	1.6833	1400000	2	false	
+2024-05-05	Films (Non-English)	8	Love, Divided	N/A	2200000	1.6333	1300000	4	false	
+2024-05-05	Films (Non-English)	9	Down the Rabbit Hole	N/A	2300000	1.7167	1300000	1	false	
+2024-05-05	Films (Non-English)	10	Tillu Square	N/A	2500000	2.0167	1200000	1	false	
+2024-05-05	TV (English)	1	Baby Reindeer	Baby Reindeer: Limited Series	73600000	3.9667	18600000	4	false	
+2024-05-05	TV (English)	2	A Man in Full	A Man in Full: Limited Series	28000000	4.4667	6300000	1	false	
+2024-05-05	TV (English)	3	Dead Boy Detectives	Dead Boy Detectives: Season 1	34100000	7.2667	4700000	2	false	
+2024-05-05	TV (English)	4	Katt Williams: Woke Foke	N/A	4100000	1.0333	4000000	1	false	
+2024-05-05	TV (English)	5	Selling The OC	Selling The OC: Season 3	10300000	4.6333	2200000	1	false	
+2024-05-05	TV (English)	6	The Roast of Tom Brady	N/A	6200000	3.0667	2000000	1	false	
+2024-05-05	TV (English)	7	The Gentlemen	The Gentlemen: Season 1	11700000	6.6833	1800000	9	false	
+2024-05-05	TV (English)	8	CoComelon Lane	CoComelon Lane: Season 2	3400000	2.1	1600000	2	false	
+2024-05-05	TV (English)	9	3 Body Problem	3 Body Problem: Season 1	11400000	7.4	1500000	7	false	
+2024-05-05	TV (English)	10	Unlocked: A Jail Experiment	Unlocked: A Jail Experiment: Season 1	6800000	5.5167	1200000	4	false	
+2024-05-05	TV (Non-English)	1	The Asunta Case	The Asunta Case: Limited Series	64700000	5.4167	11900000	2	false	
+2024-05-05	TV (Non-English)	2	Heeramandi: The Diamond Bazaar	Heeramandi: The Diamond Bazaar: Season 1	33000000	7.3167	4500000	1	false	
+2024-05-05	TV (Non-English)	3	Queen of Tears	Queen of Tears: Limited Series	87500000	0	4100000	9	true	"[{""episodesLaunched"":14,""countryList"":[""UY"",""PE"",""PR"",""VE"",""GT"",""CU"",""HN"",""MX"",""DO"",""AR"",""BZ"",""BO"",""PY"",""CL"",""EC"",""CO"",""BR"",""CR"",""PA"",""NI"",""SV"",""GQ""]},{""episodesLaunched"":16,""countryList"":[""GG"",""RW"",""ET"",""UA"",""MS"",""NE"",""BA"",""MU"",""BE"",""FO"",""MC"",""PF"",""KY"",""MP"",""EH"",""DJ"",""YE"",""AG"",""TV"",""CW"",""MG"",""MH"",""BL"",""GS"",""ZA"",""UM"",""CX"",""FJ"",""SB"",""AI"",""LK"",""JE"",""FI"",""PM"",""VG"",""BN"",""KW"",""KI"",""AT"",""TT"",""SE"",""NF"",""ME"",""AQ"",""DZ"",""MW"",""HT"",""TR"",""WS"",""SM"",""ZW"",""GL"",""LY"",""IQ"",""AD"",""JM"",""MN"",""NR"",""PH"",""AL"",""SI"",""GI"",""WF"",""FK"",""PL"",""BW"",""MK"",""ZM"",""PW"",""TG"",""PT"",""JO"",""TH"",""IE"",""SS"",""MR"",""BI"",""SL"",""IS"",""SX"",""RO"",""IO"",""ML"",""LT"",""GP"",""SO"",""SZ"",""LB"",""AU"",""TM"",""MQ"",""ST"",""VC"",""GR"",""LC"",""CA"",""PN"",""ES"",""ER"",""MT"",""PK"",""ID"",""NO"",""LV"",""GY"",""GM"",""SD"",""CG"",""LA"",""HU"",""JP"",""TN"",""SN"",""DM"",""PG"",""MV"",""CV"",""CD"",""TC"",""DK"",""GN"",""CZ"",""KG"",""HR"",""KH"",""AM"",""MD"",""BQ"",""TJ"",""IM"",""EG"",""SR"",""RE"",""BB"",""CC"",""UZ"",""BJ"",""US"",""DE"",""FM"",""KZ"",""LR"",""VI"",""NA"",""NU"",""VA"",""GH"",""TD"",""HM"",""KN"",""NC"",""NZ"",""LU"",""AF"",""OM"",""MA"",""KE"",""MM"",""TK"",""BH"",""NG"",""BS"",""MF"",""SH"",""TZ"",""IL"",""CY"",""MY"",""SG"",""GU"",""QA"",""GW"",""KR"",""SC"",""BT"",""CH"",""CF"",""FR"",""LS"",""AO"",""IN"",""IT"",""BD"",""BM"",""CM"",""LI"",""GF"",""TW"",""VN"",""EE"",""RS"",""GA"",""PS"",""CI"",""AZ"",""NL"",""SA"",""HK"",""MZ"",""BY"",""GD"",""UG"",""VU"",""AW"",""SK"",""MO"",""KM"",""IR"",""CK"",""YT"",""AE"",""RU"",""GB"",""NP"",""BG"",""BF"",""TL"",""AS"",""TO"",""GE""]}]"
+2024-05-05	TV (Non-English)	4	Deliver Me	Deliver Me: Limited Series	8400000	3.75	2200000	2	false	
+2024-05-05	TV (Non-English)	5	Goodbye Earth	Goodbye Earth: Limited Series	20200000	11.8	1700000	2	false	
+2024-05-05	TV (Non-English)	6	Anthracite	Anthracite: Secrets of the Sect	7000000	4.95	1400000	4	false	
+2024-05-05	TV (Non-English)	7	Fiasco	Fiasco: Limited Series	6000000	4.35	1400000	1	false	
+2024-05-05	TV (Non-English)	8	Frankly Speaking	Frankly Speaking: Limited Series	2500000	2.05	1200000	1	false	
+2024-05-05	TV (Non-English)	9	Brigands: The Quest for Gold	Brigands: The Quest for Gold: Season 1	5600000	5.1	1100000	2	false	
+2024-05-05	TV (Non-English)	10	The Great Indian Kapil Show	The Great Indian Kapil Show: Season 1	5400000	5.2	1000000	5	false	
 2024-04-28	Films (English)	1	Rebel Moon — Part Two: The Scargiver	N/A	38800000	2.0667	18800000	2	false	
 2024-04-28	Films (English)	2	Anyone But You	N/A	18300000	1.7333	10600000	1	false	
 2024-04-28	Films (English)	3	Woody Woodpecker Goes to Camp	N/A	15300000	1.6667	9200000	3	false	
