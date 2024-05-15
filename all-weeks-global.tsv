@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-05-12	Films (English)	1	Mother of the Bride	N/A	40000000	1.5	26700000	1	false	
+2024-05-12	Films (English)	2	Unfrosted	N/A	14100000	1.6	8800000	2	false	
+2024-05-12	Films (English)	3	Shrek	N/A	12800000	1.5	8500000	9	false	
+2024-05-12	Films (English)	4	Barbarian	N/A	8000000	1.7333	4600000	2	false	
+2024-05-12	Films (English)	5	Secrets of the Neanderthals	N/A	5700000	1.3333	4300000	2	false	
+2024-05-12	Films (English)	6	The Judge	N/A	8700000	2.35	3700000	2	false	
+2024-05-12	Films (English)	7	The Frozen Ground	N/A	6000000	1.75	3400000	1	false	
+2024-05-12	Films (English)	8	Woody Woodpecker Goes to Camp	N/A	5400000	1.6667	3200000	5	false	
+2024-05-12	Films (English)	9	The Great Wall	N/A	5500000	1.7167	3200000	3	false	
+2024-05-12	Films (English)	10	Shrek Forever After	N/A	5000000	1.5833	3200000	3	false	
+2024-05-12	Films (Non-English)	1	The Courier	N/A	12700000	1.7	7500000	1	false	
+2024-05-12	Films (Non-English)	2	Shaitaan	N/A	14000000	2.1333	6600000	2	false	
+2024-05-12	Films (Non-English)	3	Honeymoonish	N/A	10100000	1.6667	6100000	2	false	
+2024-05-12	Films (Non-English)	4	Laapataa Ladies	N/A	7000000	2.0667	3400000	3	false	
+2024-05-12	Films (Non-English)	5	City Hunter	N/A	3000000	1.7333	1700000	3	false	
+2024-05-12	Films (Non-English)	6	The Stronghold	N/A	2800000	1.75	1600000	4	false	
+2024-05-12	Films (Non-English)	7	Down the Rabbit Hole	N/A	2700000	1.7167	1600000	2	false	
+2024-05-12	Films (Non-English)	8	Meninas Não Choram	N/A	2600000	1.7667	1500000	1	false	
+2024-05-12	Films (Non-English)	9	Beautiful Rebel	N/A	2500000	1.9	1300000	1	false	
+2024-05-12	Films (Non-English)	10	The Tearsmith	N/A	2200000	1.75	1300000	6	false	
+2024-05-12	TV (English)	1	The Roast of Tom Brady	N/A	42200000	3.0667	13800000	2	false	
+2024-05-12	TV (English)	2	Baby Reindeer	Baby Reindeer: Limited Series	45400000	3.9667	11400000	5	false	
+2024-05-12	TV (English)	3	A Man in Full	A Man in Full: Limited Series	29800000	4.4667	6700000	2	false	
+2024-05-12	TV (English)	4	Katt Williams: Woke Foke	N/A	4400000	1.0333	4300000	2	false	
+2024-05-12	TV (English)	5	Bodkin	Bodkin: Season 1	18900000	5.8	3300000	1	false	
+2024-05-12	TV (English)	6	Selling The OC	Selling The OC: Season 3	12600000	4.6333	2700000	2	false	
+2024-05-12	TV (English)	7	Dead Boy Detectives	Dead Boy Detectives: Season 1	13300000	7.2667	1800000	3	false	
+2024-05-12	TV (English)	8	Bridgerton	Bridgerton: Season 1	13600000	8.2	1700000	9	false	
+2024-05-12	TV (English)	9	Bridgerton	Bridgerton: Season 2	12000000	8.5	1400000	15	false	
+2024-05-12	TV (English)	10	The Gentlemen	The Gentlemen: Season 1	9100000	6.6833	1400000	10	false	
+2024-05-12	TV (Non-English)	1	The Asunta Case	The Asunta Case: Limited Series	28600000	5.4167	5300000	3	false	
+2024-05-12	TV (Non-English)	2	Heeramandi: The Diamond Bazaar	Heeramandi: The Diamond Bazaar: Season 1	29300000	7.3167	4000000	2	false	
+2024-05-12	TV (Non-English)	3	Thank You, Next	Thank You, Next: Season 1	21300000	5.8667	3600000	1	false	
+2024-05-12	TV (Non-English)	4	Queen of Tears	Queen of Tears: Limited Series	58700000	23.3667	2500000	10	false	
+2024-05-12	TV (Non-English)	5	Cooking Up Murder: Uncovering the Story of César Román	Cooking Up Murder: Uncovering the Story of César Román: Limited Series	5500000	2.4667	2200000	1	false	
+2024-05-12	TV (Non-English)	6	The Atypical Family	The Atypical Family: Limited Series	7600000	0	2000000	1	true	"[{""episodesLaunched"":3,""countryList"":[""VU"",""LA"",""TV"",""NZ"",""NR"",""NP"",""AU"",""TH"",""SG"",""LK"",""TL"",""KR"",""MM"",""MV"",""PG"",""PN"",""ID"",""CC"",""UM"",""PF"",""HK"",""BD"",""MY"",""TK"",""NC"",""MN"",""BT"",""PH"",""CK"",""NU"",""CX"",""TO"",""MO"",""TW"",""WF"",""KH"",""KI"",""IN"",""FJ"",""NF"",""VN"",""WS"",""BN"",""JP"",""SB""]},{""episodesLaunched"":4,""countryList"":[""LV"",""AS"",""BW"",""SM"",""GN"",""SE"",""AW"",""SL"",""LC"",""CW"",""MQ"",""YT"",""PW"",""TM"",""GF"",""IS"",""SX"",""HM"",""FO"",""BM"",""AE"",""SR"",""IR"",""CI"",""GL"",""LS"",""CH"",""MW"",""YE"",""IQ"",""RU"",""FI"",""SZ"",""RS"",""LU"",""IL"",""AF"",""TR"",""JO"",""BA"",""PK"",""ST"",""BH"",""RW"",""MT"",""HU"",""JE"",""GW"",""GE"",""DZ"",""PL"",""NL"",""PT"",""KN"",""ML"",""GB"",""IE"",""SC"",""KZ"",""VG"",""BF"",""DJ"",""CZ"",""BS"",""BB"",""FM"",""QA"",""CD"",""GA"",""HT"",""EG"",""AG"",""ME"",""ZW"",""SH"",""LR"",""AQ"",""GS"",""BJ"",""US"",""MH"",""GR"",""GH"",""TG"",""GU"",""MG"",""IT"",""CG"",""TZ"",""NA"",""PS"",""LY"",""ZM"",""LT"",""ES"",""MU"",""UA"",""DM"",""SS"",""FR"",""TC"",""UG"",""KY"",""OM"",""NG"",""SK"",""AL"",""BL"",""BI"",""CA"",""SI"",""KW"",""MC"",""ER"",""KE"",""AM"",""KG"",""GY"",""EE"",""MF"",""AI"",""DE"",""IM"",""BG"",""DK"",""NE"",""CM"",""TN"",""AD"",""VC"",""MS"",""BE"",""HR"",""FK"",""KM"",""PM"",""MA"",""BQ"",""GM"",""MZ"",""MR"",""AO"",""TT"",""VA"",""AT"",""AZ"",""UZ"",""SN"",""NO"",""CY"",""EH"",""MK"",""GI"",""TJ"",""IO"",""GD"",""BY"",""ZA"",""GG"",""SD"",""MP"",""RO"",""GP"",""ET"",""MD"",""VI"",""RE"",""LI"",""LB"",""TD"",""SO"",""CV"",""JM"",""SA"",""CF""]}]"
+2024-05-12	TV (Non-English)	7	Larva in Mars	Larva in Mars: Larva In Mars	1200000	0.9667	1200000	1	false	
+2024-05-12	TV (Non-English)	8	Super Rich in Korea	Super Rich in Korea: Season 1	3300000	2.9833	1100000	1	false	
+2024-05-12	TV (Non-English)	9	Jujutsu Kaisen	Jujutsu Kaisen: Season 1	9200000	9.5	1000000	1	false	
+2024-05-12	TV (Non-English)	10	Frankly Speaking	Frankly Speaking: Limited Series	3900000	4.1	1000000	2	false	
 2024-05-05	Films (English)	1	Unfrosted	N/A	11300000	1.6	7100000	1	false	
 2024-05-05	Films (English)	2	Anyone But You	N/A	11600000	1.7333	6700000	2	false	
 2024-05-05	Films (English)	3	Rebel Moon — Part Two: The Scargiver	N/A	12300000	2.0667	6000000	3	false	
