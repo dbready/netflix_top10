@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-05-26	Films (English)	1	Atlas	N/A	56300000	2	28200000	1	false	
+2024-05-26	Films (English)	2	Thelma the Unicorn	N/A	17400000	1.6333	10700000	2	false	
+2024-05-26	Films (English)	3	Ice Age: Dawn of the Dinosaurs	N/A	15100000	1.5833	9500000	1	false	
+2024-05-26	Films (English)	4	Mother of the Bride	N/A	14000000	1.5	9300000	3	false	
+2024-05-26	Films (English)	5	Disturbia	N/A	14100000	1.75	8100000	2	false	
+2024-05-26	Films (English)	6	Sing 2	N/A	13900000	1.8333	7600000	10	false	
+2024-05-26	Films (English)	7	Ice Age: Collision Course	N/A	11700000	1.6167	7200000	1	false	
+2024-05-26	Films (English)	8	A Simple Favor	N/A	12200000	1.95	6300000	1	false	
+2024-05-26	Films (English)	9	Madame Web	N/A	11900000	1.9333	6200000	2	false	
+2024-05-26	Films (English)	10	Security	N/A	5100000	1.5333	3300000	3	false	
+2024-05-26	Films (Non-English)	1	Golden Kamuy	N/A	15800000	2.15	7300000	1	false	
+2024-05-26	Films (Non-English)	2	In Good Hands 2	N/A	10500000	1.6667	6300000	1	false	
+2024-05-26	Films (Non-English)	3	Crew	N/A	10800000	2.0167	5400000	1	false	
+2024-05-26	Films (Non-English)	4	The Courier	N/A	5100000	1.7	3000000	3	false	
+2024-05-26	Films (Non-English)	5	Monster	N/A	3800000	1.4167	2700000	2	false	
+2024-05-26	Films (Non-English)	6	Laapataa Ladies	N/A	4000000	2.0667	1900000	5	false	
+2024-05-26	Films (Non-English)	7	Shaitaan	N/A	3900000	2.1333	1800000	4	false	
+2024-05-26	Films (Non-English)	8	In Good Hands	N/A	2900000	1.7667	1600000	6	false	
+2024-05-26	Films (Non-English)	9	4 Kings 2	N/A	3200000	2.2167	1400000	1	false	
+2024-05-26	Films (Non-English)	10	The Tearsmith	N/A	2400000	1.75	1400000	8	false	
+2024-05-26	TV (English)	1	Bridgerton	Bridgerton: Season 3	92800000	3.6667	25300000	2	false	
+2024-05-26	TV (English)	2	Bridgerton	Bridgerton: Season 1	52700000	8.2	6400000	11	false	
+2024-05-26	TV (English)	3	Ashley Madison: Sex, Lies & Scandal	Ashley Madison: Sex, Lies & Scandal: Season 1	16300000	2.6	6300000	2	false	
+2024-05-26	TV (English)	4	Bridgerton	Bridgerton: Season 2	44700000	8.5	5300000	17	false	
+2024-05-26	TV (English)	5	Baby Reindeer	Baby Reindeer: Limited Series	17700000	3.9667	4500000	7	false	
+2024-05-26	TV (English)	6	Jurassic World: Chaos Theory	Jurassic World: Chaos Theory: Season 1	15000000	3.9333	3800000	1	false	
+2024-05-26	TV (English)	7	Tires	Tires: Season 1	8500000	2.25	3800000	1	false	
+2024-05-26	TV (English)	8	Queen Charlotte: A Bridgerton Story	N/A	20400000	6.4833	3100000	7	false	
+2024-05-26	TV (English)	9	Bodkin	Bodkin: Season 1	11200000	5.8	1900000	3	false	
+2024-05-26	TV (English)	10	Buying London	Buying London: Season 1	8000000	4.2	1900000	1	false	
+2024-05-26	TV (Non-English)	1	The 8 Show	The 8 Show: Limited Series	33200000	6.9833	4800000	2	false	
+2024-05-26	TV (Non-English)	2	Demon Slayer: Kimetsu no Yaiba	Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc	3200000	1.2167	2600000	2	false	
+2024-05-26	TV (Non-English)	3	Thank You, Next	Thank You, Next: Season 1	14400000	5.8667	2500000	3	false	
+2024-05-26	TV (Non-English)	4	Franco Escamilla: Ladies' man	N/A	2300000	1.2167	1900000	1	false	
+2024-05-26	TV (Non-English)	5	The Asunta Case	The Asunta Case: Limited Series	10200000	5.4167	1900000	5	false	
+2024-05-26	TV (Non-English)	6	The Atypical Family	The Atypical Family: Limited Series	12200000	0	1600000	3	true	"[{""episodesLaunched"":2,""countryList"":[""UY"",""BO"",""BR"",""CR"",""HN"",""CO"",""CL"",""GT"",""CU"",""VE"",""DO"",""PR"",""NI"",""PE"",""AR"",""BZ"",""GQ"",""SV"",""EC"",""PA"",""MX"",""PY""]},{""episodesLaunched"":7,""countryList"":[""KI"",""NZ"",""MM"",""KR"",""MN"",""ID"",""LA"",""BD"",""LK"",""CX"",""PF"",""VU"",""MV"",""NR"",""KH"",""TK"",""IN"",""UM"",""BT"",""VN"",""CC"",""AU"",""NP"",""NU"",""SG"",""TL"",""FJ"",""TO"",""MY"",""TV"",""CK"",""JP"",""PG"",""NC"",""PH"",""NF"",""BN"",""TW"",""WF"",""HK"",""WS"",""PN"",""SB"",""MO"",""TH""]},{""episodesLaunched"":8,""countryList"":[""NA"",""YT"",""MS"",""IR"",""FI"",""BE"",""GI"",""AQ"",""RW"",""ST"",""IE"",""BM"",""GH"",""GW"",""MG"",""SS"",""IT"",""AF"",""HM"",""KN"",""IQ"",""LB"",""TG"",""ZW"",""MU"",""SX"",""IM"",""LC"",""IL"",""NE"",""YE"",""CA"",""BW"",""ZM"",""RE"",""BF"",""CH"",""KY"",""DE"",""MT"",""AS"",""AO"",""PK"",""CZ"",""CG"",""TN"",""FO"",""SL"",""UA"",""SR"",""KM"",""TJ"",""KW"",""ME"",""SO"",""SZ"",""NO"",""NG"",""FR"",""MZ"",""RU"",""GA"",""SM"",""UZ"",""IO"",""PW"",""LI"",""EH"",""BA"",""SE"",""CV"",""SA"",""TM"",""GU"",""CM"",""VC"",""HT"",""OM"",""LV"",""TT"",""GN"",""LR"",""AE"",""GG"",""BG"",""GM"",""DM"",""GE"",""RO"",""SH"",""FM"",""MP"",""LY"",""TD"",""AW"",""JO"",""KG"",""JE"",""HR"",""BJ"",""PL"",""SK"",""NL"",""PS"",""AM"",""ZA"",""GL"",""MH"",""KZ"",""SD"",""DK"",""QA"",""AZ"",""CI"",""GY"",""MW"",""CD"",""MA"",""SN"",""MD"",""EE"",""DZ"",""BQ"",""AI"",""MK"",""ER"",""BB"",""BI"",""MQ"",""AL"",""LT"",""JM"",""MR"",""GF"",""BH"",""AG"",""PT"",""FK"",""GB"",""HU"",""ET"",""US"",""ML"",""ES"",""GS"",""LU"",""PM"",""CF"",""RS"",""IS"",""GR"",""TZ"",""KE"",""GD"",""VI"",""VA"",""BS"",""TR"",""BY"",""EG"",""BL"",""MF"",""VG"",""TC"",""DJ"",""MC"",""AT"",""GP"",""CW"",""CY"",""LS"",""SI"",""UG"",""AD"",""SC""]}]"
+2024-05-26	TV (Non-English)	7	Heeramandi: The Diamond Bazaar	Heeramandi: The Diamond Bazaar: Season 1	11300000	7.3167	1500000	4	false	
+2024-05-26	TV (Non-English)	8	Queen of Tears	Queen of Tears: Limited Series	30700000	23.3667	1300000	12	false	
+2024-05-26	TV (Non-English)	9	Garouden: The Way of the Lone Wolf	Garouden: The Way of the Lone Wolf: Season 1	4000000	3.45	1200000	1	false	
+2024-05-26	TV (Non-English)	10	Maestro in Blue	Maestro in Blue: Season 2	6200000	6.5667	900000	1	false	
 2024-05-19	Films (English)	1	Mother of the Bride	N/A	38100000	1.5	25400000	2	false	
 2024-05-19	Films (English)	2	Madame Web	N/A	20800000	1.9333	10800000	1	false	
 2024-05-19	Films (English)	3	Disturbia	N/A	13500000	1.75	7700000	1	false	
