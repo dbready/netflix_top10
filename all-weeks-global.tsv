@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-06-09	Films (English)	1	Hit Man	N/A	20800000	1.9333	10800000	1	false	
+2024-06-09	Films (English)	2	Atlas	N/A	17800000	2	8900000	3	false	
+2024-06-09	Films (English)	3	Ice Age: Collision Course	N/A	7700000	1.6167	4800000	3	false	
+2024-06-09	Films (English)	4	Ice Age: Dawn of the Dinosaurs	N/A	6500000	1.5833	4100000	3	false	
+2024-06-09	Films (English)	5	Home	N/A	5700000	1.5667	3600000	3	false	
+2024-06-09	Films (English)	6	Mother of the Bride	N/A	5300000	1.5	3500000	5	false	
+2024-06-09	Films (English)	7	Sing 2	N/A	6200000	1.8333	3400000	12	false	
+2024-06-09	Films (English)	8	Real Steel	N/A	6900000	2.1167	3300000	1	false	
+2024-06-09	Films (English)	9	The Lego Movie	N/A	5400000	1.6833	3200000	1	false	
+2024-06-09	Films (English)	10	How to Rob a Bank	N/A	4600000	1.4667	3100000	1	false	
+2024-06-09	Films (Non-English)	1	Under Paris	N/A	70900000	1.7333	40900000	1	false	
+2024-06-09	Films (Non-English)	2	Godzilla Minus One	N/A	31300000	2.1	14900000	2	false	
+2024-06-09	Films (Non-English)	3	Colors of Evil: Red	N/A	27300000	1.8667	14600000	2	false	
+2024-06-09	Films (Non-English)	4	Baki Hanma VS Kengan Ashura	N/A	7100000	1.05	6800000	1	false	
+2024-06-09	Films (Non-English)	5	The Price of Nonna's Inheritance	N/A	8300000	1.5	5500000	1	false	
+2024-06-09	Films (Non-English)	6	Bionic	N/A	6800000	1.85	3700000	2	false	
+2024-06-09	Films (Non-English)	7	Bade Miyan Chote Miyan	N/A	8000000	2.7167	2900000	1	false	
+2024-06-09	Films (Non-English)	8	A Part of You	N/A	4600000	1.6833	2700000	1	false	
+2024-06-09	Films (Non-English)	9	Too Old for Fairy Tales 2	N/A	4200000	1.5833	2700000	2	false	
+2024-06-09	Films (Non-English)	10	Crew	N/A	4900000	2.0167	2400000	3	false	
+2024-06-09	TV (English)	1	Eric	Eric: Limited Series	54300000	5.35	10100000	2	false	
+2024-06-09	TV (English)	2	Geek Girl	Geek Girl: Season 1	41000000	5.6333	7300000	2	false	
+2024-06-09	TV (English)	3	Bridgerton	Bridgerton: Season 3	25300000	3.6667	6900000	4	false	
+2024-06-09	TV (English)	4	Dancing for the Devil: The 7M TikTok Cult	Dancing for the Devil: The 7M TikTok Cult: Season 1	18000000	2.6833	6700000	2	false	
+2024-06-09	TV (English)	5	Sweet Tooth	Sweet Tooth: Season 3	34300000	6.3	5400000	1	false	
+2024-06-09	TV (English)	6	Hitler and the Nazis: Evil on Trial	Hitler and the Nazis: Evil on Trial: Season 1	21900000	6.3667	3400000	1	false	
+2024-06-09	TV (English)	7	Bridgerton	Bridgerton: Season 2	22700000	8.5	2700000	19	false	
+2024-06-09	TV (English)	8	Perfect Match	Perfect Match: Season 2	12900000	5.15	2500000	1	false	
+2024-06-09	TV (English)	9	Jo Koy: Live from Brooklyn	N/A	2500000	1	2500000	1	false	
+2024-06-09	TV (English)	10	Bridgerton	Bridgerton: Season 1	19900000	8.2	2400000	13	false	
+2024-06-09	TV (Non-English)	1	Raising Voices	Raising Voices: Season 1	65100000	6.05	10800000	2	false	
+2024-06-09	TV (Non-English)	2	Hierarchy	Hierarchy: Limited Series	26600000	7.6333	3500000	1	false	
+2024-06-09	TV (Non-English)	3	The Atypical Family	The Atypical Family: Limited Series	19800000	0	1800000	5	true	"[{""episodesLaunched"":11,""countryList"":[""FJ"",""TW"",""MV"",""KH"",""KR"",""MY"",""HK"",""VN"",""NU"",""JP"",""BD"",""LA"",""MO"",""PF"",""CX"",""SB"",""CC"",""IN"",""NP"",""VU"",""PN"",""NZ"",""TO"",""PG"",""WF"",""CK"",""LK"",""WS"",""ID"",""PH"",""TK"",""BN"",""TL"",""UM"",""TH"",""NF"",""MN"",""BT"",""MM"",""NC"",""NR"",""AU"",""TV"",""KI"",""SG""]},{""episodesLaunched"":12,""countryList"":[""CV"",""CD"",""VC"",""MK"",""KM"",""SR"",""DZ"",""TC"",""FI"",""TG"",""TD"",""LR"",""GH"",""CI"",""MT"",""RO"",""IE"",""IO"",""HR"",""AE"",""GW"",""ME"",""BG"",""HU"",""GP"",""MD"",""KW"",""LB"",""KN"",""AL"",""PK"",""SS"",""BQ"",""IM"",""PS"",""EG"",""AF"",""SN"",""LT"",""CG"",""IL"",""DM"",""GL"",""MR"",""US"",""LS"",""BJ"",""SC"",""VG"",""MQ"",""DK"",""KY"",""UG"",""NA"",""QA"",""RS"",""NL"",""AO"",""VI"",""GF"",""GD"",""MA"",""NG"",""IS"",""RU"",""CM"",""DE"",""CF"",""ZM"",""ZA"",""SE"",""BL"",""IQ"",""CA"",""LC"",""SK"",""SO"",""GN"",""LU"",""BW"",""GI"",""FM"",""PW"",""SI"",""TN"",""GB"",""SD"",""AD"",""SM"",""AS"",""FO"",""GS"",""ET"",""SA"",""SL"",""BI"",""AZ"",""BE"",""AQ"",""IR"",""JM"",""BS"",""HT"",""BB"",""ER"",""RW"",""CH"",""AG"",""IT"",""PT"",""JE"",""ST"",""CW"",""SX"",""CY"",""VA"",""BM"",""MW"",""AW"",""MG"",""NE"",""GG"",""GE"",""DJ"",""CZ"",""YT"",""NO"",""UZ"",""OM"",""TR"",""TZ"",""ZW"",""FR"",""KZ"",""GR"",""GU"",""GM"",""MP"",""HM"",""KE"",""TJ"",""RE"",""SH"",""BF"",""BH"",""BA"",""PL"",""TM"",""LI"",""SZ"",""AM"",""MS"",""LV"",""JO"",""LY"",""KG"",""FK"",""ES"",""MZ"",""MH"",""MC"",""EE"",""BY"",""AI"",""AT"",""UA"",""EH"",""GA"",""MF"",""GY"",""PM"",""ML"",""YE"",""MU"",""TT""]},{""episodesLaunched"":6,""countryList"":[""HN"",""DO"",""PY"",""GT"",""GQ"",""SV"",""BR"",""BZ"",""CU"",""CR"",""PA"",""EC"",""CO"",""CL"",""AR"",""MX"",""PE"",""BO"",""NI"",""UY"",""VE"",""PR""]}]"
+2024-06-09	TV (Non-English)	4	Demon Slayer: Kimetsu no Yaiba	Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc	3400000	0	1700000	4	true	"[{""episodesLaunched"":4,""countryList"":[""MV"",""PK"",""TH"",""MN"",""SG"",""BN"",""KR"",""MY"",""ID"",""LA"",""VN"",""JP"",""BD"",""TW"",""LK"",""BT"",""KH"",""MM"",""PH"",""TL"",""IN"",""NP""]},{""episodesLaunched"":2,""countryList"":[""HK"",""MO""]}]"
+2024-06-09	TV (Non-English)	5	How to Ruin Love	How to Ruin Love: The Proposal	4900000	3.15	1600000	1	false	
+2024-06-09	TV (Non-English)	6	The 8 Show	The 8 Show: Limited Series	10300000	6.9833	1500000	4	false	
+2024-06-09	TV (Non-English)	7	The Life You Wanted	The Life You Wanted: Limited Series	6400000	4.8667	1300000	2	false	
+2024-06-09	TV (Non-English)	8	Hell's Paradise: Jigokuraku	Hell's Paradise: Jigokuraku: Season 1	4600000	5.3	900000	1	false	
+2024-06-09	TV (Non-English)	9	Queen of Tears	Queen of Tears: Limited Series	19700000	23.3667	800000	14	false	
+2024-06-09	TV (Non-English)	10	Thank You, Next	Thank You, Next: Season 1	4900000	5.8667	800000	5	false	
 2024-06-02	Films (English)	1	Atlas	N/A	63100000	2	31600000	2	false	
 2024-06-02	Films (English)	2	Ice Age: Collision Course	N/A	14500000	1.6167	9000000	2	false	
 2024-06-02	Films (English)	3	Ice Age: Dawn of the Dinosaurs	N/A	12900000	1.5833	8100000	2	false	
