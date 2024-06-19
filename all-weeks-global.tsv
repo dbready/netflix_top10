@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-06-16	Films (English)	1	Hit Man	N/A	26500000	1.9333	13700000	2	false	
+2024-06-16	Films (English)	2	Four Brothers	N/A	13500000	1.8167	7400000	2	false	
+2024-06-16	Films (English)	3	Mission: Impossible - Dead Reckoning	N/A	15300000	2.7333	5600000	1	false	
+2024-06-16	Films (English)	4	Mysteries of the Terracotta Warriors	N/A	6800000	1.3	5200000	1	false	
+2024-06-16	Films (English)	5	Wonder	N/A	9500000	1.8833	5000000	1	false	
+2024-06-16	Films (English)	6	Home	N/A	7200000	1.5667	4600000	4	false	
+2024-06-16	Films (English)	7	Safe House	N/A	8700000	1.9167	4500000	3	false	
+2024-06-16	Films (English)	8	Ultraman: Rising	N/A	8900000	2.0167	4400000	1	false	
+2024-06-16	Films (English)	9	How to Rob a Bank	N/A	6100000	1.4667	4200000	2	false	
+2024-06-16	Films (English)	10	Atlas	N/A	7900000	2	4000000	4	false	
+2024-06-16	Films (Non-English)	1	Under Paris	N/A	49800000	1.7333	28700000	2	false	
+2024-06-16	Films (Non-English)	2	Bade Miyan Chote Miyan	N/A	13900000	2.7167	5100000	2	false	
+2024-06-16	Films (Non-English)	3	Colors of Evil: Red	N/A	8700000	1.8667	4700000	3	false	
+2024-06-16	Films (Non-English)	4	Godzilla Minus One	N/A	7900000	2.1	3800000	3	false	
+2024-06-16	Films (Non-English)	5	The Price of Nonna's Inheritance	N/A	5000000	1.5	3300000	2	false	
+2024-06-16	Films (Non-English)	6	Baki Hanma VS Kengan Ashura	N/A	3400000	1.05	3200000	2	false	
+2024-06-16	Films (Non-English)	7	Cuando acecha la maldad	N/A	4300000	1.6667	2600000	1	false	
+2024-06-16	Films (Non-English)	8	Apaixonada	N/A	4000000	1.6	2500000	1	false	
+2024-06-16	Films (Non-English)	9	The First Slam Dunk	N/A	4100000	2.0667	2000000	1	false	
+2024-06-16	Films (Non-English)	10	Crew	N/A	2400000	2.0167	1200000	4	false	
+2024-06-16	TV (English)	1	Bridgerton	Bridgerton: Season 3	223300000	7.9833	28000000	5	false	
+2024-06-16	TV (English)	2	Sweet Tooth	Sweet Tooth: Season 3	37600000	6.3	6000000	2	false	
+2024-06-16	TV (English)	3	Perfect Match	Perfect Match: Season 2	39900000	7.8333	5100000	2	false	
+2024-06-16	TV (English)	4	Eric	Eric: Limited Series	26000000	5.35	4900000	3	false	
+2024-06-16	TV (English)	5	Geek Girl	Geek Girl: Season 1	21400000	5.6333	3800000	3	false	
+2024-06-16	TV (English)	6	Bridgerton	Bridgerton: Season 1	22000000	8.2	2700000	14	false	
+2024-06-16	TV (English)	7	Hitler and the Nazis: Evil on Trial	Hitler and the Nazis: Evil on Trial: Season 1	16900000	6.3667	2700000	2	false	
+2024-06-16	TV (English)	8	Dancing for the Devil: The 7M TikTok Cult	Dancing for the Devil: The 7M TikTok Cult: Season 1	6400000	2.6833	2400000	3	false	
+2024-06-16	TV (English)	9	Bridgerton	Bridgerton: Season 2	19800000	8.5	2300000	20	false	
+2024-06-16	TV (English)	10	Your Honor	Your Honor: Season 1	20700000	9.45	2200000	1	false	
+2024-06-16	TV (Non-English)	1	Hierarchy	Hierarchy: Limited Series	48000000	7.6333	6300000	2	false	
+2024-06-16	TV (Non-English)	2	Raising Voices	Raising Voices: Season 1	30900000	6.05	5100000	3	false	
+2024-06-16	TV (Non-English)	3	The Atypical Family	The Atypical Family: Limited Series	20300000	0	1700000	6	true	"[{""episodesLaunched"":12,""countryList"":[""FM"",""TN"",""PN"",""SS"",""BB"",""GL"",""KH"",""NP"",""KR"",""TL"",""BG"",""LI"",""SR"",""AE"",""BA"",""WS"",""NR"",""PL"",""NA"",""CF"",""SE"",""HM"",""GY"",""GW"",""MZ"",""LK"",""BI"",""VI"",""KW"",""BM"",""KZ"",""SM"",""GF"",""TV"",""CA"",""DM"",""GD"",""IQ"",""KN"",""AF"",""MP"",""MU"",""KY"",""EE"",""SN"",""CD"",""SD"",""FI"",""ER"",""TR"",""RS"",""MO"",""GP"",""LT"",""CH"",""HU"",""BF"",""ET"",""VU"",""TO"",""MQ"",""BD"",""AU"",""EH"",""DE"",""TW"",""SZ"",""LU"",""ML"",""CW"",""OM"",""PW"",""PT"",""PK"",""IS"",""QA"",""TT"",""MH"",""MD"",""SA"",""EG"",""WF"",""CC"",""VC"",""RW"",""FK"",""AI"",""BY"",""VN"",""BT"",""NG"",""RE"",""UM"",""UZ"",""IM"",""PS"",""SX"",""NZ"",""SC"",""DK"",""SL"",""HR"",""AS"",""IN"",""BS"",""US"",""PM"",""ME"",""CI"",""SO"",""RU"",""CZ"",""ES"",""TM"",""YE"",""BH"",""SK"",""UG"",""BW"",""CX"",""KM"",""PG"",""MN"",""CG"",""TG"",""AT"",""NU"",""GA"",""TJ"",""HT"",""FR"",""TZ"",""GR"",""IE"",""GN"",""MG"",""MV"",""CY"",""LY"",""MR"",""LB"",""GM"",""KG"",""AG"",""LV"",""UA"",""ZM"",""MS"",""GH"",""LS"",""HK"",""GI"",""GG"",""SB"",""GU"",""NL"",""MC"",""GS"",""VG"",""BL"",""MW"",""BE"",""AO"",""KI"",""ZW"",""VA"",""PH"",""GB"",""LC"",""JP"",""DJ"",""NE"",""TC"",""DZ"",""SI"",""BQ"",""ST"",""TD"",""NO"",""JM"",""TK"",""LA"",""SG"",""AM"",""FJ"",""CK"",""GE"",""MM"",""IR"",""MA"",""BJ"",""IO"",""MY"",""ZA"",""FO"",""NC"",""BN"",""JO"",""YT"",""TH"",""CM"",""IT"",""MT"",""AD"",""LR"",""IL"",""AL"",""AW"",""JE"",""AQ"",""MK"",""AZ"",""MF"",""CV"",""ID"",""PF"",""NF"",""SH"",""RO"",""KE""]},{""episodesLaunched"":8,""countryList"":[""NI"",""PR"",""BO"",""UY"",""CR"",""CL"",""CO"",""BR"",""BZ"",""AR"",""CU"",""PY"",""DO"",""SV"",""VE"",""PE"",""MX"",""PA"",""GT"",""EC"",""GQ"",""HN""]}]"
+2024-06-16	TV (Non-English)	4	Demon Slayer: Kimetsu no Yaiba	Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc	3500000	0	1500000	5	true	"[{""episodesLaunched"":5,""countryList"":[""BT"",""IN"",""PK"",""SG"",""KH"",""NP"",""TH"",""MY"",""VN"",""MN"",""TL"",""PH"",""BD"",""LK"",""BN"",""TW"",""MM"",""ID"",""LA"",""KR"",""JP"",""MV""]},{""episodesLaunched"":3,""countryList"":[""MO"",""HK""]}]"
+2024-06-16	TV (Non-English)	5	Tour de France: Unchained	Tour de France: Unchained: Season 2	6700000	5.8667	1100000	1	false	
+2024-06-16	TV (Non-English)	6	The 8 Show	The 8 Show: Limited Series	6000000	6.9833	900000	5	false	
+2024-06-16	TV (Non-English)	7	Joko Anwar's Nightmares and Daydreams	Joko Anwar's Nightmares and Daydreams: Season 1	4800000	6.0667	800000	1	false	
+2024-06-16	TV (Non-English)	8	Queen of Tears	Queen of Tears: Limited Series	16400000	23.3667	700000	15	false	
+2024-06-16	TV (Non-English)	9	Jujutsu Kaisen	Jujutsu Kaisen: Season 1	6500000	9.5	700000	2	false	
+2024-06-16	TV (Non-English)	10	Kaiju No. 8	Kaiju No. 8: Season 1	2600000	3.95	700000	2	false	
 2024-06-09	Films (English)	1	Hit Man	N/A	20800000	1.9333	10800000	1	false	
 2024-06-09	Films (English)	2	Atlas	N/A	17800000	2	8900000	3	false	
 2024-06-09	Films (English)	3	Ice Age: Collision Course	N/A	7700000	1.6167	4800000	3	false	
