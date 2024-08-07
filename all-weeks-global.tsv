@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-08-04	Films (English)	1	Saving Bikini Bottom: The Sandy Cheeks Movie	N/A	18500000	1.45	12800000	1	false	
+2024-08-04	Films (English)	2	PAW Patrol: The Mighty Movie	N/A	10300000	1.4667	7000000	1	false	
+2024-08-04	Films (English)	3	Don't Breathe 2	N/A	9700000	1.6333	5900000	2	false	
+2024-08-04	Films (English)	4	Trolls Band Together	N/A	9000000	1.5333	5900000	3	false	
+2024-08-04	Films (English)	5	Find Me Falling	N/A	8700000	1.5667	5600000	3	false	
+2024-08-04	Films (English)	6	Jack Reacher: Never Go Back	N/A	10600000	1.9667	5400000	4	false	
+2024-08-04	Films (English)	7	Failure to Launch	N/A	7800000	1.6167	4800000	1	false	
+2024-08-04	Films (English)	8	The Bad Guys	N/A	7000000	1.6667	4200000	3	false	
+2024-08-04	Films (English)	9	Ghostbusters: Frozen Empire	N/A	7200000	1.9167	3800000	2	false	
+2024-08-04	Films (English)	10	The Marksman	N/A	6400000	1.7833	3600000	3	false	
+2024-08-04	Films (Non-English)	1	Non Negotiable	N/A	11600000	1.45	8000000	2	false	
+2024-08-04	Films (Non-English)	2	Savi	N/A	7900000	2.05	3900000	2	false	
+2024-08-04	Films (Non-English)	3	Borderless Fog	N/A	6900000	1.8667	3700000	1	false	
+2024-08-04	Films (Non-English)	4	Mr. & Mrs. Mahi	N/A	5900000	2.3	2600000	2	false	
+2024-08-04	Films (Non-English)	5	Maharaja	N/A	6000000	2.35	2600000	4	false	
+2024-08-04	Films (Non-English)	6	Blame the Game	N/A	3100000	1.5333	2000000	4	false	
+2024-08-04	Films (Non-English)	7	Under Paris	N/A	3000000	1.7333	1700000	9	false	
+2024-08-04	Films (Non-English)	8	House of Ga'a	N/A	3100000	2	1600000	2	false	
+2024-08-04	Films (Non-English)	9	Wonderland	N/A	2700000	1.9167	1400000	2	false	
+2024-08-04	Films (Non-English)	10	Vanished into the Night	N/A	2000000	1.55	1300000	4	false	
+2024-08-04	TV (English)	1	A Good Girl's Guide to Murder	A Good Girl's Guide to Murder: Season 1	34000000	4.6167	7400000	1	false	
+2024-08-04	TV (English)	2	Cobra Kai	Cobra Kai: Season 6	13100000	3.2	4100000	3	false	
+2024-08-04	TV (English)	3	Simone Biles Rising	Simone Biles Rising: Season 1	6700000	1.75	3800000	3	false	
+2024-08-04	TV (English)	4	Dirty Pop: The Boy Band Scam	Dirty Pop: The Boy Band Scam: Limited Series	7600000	2.15	3500000	2	false	
+2024-08-04	TV (English)	5	Unsolved Mysteries	Unsolved Mysteries: Volume 4	12200000	3.9	3100000	1	false	
+2024-08-04	TV (English)	6	Too Hot to Handle	Too Hot to Handle: Season 6	24600000	9.1833	2700000	3	false	
+2024-08-04	TV (English)	7	Joe Rogan: Burn the Boats	N/A	2800000	1.1167	2500000	1	false	
+2024-08-04	TV (English)	8	The Decameron	The Decameron: Limited Series	15600000	7.35	2100000	2	false	
+2024-08-04	TV (English)	9	Vikings: Valhalla	Vikings: Valhalla: Season 3	12400000	6.4	1900000	4	false	
+2024-08-04	TV (English)	10	Supacell	Supacell: Season 1	7500000	5.2	1400000	6	false	
+2024-08-04	TV (Non-English)	1	Elite	Elite: Season 8	25400000	6.4333	3900000	2	false	
+2024-08-04	TV (Non-English)	2	Master of the House	Master of the House: Season 1	12300000	5.9333	2100000	3	false	
+2024-08-04	TV (Non-English)	3	Tokyo Swindlers	Tokyo Swindlers: Season 1	11900000	6.15	1900000	2	false	
+2024-08-04	TV (Non-English)	4	Miss Night and Day	Miss Night and Day: Limited Series	23400000	0	1800000	7	true	"[{""episodesLaunched"":16,""countryList"":[""MD"",""TN"",""MK"",""NA"",""CF"",""UG"",""LV"",""BH"",""ET"",""SN"",""YT"",""GW"",""GN"",""SA"",""GA"",""LS"",""CD"",""TG"",""AD"",""UA"",""RU"",""CZ"",""PS"",""GY"",""NL"",""PK"",""CA"",""SK"",""RS"",""SX"",""PM"",""GI"",""FR"",""TD"",""BW"",""GH"",""DM"",""MC"",""BA"",""AG"",""MH"",""HR"",""SO"",""FM"",""BF"",""BG"",""MG"",""EG"",""CG"",""GF"",""VC"",""GM"",""BQ"",""NE"",""IL"",""MT"",""MQ"",""BY"",""EE"",""BB"",""LI"",""KY"",""GG"",""ES"",""JM"",""MF"",""LR"",""GR"",""MS"",""SD"",""GD"",""KM"",""IT"",""CH"",""CI"",""PT"",""BL"",""MW"",""CY"",""YE"",""SI"",""CM"",""ER"",""PW"",""AS"",""IS"",""DK"",""AZ"",""IR"",""TM"",""VG"",""NO"",""ST"",""EH"",""ME"",""SZ"",""IE"",""JE"",""GP"",""CV"",""IO"",""QA"",""OM"",""SH"",""SL"",""ML"",""AM"",""HM"",""RW"",""LU"",""SC"",""FI"",""DZ"",""GB"",""CW"",""FK"",""FO"",""LB"",""PL"",""AF"",""DJ"",""BI"",""SS"",""SR"",""US"",""GL"",""MP"",""MZ"",""NG"",""HU"",""TT"",""AE"",""KZ"",""IM"",""ZM"",""BJ"",""AO"",""HT"",""AL"",""AW"",""BM"",""GU"",""GE"",""DE"",""SM"",""KG"",""VI"",""TJ"",""KW"",""SE"",""VA"",""LT"",""AQ"",""UZ"",""RE"",""ZW"",""ZA"",""LC"",""MA"",""IQ"",""TZ"",""TR"",""LY"",""KE"",""MR"",""JO"",""RO"",""MU"",""KN"",""BE"",""AT"",""BS"",""AI"",""TC"",""GS""]},{""episodesLaunched"":15,""countryList"":[""TH"",""SG"",""MO"",""NF"",""PH"",""VN"",""NR"",""MN"",""VU"",""MM"",""NC"",""NZ"",""LK"",""BD"",""NU"",""NP"",""KI"",""ID"",""KH"",""PN"",""MY"",""CX"",""PG"",""CC"",""TK"",""TL"",""BN"",""PF"",""AU"",""MV"",""CK"",""TO"",""FJ"",""HK"",""SB"",""BT"",""TW"",""JP"",""WS"",""TV"",""WF"",""LA"",""KR"",""UM"",""IN""]},{""episodesLaunched"":8,""countryList"":[""VE"",""BO"",""AR"",""CR"",""GT"",""SV"",""CU"",""HN"",""CL"",""PR"",""PE"",""MX"",""DO"",""PY"",""BR"",""EC"",""NI"",""GQ"",""BZ"",""CO"",""PA"",""UY""]}]"
+2024-08-04	TV (Non-English)	5	Desperate Lies	Desperate Lies: Season 1	22500000	13.55	1700000	5	false	
+2024-08-04	TV (Non-English)	6	Another Self	Another Self: Season 2	9600000	7.3167	1300000	4	false	
+2024-08-04	TV (Non-English)	7	Sweet Home	Sweet Home: Season 3	8600000	7.0833	1200000	3	false	
+2024-08-04	TV (Non-English)	8	Kleo	Kleo: Season 2	5100000	4.85	1100000	1	false	
+2024-08-04	TV (Non-English)	9	The Yara Gambirasio Case: Beyond Reasonable Doubt	The Yara Gambirasio Case: Beyond Reasonable Doubt: Limited Series	3500000	4.3	800000	3	false	
+2024-08-04	TV (Non-English)	10	Love is Blind: Mexico	Love is Blind: Mexico: Season 1	3200000	3.9333	800000	1	false	
 2024-07-28	Films (English)	1	Find Me Falling	N/A	25200000	1.5667	16100000	2	false	
 2024-07-28	Films (English)	2	Ghostbusters: Frozen Empire	N/A	19600000	1.9167	10200000	1	false	
 2024-07-28	Films (English)	3	Trolls Band Together	N/A	12400000	1.5333	8100000	2	false	
