@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-08-11	Films (English)	1	Saving Bikini Bottom: The Sandy Cheeks Movie	N/A	19500000	1.45	13400000	2	false	
+2024-08-11	Films (English)	2	Ferdinand	N/A	13300000	1.8333	7300000	1	false	
+2024-08-11	Films (English)	3	Kingsman: The Secret Service	N/A	15000000	2.1667	6900000	1	false	
+2024-08-11	Films (English)	4	Jack Reacher: Never Go Back	N/A	12700000	1.9667	6500000	5	false	
+2024-08-11	Films (English)	5	Law Abiding Citizen	N/A	10500000	1.8167	5800000	1	false	
+2024-08-11	Films (English)	6	Kingsman: The Golden Circle	N/A	11400000	2.3667	4800000	1	false	
+2024-08-11	Films (English)	7	The Bad Guys	N/A	7700000	1.6667	4600000	4	false	
+2024-08-11	Films (English)	8	Jack Reacher	N/A	9700000	2.1667	4500000	3	false	
+2024-08-11	Films (English)	9	Trolls Band Together	N/A	6400000	1.5333	4200000	4	false	
+2024-08-11	Films (English)	10	PAW Patrol: The Mighty Movie	N/A	6100000	1.4667	4200000	2	false	
+2024-08-11	Films (Non-English)	1	Mission: Cross	N/A	7800000	1.75	4500000	1	false	
+2024-08-11	Films (Non-English)	2	Borderless Fog	N/A	7600000	1.8667	4100000	2	false	
+2024-08-11	Films (Non-English)	3	Phir Aayi Hasseen Dillruba	N/A	8100000	2.2167	3700000	1	false	
+2024-08-11	Films (Non-English)	4	Lolo and the Kid	N/A	5600000	1.6167	3500000	1	false	
+2024-08-11	Films (Non-English)	5	Maharaja	N/A	4200000	2.35	1800000	5	false	
+2024-08-11	Films (Non-English)	6	Kung Fu Hustle	N/A	2900000	1.65	1800000	3	false	
+2024-08-11	Films (Non-English)	7	Indian 2	N/A	4800000	2.7667	1700000	1	false	
+2024-08-11	Films (Non-English)	8	Under Paris	N/A	2700000	1.7333	1600000	10	false	
+2024-08-11	Films (Non-English)	9	Non Negotiable	N/A	2200000	1.45	1500000	3	false	
+2024-08-11	Films (Non-English)	10	Savi	N/A	3100000	2.05	1500000	3	false	
+2024-08-11	TV (English)	1	A Good Girl's Guide to Murder	A Good Girl's Guide to Murder: Season 1	38900000	4.6167	8400000	2	false	
+2024-08-11	TV (English)	2	The Umbrella Academy	The Umbrella Academy: Season 4	47500000	5.6667	8400000	1	false	
+2024-08-11	TV (English)	3	Simone Biles Rising	Simone Biles Rising: Season 1	6500000	1.75	3700000	4	false	
+2024-08-11	TV (English)	4	Love Is Blind: UK	Love Is Blind: UK: Season 1	14400000	4.0167	3600000	1	false	
+2024-08-11	TV (English)	5	Gabby's Dollhouse	Gabby's Dollhouse: Season 10	7300000	2.4333	3000000	1	false	
+2024-08-11	TV (English)	6	Joe Rogan: Burn the Boats	N/A	3200000	1.1167	2900000	2	false	
+2024-08-11	TV (English)	7	Unsolved Mysteries	Unsolved Mysteries: Volume 4	10600000	3.9	2700000	2	false	
+2024-08-11	TV (English)	8	Cobra Kai	Cobra Kai: Season 6	7800000	3.2	2400000	4	false	
+2024-08-11	TV (English)	9	Too Hot to Handle	Too Hot to Handle: Season 6	14100000	9.1833	1500000	4	false	
+2024-08-11	TV (English)	10	Vikings: Valhalla	Vikings: Valhalla: Season 3	8200000	6.4	1300000	5	false	
+2024-08-11	TV (Non-English)	1	Elite	Elite: Season 8	12500000	6.4333	1900000	3	false	
+2024-08-11	TV (Non-English)	2	Miss Night and Day	Miss Night and Day: Limited Series	22300000	0	1500000	8	true	"[{""episodesLaunched"":16,""countryList"":[""FK"",""NC"",""ER"",""CH"",""YT"",""PN"",""IS"",""BE"",""PH"",""BW"",""KI"",""MG"",""LB"",""BI"",""CI"",""FM"",""US"",""SZ"",""BB"",""GL"",""HT"",""LV"",""LY"",""KG"",""CX"",""PG"",""AT"",""SH"",""LT"",""UA"",""AI"",""MN"",""LR"",""UM"",""AE"",""YE"",""MO"",""SN"",""PM"",""KW"",""GY"",""MM"",""CV"",""OM"",""SE"",""SG"",""HK"",""TC"",""LK"",""TR"",""BD"",""HU"",""CF"",""GR"",""AF"",""CC"",""GP"",""AS"",""JP"",""ES"",""MU"",""AQ"",""NE"",""TO"",""FI"",""HR"",""SX"",""VG"",""JE"",""PF"",""CA"",""NG"",""VI"",""DK"",""MV"",""MT"",""KN"",""ZM"",""TL"",""GB"",""CW"",""PL"",""ML"",""BT"",""EG"",""MW"",""RS"",""VU"",""SA"",""AZ"",""DE"",""GH"",""GF"",""MC"",""IT"",""SK"",""SI"",""NF"",""BF"",""PT"",""SB"",""CM"",""JM"",""TH"",""CG"",""GA"",""TT"",""FO"",""MZ"",""BQ"",""KY"",""PS"",""BJ"",""HM"",""MY"",""MD"",""IO"",""BH"",""IN"",""ZW"",""BY"",""KH"",""IE"",""GI"",""SR"",""NU"",""TV"",""AW"",""TN"",""DZ"",""AG"",""JO"",""EE"",""TG"",""BM"",""BA"",""RO"",""RW"",""GE"",""MQ"",""AL"",""LI"",""LC"",""TM"",""IQ"",""CY"",""VN"",""BL"",""ME"",""MK"",""SL"",""IM"",""TK"",""VC"",""QA"",""WS"",""BS"",""VA"",""LS"",""MP"",""DM"",""ST"",""AO"",""EH"",""IR"",""GG"",""CZ"",""MF"",""SO"",""BG"",""FR"",""TW"",""NP"",""KZ"",""DJ"",""LA"",""SD"",""IL"",""PK"",""LU"",""TD"",""NR"",""SS"",""NO"",""FJ"",""GS"",""TJ"",""RU"",""SC"",""WF"",""AD"",""MH"",""MR"",""AM"",""CK"",""PW"",""GU"",""BN"",""MA"",""ET"",""NL"",""TZ"",""ZA"",""GD"",""KM"",""CD"",""GM"",""GW"",""KR"",""ID"",""GN"",""UG"",""AU"",""KE"",""MS"",""SM"",""RE"",""NZ"",""UZ"",""NA""]},{""episodesLaunched"":10,""countryList"":[""CU"",""GT"",""PA"",""UY"",""AR"",""DO"",""GQ"",""BO"",""CR"",""BR"",""BZ"",""PE"",""PY"",""HN"",""MX"",""CL"",""NI"",""SV"",""EC"",""CO"",""PR"",""VE""]}]"
+2024-08-11	TV (Non-English)	3	Tokyo Swindlers	Tokyo Swindlers: Season 1	7800000	6.15	1300000	3	false	
+2024-08-11	TV (Non-English)	4	The Influencer	The Influencer: Season 1	5500000	4.35	1300000	1	false	
+2024-08-11	TV (Non-English)	5	Shahmaran	Shahmaran: Season 2	5600000	4.5167	1200000	1	false	
+2024-08-11	TV (Non-English)	6	Romance in the House	Romance in the House: Limited Series	2100000	0	1200000	1	true	"[{""episodesLaunched"":1,""countryList"":[""NC"",""CC"",""PN"",""WF"",""PH"",""ID"",""MN"",""BN"",""KH"",""VU"",""MO"",""NF"",""PF"",""KI"",""AU"",""MV"",""FJ"",""LA"",""NZ"",""NR"",""UM"",""KR"",""MM"",""NP"",""MY"",""TL"",""WS"",""TV"",""BD"",""CX"",""BT"",""SB"",""TO"",""CK"",""TK"",""TW"",""TH"",""NU"",""HK"",""JP"",""LK"",""VN"",""SG"",""PG"",""IN""]},{""episodesLaunched"":2,""countryList"":[""KN"",""BQ"",""EC"",""RW"",""ME"",""GE"",""EH"",""DM"",""DO"",""BS"",""HN"",""UZ"",""AR"",""PS"",""TC"",""IQ"",""GB"",""MU"",""FK"",""SX"",""FO"",""MW"",""SV"",""JO"",""GH"",""MX"",""MZ"",""FI"",""UY"",""SL"",""HM"",""PM"",""IE"",""LI"",""NO"",""UA"",""CY"",""GW"",""ES"",""ML"",""BE"",""IL"",""LT"",""QA"",""SE"",""UG"",""BF"",""KE"",""IT"",""NE"",""MP"",""LR"",""SC"",""VE"",""MH"",""GL"",""TR"",""HT"",""GF"",""FM"",""BW"",""BG"",""VI"",""LU"",""IM"",""AL"",""EG"",""LS"",""PT"",""US"",""YT"",""SS"",""PE"",""SI"",""MG"",""MQ"",""SZ"",""IS"",""OM"",""BA"",""BZ"",""MS"",""SM"",""EE"",""JE"",""MF"",""BL"",""GA"",""AT"",""PR"",""ER"",""CG"",""GT"",""RO"",""DE"",""JM"",""AF"",""CV"",""CF"",""GQ"",""CZ"",""AQ"",""VA"",""RU"",""GU"",""GM"",""CD"",""AG"",""LV"",""VG"",""GN"",""AO"",""MR"",""AS"",""CR"",""GI"",""NL"",""TD"",""ZA"",""CU"",""BR"",""SD"",""AW"",""BO"",""BY"",""MT"",""TT"",""KY"",""TM"",""CL"",""SK"",""BJ"",""CH"",""GP"",""PL"",""PA"",""CM"",""ZW"",""BI"",""ST"",""LY"",""TG"",""GS"",""GR"",""TN"",""DZ"",""NA"",""BB"",""CW"",""GY"",""GD"",""AM"",""AE"",""KW"",""MA"",""IR"",""MK"",""MC"",""LB"",""LC"",""HU"",""VC"",""SH"",""NI"",""NG"",""SN"",""AI"",""BM"",""SR"",""SO"",""MD"",""FR"",""RE"",""KZ"",""TZ"",""AD"",""SA"",""PK"",""ET"",""HR"",""GG"",""BH"",""CO"",""CA"",""PW"",""DJ"",""IO"",""RS"",""TJ"",""ZM"",""AZ"",""DK"",""KM"",""PY"",""CI"",""YE"",""KG""]}]"
+2024-08-11	TV (Non-English)	7	Love is Blind: Mexico	Love is Blind: Mexico: Season 1	8800000	7.3167	1200000	2	false	
+2024-08-11	TV (Non-English)	8	Desperate Lies	Desperate Lies: Season 1	16200000	13.55	1200000	6	false	
+2024-08-11	TV (Non-English)	9	Rising Impact	Rising Impact: Season 2	6500000	5.7333	1100000	1	false	
+2024-08-11	TV (Non-English)	10	Another Self	Another Self: Season 2	6800000	7.3167	900000	5	false	
 2024-08-04	Films (English)	1	Saving Bikini Bottom: The Sandy Cheeks Movie	N/A	18500000	1.45	12800000	1	false	
 2024-08-04	Films (English)	2	PAW Patrol: The Mighty Movie	N/A	10300000	1.4667	7000000	1	false	
 2024-08-04	Films (English)	3	Don't Breathe 2	N/A	9700000	1.6333	5900000	2	false	
