@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-08-25	Films (English)	1	The Union	N/A	73800000	1.8167	40600000	2	false	
+2024-08-25	Films (English)	2	Incoming	N/A	15000000	1.5167	9900000	1	false	
+2024-08-25	Films (English)	3	Untold: The Murder of Air McNair	N/A	8200000	0.9833	8300000	1	false	
+2024-08-25	Films (English)	4	Migration	N/A	11500000	1.3833	8300000	1	false	
+2024-08-25	Films (English)	5	Kingsman: The Secret Service	N/A	10900000	2.1667	5000000	3	false	
+2024-08-25	Films (English)	6	Tòkunbọ̀	N/A	9300000	1.8833	4900000	1	false	
+2024-08-25	Films (English)	7	The Emoji Movie	N/A	7000000	1.45	4800000	2	false	
+2024-08-25	Films (English)	8	Lucy	N/A	6500000	1.4833	4400000	1	false	
+2024-08-25	Films (English)	9	Night School	N/A	7200000	1.85	3900000	2	false	
+2024-08-25	Films (English)	10	Kingsman: The Golden Circle	N/A	9100000	2.3667	3800000	3	false	
+2024-08-25	Films (Non-English)	1	I Can't Live Without You	N/A	8100000	1.6333	5000000	2	false	
+2024-08-25	Films (Non-English)	2	Kalki 2898 AD (Hindi)	N/A	13100000	2.9333	4500000	1	false	
+2024-08-25	Films (Non-English)	3	Nice Girls	N/A	6600000	1.5333	4300000	1	false	
+2024-08-25	Films (Non-English)	4	Mission: Cross	N/A	4500000	1.75	2600000	3	false	
+2024-08-25	Films (Non-English)	5	Lolo and the Kid	N/A	3600000	1.6167	2200000	3	false	
+2024-08-25	Films (Non-English)	6	Phir Aayi Hasseen Dillruba	N/A	3300000	2.2167	1500000	3	false	
+2024-08-25	Films (Non-English)	7	Under Paris	N/A	2000000	1.7333	1200000	12	false	
+2024-08-25	Films (Non-English)	8	Maharaja	N/A	2700000	2.35	1100000	7	false	
+2024-08-25	Films (Non-English)	9	Indian 2	N/A	3000000	2.7667	1100000	3	false	
+2024-08-25	Films (Non-English)	10	Pretty Guardian Sailor Moon Cosmos The Movie	Pretty Guardian Sailor Moon Cosmos The Movie: 前編・後編	2200000	2.7	800000	1	false	
+2024-08-25	TV (English)	1	Emily in Paris	Emily in Paris: Season 4	42100000	2.8333	14900000	2	false	
+2024-08-25	TV (English)	2	American Murder: Laci Peterson	American Murder: Laci Peterson: Season 1	28200000	2.6667	10600000	2	false	
+2024-08-25	TV (English)	3	Wyatt Earp and The Cowboy War	Wyatt Earp and The Cowboy War: Season 1	15200000	3.8667	3900000	1	false	
+2024-08-25	TV (English)	4	The Umbrella Academy	The Umbrella Academy: Season 4	20100000	5.6667	3500000	3	false	
+2024-08-25	TV (English)	5	Love Is Blind: UK	Love Is Blind: UK: Season 1	28300000	10.7833	2600000	3	false	
+2024-08-25	TV (English)	6	Dark Winds	Dark Winds: Season 1	10000000	4.35	2300000	1	false	
+2024-08-25	TV (English)	7	Emily in Paris	Emily in Paris: Season 1	10400000	4.8167	2200000	6	false	
+2024-08-25	TV (English)	8	Emily in Paris	Emily in Paris: Season 3	11600000	5.5	2100000	7	false	
+2024-08-25	TV (English)	9	Lost	Lost: Season 1	36800000	17.85	2100000	1	false	
+2024-08-25	TV (English)	10	Matt Rife: Lucid - A Crowd Work Special	N/A	1700000	0.9	1900000	2	false	
+2024-08-25	TV (Non-English)	1	The Accident	The Accident: Season 1	76600000	7.3667	10400000	1	false	
+2024-08-25	TV (Non-English)	2	Love Next Door	Love Next Door: Limited Series	14800000	4.9167	3000000	2	false	
+2024-08-25	TV (Non-English)	3	Back to 15	Back to 15: Season 3	8400000	3.9667	2100000	1	false	
+2024-08-25	TV (Non-English)	4	The Frog	The Frog: Limited Series	15200000	7.7333	2000000	1	false	
+2024-08-25	TV (Non-English)	5	Romance in the House	Romance in the House: Limited Series	10500000	0	1800000	3	true	"[{""episodesLaunched"":5,""countryList"":[""ID"",""KR"",""CC"",""TV"",""VN"",""BD"",""MY"",""TL"",""TK"",""MO"",""AU"",""KI"",""NU"",""PG"",""WF"",""VU"",""LA"",""LK"",""PN"",""UM"",""BT"",""NZ"",""NP"",""CK"",""MM"",""SB"",""MV"",""TW"",""WS"",""PF"",""FJ"",""PH"",""MN"",""BN"",""TO"",""NR"",""SG"",""KH"",""NC"",""HK"",""IN"",""CX"",""TH"",""NF"",""JP""]},{""episodesLaunched"":6,""countryList"":[""CG"",""MW"",""SL"",""MU"",""CZ"",""CY"",""SN"",""IQ"",""BS"",""HR"",""LB"",""CR"",""AZ"",""BG"",""LS"",""HM"",""NI"",""MF"",""VI"",""KN"",""LR"",""VG"",""CA"",""BH"",""CF"",""NG"",""US"",""SO"",""AF"",""PK"",""TG"",""GM"",""BY"",""IT"",""IE"",""LC"",""HN"",""MZ"",""AE"",""PL"",""MH"",""PA"",""SD"",""CM"",""AO"",""GN"",""DM"",""MP"",""SE"",""DE"",""GB"",""PY"",""LV"",""GW"",""MX"",""ET"",""BI"",""QA"",""GT"",""IL"",""UG"",""GR"",""TC"",""RO"",""NA"",""BB"",""PW"",""LI"",""UY"",""ZA"",""BJ"",""RE"",""CI"",""UA"",""BR"",""PS"",""RW"",""CH"",""ES"",""YE"",""GG"",""MG"",""CW"",""KY"",""SK"",""PE"",""GD"",""KZ"",""IM"",""BO"",""AM"",""IS"",""NE"",""AL"",""KG"",""VE"",""IR"",""TD"",""JM"",""SV"",""MR"",""PR"",""IO"",""UZ"",""TN"",""AI"",""NO"",""BM"",""SM"",""FM"",""DK"",""KW"",""HU"",""YT"",""BW"",""ZW"",""AQ"",""GI"",""SR"",""LY"",""GY"",""NL"",""AT"",""TM"",""TJ"",""TT"",""MS"",""SZ"",""GS"",""JE"",""CO"",""TZ"",""SA"",""RU"",""ME"",""HT"",""GL"",""BA"",""ZM"",""GQ"",""GE"",""MK"",""AD"",""RS"",""LT"",""VA"",""MT"",""FR"",""SH"",""KM"",""GA"",""MQ"",""BZ"",""AG"",""OM"",""KE"",""BF"",""GF"",""DJ"",""BE"",""BL"",""CV"",""AR"",""PT"",""MC"",""SC"",""GP"",""ER"",""FI"",""MD"",""CU"",""EG"",""ML"",""CL"",""ST"",""MA"",""FO"",""BQ"",""SS"",""GH"",""VC"",""AW"",""JO"",""SI"",""LU"",""PM"",""EH"",""SX"",""GU"",""TR"",""EE"",""FK"",""CD"",""DO"",""EC"",""AS"",""DZ""]}]"
+2024-08-25	TV (Non-English)	6	Terror Tuesday: Extreme	Terror Tuesday: Extreme: Season 1	9500000	5.6833	1700000	1	false	
+2024-08-25	TV (Non-English)	7	KENGAN ASHURA	KENGAN ASHURA: Season 2	12000000	11.8167	1000000	4	false	
+2024-08-25	TV (Non-English)	8	I am Solo	I am Solo: Part 21 - 22	1600000	1.7	900000	1	false	
+2024-08-25	TV (Non-English)	9	Tokyo Swindlers	Tokyo Swindlers: Season 1	5500000	6.15	900000	5	false	
+2024-08-25	TV (Non-English)	10	Elite	Elite: Season 8	5100000	6.4333	800000	5	false	
 2024-08-18	Films (English)	1	The Union	N/A	60100000	1.8167	33100000	1	false	
 2024-08-18	Films (English)	2	Kingsman: The Secret Service	N/A	33000000	2.1667	15200000	2	false	
 2024-08-18	Films (English)	3	Kingsman: The Golden Circle	N/A	22800000	2.3667	9600000	2	false	
