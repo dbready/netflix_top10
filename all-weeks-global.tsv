@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-09-01	Films (English)	1	Incoming	N/A	25600000	1.5167	16900000	2	false	
+2024-09-01	Films (English)	2	The Union	N/A	30600000	1.8167	16800000	3	false	
+2024-09-01	Films (English)	3	The Deliverance	N/A	27300000	1.8833	14500000	1	false	
+2024-09-01	Films (English)	4	Tòkunbọ̀	N/A	9900000	1.8833	5300000	2	false	
+2024-09-01	Films (English)	5	Migration	N/A	7200000	1.3833	5200000	2	false	
+2024-09-01	Films (English)	6	Untold: The Murder of Air McNair	N/A	3900000	0.9833	4000000	2	false	
+2024-09-01	Films (English)	7	Untold: Sign Stealer	N/A	5200000	1.4667	3500000	1	false	
+2024-09-01	Films (English)	8	The Emoji Movie	N/A	4200000	1.45	2900000	3	false	
+2024-09-01	Films (English)	9	How to Lose a Guy in 10 Days	N/A	5200000	1.9333	2700000	1	false	
+2024-09-01	Films (English)	10	The Super Mario Bros. Movie	N/A	3600000	1.5333	2300000	20	false	
+2024-09-01	Films (Non-English)	1	Kalki 2898 AD (Hindi)	N/A	7500000	2.9333	2600000	2	false	
+2024-09-01	Films (Non-English)	2	Untamed Royals	N/A	4000000	1.6667	2400000	1	false	
+2024-09-01	Films (Non-English)	3	(Un)lucky Sisters	N/A	2500000	1.3833	1800000	1	false	
+2024-09-01	Films (Non-English)	4	Nice Girls	N/A	2600000	1.5333	1700000	2	false	
+2024-09-01	Films (Non-English)	5	I Can't Live Without You	N/A	2600000	1.6333	1600000	3	false	
+2024-09-01	Films (Non-English)	6	Sheriff: Narko Integriti	N/A	2300000	2.2333	1000000	1	false	
+2024-09-01	Films (Non-English)	7	Under Paris	N/A	1700000	1.7333	1000000	13	false	
+2024-09-01	Films (Non-English)	8	Mission: Cross	N/A	1700000	1.75	1000000	4	false	
+2024-09-01	Films (Non-English)	9	The Wages of Fear	N/A	1500000	1.7667	800000	7	false	
+2024-09-01	Films (Non-English)	10	Phir Aayi Hasseen Dillruba	N/A	1800000	2.2167	800000	4	false	
+2024-09-01	TV (English)	1	Worst Ex Ever	Worst Ex Ever: Season 1	32300000	3.8333	8400000	1	false	
+2024-09-01	TV (English)	2	Emily in Paris	Emily in Paris: Season 4	18500000	2.8333	6500000	3	false	
+2024-09-01	TV (English)	3	American Murder: Laci Peterson	American Murder: Laci Peterson: Season 1	10900000	2.6667	4100000	3	false	
+2024-09-01	TV (English)	4	KAOS	N/A	22800000	6.6667	3400000	1	false	
+2024-09-01	TV (English)	5	Adam Sandler: Love You	N/A	2900000	1.2333	2400000	1	false	
+2024-09-01	TV (English)	6	Mermaid Magic	Mermaid Magic: Season 1	9900000	4.3167	2300000	1	false	
+2024-09-01	TV (English)	7	Wyatt Earp and The Cowboy War	Wyatt Earp and The Cowboy War: Season 1	8500000	3.8667	2200000	2	false	
+2024-09-01	TV (English)	8	The Umbrella Academy	The Umbrella Academy: Season 4	11900000	5.6667	2100000	4	false	
+2024-09-01	TV (English)	9	Love Is Blind: UK	Love Is Blind: UK: Season 1	23200000	11.75	2000000	4	false	
+2024-09-01	TV (English)	10	Dark Winds	Dark Winds: Season 1	6900000	4.35	1600000	2	false	
+2024-09-01	TV (Non-English)	1	The Accident	The Accident: Season 1	87900000	7.3667	11900000	2	false	
+2024-09-01	TV (Non-English)	2	IC 814: The Kandahar Hijack	IC 814: The Kandahar Hijack: Limited Series	18300000	4.4333	4100000	1	false	
+2024-09-01	TV (Non-English)	3	Breathless	Breathless: Season 1	24400000	6.3833	3800000	1	false	
+2024-09-01	TV (Non-English)	4	The Frog	The Frog: Limited Series	29500000	7.7333	3800000	2	false	
+2024-09-01	TV (Non-English)	5	Love Next Door	Love Next Door: Limited Series	22200000	0	3700000	3	true	"[{""episodesLaunched"":2,""countryList"":[""CO"",""BO"",""GQ"",""PA"",""UY"",""PR"",""DO"",""BR"",""NI"",""AR"",""PE"",""EC"",""PY"",""SV"",""MX"",""CL"",""GT"",""VE"",""CU"",""BZ"",""CR"",""HN""]},{""episodesLaunched"":6,""countryList"":[""WS"",""NO"",""CH"",""ZA"",""GB"",""TO"",""SI"",""MY"",""VI"",""AO"",""AG"",""LI"",""KH"",""BH"",""MM"",""MR"",""DZ"",""NC"",""ES"",""BT"",""LV"",""KW"",""GR"",""ZM"",""FI"",""SZ"",""UA"",""CZ"",""TC"",""SB"",""SH"",""TT"",""JE"",""GH"",""HT"",""AL"",""LB"",""PH"",""KZ"",""MF"",""IN"",""MP"",""GE"",""CW"",""CY"",""IO"",""FR"",""IQ"",""BF"",""UG"",""NF"",""TD"",""YT"",""TG"",""PF"",""EG"",""IL"",""FO"",""ME"",""CM"",""NE"",""HK"",""YE"",""ID"",""LS"",""NA"",""MD"",""MV"",""VA"",""RE"",""MU"",""GA"",""HR"",""UZ"",""CD"",""MQ"",""AM"",""SO"",""JO"",""DK"",""SR"",""QA"",""MC"",""LK"",""PM"",""MN"",""PS"",""AS"",""ST"",""MA"",""AE"",""SK"",""MO"",""LT"",""GS"",""ER"",""BL"",""SX"",""BD"",""GU"",""DM"",""US"",""CI"",""PK"",""CK"",""VC"",""CF"",""CG"",""CV"",""IR"",""GG"",""BW"",""AF"",""LU"",""MT"",""AD"",""FJ"",""MH"",""BQ"",""TH"",""VU"",""BI"",""RS"",""MZ"",""GW"",""MS"",""EH"",""TM"",""GI"",""TR"",""BM"",""BJ"",""CA"",""TV"",""CC"",""SE"",""VN"",""MW"",""RU"",""SD"",""GM"",""PL"",""LA"",""TN"",""HM"",""MG"",""KM"",""SS"",""NU"",""KY"",""MK"",""NZ"",""BA"",""RW"",""AU"",""RO"",""OM"",""CX"",""AW"",""SG"",""HU"",""NR"",""IM"",""NP"",""SN"",""BE"",""KR"",""ML"",""BY"",""BS"",""SL"",""NG"",""WF"",""BB"",""AQ"",""GY"",""LR"",""KN"",""PG"",""DJ"",""PN"",""ET"",""AZ"",""SA"",""LY"",""JP"",""BN"",""EE"",""SM"",""IS"",""VG"",""BG"",""JM"",""PW"",""KI"",""ZW"",""TW"",""UM"",""AI"",""TK"",""NL"",""KE"",""TL"",""FM"",""KG"",""IT"",""TJ"",""AT"",""GD"",""PT"",""SC"",""GP"",""GL"",""GN"",""GF"",""LC"",""TZ"",""FK"",""IE"",""DE""]}]"
+2024-09-01	TV (Non-English)	6	Terminator Zero	Terminator Zero: Season 1	6400000	3.7833	1700000	1	false	
+2024-09-01	TV (Non-English)	7	Baby Fever	Baby Fever: Season 1	5100000	3.0833	1700000	1	false	
+2024-09-01	TV (Non-English)	8	Romance in the House	Romance in the House: Limited Series	12200000	0	1500000	4	true	"[{""episodesLaunched"":8,""countryList"":[""SZ"",""CF"",""PL"",""RU"",""EG"",""FK"",""LC"",""BM"",""MX"",""HU"",""TZ"",""DO"",""HM"",""JM"",""CV"",""PA"",""SL"",""MZ"",""ZW"",""GY"",""AG"",""SE"",""BZ"",""SN"",""RS"",""MQ"",""TG"",""JE"",""UG"",""AQ"",""FM"",""PM"",""CR"",""IE"",""TR"",""CL"",""MC"",""AF"",""SI"",""DJ"",""GT"",""MS"",""BQ"",""KN"",""JO"",""BO"",""MH"",""AE"",""RO"",""GM"",""NL"",""GU"",""AL"",""VI"",""SS"",""LB"",""CZ"",""DK"",""MR"",""EH"",""AS"",""SM"",""LV"",""KG"",""BF"",""SD"",""NE"",""PE"",""AI"",""TD"",""FR"",""YT"",""MT"",""US"",""AO"",""PT"",""LS"",""MG"",""SV"",""UA"",""HR"",""MF"",""VE"",""SK"",""KW"",""NI"",""FO"",""YE"",""BY"",""NO"",""BW"",""BJ"",""GA"",""BG"",""GF"",""GR"",""AR"",""BE"",""AM"",""AW"",""RW"",""ST"",""RE"",""SH"",""GB"",""IT"",""CD"",""FI"",""ZM"",""TT"",""GW"",""SR"",""LY"",""UY"",""CO"",""AD"",""NA"",""AZ"",""NG"",""SO"",""MP"",""IO"",""MU"",""ES"",""OM"",""TC"",""LU"",""TN"",""ER"",""ET"",""CI"",""KY"",""DM"",""ME"",""LT"",""IQ"",""HT"",""GN"",""IR"",""BH"",""KE"",""GE"",""ZA"",""BB"",""TJ"",""QA"",""GS"",""TM"",""IS"",""CW"",""MA"",""ML"",""DZ"",""PR"",""UZ"",""LI"",""CA"",""GG"",""GQ"",""VA"",""AT"",""EC"",""HN"",""BA"",""BI"",""MK"",""VC"",""IL"",""CU"",""SA"",""PK"",""GI"",""DE"",""KM"",""BL"",""CY"",""PY"",""PW"",""BR"",""CH"",""KZ"",""PS"",""IM"",""BS"",""SX"",""GP"",""GL"",""VG"",""CG"",""LR"",""MD"",""MW"",""GH"",""SC"",""CM"",""EE"",""GD""]},{""episodesLaunched"":7,""countryList"":[""CC"",""AU"",""KI"",""ID"",""TL"",""UM"",""MO"",""NP"",""NF"",""BD"",""MY"",""CK"",""LK"",""MM"",""PG"",""NC"",""TO"",""PN"",""NU"",""BT"",""IN"",""JP"",""CX"",""PH"",""PF"",""KR"",""MV"",""WS"",""NR"",""BN"",""VN"",""LA"",""WF"",""SG"",""SB"",""VU"",""MN"",""HK"",""TH"",""TV"",""NZ"",""TW"",""KH"",""FJ"",""TK""]}]"
+2024-09-01	TV (Non-English)	9	Baby Fever	Baby Fever: Season 2	4400000	3.1167	1400000	1	false	
+2024-09-01	TV (Non-English)	10	Back to 15	Back to 15: Season 3	5100000	3.9667	1300000	2	false	
 2024-08-25	Films (English)	1	The Union	N/A	73800000	1.8167	40600000	2	false	
 2024-08-25	Films (English)	2	Incoming	N/A	15000000	1.5167	9900000	1	false	
 2024-08-25	Films (English)	3	Untold: The Murder of Air McNair	N/A	8200000	0.9833	8300000	1	false	
@@ -36,9 +76,9 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-08-25	TV (Non-English)	5	Romance in the House	Romance in the House: Limited Series	10500000	0	1800000	3	true	"[{""episodesLaunched"":5,""countryList"":[""ID"",""KR"",""CC"",""TV"",""VN"",""BD"",""MY"",""TL"",""TK"",""MO"",""AU"",""KI"",""NU"",""PG"",""WF"",""VU"",""LA"",""LK"",""PN"",""UM"",""BT"",""NZ"",""NP"",""CK"",""MM"",""SB"",""MV"",""TW"",""WS"",""PF"",""FJ"",""PH"",""MN"",""BN"",""TO"",""NR"",""SG"",""KH"",""NC"",""HK"",""IN"",""CX"",""TH"",""NF"",""JP""]},{""episodesLaunched"":6,""countryList"":[""CG"",""MW"",""SL"",""MU"",""CZ"",""CY"",""SN"",""IQ"",""BS"",""HR"",""LB"",""CR"",""AZ"",""BG"",""LS"",""HM"",""NI"",""MF"",""VI"",""KN"",""LR"",""VG"",""CA"",""BH"",""CF"",""NG"",""US"",""SO"",""AF"",""PK"",""TG"",""GM"",""BY"",""IT"",""IE"",""LC"",""HN"",""MZ"",""AE"",""PL"",""MH"",""PA"",""SD"",""CM"",""AO"",""GN"",""DM"",""MP"",""SE"",""DE"",""GB"",""PY"",""LV"",""GW"",""MX"",""ET"",""BI"",""QA"",""GT"",""IL"",""UG"",""GR"",""TC"",""RO"",""NA"",""BB"",""PW"",""LI"",""UY"",""ZA"",""BJ"",""RE"",""CI"",""UA"",""BR"",""PS"",""RW"",""CH"",""ES"",""YE"",""GG"",""MG"",""CW"",""KY"",""SK"",""PE"",""GD"",""KZ"",""IM"",""BO"",""AM"",""IS"",""NE"",""AL"",""KG"",""VE"",""IR"",""TD"",""JM"",""SV"",""MR"",""PR"",""IO"",""UZ"",""TN"",""AI"",""NO"",""BM"",""SM"",""FM"",""DK"",""KW"",""HU"",""YT"",""BW"",""ZW"",""AQ"",""GI"",""SR"",""LY"",""GY"",""NL"",""AT"",""TM"",""TJ"",""TT"",""MS"",""SZ"",""GS"",""JE"",""CO"",""TZ"",""SA"",""RU"",""ME"",""HT"",""GL"",""BA"",""ZM"",""GQ"",""GE"",""MK"",""AD"",""RS"",""LT"",""VA"",""MT"",""FR"",""SH"",""KM"",""GA"",""MQ"",""BZ"",""AG"",""OM"",""KE"",""BF"",""GF"",""DJ"",""BE"",""BL"",""CV"",""AR"",""PT"",""MC"",""SC"",""GP"",""ER"",""FI"",""MD"",""CU"",""EG"",""ML"",""CL"",""ST"",""MA"",""FO"",""BQ"",""SS"",""GH"",""VC"",""AW"",""JO"",""SI"",""LU"",""PM"",""EH"",""SX"",""GU"",""TR"",""EE"",""FK"",""CD"",""DO"",""EC"",""AS"",""DZ""]}]"
 2024-08-25	TV (Non-English)	6	Terror Tuesday: Extreme	Terror Tuesday: Extreme: Season 1	9500000	5.6833	1700000	1	false	
 2024-08-25	TV (Non-English)	7	KENGAN ASHURA	KENGAN ASHURA: Season 2	12000000	11.8167	1000000	4	false	
-2024-08-25	TV (Non-English)	8	I am Solo	I am Solo: Part 21 - 22	1600000	1.7	900000	1	false	
-2024-08-25	TV (Non-English)	9	Tokyo Swindlers	Tokyo Swindlers: Season 1	5500000	6.15	900000	5	false	
-2024-08-25	TV (Non-English)	10	Elite	Elite: Season 8	5100000	6.4333	800000	5	false	
+2024-08-25	TV (Non-English)	8	Tokyo Swindlers	Tokyo Swindlers: Season 1	5500000	6.15	900000	5	false	
+2024-08-25	TV (Non-English)	9	Elite	Elite: Season 8	5100000	6.4333	800000	5	false	
+2024-08-25	TV (Non-English)	10	Miss Night and Day	Miss Night and Day: Limited Series	12400000	0	800000	10	true	"[{""episodesLaunched"":14,""countryList"":[""MX"",""NI"",""DO"",""UY"",""BR"",""SV"",""VE"",""EC"",""CR"",""PR"",""BZ"",""HN"",""GT"",""GQ"",""PE"",""PA"",""CL"",""BO"",""CO"",""PY"",""AR"",""CU""]},{""episodesLaunched"":16,""countryList"":[""EG"",""LA"",""GG"",""GW"",""TG"",""AT"",""KN"",""NP"",""VG"",""TM"",""KH"",""PW"",""GI"",""AZ"",""DZ"",""YT"",""CY"",""IL"",""BG"",""KY"",""JP"",""CD"",""RU"",""LR"",""UM"",""AU"",""IS"",""UZ"",""ZW"",""ES"",""AG"",""TH"",""CF"",""NZ"",""IR"",""SN"",""FR"",""MD"",""JE"",""HK"",""MT"",""SG"",""YE"",""TT"",""SZ"",""IN"",""CA"",""LS"",""AF"",""SE"",""NO"",""BS"",""OM"",""BN"",""GR"",""PH"",""NC"",""MU"",""LT"",""NA"",""TD"",""CG"",""BD"",""VN"",""CK"",""AD"",""EE"",""RE"",""DK"",""RW"",""GF"",""TO"",""LB"",""GM"",""BE"",""SX"",""KE"",""NR"",""VA"",""TV"",""KR"",""TC"",""BM"",""LU"",""GN"",""CC"",""AS"",""JO"",""BL"",""SB"",""SL"",""FJ"",""BI"",""PN"",""SK"",""FO"",""HM"",""FK"",""MF"",""WS"",""AL"",""PM"",""SC"",""PG"",""IT"",""KZ"",""KW"",""GB"",""ZA"",""KI"",""ET"",""FI"",""VC"",""ST"",""RS"",""IM"",""CW"",""MM"",""EH"",""LY"",""SD"",""GA"",""TZ"",""MK"",""NL"",""GL"",""AE"",""PS"",""LK"",""MQ"",""CV"",""MR"",""BQ"",""CZ"",""GY"",""SR"",""SH"",""SA"",""IE"",""TR"",""MH"",""GD"",""TK"",""SS"",""KM"",""NU"",""QA"",""GE"",""IQ"",""TN"",""MW"",""WF"",""RO"",""TW"",""HU"",""NF"",""VI"",""FM"",""SM"",""PK"",""GS"",""HT"",""NE"",""PF"",""CH"",""AQ"",""VU"",""BH"",""MS"",""LV"",""UA"",""BY"",""US"",""MG"",""BT"",""KG"",""BA"",""MA"",""ER"",""ID"",""MO"",""CM"",""DJ"",""AI"",""JM"",""GH"",""GU"",""CI"",""MP"",""ME"",""UG"",""NG"",""DM"",""ZM"",""SI"",""LC"",""ML"",""HR"",""GP"",""SO"",""IO"",""BJ"",""LI"",""MN"",""BF"",""BB"",""TL"",""PL"",""DE"",""AO"",""AW"",""CX"",""PT"",""MC"",""MY"",""MV"",""BW"",""TJ"",""AM"",""MZ""]}]"
 2024-08-18	Films (English)	1	The Union	N/A	60100000	1.8167	33100000	1	false	
 2024-08-18	Films (English)	2	Kingsman: The Secret Service	N/A	33000000	2.1667	15200000	2	false	
 2024-08-18	Films (English)	3	Kingsman: The Golden Circle	N/A	22800000	2.3667	9600000	2	false	
@@ -148,9 +188,9 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-08-04	TV (English)	7	Joe Rogan: Burn the Boats	N/A	2800000	1.1167	2500000	1	false	
 2024-08-04	TV (English)	8	The Decameron	The Decameron: Limited Series	15600000	7.35	2100000	2	false	
 2024-08-04	TV (English)	9	Vikings: Valhalla	Vikings: Valhalla: Season 3	12400000	6.4	1900000	4	false	
-2024-08-04	TV (English)	10	Supacell	N/A	7500000	5.2	1400000	6	false	
+2024-08-04	TV (English)	10	Supacell	Supacell: Season 1	7500000	5.2	1400000	6	false	
 2024-08-04	TV (Non-English)	1	Elite	Elite: Season 8	25400000	6.4333	3900000	2	false	
-2024-08-04	TV (Non-English)	2	Master of the House	Master of the House: Season 1	12300000	5.9333	2100000	3	false	
+2024-08-04	TV (Non-English)	2	Master of the House	Master of the House: Limited Series	12300000	5.9333	2100000	3	false	
 2024-08-04	TV (Non-English)	3	Tokyo Swindlers	Tokyo Swindlers: Season 1	11900000	6.15	1900000	2	false	
 2024-08-04	TV (Non-English)	4	Miss Night and Day	Miss Night and Day: Limited Series	23400000	0	1800000	7	true	"[{""episodesLaunched"":16,""countryList"":[""MD"",""TN"",""MK"",""NA"",""CF"",""UG"",""LV"",""BH"",""ET"",""SN"",""YT"",""GW"",""GN"",""SA"",""GA"",""LS"",""CD"",""TG"",""AD"",""UA"",""RU"",""CZ"",""PS"",""GY"",""NL"",""PK"",""CA"",""SK"",""RS"",""SX"",""PM"",""GI"",""FR"",""TD"",""BW"",""GH"",""DM"",""MC"",""BA"",""AG"",""MH"",""HR"",""SO"",""FM"",""BF"",""BG"",""MG"",""EG"",""CG"",""GF"",""VC"",""GM"",""BQ"",""NE"",""IL"",""MT"",""MQ"",""BY"",""EE"",""BB"",""LI"",""KY"",""GG"",""ES"",""JM"",""MF"",""LR"",""GR"",""MS"",""SD"",""GD"",""KM"",""IT"",""CH"",""CI"",""PT"",""BL"",""MW"",""CY"",""YE"",""SI"",""CM"",""ER"",""PW"",""AS"",""IS"",""DK"",""AZ"",""IR"",""TM"",""VG"",""NO"",""ST"",""EH"",""ME"",""SZ"",""IE"",""JE"",""GP"",""CV"",""IO"",""QA"",""OM"",""SH"",""SL"",""ML"",""AM"",""HM"",""RW"",""LU"",""SC"",""FI"",""DZ"",""GB"",""CW"",""FK"",""FO"",""LB"",""PL"",""AF"",""DJ"",""BI"",""SS"",""SR"",""US"",""GL"",""MP"",""MZ"",""NG"",""HU"",""TT"",""AE"",""KZ"",""IM"",""ZM"",""BJ"",""AO"",""HT"",""AL"",""AW"",""BM"",""GU"",""GE"",""DE"",""SM"",""KG"",""VI"",""TJ"",""KW"",""SE"",""VA"",""LT"",""AQ"",""UZ"",""RE"",""ZW"",""ZA"",""LC"",""MA"",""IQ"",""TZ"",""TR"",""LY"",""KE"",""MR"",""JO"",""RO"",""MU"",""KN"",""BE"",""AT"",""BS"",""AI"",""TC"",""GS""]},{""episodesLaunched"":15,""countryList"":[""TH"",""SG"",""MO"",""NF"",""PH"",""VN"",""NR"",""MN"",""VU"",""MM"",""NC"",""NZ"",""LK"",""BD"",""NU"",""NP"",""KI"",""ID"",""KH"",""PN"",""MY"",""CX"",""PG"",""CC"",""TK"",""TL"",""BN"",""PF"",""AU"",""MV"",""CK"",""TO"",""FJ"",""HK"",""SB"",""BT"",""TW"",""JP"",""WS"",""TV"",""WF"",""LA"",""KR"",""UM"",""IN""]},{""episodesLaunched"":8,""countryList"":[""VE"",""BO"",""AR"",""CR"",""GT"",""SV"",""CU"",""HN"",""CL"",""PR"",""PE"",""MX"",""DO"",""PY"",""BR"",""EC"",""NI"",""GQ"",""BZ"",""CO"",""PA"",""UY""]}]"
 2024-08-04	TV (Non-English)	5	Desperate Lies	Desperate Lies: Season 1	22500000	13.55	1700000	5	false	
@@ -184,12 +224,12 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-07-28	TV (English)	3	Too Hot to Handle	Too Hot to Handle: Season 6	25200000	6.6167	3800000	2	false	
 2024-07-28	TV (English)	4	Simone Biles Rising	Simone Biles Rising: Season 1	6100000	1.75	3500000	2	false	
 2024-07-28	TV (English)	5	Vikings: Valhalla	Vikings: Valhalla: Season 3	21400000	6.4	3300000	3	false	
-2024-07-28	TV (English)	6	Supacell	N/A	13200000	5.2	2500000	5	false	
+2024-07-28	TV (English)	6	Supacell	Supacell: Season 1	13200000	5.2	2500000	5	false	
 2024-07-28	TV (English)	7	Homicide	Homicide: Los Angeles	11000000	4.55	2400000	2	false	
 2024-07-28	TV (English)	8	The Decameron	The Decameron: Limited Series	15300000	7.35	2100000	1	false	
 2024-07-28	TV (English)	9	Cobra Kai	Cobra Kai: Season 1	9600000	5.0833	1900000	3	false	
 2024-07-28	TV (English)	10	Bridgerton	Bridgerton: Season 3	11700000	7.9833	1500000	11	false	
-2024-07-28	TV (Non-English)	1	Master of the House	Master of the House: Season 1	28800000	5.9333	4900000	2	false	
+2024-07-28	TV (Non-English)	1	Master of the House	Master of the House: Limited Series	28800000	5.9333	4900000	2	false	
 2024-07-28	TV (Non-English)	2	Sweet Home	Sweet Home: Season 3	19900000	7.0833	2800000	2	false	
 2024-07-28	TV (Non-English)	3	Desperate Lies	Desperate Lies: Season 1	32600000	13.55	2400000	4	false	
 2024-07-28	TV (Non-English)	4	Elite	Elite: Season 8	15300000	6.4333	2400000	1	false	
@@ -223,14 +263,14 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-07-21	TV (English)	2	Vikings: Valhalla	Vikings: Valhalla: Season 3	41000000	6.4	6400000	2	false	
 2024-07-21	TV (English)	3	Simone Biles Rising	Simone Biles Rising: Season 1	8300000	1.75	4700000	1	false	
 2024-07-21	TV (English)	4	Homicide	Homicide: Los Angeles	19600000	4.55	4300000	1	false	
-2024-07-21	TV (English)	5	Supacell	N/A	21900000	5.2	4200000	4	false	
+2024-07-21	TV (English)	5	Supacell	Supacell: Season 1	21900000	5.2	4200000	4	false	
 2024-07-21	TV (English)	6	Vikings: Valhalla	Vikings: Valhalla: Season 1	16300000	6.8667	2400000	8	false	
 2024-07-21	TV (English)	7	Too Hot to Handle	Too Hot to Handle: Season 6	7700000	3.8333	2000000	1	false	
 2024-07-21	TV (English)	8	Exploding Kittens	Exploding Kittens: Season 1	7500000	3.85	1900000	2	false	
 2024-07-21	TV (English)	9	Bridgerton	Bridgerton: Season 3	14900000	7.9833	1900000	10	false	
 2024-07-21	TV (English)	10	Vikings: Valhalla	Vikings: Valhalla: Season 2	12000000	6.4833	1900000	5	false	
 2024-07-21	TV (Non-English)	1	Desperate Lies	Desperate Lies: Season 1	50900000	13.55	3800000	3	false	
-2024-07-21	TV (Non-English)	2	Master of the House	Master of the House: Season 1	22200000	5.9333	3700000	1	false	
+2024-07-21	TV (Non-English)	2	Master of the House	Master of the House: Limited Series	22200000	5.9333	3700000	1	false	
 2024-07-21	TV (Non-English)	3	Another Self	Another Self: Season 2	23000000	7.3167	3100000	2	false	
 2024-07-21	TV (Non-English)	4	The Yara Gambirasio Case: Beyond Reasonable Doubt	The Yara Gambirasio Case: Beyond Reasonable Doubt: Limited Series	11000000	4.3	2600000	1	false	
 2024-07-21	TV (Non-English)	5	Sweet Home	Sweet Home: Season 3	17500000	7.0833	2500000	1	false	
@@ -259,7 +299,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-07-14	Films (Non-English)	8	Lobola Man	N/A	4000000	1.8167	2200000	1	false	
 2024-07-14	Films (Non-English)	9	The Champion	N/A	3500000	1.7833	2000000	1	false	
 2024-07-14	Films (Non-English)	10	Maharaj	N/A	3700000	2.1833	1700000	3	false	
-2024-07-14	TV (English)	1	Supacell	N/A	37100000	5.2	7100000	3	false	
+2024-07-14	TV (English)	1	Supacell	Supacell: Season 1	37100000	5.2	7100000	3	false	
 2024-07-14	TV (English)	2	The Man with 1000 Kids	The Man with 1000 Kids: Limited Series	11300000	2.0833	5400000	2	false	
 2024-07-14	TV (English)	3	Vikings: Valhalla	Vikings: Valhalla: Season 3	34400000	6.4	5400000	1	false	
 2024-07-14	TV (English)	4	Bridgerton	Bridgerton: Season 3	21200000	7.9833	2700000	9	false	
@@ -299,7 +339,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-07-07	Films (Non-English)	8	The Three Musketeers: Milady	N/A	2000000	1.9	1100000	1	false	
 2024-07-07	Films (Non-English)	9	Politically Incorrect	N/A	1400000	1.5333	900000	1	false	
 2024-07-07	Films (Non-English)	10	Godzilla Minus One	N/A	1800000	2.1	900000	5	false	
-2024-07-07	TV (English)	1	Supacell	N/A	61200000	5.2	11800000	2	false	
+2024-07-07	TV (English)	1	Supacell	Supacell: Season 1	61200000	5.2	11800000	2	false	
 2024-07-07	TV (English)	2	The Man with 1000 Kids	The Man with 1000 Kids: Limited Series	13800000	2.0833	6600000	1	false	
 2024-07-07	TV (English)	3	Worst Roommate Ever	Worst Roommate Ever: Season 2	19400000	3.6	5400000	2	false	
 2024-07-07	TV (English)	4	Bridgerton	Bridgerton: Season 3	31600000	7.9833	4000000	8	false	
@@ -340,7 +380,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-06-30	Films (Non-English)	9	Colors of Evil: Red	N/A	1900000	1.8667	1000000	5	false	
 2024-06-30	Films (Non-English)	10	Mallari	N/A	2200000	2.1667	1000000	1	false	
 2024-06-30	TV (English)	1	Bridgerton	Bridgerton: Season 3	52900000	7.9833	6600000	7	false	
-2024-06-30	TV (English)	2	Supacell	N/A	33500000	5.2	6400000	1	false	
+2024-06-30	TV (English)	2	Supacell	Supacell: Season 1	33500000	5.2	6400000	1	false	
 2024-06-30	TV (English)	3	Worst Roommate Ever	Worst Roommate Ever: Season 2	20500000	3.6	5700000	1	false	
 2024-06-30	TV (English)	4	AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders	AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders: Season 1	24500000	6.6333	3700000	2	false	
 2024-06-30	TV (English)	5	Bridgerton	Bridgerton: Season 2	17800000	8.5	2100000	22	false	
@@ -2036,7 +2076,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-09-10	TV (Non-English)	5	Mask Girl	Mask Girl: Limited Series	11700000	6.8833	1700000	4	false	
 2023-09-10	TV (Non-English)	6	Ragnarok	Ragnarok: Season 2	7400000	4.9667	1500000	3	false	
 2023-09-10	TV (Non-English)	7	A Time Called You	A Time Called You: Limited Series	17600000	12.1833	1400000	1	false	
-2023-09-10	TV (Non-English)	8	6ixtynin9 The Series	6ixtynin9 The Series: Season 1	6500000	4.6833	1400000	1	false	
+2023-09-10	TV (Non-English)	8	6ixtynin9 The Series	6ixtynin9 The Series: Limited Series	6500000	4.6833	1400000	1	false	
 2023-09-10	TV (Non-English)	9	Ragnarok	Ragnarok: Season 1	6100000	4.4833	1400000	3	false	
 2023-09-10	TV (Non-English)	10	Miss Adrenaline: A Tale of Twins	Miss Adrenaline: A Tale of Twins: Season 1	24100000	20.3	1200000	1	false	
 2023-09-03	Films (English)	1	You Are So Not Invited to My Bat Mitzvah	N/A	37900000	1.7333	21900000	2	false	
@@ -4937,7 +4977,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-04-17	Films (Non-English)	6	Dasvi	N/A	4020000			2	false	
 2022-04-17	Films (Non-English)	7	Black Crab	N/A	3040000			5	false	
 2022-04-17	Films (Non-English)	8	In Good Hands	N/A	2550000			4	false	
-2022-04-17	Films (Non-English)	9	Fack ju Göhte 3	N/A	2400000			1	false	
+2022-04-17	Films (Non-English)	9	Suck Me Shakespeer 3	N/A	2400000			1	false	
 2022-04-17	Films (Non-English)	10	Through My Window	N/A	2280000			10	false	
 2022-04-17	TV (English)	1	Bridgerton	Bridgerton: Season 2	66610000			4	false	
 2022-04-17	TV (English)	2	The Ultimatum: Marry or Move On	The Ultimatum: Marry or Move On: Season 1	58470000			2	false	
