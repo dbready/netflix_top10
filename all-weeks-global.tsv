@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-09-15	Films (English)	1	Rebel Ridge	N/A	84900000	2.2	38600000	2	false	
+2024-09-15	Films (English)	2	Uglies	N/A	35400000	1.7	20800000	1	false	
+2024-09-15	Films (English)	3	Into the Fire: The Lost Daughter	Into the Fire: The Lost Daughter: Season 1	20500000	2.5333	8100000	1	false	
+2024-09-15	Films (English)	4	The Deliverance	N/A	13100000	1.8833	7000000	3	false	
+2024-09-15	Films (English)	5	Fast & Furious Presents: Hobbs & Shaw	N/A	13100000	2.2667	5800000	3	false	
+2024-09-15	Films (English)	6	The Day After Tomorrow	N/A	11600000	2.0667	5600000	1	false	
+2024-09-15	Films (English)	7	Edge of Tomorrow	N/A	7700000	1.8833	4100000	1	false	
+2024-09-15	Films (English)	8	The Union	N/A	7000000	1.8167	3900000	5	false	
+2024-09-15	Films (English)	9	The Shack	N/A	7800000	2.2167	3500000	2	false	
+2024-09-15	Films (English)	10	Gemini Man	N/A	6800000	1.95	3500000	7	false	
+2024-09-15	Films (Non-English)	1	Officer Black Belt	N/A	15100000	1.8167	8300000	1	false	
+2024-09-15	Films (Non-English)	2	Outlaw	N/A	11600000	1.4	8300000	1	false	
+2024-09-15	Films (Non-English)	3	Sector 36	N/A	7400000	2.0667	3600000	1	false	
+2024-09-15	Films (Non-English)	4	How To Make Millions Before Grandma Dies	N/A	6300000	2.1167	3000000	1	false	
+2024-09-15	Films (Non-English)	5	Boxer	N/A	5900000	2.5333	2300000	1	false	
+2024-09-15	Films (Non-English)	6	Disco, Ibiza, Locomía	N/A	2900000	1.7333	1700000	2	false	
+2024-09-15	Films (Non-English)	7	Doce Família	N/A	2500000	1.5	1700000	2	false	
+2024-09-15	Films (Non-English)	8	(Un)lucky Sisters	N/A	2000000	1.3833	1400000	3	false	
+2024-09-15	Films (Non-English)	9	Technoboys	N/A	2200000	1.8333	1200000	1	false	
+2024-09-15	Films (Non-English)	10	Mr. Bachchan	N/A	2600000	2.5	1000000	1	false	
+2024-09-15	TV (English)	1	The Perfect Couple	The Perfect Couple: Limited Series	111600000	5.1	21900000	2	false	
+2024-09-15	TV (English)	2	Emily in Paris	Emily in Paris: Season 4	68700000	5.95	11500000	5	false	
+2024-09-15	TV (English)	3	Prison Break	Prison Break: Season 1	74600000	16.0167	4700000	2	false	
+2024-09-15	TV (English)	4	Selling Sunset	Selling Sunset: Season 8	28300000	6.4167	4400000	2	false	
+2024-09-15	TV (English)	5	KAOS	N/A	22400000	6.6667	3400000	3	false	
+2024-09-15	TV (English)	6	Worst Ex Ever	Worst Ex Ever: Season 1	10800000	3.8333	2800000	3	false	
+2024-09-15	TV (English)	7	Prison Break	Prison Break: Season 2	44300000	16.0333	2800000	1	false	
+2024-09-15	TV (English)	8	Outlast	Outlast: Season 2	14800000	6.6	2200000	2	false	
+2024-09-15	TV (English)	9	Hot Wheels Let's Race	Hot Wheels Let's Race: Season 2	4300000	1.9833	2200000	1	false	
+2024-09-15	TV (English)	10	Prison Break	Prison Break: Season 3	15900000	9.3833	1700000	1	false	
+2024-09-15	TV (Non-English)	1	The Accident	The Accident: Season 1	25700000	7.3667	3500000	4	false	
+2024-09-15	TV (Non-English)	2	Love Next Door	Love Next Door: Limited Series	35600000	0	3300000	5	true	"[{""episodesLaunched"":10,""countryList"":[""FI"",""SH"",""ZM"",""BA"",""BE"",""CZ"",""MT"",""GU"",""MY"",""SO"",""TZ"",""GR"",""AG"",""ET"",""BQ"",""PS"",""MC"",""VA"",""SL"",""UM"",""AZ"",""SK"",""VN"",""CY"",""CK"",""MA"",""AU"",""IQ"",""LK"",""NE"",""JO"",""VI"",""GL"",""CX"",""KR"",""CI"",""IE"",""DM"",""TN"",""MV"",""IS"",""RS"",""AM"",""NF"",""KI"",""SS"",""DJ"",""GB"",""MG"",""DE"",""CA"",""HU"",""ST"",""AQ"",""TK"",""AS"",""GH"",""VC"",""KZ"",""TT"",""FK"",""SD"",""BN"",""TW"",""TJ"",""LC"",""KW"",""BB"",""BL"",""GA"",""ML"",""ZW"",""AO"",""BM"",""PW"",""WF"",""BT"",""NR"",""FR"",""GS"",""LU"",""AE"",""HR"",""UG"",""AI"",""RO"",""FJ"",""MN"",""MZ"",""MW"",""TM"",""TV"",""RU"",""CC"",""BD"",""PM"",""WS"",""TG"",""ID"",""KG"",""SE"",""RW"",""SX"",""AD"",""YT"",""EE"",""AL"",""PF"",""IM"",""GN"",""NL"",""PL"",""NC"",""VG"",""MO"",""GG"",""MF"",""GP"",""TR"",""TL"",""BI"",""TC"",""GE"",""PT"",""US"",""NG"",""LB"",""GF"",""IT"",""SM"",""LV"",""CF"",""DZ"",""AT"",""MK"",""VU"",""NU"",""SR"",""BS"",""BH"",""SI"",""GD"",""EG"",""MM"",""AW"",""MQ"",""NA"",""MS"",""MH"",""EH"",""MP"",""LI"",""MU"",""UZ"",""DK"",""HM"",""BF"",""SB"",""RE"",""OM"",""HT"",""SN"",""HK"",""IR"",""QA"",""TH"",""JP"",""KM"",""GW"",""NP"",""GM"",""JE"",""BW"",""CD"",""MR"",""LS"",""CH"",""PG"",""JM"",""FM"",""PH"",""BY"",""NZ"",""CG"",""ER"",""PK"",""LT"",""KH"",""GI"",""GY"",""BJ"",""ZA"",""CM"",""KN"",""BG"",""PN"",""CV"",""YE"",""SG"",""LA"",""ME"",""MD"",""IN"",""CW"",""UA"",""SA"",""AF"",""SZ"",""IL"",""TO"",""LR"",""IO"",""KY"",""KE"",""FO"",""NO"",""SC"",""TD"",""LY"",""ES""]},{""episodesLaunched"":6,""countryList"":[""EC"",""PR"",""SV"",""CO"",""NI"",""PY"",""BO"",""CR"",""CU"",""HN"",""DO"",""GT"",""CL"",""MX"",""UY"",""VE"",""PA"",""AR"",""PE"",""GQ"",""BR"",""BZ""]}]"
+2024-09-15	TV (Non-English)	3	Breathless	Breathless: Season 1	19500000	6.3833	3100000	3	false	
+2024-09-15	TV (Non-English)	4	Ángel Di María: Breaking Down the Wall	Ángel Di María: Breaking Down the Wall: Season 1	4600000	2.7833	1700000	1	false	
+2024-09-15	TV (Non-English)	5	Caught in the Web: The Murders Behind Zona Divas	Caught in the Web: The Murders Behind Zona Divas: Limited Series	4200000	2.8	1500000	2	false	
+2024-09-15	TV (Non-English)	6	IC 814: The Kandahar Hijack	IC 814: The Kandahar Hijack: Limited Series	5300000	4.4333	1200000	3	false	
+2024-09-15	TV (Non-English)	7	Romance in the House	Romance in the House: Limited Series	14500000	0	1100000	6	true	"[{""episodesLaunched"":11,""countryList"":[""MM"",""PF"",""TV"",""JP"",""CC"",""PN"",""HK"",""NZ"",""NF"",""FJ"",""KR"",""AU"",""KH"",""BT"",""NR"",""TH"",""CX"",""TO"",""KI"",""PH"",""NC"",""WF"",""UM"",""VN"",""MY"",""SG"",""LA"",""NU"",""CK"",""WS"",""PG"",""BN"",""TK"",""TW"",""ID"",""TL"",""BD"",""IN"",""LK"",""VU"",""SB"",""NP"",""MO"",""MV"",""MN""]},{""episodesLaunched"":12,""countryList"":[""TM"",""NA"",""PA"",""CW"",""KM"",""JM"",""VA"",""ZW"",""UA"",""SN"",""OM"",""GE"",""PT"",""HM"",""BZ"",""RU"",""MZ"",""EC"",""SL"",""LB"",""GN"",""GQ"",""MK"",""MG"",""SD"",""QA"",""SC"",""BR"",""US"",""SZ"",""YE"",""UZ"",""MW"",""CA"",""SV"",""BG"",""SM"",""TD"",""ES"",""IR"",""JE"",""IL"",""EE"",""GY"",""ZA"",""BL"",""EH"",""SI"",""AG"",""PY"",""MS"",""AF"",""IT"",""TJ"",""IQ"",""BA"",""ER"",""MH"",""MX"",""AL"",""FK"",""AO"",""UG"",""LT"",""KN"",""MD"",""GW"",""PK"",""BH"",""CH"",""DZ"",""HT"",""AM"",""HR"",""NI"",""UY"",""GM"",""CM"",""BJ"",""LV"",""ET"",""CU"",""TN"",""BB"",""FO"",""FR"",""VE"",""IE"",""DK"",""AR"",""MU"",""IS"",""NL"",""NG"",""SK"",""MC"",""NE"",""SH"",""IO"",""PL"",""CO"",""KY"",""PE"",""RE"",""AZ"",""BM"",""GR"",""CL"",""IM"",""GB"",""VG"",""ST"",""GF"",""TC"",""GH"",""GG"",""RS"",""BI"",""AE"",""PM"",""SA"",""HU"",""HN"",""SO"",""KZ"",""TZ"",""GA"",""NO"",""BE"",""BY"",""BO"",""GU"",""BW"",""FM"",""AT"",""MR"",""LC"",""GT"",""KW"",""BF"",""DE"",""TT"",""CF"",""MA"",""MT"",""AW"",""AD"",""FI"",""ML"",""AS"",""LY"",""DM"",""LU"",""TG"",""SE"",""PS"",""SX"",""YT"",""SR"",""CZ"",""MP"",""GS"",""MF"",""GP"",""CI"",""MQ"",""RW"",""CV"",""ME"",""AQ"",""VI"",""GI"",""SS"",""GD"",""EG"",""CG"",""TR"",""LS"",""GL"",""LI"",""JO"",""RO"",""DJ"",""BQ"",""CD"",""ZM"",""VC"",""CR"",""DO"",""LR"",""PW"",""BS"",""PR"",""CY"",""KE"",""AI"",""KG""]}]"
+2024-09-15	TV (Non-English)	8	Billionaire Island	Billionaire Island: Season 1	4500000	4.5667	1000000	1	false	
+2024-09-15	TV (Non-English)	9	Midnight at the Pera Palace	Midnight at the Pera Palace: Season 2	4400000	5.6833	800000	1	false	
+2024-09-15	TV (Non-English)	10	Midnight at the Pera Palace	Midnight at the Pera Palace: Season 1	4000000	5.9	700000	3	false	
 2024-09-08	Films (English)	1	Rebel Ridge	N/A	68600000	2.2	31200000	1	false	
 2024-09-08	Films (English)	2	The Deliverance	N/A	41100000	1.8833	21800000	2	false	
 2024-09-08	Films (English)	3	The Union	N/A	15100000	1.8167	8300000	4	false	
