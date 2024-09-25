@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-09-22	Films (English)	1	Uglies	N/A	45600000	1.7	26800000	2	false	
+2024-09-22	Films (English)	2	Rebel Ridge	N/A	36700000	2.2	16700000	3	false	
+2024-09-22	Films (English)	3	Gifted	N/A	16900000	1.7	9900000	1	false	
+2024-09-22	Films (English)	4	Into the Fire: The Lost Daughter	Into the Fire: The Lost Daughter: Season 1	18800000	2.5333	7400000	2	false	
+2024-09-22	Films (English)	5	His Three Daughters	N/A	7200000	1.75	4100000	1	false	
+2024-09-22	Films (English)	6	Fast & Furious Presents: Hobbs & Shaw	N/A	9000000	2.2667	4000000	4	false	
+2024-09-22	Films (English)	7	The Garfield Movie	N/A	6000000	1.6833	3600000	1	false	
+2024-09-22	Films (English)	8	The Deliverance	N/A	5900000	1.8833	3100000	4	false	
+2024-09-22	Films (English)	9	The Union	N/A	4800000	1.8167	2600000	6	false	
+2024-09-22	Films (English)	10	Aloha	N/A	4600000	1.75	2600000	2	false	
+2024-09-22	Films (Non-English)	1	Officer Black Belt	N/A	28500000	1.8167	15700000	2	false	
+2024-09-22	Films (Non-English)	2	Sector 36	N/A	12700000	2.0667	6100000	2	false	
+2024-09-22	Films (Non-English)	3	Outlaw	N/A	5600000	1.4	4000000	2	false	
+2024-09-22	Films (Non-English)	4	Boxer	N/A	7300000	2.5333	2900000	2	false	
+2024-09-22	Films (Non-English)	5	Spoiled Brats	N/A	3500000	1.6	2200000	5	false	
+2024-09-22	Films (Non-English)	6	How To Make Millions Before Grandma Dies	N/A	3800000	2.1167	1800000	2	false	
+2024-09-22	Films (Non-English)	7	Grave of the Fireflies	N/A	2200000	1.4667	1500000	1	false	
+2024-09-22	Films (Non-English)	8	Grave Torture	N/A	2400000	1.95	1200000	1	false	
+2024-09-22	Films (Non-English)	9	Technoboys	N/A	2200000	1.8333	1200000	2	false	
+2024-09-22	Films (Non-English)	10	Under Paris	N/A	1700000	1.7333	1000000	15	false	
+2024-09-22	TV (English)	1	Monsters	Monsters: The Lyle and Erik Menendez Story	97500000	7.9	12300000	1	false	
+2024-09-22	TV (English)	2	The Perfect Couple	The Perfect Couple: Limited Series	52900000	5.1	10400000	3	false	
+2024-09-22	TV (English)	3	Emily in Paris	Emily in Paris: Season 4	54800000	5.95	9200000	6	false	
+2024-09-22	TV (English)	4	Prison Break	Prison Break: Season 1	54100000	16.0167	3400000	3	false	
+2024-09-22	TV (English)	5	Prison Break	Prison Break: Season 2	44700000	16.0333	2800000	2	false	
+2024-09-22	TV (English)	6	Prison Break	Prison Break: Season 3	20700000	9.3833	2200000	2	false	
+2024-09-22	TV (English)	7	KAOS	N/A	14500000	6.6667	2200000	4	false	
+2024-09-22	TV (English)	8	CoComelon	CoComelon: Season 11	2200000	1.0833	2000000	1	false	
+2024-09-22	TV (English)	9	Selling Sunset	Selling Sunset: Season 8	11000000	6.4167	1700000	3	false	
+2024-09-22	TV (English)	10	Worst Ex Ever	Worst Ex Ever: Season 1	6400000	3.8333	1700000	4	false	
+2024-09-22	TV (Non-English)	1	Culinary Class Wars	Culinary Class Wars: Season 1	17600000	4.6	3800000	1	false	
+2024-09-22	TV (Non-English)	2	Love Next Door	Love Next Door: Limited Series	41400000	0	3000000	6	true	"[{""episodesLaunched"":8,""countryList"":[""GQ"",""GT"",""CO"",""UY"",""PR"",""PY"",""CU"",""BR"",""SV"",""NI"",""MX"",""CR"",""EC"",""PA"",""CL"",""HN"",""BO"",""PE"",""VE"",""AR"",""BZ"",""DO""]},{""episodesLaunched"":12,""countryList"":[""IL"",""MU"",""FI"",""ST"",""LS"",""TM"",""CD"",""BA"",""GE"",""SZ"",""GY"",""AD"",""VI"",""ER"",""BL"",""AF"",""ME"",""UG"",""UA"",""NO"",""LV"",""BB"",""DJ"",""MG"",""HM"",""AT"",""NL"",""BS"",""EG"",""LC"",""PK"",""RO"",""KI"",""VU"",""NZ"",""MT"",""MQ"",""BG"",""GG"",""DK"",""MK"",""IR"",""MW"",""BW"",""VG"",""EH"",""UM"",""AQ"",""GH"",""HK"",""GU"",""OM"",""MM"",""VA"",""CV"",""ML"",""CX"",""CM"",""BD"",""GS"",""IS"",""BH"",""AZ"",""SD"",""TV"",""SN"",""FJ"",""KN"",""FM"",""FK"",""CW"",""CI"",""SL"",""UZ"",""BI"",""JO"",""FR"",""JE"",""MF"",""EE"",""GR"",""MH"",""JP"",""IO"",""GA"",""GM"",""TO"",""GN"",""AL"",""KZ"",""CZ"",""RS"",""BQ"",""PL"",""QA"",""KE"",""GF"",""HU"",""AI"",""PN"",""ZA"",""NU"",""GP"",""BT"",""SK"",""GD"",""IN"",""TD"",""RW"",""MC"",""KH"",""SX"",""BN"",""ID"",""NA"",""TN"",""TK"",""LR"",""TT"",""SO"",""ET"",""VN"",""SM"",""TJ"",""CA"",""LK"",""KY"",""LT"",""MN"",""AM"",""CF"",""RE"",""TW"",""BE"",""PH"",""IT"",""LY"",""SI"",""SE"",""MP"",""SH"",""TZ"",""SR"",""IQ"",""YT"",""WF"",""PW"",""VC"",""IM"",""IE"",""GI"",""MR"",""CH"",""AE"",""MY"",""NF"",""ZM"",""AU"",""LA"",""MS"",""AG"",""SG"",""SC"",""GW"",""CK"",""AW"",""KG"",""LI"",""KR"",""PT"",""PS"",""FO"",""MV"",""PF"",""MO"",""MA"",""AO"",""SA"",""DZ"",""AS"",""GL"",""LB"",""DE"",""CC"",""BJ"",""BF"",""GB"",""CY"",""JM"",""TG"",""SS"",""RU"",""US"",""TL"",""NG"",""TH"",""NC"",""DM"",""SB"",""CG"",""BM"",""NE"",""PG"",""BY"",""NR"",""MZ"",""HR"",""ES"",""NP"",""TC"",""WS"",""MD"",""ZW"",""KM"",""TR"",""YE"",""PM"",""KW"",""HT"",""LU""]}]"
+2024-09-22	TV (Non-English)	3	I Am Georgina	I Am Georgina: Season 3	12800000	4.3667	2900000	1	false	
+2024-09-22	TV (Non-English)	4	The Accident	The Accident: Season 1	17700000	7.3667	2400000	5	false	
+2024-09-22	TV (Non-English)	5	Envious	Envious: Season 1	14400000	6.25	2300000	1	false	
+2024-09-22	TV (Non-English)	6	Breathless	Breathless: Season 1	11600000	6.3833	1800000	4	false	
+2024-09-22	TV (Non-English)	7	Ángel Di María: Breaking Down the Wall	Ángel Di María: Breaking Down the Wall: Season 1	3800000	2.7833	1400000	2	false	
+2024-09-22	TV (Non-English)	8	The Great Indian Kapil Show	The Great Indian Kapil Show: Season 2	1400000	1.2	1200000	1	false	
+2024-09-22	TV (Non-English)	9	Billionaire Island	Billionaire Island: Season 1	4500000	4.5667	1000000	2	false	
+2024-09-22	TV (Non-English)	10	Romance in the House	Romance in the House: Limited Series	12800000	13.2167	1000000	7	false	
 2024-09-15	Films (English)	1	Rebel Ridge	N/A	84900000	2.2	38600000	2	false	
 2024-09-15	Films (English)	2	Uglies	N/A	35400000	1.7	20800000	1	false	
 2024-09-15	Films (English)	3	Into the Fire: The Lost Daughter	Into the Fire: The Lost Daughter: Season 1	20500000	2.5333	8100000	1	false	
@@ -138,7 +178,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-08-25	Films (Non-English)	7	Under Paris	N/A	2000000	1.7333	1200000	12	false	
 2024-08-25	Films (Non-English)	8	Maharaja	N/A	2700000	2.35	1100000	7	false	
 2024-08-25	Films (Non-English)	9	Indian 2	N/A	3000000	2.7667	1100000	3	false	
-2024-08-25	Films (Non-English)	10	Pretty Guardian Sailor Moon Cosmos The Movie	Pretty Guardian Sailor Moon Cosmos The Movie: 前編・後編	2200000	2.7	800000	1	false	
+2024-08-25	Films (Non-English)	10	Pretty Guardian Sailor Moon Cosmos The Movie	Pretty Guardian Sailor Moon Cosmos The Movie: Part 1 / Part 2	2200000	2.7	800000	1	false	
 2024-08-25	TV (English)	1	Emily in Paris	Emily in Paris: Season 4	42100000	2.8333	14900000	2	false	
 2024-08-25	TV (English)	2	American Murder: Laci Peterson	American Murder: Laci Peterson: Season 1	28200000	2.6667	10600000	2	false	
 2024-08-25	TV (English)	3	Wyatt Earp and The Cowboy War	Wyatt Earp and The Cowboy War: Season 1	15200000	3.8667	3900000	1	false	
