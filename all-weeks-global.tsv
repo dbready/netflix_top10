@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-09-29	Films (English)	1	Rebel Ridge	N/A	19500000	2.2	8900000	4	false	
+2024-09-29	Films (English)	2	Uglies	N/A	14800000	1.7	8700000	3	false	
+2024-09-29	Films (English)	3	Jailbreak: Love on the Run	N/A	11200000	1.4833	7600000	1	false	
+2024-09-29	Films (English)	4	The Garfield Movie	N/A	11700000	1.6833	7000000	2	false	
+2024-09-29	Films (English)	5	Gifted	N/A	6500000	1.7	3800000	2	false	
+2024-09-29	Films (English)	6	American Assassin	N/A	6700000	1.8667	3600000	4	false	
+2024-09-29	Films (English)	7	Hitman: Agent 47	N/A	5600000	1.6	3500000	1	false	
+2024-09-29	Films (English)	8	Sing	N/A	5800000	1.8	3200000	10	false	
+2024-09-29	Films (English)	9	Hitman	N/A	4900000	1.5833	3100000	1	false	
+2024-09-29	Films (English)	10	Trolls	N/A	4400000	1.55	2800000	7	false	
+2024-09-29	Films (Non-English)	1	Officer Black Belt	N/A	9300000	1.8167	5100000	3	false	
+2024-09-29	Films (Non-English)	2	Bangkok Breaking: Heaven and Hell	N/A	12300000	2.45	5000000	1	false	
+2024-09-29	Films (Non-English)	3	A True Gentleman	N/A	9000000	1.85	4900000	1	false	
+2024-09-29	Films (Non-English)	4	An Invisible Victim: The Eliza Samudio Case	N/A	7300000	1.7	4300000	1	false	
+2024-09-29	Films (Non-English)	5	Divorce	N/A	4800000	1.55	3100000	1	false	
+2024-09-29	Films (Non-English)	6	Saripodhaa Sanivaaram	N/A	7300000	2.8667	2500000	1	false	
+2024-09-29	Films (Non-English)	7	Sector 36	N/A	5000000	2.0667	2400000	3	false	
+2024-09-29	Films (Non-English)	8	Ulajh	N/A	4400000	2.15	2000000	1	false	
+2024-09-29	Films (Non-English)	9	Spoiled Brats	N/A	1800000	1.6	1100000	6	false	
+2024-09-29	Films (Non-English)	10	No More Bets	N/A	2300000	2.1667	1100000	1	false	
+2024-09-29	TV (English)	1	Monsters	Monsters: The Lyle and Erik Menendez Story	153800000	7.9	19500000	2	false	
+2024-09-29	TV (English)	2	Nobody Wants This	Nobody Wants This: Season 1	45700000	4.4167	10300000	1	false	
+2024-09-29	TV (English)	3	The Perfect Couple	The Perfect Couple: Limited Series	30700000	5.1	6000000	4	false	
+2024-09-29	TV (English)	4	Mr. McMahon	Mr. McMahon: Limited Series	28200000	5.7667	4900000	1	false	
+2024-09-29	TV (English)	5	Emily in Paris	Emily in Paris: Season 4	25100000	5.95	4200000	7	false	
+2024-09-29	TV (English)	6	The Resident	The Resident: Season 1	33800000	10.25	3300000	1	false	
+2024-09-29	TV (English)	7	Prison Break	Prison Break: Season 1	45100000	16.0167	2800000	4	false	
+2024-09-29	TV (English)	8	Prison Break	Prison Break: Season 2	38400000	16.0333	2400000	3	false	
+2024-09-29	TV (English)	9	Ellen DeGeneres: For Your Approval	N/A	2800000	1.1833	2400000	1	false	
+2024-09-29	TV (English)	10	Prison Break	Prison Break: Season 3	20000000	9.3833	2100000	3	false	
+2024-09-29	TV (Non-English)	1	Culinary Class Wars	Culinary Class Wars: Season 1	37700000	7.7	4900000	2	false	
+2024-09-29	TV (Non-English)	2	Gyeongseong Creature	Gyeongseong Creature: Season 2	17400000	5.7	3100000	1	false	
+2024-09-29	TV (Non-English)	3	Envious	Envious: Season 1	17400000	6.25	2800000	2	false	
+2024-09-29	TV (Non-English)	4	Love Next Door	Love Next Door: Limited Series	44200000	0	2700000	7	true	"[{""episodesLaunched"":10,""countryList"":[""GT"",""VE"",""AR"",""CR"",""EC"",""CU"",""NI"",""PA"",""PE"",""BO"",""BZ"",""SV"",""CO"",""PY"",""PR"",""MX"",""GQ"",""HN"",""BR"",""CL"",""DO"",""UY""]},{""episodesLaunched"":14,""countryList"":[""BQ"",""MC"",""VI"",""DK"",""GN"",""GR"",""BD"",""GB"",""MN"",""LI"",""MQ"",""KZ"",""TL"",""WS"",""VU"",""HU"",""GI"",""LA"",""RW"",""CM"",""IT"",""QA"",""AS"",""BT"",""MZ"",""TH"",""NL"",""NP"",""GS"",""SX"",""MG"",""BM"",""AD"",""UA"",""TD"",""DM"",""FO"",""NG"",""JE"",""MV"",""ES"",""MA"",""PK"",""MK"",""IN"",""SA"",""US"",""SE"",""RE"",""NE"",""KN"",""NU"",""SS"",""SI"",""AG"",""AF"",""GM"",""SL"",""IO"",""ZW"",""VG"",""GW"",""EG"",""DJ"",""ME"",""BJ"",""BW"",""ID"",""KH"",""CK"",""MU"",""MT"",""SC"",""BG"",""TT"",""FI"",""EE"",""TC"",""SD"",""FK"",""MO"",""YT"",""ST"",""AW"",""LU"",""LR"",""MM"",""IE"",""IL"",""YE"",""JO"",""PF"",""GA"",""KE"",""KW"",""GU"",""WF"",""KY"",""SM"",""ML"",""CZ"",""IS"",""SK"",""AQ"",""HT"",""ET"",""BA"",""CG"",""FM"",""TK"",""GF"",""TZ"",""JP"",""HK"",""JM"",""AU"",""CH"",""LT"",""AE"",""CX"",""GP"",""LK"",""CI"",""BF"",""CC"",""ER"",""PM"",""MW"",""BL"",""GE"",""DE"",""FR"",""RU"",""NC"",""LS"",""ZA"",""VN"",""HM"",""AM"",""BE"",""SG"",""CV"",""BI"",""AZ"",""HR"",""NF"",""MS"",""PT"",""KI"",""TG"",""TV"",""IM"",""NR"",""SZ"",""LV"",""TO"",""GG"",""SO"",""SB"",""CD"",""VA"",""MF"",""TN"",""UZ"",""KR"",""KM"",""PS"",""NA"",""MP"",""RO"",""NO"",""GD"",""GY"",""BH"",""EH"",""FJ"",""MH"",""SR"",""BN"",""TW"",""TR"",""LB"",""IQ"",""PG"",""PN"",""NZ"",""CW"",""CF"",""ZM"",""CA"",""AL"",""BS"",""TM"",""DZ"",""BB"",""AT"",""VC"",""AI"",""AO"",""PH"",""IR"",""TJ"",""MD"",""GL"",""BY"",""CY"",""LC"",""LY"",""GH"",""RS"",""PL"",""PW"",""OM"",""KG"",""SH"",""UG"",""UM"",""SN"",""MR"",""MY""]}]"
+2024-09-29	TV (Non-English)	5	I Am Georgina	I Am Georgina: Season 3	9400000	4.3667	2200000	2	false	
+2024-09-29	TV (Non-English)	6	The Great Indian Kapil Show	The Great Indian Kapil Show: Season 2	4100000	2.3333	1800000	2	false	
+2024-09-29	TV (Non-English)	7	The Accident	The Accident: Season 1	10300000	7.3667	1400000	6	false	
+2024-09-29	TV (Non-English)	8	We Were Kings	We Were Kings: Season 1	4800000	3.8167	1300000	1	false	
+2024-09-29	TV (Non-English)	9	Breathless	Breathless: Season 1	6900000	6.3833	1100000	5	false	
+2024-09-29	TV (Non-English)	10	Blood Legacy	Blood Legacy: Season 1	9000000	8.3833	1100000	1	false	
 2024-09-22	Films (English)	1	Uglies	N/A	45600000	1.7	26800000	2	false	
 2024-09-22	Films (English)	2	Rebel Ridge	N/A	36700000	2.2	16700000	3	false	
 2024-09-22	Films (English)	3	Gifted	N/A	16900000	1.7	9900000	1	false	
