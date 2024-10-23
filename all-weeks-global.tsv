@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-10-20	Films (English)	1	Lonely Planet	N/A	21900000	1.6	13700000	2	false	
+2024-10-20	Films (English)	2	Woman of the Hour	N/A	15800000	1.6	9900000	1	false	
+2024-10-20	Films (English)	3	Sweet Bobby: My Catfish Nightmare	N/A	9600000	1.3667	7000000	1	false	
+2024-10-20	Films (English)	4	The Menendez Brothers	N/A	13500000	1.9667	6900000	2	false	
+2024-10-20	Films (English)	5	Sing	N/A	10600000	1.8	5900000	13	false	
+2024-10-20	Films (English)	6	Bad Boys: Ride or Die	N/A	10600000	1.9333	5500000	2	false	
+2024-10-20	Films (English)	7	The Predator	N/A	9600000	1.8	5300000	2	false	
+2024-10-20	Films (English)	8	Unhinged	N/A	7900000	1.5167	5200000	1	false	
+2024-10-20	Films (English)	9	Jurassic World: Dominion	N/A	11200000	2.45	4600000	1	false	
+2024-10-20	Films (English)	10	Venom: Let There Be Carnage	N/A	6700000	1.6167	4100000	2	false	
+2024-10-20	Films (Non-English)	1	Justice	N/A	20700000	1.9167	10800000	1	false	
+2024-10-20	Films (Non-English)	2	The Shadow Strays	N/A	25600000	2.4167	10600000	1	false	
+2024-10-20	Films (Non-English)	3	Uprising	N/A	17600000	2.1333	8300000	2	false	
+2024-10-20	Films (Non-English)	4	Outside	N/A	19100000	2.3667	8100000	1	false	
+2024-10-20	Films (Non-English)	5	Trouble	N/A	7000000	1.6333	4300000	3	false	
+2024-10-20	Films (Non-English)	6	The Platform 2	N/A	7100000	1.6833	4200000	3	false	
+2024-10-20	Films (Non-English)	7	Khel Khel Mein	N/A	7400000	2.2	3400000	2	false	
+2024-10-20	Films (Non-English)	8	Kondal	N/A	4200000	2.4167	1700000	1	false	
+2024-10-20	Films (Non-English)	9	In Her Place	N/A	2600000	1.6	1600000	2	false	
+2024-10-20	Films (Non-English)	10	Breaking the Silence: The Maria Soledad Case	N/A	2100000	1.6	1300000	2	false	
+2024-10-20	TV (English)	1	Outer Banks	Outer Banks: Season 4	35200000	4.0167	8800000	2	false	
+2024-10-20	TV (English)	2	The Lincoln Lawyer	The Lincoln Lawyer: Season 3	59200000	8.5167	7000000	1	false	
+2024-10-20	TV (English)	3	Nobody Wants This	Nobody Wants This: Season 1	27200000	4.4167	6200000	4	false	
+2024-10-20	TV (English)	4	Monsters	Monsters: The Lyle and Erik Menendez Story	42000000	7.9	5300000	5	false	
+2024-10-20	TV (English)	5	Love Is Blind	Love Is Blind: Season 7	41500000	12.5333	3300000	3	false	
+2024-10-20	TV (English)	6	Jurassic World: Chaos Theory	Jurassic World: Chaos Theory: Season 2	11400000	3.9167	2900000	1	false	
+2024-10-20	TV (English)	7	Gundam: Requiem for Vengeance	Gundam: Requiem for Vengeance: Season 1	5800000	2.4333	2400000	1	false	
+2024-10-20	TV (English)	8	Outer Banks	Outer Banks: Season 1	18400000	8.4167	2200000	9	false	
+2024-10-20	TV (English)	9	Ancient Apocalypse	Ancient Apocalypse: The Americas	8900000	4.0833	2200000	1	false	
+2024-10-20	TV (English)	10	I AM A KILLER	I AM A KILLER: Season 5	9600000	4.7	2000000	1	false	
+2024-10-20	TV (Non-English)	1	Deceitful Love	Deceitful Love: Limited Series	40200000	4.8167	8300000	2	false	
+2024-10-20	TV (Non-English)	2	The Secret of the River	The Secret of the River: Season 1	29500000	5.55	5300000	2	false	
+2024-10-20	TV (Non-English)	3	DAN DA DAN	N/A	4200000	1.2333	3400000	2	false	
+2024-10-20	TV (Non-English)	4	Culinary Class Wars	Culinary Class Wars: Season 1	23100000	13.2167	1700000	5	false	
+2024-10-20	TV (Non-English)	5	A Virtuous Business	A Virtuous Business: Limited Series	6100000	0	1600000	1	true	"[{""episodesLaunched"":4,""countryList"":[""LB"",""CM"",""AE"",""DE"",""SI"",""FM"",""SA"",""GA"",""GN"",""SE"",""UG"",""BG"",""TR"",""GP"",""RE"",""MQ"",""ET"",""RS"",""PL"",""NL"",""MS"",""AD"",""AO"",""ST"",""BA"",""DK"",""UA"",""YE"",""KW"",""BL"",""EE"",""DZ"",""BH"",""MU"",""GG"",""AQ"",""SZ"",""ZW"",""AL"",""HM"",""TN"",""MF"",""KZ"",""AZ"",""SX"",""BE"",""RW"",""EH"",""HU"",""SL"",""IO"",""GF"",""RO"",""JE"",""TG"",""SN"",""FR"",""OM"",""SM"",""PW"",""BS"",""MK"",""GD"",""VG"",""MD"",""BM"",""SK"",""HR"",""GH"",""MT"",""MH"",""LS"",""AM"",""SO"",""KE"",""CF"",""TZ"",""MR"",""CH"",""GI"",""GW"",""TM"",""LC"",""US"",""CY"",""PK"",""GL"",""IQ"",""NE"",""AT"",""FO"",""SS"",""CA"",""GS"",""FI"",""GB"",""CD"",""NO"",""IT"",""CI"",""TJ"",""VC"",""ME"",""HT"",""AG"",""LU"",""GE"",""LR"",""BQ"",""VA"",""ML"",""SD"",""SR"",""UZ"",""IE"",""KN"",""FK"",""DJ"",""AW"",""ZM"",""YT"",""RU"",""GY"",""GM"",""LT"",""EG"",""GR"",""KG"",""PS"",""TD"",""NA"",""AF"",""CG"",""JO"",""CZ"",""PT"",""GU"",""SC"",""IM"",""SH"",""KY"",""IS"",""MW"",""BJ"",""LI"",""ZA"",""IL"",""DM"",""BW"",""MA"",""MZ"",""JM"",""BF"",""MC"",""AS"",""IR"",""TC"",""MP"",""MG"",""BI"",""ES"",""LV"",""BY"",""NG"",""CV"",""VI"",""TT"",""PM"",""LY"",""QA"",""ER"",""BB"",""KM"",""AI""]},{""episodesLaunched"":3,""countryList"":[""NC"",""CC"",""TK"",""MO"",""LA"",""MY"",""PN"",""NF"",""KH"",""AU"",""CX"",""MV"",""CK"",""LK"",""KI"",""PH"",""HK"",""MN"",""TH"",""FJ"",""NU"",""WF"",""VN"",""PF"",""SB"",""UM"",""MM"",""WS"",""JP"",""VU"",""TL"",""BT"",""NP"",""KR"",""IN"",""SG"",""ID"",""BD"",""NR"",""BN"",""NZ"",""PG"",""TW"",""TO"",""TV""]}]"
+2024-10-20	TV (Non-English)	6	Love Is Blind, Habibi	Love Is Blind, Habibi: Season 1	13300000	8.3833	1600000	2	false	
+2024-10-20	TV (Non-English)	7	Love Next Door	Love Next Door: Limited Series	32900000	21.25	1500000	10	false	
+2024-10-20	TV (Non-English)	8	Ranma1/2	Ranma1/2: Season 1	1800000	1.1667	1500000	2	false	
+2024-10-20	TV (Non-English)	9	The Envoys	The Envoys: Season 1	8700000	6.4333	1400000	1	false	
+2024-10-20	TV (Non-English)	10	Gyeongseong Creature	Gyeongseong Creature: Season 2	4800000	5.7	800000	4	false	
 2024-10-13	Films (English)	1	The Menendez Brothers	N/A	44700000	1.9667	22700000	1	false	
 2024-10-13	Films (English)	2	The Predator	N/A	23300000	1.8	12900000	1	false	
 2024-10-13	Films (English)	3	Lonely Planet	N/A	17600000	1.6	11000000	1	false	
