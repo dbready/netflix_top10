@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	episode_launch_details
+2024-10-27	Films (English)	1	Don't Move	N/A	31000000	1.5333	20200000	1	false	
+2024-10-27	Films (English)	2	Woman of the Hour	N/A	21100000	1.6	13200000	2	false	
+2024-10-27	Films (English)	3	Sweet Bobby: My Catfish Nightmare	N/A	9800000	1.3667	7200000	2	false	
+2024-10-27	Films (English)	4	Sing	N/A	10700000	1.8	5900000	14	false	
+2024-10-27	Films (English)	5	Kung Fu Panda 4	N/A	9100000	1.5667	5800000	1	false	
+2024-10-27	Films (English)	6	Lonely Planet	N/A	8900000	1.6	5600000	3	false	
+2024-10-27	Films (English)	7	Happiness Is	N/A	5900000	1.6	3700000	1	false	
+2024-10-27	Films (English)	8	The Menendez Brothers	N/A	6400000	1.9667	3300000	3	false	
+2024-10-27	Films (English)	9	Hijack '93	N/A	4600000	1.45	3200000	1	false	
+2024-10-27	Films (English)	10	Venom: Let There Be Carnage	N/A	4200000	1.6167	2600000	3	false	
+2024-10-27	Films (Non-English)	1	Family Pack	N/A	27700000	1.5833	17500000	1	false	
+2024-10-27	Films (Non-English)	2	The Shadow Strays	N/A	23200000	2.4167	9600000	2	false	
+2024-10-27	Films (Non-English)	3	Justice	N/A	17100000	1.9167	8900000	2	false	
+2024-10-27	Films (Non-English)	4	Do Patti	N/A	10700000	2.1333	5000000	1	false	
+2024-10-27	Films (Non-English)	5	Outside	N/A	11200000	2.3667	4700000	2	false	
+2024-10-27	Films (Non-English)	6	Uprising	N/A	5800000	2.1333	2700000	3	false	
+2024-10-27	Films (Non-English)	7	Meiyazhagan	N/A	4900000	2.6333	1900000	1	false	
+2024-10-27	Films (Non-English)	8	The Platform 2	N/A	2800000	1.6833	1700000	4	false	
+2024-10-27	Films (Non-English)	9	Khel Khel Mein	N/A	2900000	2.2	1300000	3	false	
+2024-10-27	Films (Non-English)	10	Trouble	N/A	2000000	1.6333	1200000	4	false	
+2024-10-27	TV (English)	1	The Lincoln Lawyer	The Lincoln Lawyer: Season 3	72300000	8.5167	8500000	2	false	
+2024-10-27	TV (English)	2	This Is the Zodiac Speaking	This Is the Zodiac Speaking: Season 1	17100000	2.2667	7500000	1	false	
+2024-10-27	TV (English)	3	Territory	Territory: Season 1	37000000	5.7667	6400000	1	false	
+2024-10-27	TV (English)	4	Beauty in Black	Beauty in Black: Season 1	37100000	6.5667	5600000	1	false	
+2024-10-27	TV (English)	5	Nobody Wants This	Nobody Wants This: Season 1	17800000	4.4167	4000000	5	false	
+2024-10-27	TV (English)	6	Outer Banks	Outer Banks: Season 4	15500000	4.0167	3900000	3	false	
+2024-10-27	TV (English)	7	Monsters	Monsters: The Lyle and Erik Menendez Story	26300000	7.9	3300000	6	false	
+2024-10-27	TV (English)	8	The Lincoln Lawyer	The Lincoln Lawyer: Season 1	22300000	8.3167	2700000	12	false	
+2024-10-27	TV (English)	9	Car Masters: Rust to Riches	Car Masters: Rust to Riches: Season 6	11000000	5.0833	2200000	1	false	
+2024-10-27	TV (English)	10	Love Is Blind	Love Is Blind: Season 7	30000000	13.9167	2200000	4	false	
+2024-10-27	TV (Non-English)	1	Deceitful Love	Deceitful Love: Limited Series	16000000	4.8167	3300000	3	false	
+2024-10-27	TV (Non-English)	2	Dragon Ball DAIMA	Dragon Ball DAIMA: Season 1	3000000	0	3200000	1	true	"[{""episodesLaunched"":1,""countryList"":[""KR""]},{""episodesLaunched"":2,""countryList"":[""PN"",""CH"",""CI"",""BH"",""ID"",""EH"",""ET"",""NE"",""TH"",""BT"",""TN"",""NP"",""VN"",""DE"",""DM"",""BZ"",""JP"",""SC"",""IM"",""MP"",""CU"",""PL"",""PR"",""CF"",""GT"",""MC"",""SV"",""HT"",""NA"",""AO"",""TL"",""PF"",""AG"",""BS"",""AL"",""DJ"",""SK"",""RW"",""FR"",""UA"",""TG"",""AT"",""YT"",""SM"",""SA"",""FI"",""TW"",""PM"",""LS"",""HU"",""GR"",""BY"",""ZW"",""GM"",""KN"",""GN"",""MU"",""BR"",""CM"",""BA"",""CA"",""MM"",""VG"",""IN"",""BJ"",""YE"",""MT"",""LR"",""SL"",""FO"",""GS"",""AS"",""LV"",""RU"",""IL"",""AR"",""GD"",""TC"",""LB"",""GL"",""GQ"",""BO"",""VA"",""HR"",""SE"",""BM"",""JE"",""PA"",""SH"",""GA"",""GW"",""HN"",""GB"",""KW"",""MX"",""CY"",""AI"",""BI"",""MH"",""SN"",""BG"",""SD"",""CL"",""EG"",""PE"",""IT"",""MS"",""BN"",""VE"",""OM"",""VI"",""QA"",""BL"",""DZ"",""US"",""GY"",""MW"",""RS"",""MN"",""SG"",""ER"",""GG"",""GI"",""GU"",""UM"",""GF"",""VC"",""MK"",""MY"",""AU"",""BF"",""JM"",""CO"",""MG"",""MV"",""NL"",""LY"",""AD"",""SR"",""RO"",""GP"",""GH"",""AM"",""LC"",""DO"",""DK"",""AZ"",""IE"",""LT"",""PH"",""CV"",""SI"",""LK"",""UY"",""UG"",""NG"",""JO"",""IQ"",""EE"",""KE"",""LA"",""SZ"",""TT"",""MD"",""NO"",""PS"",""PT"",""IR"",""BQ"",""WF"",""RE"",""AW"",""CZ"",""BE"",""TD"",""PY"",""TM"",""SS"",""TR"",""KZ"",""CG"",""ST"",""CW"",""NI"",""BW"",""LI"",""TJ"",""ZM"",""MA"",""FK"",""TZ"",""ME"",""LU"",""BD"",""KG"",""ES"",""BB"",""CR"",""SO"",""EC"",""SX"",""ZA"",""IO"",""MR"",""PK"",""KM"",""IS"",""MF"",""KH"",""KY"",""MZ"",""UZ"",""CD"",""NZ"",""NC"",""ML"",""GE"",""AE"",""MQ""]}]"
+2024-10-27	TV (Non-English)	3	DAN DA DAN	N/A	5100000	1.65	3100000	3	false	
+2024-10-27	TV (Non-English)	4	The Secret of the River	The Secret of the River: Season 1	16600000	5.55	3000000	3	false	
+2024-10-27	TV (Non-English)	5	Hellbound	Hellbound: Season 2	8300000	4.9167	1700000	1	false	
+2024-10-27	TV (Non-English)	6	Ranma1/2	Ranma1/2: Season 1	2100000	1.55	1400000	3	false	
+2024-10-27	TV (Non-English)	7	Culinary Class Wars	Culinary Class Wars: Season 1	16700000	13.2167	1300000	6	false	
+2024-10-27	TV (Non-English)	8	A Virtuous Business	A Virtuous Business: Limited Series	7600000	0	1200000	2	true	"[{""episodesLaunched"":5,""countryList"":[""AU"",""MY"",""ID"",""NU"",""TH"",""LA"",""VN"",""MO"",""MN"",""PN"",""SB"",""TL"",""NC"",""KI"",""CC"",""BT"",""TW"",""TV"",""UM"",""TO"",""NR"",""WF"",""VU"",""BD"",""IN"",""BN"",""FJ"",""NF"",""NZ"",""HK"",""MV"",""PH"",""LK"",""PG"",""SG"",""TK"",""NP"",""WS"",""JP"",""KR"",""CK"",""CX"",""MM"",""KH"",""PF""]},{""episodesLaunched"":6,""countryList"":[""ES"",""BB"",""MP"",""DM"",""CH"",""AW"",""GR"",""ZW"",""TN"",""IL"",""MF"",""NL"",""HM"",""TZ"",""KN"",""CG"",""PM"",""DE"",""TD"",""MZ"",""LV"",""NO"",""OM"",""BH"",""FI"",""GY"",""IO"",""NA"",""TJ"",""EE"",""GF"",""PT"",""FO"",""VI"",""IQ"",""DK"",""BE"",""CF"",""GM"",""KW"",""AS"",""RU"",""VC"",""MQ"",""GW"",""SM"",""PW"",""GA"",""SH"",""US"",""AM"",""ZA"",""ST"",""TC"",""BJ"",""CD"",""TG"",""MS"",""MH"",""MC"",""YE"",""VA"",""RO"",""KY"",""HU"",""HR"",""VG"",""GD"",""KE"",""SS"",""CA"",""ET"",""SR"",""AQ"",""BG"",""SO"",""QA"",""LU"",""BQ"",""MG"",""BY"",""FR"",""AE"",""LI"",""LT"",""RE"",""MU"",""NE"",""TT"",""KZ"",""SZ"",""SL"",""KM"",""AD"",""ML"",""SA"",""SD"",""CZ"",""UZ"",""IR"",""EG"",""SX"",""LS"",""MA"",""DJ"",""ER"",""AZ"",""BF"",""FK"",""DZ"",""SC"",""SK"",""GI"",""GP"",""BS"",""LR"",""AT"",""LC"",""GS"",""JO"",""IT"",""PL"",""BM"",""HT"",""RS"",""TR"",""LY"",""EH"",""MD"",""AO"",""ME"",""KG"",""ZM"",""MK"",""TM"",""AF"",""SE"",""BA"",""GN"",""RW"",""CY"",""CI"",""AG"",""GE"",""CV"",""BW"",""UA"",""SN"",""NG"",""SI"",""IS"",""UG"",""IM"",""BI"",""MW"",""GL"",""FM"",""PK"",""JE"",""AI"",""AL"",""GG"",""LB"",""GH"",""CM"",""MT"",""JM"",""BL"",""IE"",""PS"",""MR"",""YT"",""GU"",""GB""]}]"
+2024-10-27	TV (Non-English)	9	Love Next Door	Love Next Door: Limited Series	24300000	21.25	1100000	11	false	
+2024-10-27	TV (Non-English)	10	The Envoys	The Envoys: Season 1	6600000	6.4333	1000000	2	false	
 2024-10-20	Films (English)	1	Lonely Planet	N/A	21900000	1.6	13700000	2	false	
 2024-10-20	Films (English)	2	Woman of the Hour	N/A	15800000	1.6	9900000	1	false	
 2024-10-20	Films (English)	3	Sweet Bobby: My Catfish Nightmare	N/A	9600000	1.3667	7000000	1	false	
