@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	runtime_override_flag	episode_launch_dtls
+2025-01-05	Films (English)	1	Carry-On	N/A	34700000	2	17400000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	2	The Six Triple Eight	N/A	23500000	2.1667	10800000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	3	The Secret Life of Pets 2	N/A	8200000	1.4333	5700000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	4	Dr. Seuss' The Grinch	N/A	7700000	1.4333	5400000	12	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	5	Avicii - I'm Tim	N/A	8400000	1.6167	5200000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	6	Non-Stop	N/A	7500000	1.7833	4200000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	7	Horizon: An American Saga: Chapter 1	N/A	12000000	3.0167	4000000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	8	That Christmas	N/A	6100000	1.6	3800000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	9	Furiosa: A Mad Max Saga	N/A	9300000	2.4667	3800000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (English)	10	In the Heart of the Sea	N/A	7600000	2.0333	3700000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	1	Number 24	N/A	16500000	1.8667	8800000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	2	Bhool Bhulaiyaa 3	N/A	11000000	2.6333	4200000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	3	The Love Scam	N/A	7000000	1.6833	4200000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	4	The Children's Train	N/A	3500000	1.7667	2000000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	5	Kang Mak from Pee Mak	N/A	3500000	2.05	1700000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	6	Ferry 2	N/A	2100000	1.5833	1300000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	7	Family Pack	N/A	1700000	1.5833	1100000	6	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	8	Under Paris	N/A	1800000	1.7333	1000000	16	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	9	Lucky Baskhar	N/A	2500000	2.4667	1000000	6	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	Films (Non-English)	10	Jigra	N/A	2300000	2.5667	900000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	1	Missing You	Missing You: Limited Series	81700000	3.7667	21700000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	2	Virgin River	Virgin River: Season 6	43400000	8.3167	5200000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	3	Black Doves	Black Doves: Season 1	27300000	5.5	5000000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	4	Departure	Departure: Season 1	15200000	4.2667	3600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	5	The Madness	The Madness: Limited Series	18300000	6.5833	2800000	6	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	6	Your Friend, Nate Bargatze	N/A	2700000	1.0667	2500000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	7	No Good Deed	No Good Deed: Season 1	10600000	4.55	2300000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	8	Torching 2024: A Roast of the Year	N/A	1500000	0.7167	2100000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	9	The Night Agent	The Night Agent: Season 1	13100000	8.1833	1600000	11	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (English)	10	Departure	Departure: Season 2	6700000	4.2667	1600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	1	Squid Game	Squid Game: Season 2	417100000	7.1667	58200000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	2	Squid Game	Squid Game: Season 1	112700000	8.3167	13600000	25	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	3	La Palma	La Palma: Limited Series	25400000	3.0667	8300000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	4	When the Phone Rings	When the Phone Rings: Limited Series	62000000	13.55	4600000	7	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	5	Stranded with my Mother-in-Law	Stranded with my Mother-in-Law: Season 2	5500000	3.4	1600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	6	The Manny	The Manny: Season 2	6900000	4.5	1500000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	7	One Hundred Years of Solitude	One Hundred Years of Solitude: Part 1	12400000	8.6	1400000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	8	SPY x FAMILY	SPY x FAMILY: Season 2	6500000	4.7333	1400000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	9	Love Is Blind: Germany	Love Is Blind: Germany: Season 1	4600000	3.5167	1300000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-01-05	TV (Non-English)	10	Alice in Borderland	Alice in Borderland: Season 1	8100000	6.4833	1200000	9	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-29	Films (English)	1	Carry-On	N/A	69800000	2	34900000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-29	Films (English)	2	The Six Triple Eight	N/A	50400000	2.1667	23300000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-29	Films (English)	3	That Christmas	N/A	19000000	1.6	11900000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
@@ -117,7 +157,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-12-15	TV (Non-English)	6	1992	1992: Season 1	9300000	4.45	2100000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-15	TV (Non-English)	7	The Empress	The Empress: Season 2	10900000	5.4667	2000000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-15	TV (Non-English)	8	The Trunk	The Trunk: Limited Series	15000000	8.45	1800000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
-2024-12-15	TV (Non-English)	9	The Tale of Lady Ok	The Tale of Lady Ok: Season 1	6300000	0	1700000	2	true	[{is_staggered_launch=1, is_live_title=0}]	"[{""episodesLaunched"":2,""countryList"":[""CR"",""PY"",""BO"",""GY"",""VC"",""CU"",""CO"",""KN"",""PA"",""LC"",""DO"",""BZ"",""SR"",""CL"",""BL"",""MX"",""NI"",""BR"",""GT"",""GD"",""VG"",""BQ"",""GF"",""MF"",""UY"",""MQ"",""DM"",""MS"",""PR"",""CW"",""AI"",""AR"",""BS"",""TC"",""KY"",""SV"",""HT"",""VE"",""EC"",""BB"",""BM"",""PE"",""TT"",""GP"",""SX"",""AW"",""JM"",""AG"",""HN""]},{""episodesLaunched"":3,""countryList"":[""PH"",""TL"",""MM"",""SG"",""BN"",""KR"",""ID"",""VN"",""KH"",""TW"",""MY"",""LA"",""TH""]}]"
+2024-12-15	TV (Non-English)	9	The Tale of Lady Ok	The Tale of Lady Ok: Limited Series	6300000	0	1700000	2	true	[{is_staggered_launch=1, is_live_title=0}]	"[{""episodesLaunched"":2,""countryList"":[""CR"",""PY"",""BO"",""GY"",""VC"",""CU"",""CO"",""KN"",""PA"",""LC"",""DO"",""BZ"",""SR"",""CL"",""BL"",""MX"",""NI"",""BR"",""GT"",""GD"",""VG"",""BQ"",""GF"",""MF"",""UY"",""MQ"",""DM"",""MS"",""PR"",""CW"",""AI"",""AR"",""BS"",""TC"",""KY"",""SV"",""HT"",""VE"",""EC"",""BB"",""BM"",""PE"",""TT"",""GP"",""SX"",""AW"",""JM"",""AG"",""HN""]},{""episodesLaunched"":3,""countryList"":[""PH"",""TL"",""MM"",""SG"",""BN"",""KR"",""ID"",""VN"",""KH"",""TW"",""MY"",""LA"",""TH""]}]"
 2024-12-15	TV (Non-English)	10	Nevertheless : The Shapes of Love	Nevertheless : The Shapes of Love: Season 1	1800000	1.5667	1100000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-08	Films (English)	1	Our Little Secret	N/A	39500000	1.6833	23500000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-08	Films (English)	2	That Christmas	N/A	29200000	1.6	18300000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
@@ -156,7 +196,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2024-12-08	TV (Non-English)	5	DAN DA DAN	N/A	10000000	4.1	2400000	9	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-08	TV (Non-English)	6	Asaf	Asaf: Limited Series	10600000	4.55	2300000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-08	TV (Non-English)	7	The Empress	The Empress: Season 1	10400000	5.7167	1800000	8	false	[{is_staggered_launch=0, is_live_title=0}]	
-2024-12-08	TV (Non-English)	8	The Tale of Lady Ok	The Tale of Lady Ok: Season 1	4400000	2.75	1600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2024-12-08	TV (Non-English)	8	The Tale of Lady Ok	The Tale of Lady Ok: Limited Series	4400000	2.75	1600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-08	TV (Non-English)	9	Sisters' Feud	Sisters' Feud: Season 1	19600000	12.6167	1600000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
 2024-12-08	TV (Non-English)	10	Valle Salvaje	Valle Salvaje: Season 1	7900000	0	1300000	1	true	[{is_staggered_launch=1, is_live_title=0}]	"[{""episodesLaunched"":5,""countryList"":[""JM"",""BO"",""KY"",""CL"",""AG"",""BZ"",""VE"",""SX"",""MF"",""BQ"",""AW"",""GD"",""HN"",""MQ"",""DM"",""TC"",""KN"",""BB"",""GF"",""BS"",""HT"",""SR"",""CU"",""UY"",""PE"",""CW"",""VC"",""PY"",""GT"",""CR"",""MS"",""GP"",""CO"",""AI"",""TT"",""MX"",""BL"",""NI"",""DO"",""VG"",""GY"",""EC"",""SV"",""PA"",""LC"",""AR"",""BM""]},{""episodesLaunched"":51,""countryList"":[""ES"",""AD""]}]"
 2024-12-01	Films (English)	1	Our Little Secret	N/A	54600000	1.6833	32400000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
@@ -3951,7 +3991,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-02-12	TV (English)	10	New Amsterdam	New Amsterdam: Season 4	10210000			1	false		
 2023-02-12	TV (Non-English)	1	Physical: 100	Physical: 100: Season 1	41610000			3	false		
 2023-02-12	TV (Non-English)	2	Crash Course in Romance	Crash Course in Romance: Limited Series	21040000			2	false		
-2023-02-12	TV (Non-English)	3	The Snow Girl	The Snow Girl: Season 1	19610000			3	false		
+2023-02-12	TV (Non-English)	3	The Snow Girl	The Snow Girl 1.	19610000			3	false		
 2023-02-12	TV (Non-English)	4	La Reina del Sur	La Reina del Sur: Season 3	19610000			7	false		
 2023-02-12	TV (Non-English)	5	True Beauty	True Beauty: Limited Series	16510000			1	false		
 2023-02-12	TV (Non-English)	6	The Interest of Love	The Interest of Love: Limited Series	12390000			2	false		
@@ -3989,7 +4029,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-02-05	TV (English)	8	That '90s Show	That '90s Show: Part 1	9370000			3	false		
 2023-02-05	TV (English)	9	Freeridge	Freeridge: Season 1	8270000			1	false		
 2023-02-05	TV (English)	10	New Amsterdam	New Amsterdam: Season 3	7910000			1	false		
-2023-02-05	TV (Non-English)	1	The Snow Girl	The Snow Girl: Season 1	50240000			2	false		
+2023-02-05	TV (Non-English)	1	The Snow Girl	The Snow Girl 1.	50240000			2	false		
 2023-02-05	TV (Non-English)	2	Physical: 100	Physical: 100: Season 1	31300000			2	false		
 2023-02-05	TV (Non-English)	3	La Reina del Sur	La Reina del Sur: Season 3	25730000			6	false		
 2023-02-05	TV (Non-English)	4	Record of Ragnarok	Record of Ragnarok: Season 2	18880000			2	false		
@@ -4031,7 +4071,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2023-01-29	TV (English)	10	Kaleidoscope	Kaleidoscope: Limited Series	12110000			4	false		
 2023-01-29	TV (Non-English)	1	La Reina del Sur	La Reina del Sur: Season 3	37470000			5	false		
 2023-01-29	TV (Non-English)	2	Shahmaran	Shahmaran: Season 1	33960000			2	false		
-2023-01-29	TV (Non-English)	3	The Snow Girl	The Snow Girl: Season 1	31830000			1	false		
+2023-01-29	TV (Non-English)	3	The Snow Girl	The Snow Girl 1.	31830000			1	false		
 2023-01-29	TV (Non-English)	4	Women at War	Women at War: Limited Series	30280000			2	false		
 2023-01-29	TV (Non-English)	5	Record of Ragnarok	Record of Ragnarok: Season 2	29190000			1	false		
 2023-01-29	TV (Non-English)	6	The Endless Night	The Endless Night: Limited Series	28330000			1	false		
