@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	runtime_override_flag	episode_launch_dtls
+2025-03-09	Films (English)	1	Plankton: The Movie	N/A	21000000	1.4667	14300000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	2	Despicable Me 4	N/A	15900000	1.5667	10100000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	3	Chaos: The Manson Murders	N/A	8100000	1.6167	5000000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	4	Venom: The Last Dance	N/A	9000000	1.8167	5000000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	5	Sicario	N/A	9200000	2.0167	4600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	6	Runaway Jury	N/A	9700000	2.1333	4500000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	7	Midnight in the Switchgrass	N/A	7500000	1.65	4500000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	8	Despicable Me 3	N/A	6400000	1.5	4300000	8	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	9	Minions	N/A	6200000	1.5167	4100000	13	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (English)	10	The Boss Baby	N/A	6600000	1.6333	4000000	17	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	1	Counterattack	N/A	31300000	1.4167	22100000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	2	Squad 36	N/A	22900000	2.0833	11000000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	3	Demon City	N/A	18500000	1.8	10300000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	4	Delicious	N/A	11000000	1.7	6500000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	5	Nadaaniyan	N/A	7800000	2	3900000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	6	A Copenhagen Love Story	N/A	5900000	1.75	3400000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	7	VidaaMuyarchi	N/A	7700000	2.5333	3000000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	8	Sosyal Climbers	N/A	3500000	1.7333	2000000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	9	The Wrong Track	N/A	2900000	1.5667	1900000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	Films (Non-English)	10	Larissa: The Other Side of Anitta	N/A	2500000	1.6667	1500000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	1	Running Point	Running Point: Season 1	61800000	5.0667	12200000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	2	Zero Day	Zero Day: Limited Series	38600000	5.15	7500000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	3	Toxic Town	Toxic Town: Limited Series	17400000	3.6667	4700000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	4	Halo	Halo: Season 1	32100000	7.6167	4200000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	5	American Murder: Gabby Petito	American Murder: Gabby Petito: Season 1	9000000	2.15	4200000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	6	Beauty in Black	Beauty in Black: Season 1	47800000	12.6	3800000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	7	Raw	Raw: March 3, 2025	6300000	1.9167	3100000	1	false	[{is_staggered_launch=0, is_live_title=1}]	
+2025-03-09	TV (English)	8	Andrew Schulz: LIFE	N/A	2900000	0.9833	2900000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	9	Formula 1: Drive to Survive	Formula 1: Drive to Survive: Season 7	19200000	7.25	2600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (English)	10	With Love, Meghan	With Love, Meghan: Season 1	12600000	4.7833	2600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	1	Medusa	Medusa: Season 1	51000000	7.4833	6800000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	2	Just One Look	Just One Look: Limited Series	20100000	4.4833	4500000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	3	Cassandra	Cassandra: Limited Series	18400000	4.9333	3700000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	4	When Life Gives You Tangerines	When Life Gives You Tangerines: Limited Series	13900000	3.9	3600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	5	The Leopard	The Leopard: Limited Series	19800000	5.8333	3400000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	6	Dabba Cartel	Dabba Cartel: Season 1	15600000	5.6333	2800000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	7	Tuiskoms	Tuiskoms: Season 1	12500000	5.4833	2300000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	8	SAKAMOTO DAYS	SAKAMOTO DAYS: Season 1	7700000	0	2000000	8	true	[{is_staggered_launch=1, is_live_title=0}]	"[{""episodesLaunched"":10,""countryList"":[""JP""]},{""episodesLaunched"":9,""countryList"":[""EG"",""YE"",""PW"",""CA"",""HM"",""AL"",""BR"",""FR"",""KY"",""JE"",""BQ"",""SR"",""SZ"",""EC"",""IO"",""AR"",""ET"",""PN"",""TG"",""BI"",""ER"",""LR"",""PH"",""AG"",""SB"",""TW"",""PK"",""MV"",""PE"",""ZM"",""IM"",""MA"",""ID"",""HT"",""LT"",""IT"",""RO"",""CY"",""LU"",""AE"",""TC"",""EE"",""GN"",""QA"",""CO"",""MQ"",""GY"",""VE"",""OM"",""BL"",""SC"",""BD"",""ES"",""FK"",""MD"",""BA"",""SG"",""NE"",""BE"",""VG"",""AT"",""SA"",""BM"",""DK"",""WS"",""PG"",""UM"",""AF"",""ZW"",""AS"",""PA"",""CF"",""PL"",""KG"",""LK"",""BW"",""FI"",""SD"",""GG"",""CV"",""CI"",""KW"",""KR"",""KZ"",""PM"",""HN"",""TJ"",""SE"",""IR"",""IS"",""PY"",""LB"",""TT"",""WF"",""BF"",""PT"",""SM"",""SX"",""PR"",""GU"",""NG"",""GM"",""IL"",""PS"",""MZ"",""KI"",""VA"",""GW"",""NL"",""HU"",""JO"",""GT"",""LC"",""MR"",""SO"",""NZ"",""TR"",""DZ"",""BO"",""CK"",""TK"",""GF"",""MH"",""BZ"",""LV"",""TL"",""TN"",""IE"",""UZ"",""ST"",""KM"",""DO"",""AU"",""GA"",""MT"",""HK"",""KE"",""GQ"",""DM"",""PF"",""IQ"",""GL"",""GB"",""BT"",""MO"",""GR"",""UA"",""AI"",""SN"",""NI"",""US"",""GS"",""CC"",""TZ"",""GD"",""BG"",""BJ"",""LA"",""MG"",""MF"",""GI"",""CH"",""BN"",""MN"",""ZA"",""AO"",""SL"",""VC"",""VU"",""MW"",""NR"",""TH"",""NO"",""CD"",""CL"",""FM"",""BH"",""NC"",""DE"",""EH"",""NU"",""BY"",""AZ"",""BS"",""VN"",""CM"",""MK"",""AM"",""DJ"",""JM"",""VI"",""MX"",""UY"",""MU"",""LI"",""NA"",""AD"",""GE"",""MS"",""SV"",""RE"",""GH"",""LY"",""RW"",""GP"",""BB"",""MC"",""TM"",""CX"",""FJ"",""NP"",""TV"",""TO"",""SS"",""MY"",""CU"",""KH"",""CR"",""FO"",""IN"",""CW"",""TD"",""SK"",""CZ"",""ML"",""ME"",""KN"",""NF"",""SI"",""MP"",""AW"",""SH"",""MM"",""AQ"",""HR"",""YT"",""UG"",""LS"",""RS"",""CG""]}]"
+2025-03-09	TV (Non-English)	9	The Potato Lab	The Potato Lab: Limited Series	9300000	4.8333	1900000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-09	TV (Non-English)	10	Graveyard	Graveyard: Season 1	9200000	7.1167	1300000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2025-03-02	Films (English)	1	Venom: The Last Dance	N/A	23300000	1.8167	12800000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2025-03-02	Films (English)	2	Despicable Me 4	N/A	13800000	1.5667	8800000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2025-03-02	Films (English)	3	Despicable Me 3	N/A	10300000	1.5	6900000	7	false	[{is_staggered_launch=0, is_live_title=0}]	
@@ -4982,7 +5022,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-10-16	TV (English)	1	The Watcher	The Watcher: Season 1	125010000			1	false		
 2022-10-16	TV (English)	2	DAHMER	DAHMER: Monster: The Jeffrey Dahmer Story	122780000			4	false		
 2022-10-16	TV (English)	3	The Midnight Club	The Midnight Club: Season 1	49870000			2	false		
-2022-10-16	TV (English)	4	Conversations with a Killer: The Jeffrey Dahmer Tapes	Conversations with a Killer: The Jeffrey Dahmer Tapes: Limited Series	27710000			2	false		
+2022-10-16	TV (English)	4	Conversations with a Killer: The Jeffrey Dahmer Tapes	Conversations with a Killer: The Jeffrey Dahmer Tapes: Season 1	27710000			2	false		
 2022-10-16	TV (English)	5	Dynasty	Dynasty: Season 5	18230000			4	false		
 2022-10-16	TV (English)	6	Oddballs	Oddballs: Season 1	11900000			1	false		
 2022-10-16	TV (English)	7	The Blacklist	The Blacklist: Season 9	11800000			1	false		
@@ -5020,7 +5060,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-10-09	Films (Non-English)	9	Ranga Ranga Vaibhavanga	N/A	1620000			1	false		
 2022-10-09	Films (Non-English)	10	Saakini Daakini	N/A	1370000			1	false		
 2022-10-09	TV (English)	1	DAHMER	DAHMER: Monster: The Jeffrey Dahmer Story	205330000			3	false		
-2022-10-09	TV (English)	2	Conversations with a Killer: The Jeffrey Dahmer Tapes	Conversations with a Killer: The Jeffrey Dahmer Tapes: Limited Series	31400000			1	false		
+2022-10-09	TV (English)	2	Conversations with a Killer: The Jeffrey Dahmer Tapes	Conversations with a Killer: The Jeffrey Dahmer Tapes: Season 1	31400000			1	false		
 2022-10-09	TV (English)	3	Dynasty	Dynasty: Season 5	27830000			3	false		
 2022-10-09	TV (English)	4	The Midnight Club	The Midnight Club: Season 1	18790000			1	false		
 2022-10-09	TV (English)	5	Bling Empire	Bling Empire: Season 3	15210000			1	false		
@@ -5028,7 +5068,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-10-09	TV (English)	7	Cobra Kai	Cobra Kai: Season 5	13530000			5	false		
 2022-10-09	TV (English)	8	Heartbreak High	Heartbreak High: Season 1	9480000			3	false		
 2022-10-09	TV (English)	9	Stranger Things	Stranger Things 4	9420000			19	false		
-2022-10-09	TV (English)	10	Conversations with a Killer: The John Wayne Gacy Tapes	Conversations with a Killer: The John Wayne Gacy Tapes: Limited Series	8860000			3	false		
+2022-10-09	TV (English)	10	Conversations with a Killer: The John Wayne Gacy Tapes	Conversations with a Killer: The John Wayne Gacy Tapes: Season 1	8860000			3	false		
 2022-10-09	TV (Non-English)	1	The Empress	The Empress: Season 1	59430000			2	false		
 2022-10-09	TV (Non-English)	2	High Water	High Water: Season 1	45840000			1	false		
 2022-10-09	TV (Non-English)	3	Little Women	Little Women: Limited Series	23580000			5	false		
@@ -5944,7 +5984,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-05-01	TV (English)	3	Anatomy of a Scandal	Anatomy of a Scandal: Limited Series	30170000			3	false		
 2022-05-01	TV (English)	4	Bridgerton	Bridgerton: Season 2	29740000			6	false		
 2022-05-01	TV (English)	5	Heartstopper	Heartstopper: Season 1	23940000			2	false		
-2022-05-01	TV (English)	6	Conversations with a Killer: The John Wayne Gacy Tapes	Conversations with a Killer: The John Wayne Gacy Tapes: Limited Series	20910000			2	false		
+2022-05-01	TV (English)	6	Conversations with a Killer: The John Wayne Gacy Tapes	Conversations with a Killer: The John Wayne Gacy Tapes: Season 1	20910000			2	false		
 2022-05-01	TV (English)	7	Grace and Frankie	Grace and Frankie: Season 7	15470000			1	false		
 2022-05-01	TV (English)	8	The Ultimatum: Marry or Move On	The Ultimatum: Marry or Move On: Season 1	13140000			4	false		
 2022-05-01	TV (English)	9	Bridgerton	Bridgerton: Season 1	12130000			6	false		
@@ -5981,7 +6021,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-04-24	Films (Non-English)	10	Dasvi	N/A	1620000			3	false		
 2022-04-24	TV (English)	1	Anatomy of a Scandal	Anatomy of a Scandal: Limited Series	75560000			2	false		
 2022-04-24	TV (English)	2	Bridgerton	Bridgerton: Season 2	46130000			5	false		
-2022-04-24	TV (English)	3	Conversations with a Killer: The John Wayne Gacy Tapes	Conversations with a Killer: The John Wayne Gacy Tapes: Limited Series	37460000			1	false		
+2022-04-24	TV (English)	3	Conversations with a Killer: The John Wayne Gacy Tapes	Conversations with a Killer: The John Wayne Gacy Tapes: Season 1	37460000			1	false		
 2022-04-24	TV (English)	4	The Ultimatum: Marry or Move On	The Ultimatum: Marry or Move On: Season 1	29010000			3	false		
 2022-04-24	TV (English)	5	Selling Sunset	Selling Sunset: Season 5	28360000			1	false		
 2022-04-24	TV (English)	6	Bridgerton	Bridgerton: Season 1	17280000			5	false		
