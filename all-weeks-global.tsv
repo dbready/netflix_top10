@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10	is_staggered_launch	runtime_override_flag	episode_launch_dtls
+2025-03-30	Films (English)	1	The Life List	N/A	50800000	2.0833	24400000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	2	The Electric State	N/A	16300000	2.1333	7600000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	3	Con Mum	N/A	9400000	1.4833	6300000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	4	Den of Thieves 2: Pantera	N/A	14300000	2.4	6000000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	5	The Twister: Caught in the Storm	N/A	8100000	1.4833	5500000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	6	Kraven the Hunter	N/A	11500000	2.1167	5400000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	7	A Quiet Place: Day One	N/A	7700000	1.6667	4600000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	8	Despicable Me 4	N/A	6400000	1.5667	4100000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	9	PAW Patrol: The Mighty Movie	N/A	5700000	1.4667	3900000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (English)	10	Plankton: The Movie	N/A	4800000	1.4667	3300000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	1	Revelations	N/A	14100000	2.0333	6900000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	2	Deva	N/A	7200000	2.5833	2800000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	3	Counterattack	N/A	3800000	1.4167	2700000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	4	Little Siberia	N/A	4700000	1.7833	2600000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	5	Dragon	N/A	5700000	2.5667	2200000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	6	Officer on Duty	N/A	4800000	2.2333	2100000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	7	In Youth We Trust	N/A	3600000	2.2	1600000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	8	Nosso Sonho	N/A	2700000	2.0167	1300000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	9	Les Segpa	N/A	1900000	1.65	1200000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	Films (Non-English)	10	Squad 36	N/A	2200000	2.0833	1100000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	1	Adolescence	Adolescence: Limited Series	116700000	3.8333	30400000	3	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	2	The Residence	The Residence: Season 1	68100000	7.7333	8800000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	3	Million Dollar Secret	Million Dollar Secret: Season 1	9500000	2.5667	3700000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	4	Raw	Raw: March 24, 2025	5600000	1.7333	3000000	1	false	[{is_staggered_launch=0, is_live_title=1}]	
+2025-03-30	TV (English)	5	Wolf King	Wolf King: Season 1	9300000	3.5333	2600000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	6	Running Point	Running Point: Season 1	11800000	5.0667	2300000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	7	Ms. Rachel	Ms. Rachel: Season 1	7000000	3.0333	2300000	7	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	8	Gold & Greed: The Hunt for Fenn's Treasure	Gold & Greed: The Hunt for Fenn's Treasure: Season 1	5700000	2.6833	2100000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	9	Zero Day	Zero Day: Limited Series	9000000	5.15	1700000	6	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (English)	10	Chelsea Handler: The Feeling	N/A	1600000	0.9833	1600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	1	Caught	Caught: Season 1	42700000	5.2167	8200000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	2	Weak Hero	Weak Hero: Class 1	36800000	5.5167	6700000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	3	When Life Gives You Tangerines	When Life Gives You Tangerines: Limited Series	99400000	16.5833	6000000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	4	The Lady's Companion	The Lady's Companion: Season 1	14700000	5.5833	2600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	5	From Rock Star to Killer	From Rock Star to Killer: Limited Series	4000000	2.0833	1900000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	6	Woman of the Dead	Woman of the Dead: Season 2	8600000	4.5	1900000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	7	High Tides	High Tides: Season 2	6900000	4.35	1600000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	8	Medusa	Medusa: Season 1	11200000	7.4833	1500000	4	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	9	Khakee: The Bengal Chapter	Khakee: The Bengal Chapter: Season 1	8500000	5.85	1500000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
+2025-03-30	TV (Non-English)	10	Woman of the Dead	Woman of the Dead: Season 1	6200000	4.55	1400000	5	false	[{is_staggered_launch=0, is_live_title=0}]	
 2025-03-23	Films (English)	1	The Electric State	N/A	48000000	2.1333	22500000	2	false	[{is_staggered_launch=0, is_live_title=0}]	
 2025-03-23	Films (English)	2	The Twister: Caught in the Storm	N/A	25200000	1.4833	17000000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
 2025-03-23	Films (English)	3	Den of Thieves 2: Pantera	N/A	20100000	2.4	8400000	1	false	[{is_staggered_launch=0, is_live_title=0}]	
@@ -6027,7 +6067,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2022-05-08	TV (English)	6	Heartstopper	Heartstopper: Season 1	14970000			3	false		
 2022-05-08	TV (English)	7	Ozark	Ozark: Season 1	13640000			4	false		
 2022-05-08	TV (English)	8	Bullsh*t The Gameshow	Bullsh*t The Gameshow: Season 1	11850000			1	false		
-2022-05-08	TV (English)	9	Blood Sisters	Blood Sisters: Limited Series	11070000			1	false		
+2022-05-08	TV (English)	9	Blood Sisters	Blood Sisters: Season 1	11070000			1	false		
 2022-05-08	TV (English)	10	Meltdown: Three Mile Island	Meltdown: Three Mile Island: Limited Series	10850000			1	false		
 2022-05-08	TV (Non-English)	1	The Marked Heart	The Marked Heart: Season 1	48550000			3	false		
 2022-05-08	TV (Non-English)	2	Welcome to Eden	Welcome to Eden: Season 1	25820000			1	false		
