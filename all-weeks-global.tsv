@@ -1,4 +1,44 @@
 week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	weekly_views	cumulative_weeks_in_top_10
+2026-09-27	Films (English)	1	UNABOMBER	N/A	27400000	1.6667	16400000	1
+2026-09-27	Films (English)	2	Best of the Best	N/A	13600000	1.8667	7300000	2
+2026-09-27	Films (English)	3	A Minecraft Movie	N/A	11800000	1.6833	7000000	2
+2026-09-27	Films (English)	4	Riot	N/A	6400000	1.45	4400000	2
+2026-09-27	Films (English)	5	The Whisper Man	N/A	7600000	1.9	4000000	5
+2026-09-27	Films (English)	6	Black Adam	N/A	7200000	2.0833	3500000	2
+2026-09-27	Films (English)	7	The Ministry of Ungentlemanly Warfare	N/A	6700000	2	3400000	2
+2026-09-27	Films (English)	8	Why Did I Get Married Again?	N/A	5800000	1.85	3100000	3
+2026-09-27	Films (English)	9	KPop Demon Hunters	N/A	4200000	1.6667	2500000	66
+2026-09-27	Films (English)	10	Top Gun: Maverick	N/A	5400000	2.1667	2500000	3
+2026-09-27	Films (Non-English)	1	Irumudi	N/A	8100000	2.3667	3400000	2
+2026-09-27	Films (Non-English)	2	Modha Rathri	N/A	6900000	2.3667	2900000	2
+2026-09-27	Films (Non-English)	3	Facing El Chapo	N/A	3600000	1.55	2300000	6
+2026-09-27	Films (Non-English)	4	The Secret Woman	N/A	4400000	1.9833	2200000	5
+2026-09-27	Films (Non-English)	5	Vishwanath & Sons	N/A	5700000	2.6667	2100000	3
+2026-09-27	Films (Non-English)	6	Lust Stories 3	N/A	5400000	2.75	2000000	2
+2026-09-27	Films (Non-English)	7	Baby Do Die Do	N/A	3300000	2.0333	1600000	1
+2026-09-27	Films (Non-English)	8	The Ultimate Duo	N/A	1800000	1.6333	1100000	1
+2026-09-27	Films (Non-English)	9	Gandhari	N/A	2100000	1.95	1100000	4
+2026-09-27	Films (Non-English)	10	General Mayhem: The Killing of Brigadier J	N/A	1600000	1.5	1100000	1
+2026-09-27	TV (English)	1	Monster: The Lizzie Borden Story	Monster: The Lizzie Borden Story: Season 1	95900000	6.6333	14500000	2
+2026-09-27	TV (English)	2	Wonka's The Golden Ticket	Wonka's The Golden Ticket: Season 1	28300000	6.1167	4600000	1
+2026-09-27	TV (English)	3	Crew Girl	Crew Girl: Season 1	28100000	6.2	4500000	3
+2026-09-27	TV (English)	4	A Different World	A Different World: Season 1	23000000	5.45	4200000	1
+2026-09-27	TV (English)	5	The Gentlemen	The Gentlemen: Season 2	31000000	7.4333	4200000	4
+2026-09-27	TV (English)	6	Gabby's Dollhouse	Gabby's Dollhouse: Season 14	4400000	1.6167	2700000	2
+2026-09-27	TV (English)	7	Raw	Raw: September 21, 2026	4800000	1.8	2500000	1
+2026-09-27	TV (English)	8	The Gentlemen	The Gentlemen: Season 1	16000000	6.6833	2400000	14
+2026-09-27	TV (English)	9	The Great British Baking Show	The Great British Baking Show: Collection 14	2000000	1.15	1700000	1
+2026-09-27	TV (English)	10	Danny Go!	Danny Go!: Season 2	2600000	1.5333	1700000	4
+2026-09-27	TV (Non-English)	1	Not a Stranger	Not a Stranger: Season 1	65700000	6.7833	9700000	2
+2026-09-27	TV (Non-English)	2	Plastic Beauty	Plastic Beauty: Season 1	46500000	9.1667	5100000	2
+2026-09-27	TV (Non-English)	3	The Scandal	The Scandal: Limited Series	21900000	7.7667	2800000	2
+2026-09-27	TV (Non-English)	4	Shaque: Trust No One	Shaque: Trust No One: Season 1	11800000	4.45	2700000	1
+2026-09-27	TV (Non-English)	5	The Final Problem	The Final Problem: Limited Series	7900000	3.05	2600000	1
+2026-09-27	TV (Non-English)	6	The Perfect Lie	The Perfect Lie: Season 1	15400000	6.1	2500000	3
+2026-09-27	TV (Non-English)	7	The Doll	The Doll: Limited Series	16300000	6.7	2400000	2
+2026-09-27	TV (Non-English)	8	Minerva Academy	Minerva Academy: Season 1	16900000	6.9833	2400000	1
+2026-09-27	TV (Non-English)	9	Physical 100: Mexico	Physical 100: Mexico: Season 1	16900000	7.7667	2200000	2
+2026-09-27	TV (Non-English)	10	Habeas Corpus	Habeas Corpus: Season 1	13700000	8.5833	1600000	1
 2026-09-20	Films (English)	1	Why Did I Get Married Again?	N/A	17900000	1.85	9700000	2
 2026-09-20	Films (English)	2	The Whisper Man	N/A	11800000	1.9	6200000	4
 2026-09-20	Films (English)	3	Riot	N/A	7500000	1.45	5200000	1
@@ -1627,7 +1667,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2025-12-14	TV (English)	6	Stranger Things	Stranger Things 4	62100000	13.0667	4800000	23
 2025-12-14	TV (English)	7	Stranger Things	N/A	32000000	6.8167	4700000	17
 2025-12-14	TV (English)	8	Stranger Things	Stranger Things 2	36800000	7.8833	4700000	15
-2025-12-14	TV (English)	9	The Beast in Me	The Beast in Me: Limited Series	23200000	6.6	3500000	5
+2025-12-14	TV (English)	9	The Beast in Me	The Beast in Me: Season 1	23200000	6.6	3500000	5
 2025-12-14	TV (English)	10	Raw	Raw: December 8, 2025	4400000	1.7	2500000	1
 2025-12-14	TV (Non-English)	1	The Price of Confession	The Price of Confession: Season 1	59600000	10.3667	5700000	2
 2025-12-14	TV (Non-English)	2	Record of Ragnarok	Record of Ragnarok: Season 3	33600000	6.3	5300000	1
@@ -1667,7 +1707,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2025-12-07	TV (English)	6	Stranger Things	Stranger Things 3	44200000	7.55	5900000	14
 2025-12-07	TV (English)	7	Stranger Things	Stranger Things 4	69900000	13.0667	5300000	22
 2025-12-07	TV (English)	8	The Rats: A Witcher Tale	N/A	6900000	1.3833	5000000	1
-2025-12-07	TV (English)	9	The Beast in Me	The Beast in Me: Limited Series	31900000	6.6	4800000	4
+2025-12-07	TV (English)	9	The Beast in Me	The Beast in Me: Season 1	31900000	6.6	4800000	4
 2025-12-07	TV (English)	10	Matt Rife: Unwrapped - A Christmas Crowd Work Special	N/A	4500000	0.9833	4600000	1
 2025-12-07	TV (Non-English)	1	Dynamite Kiss	Dynamite Kiss: Limited Series	42300000	8.8833	4800000	4
 2025-12-07	TV (Non-English)	2	The Price of Confession	The Price of Confession: Season 1	22700000	10.3667	2200000	1
@@ -1702,7 +1742,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2025-11-30	TV (English)	1	Stranger Things	Stranger Things 5	284200000	4.7667	59600000	1
 2025-11-30	TV (English)	2	Kevin Hart: Acting My Age	N/A	10300000	1.1167	9200000	1
 2025-11-30	TV (English)	3	Stranger Things	N/A	61000000	6.8167	8900000	15
-2025-11-30	TV (English)	4	The Beast in Me	The Beast in Me: Limited Series	51500000	6.6	7800000	3
+2025-11-30	TV (English)	4	The Beast in Me	The Beast in Me: Season 1	51500000	6.6	7800000	3
 2025-11-30	TV (English)	5	Stranger Things	Stranger Things 4	79500000	13.0667	6100000	21
 2025-11-30	TV (English)	6	Stranger Things	Stranger Things 2	44200000	7.8833	5600000	13
 2025-11-30	TV (English)	7	Missing: Dead or Alive?	Missing: Dead or Alive?: Season 2	14800000	2.8333	5200000	1
@@ -1739,7 +1779,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2025-11-23	Films (Non-English)	8	Bison Kaalamaadan	N/A	3600000	2.7667	1300000	1
 2025-11-23	Films (Non-English)	9	Caramelo	N/A	2100000	1.6833	1200000	7
 2025-11-23	Films (Non-English)	10	Kitab Sijjin and Illiyyin	N/A	1800000	1.65	1100000	1
-2025-11-23	TV (English)	1	The Beast in Me	The Beast in Me: Limited Series	93200000	6.6	14100000	2
+2025-11-23	TV (English)	1	The Beast in Me	The Beast in Me: Season 1	93200000	6.6	14100000	2
 2025-11-23	TV (English)	2	Absentia	Absentia: Season 1	60100000	7.3333	8200000	2
 2025-11-23	TV (English)	3	Stranger Things	N/A	27800000	6.8167	4100000	14
 2025-11-23	TV (English)	4	Absentia	Absentia: Season 2	28800000	7.1833	4000000	1
@@ -1779,7 +1819,7 @@ week	category	weekly_rank	show_title	season_title	weekly_hours_viewed	runtime	we
 2025-11-16	Films (Non-English)	8	Caramelo	N/A	2900000	1.6833	1700000	6
 2025-11-16	Films (Non-English)	9	Groom & Two Brides	N/A	2500000	1.6333	1500000	2
 2025-11-16	Films (Non-English)	10	The Best Mother in the World	N/A	2100000	1.7667	1200000	2
-2025-11-16	TV (English)	1	The Beast in Me	The Beast in Me: Limited Series	45400000	6.6	6900000	1
+2025-11-16	TV (English)	1	The Beast in Me	The Beast in Me: Season 1	45400000	6.6	6900000	1
 2025-11-16	TV (English)	2	The Witcher	The Witcher: Season 4	26000000	7.1833	3600000	3
 2025-11-16	TV (English)	3	Absentia	Absentia: Season 1	25400000	7.3333	3500000	1
 2025-11-16	TV (English)	4	Stranger Things	N/A	22500000	6.8167	3300000	13
